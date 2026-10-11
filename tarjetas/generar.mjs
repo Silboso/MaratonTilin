@@ -1,7 +1,8 @@
 // Genera las hojas imprimibles (tamaño carta, tarjetas tamaño póker 3 × 3).
 // Cada tarjeta tiene preguntas por los dos lados (cara A al frente, cara B atrás).
 // Uso: node tarjetas/generar.mjs
-// Escribe tarjetas/tarjetas.html y, si Playwright está disponible, tarjetas/tarjetas.pdf.
+// Escribe dos versiones, a color y en blanco y negro (tarjetas-color.* y tarjetas-bn.*):
+// el HTML siempre y el PDF si Playwright está disponible.
 import { readFileSync, writeFileSync } from "node:fs";
 import { createRequire } from "node:module";
 import { dirname, join } from "node:path";
@@ -69,13 +70,11 @@ function revolver(opciones, rnd) {
 
 function cara(preguntas, n, lado) {
   const rnd = azar(n * 7919 + (lado === "A" ? 1 : 2));
-  const clave = [];
   const filas = preguntas
-    .map((q, i) => {
+    .map((q) => {
       const opciones = revolver(q.o, rnd);
-      clave.push(`${i + 1}${LETRAS[opciones.findIndex((o) => o.correcta)]}`);
       const ops = opciones
-        .map((o, k) => `<span class="op"><i>${LETRAS[k]}</i>${esc(o.texto)}</span>`)
+        .map((o, k) => `<span class="op${o.correcta ? " ok" : ""}"><i>${LETRAS[k]}</i>${esc(o.texto)}</span>`)
         .join("");
       return `
       <li class="fila${q.deporte ? " deporte" : ""}">
@@ -92,7 +91,6 @@ function cara(preguntas, n, lado) {
     <div class="tarjeta">
       <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#${numero(n)} · ${lado}</span></header>
       <ol>${filas}</ol>
-      <footer>Respuestas: ${clave.join(" · ")}</footer>
     </div>`;
 }
 
@@ -117,11 +115,11 @@ for (let i = 0; i < datos.tarjetas.length; i += POR_HOJA) {
   hojas.push(`<section class="hoja">${reversos.join("")}</section>`);
 }
 
-const html = `<!doctype html>
+const html = (version) => `<!doctype html>
 <html lang="es">
 <head>
 <meta charset="utf-8">
-<title>Maratón Tilín: tarjetas</title>
+<title>Maratón Tilín: tarjetas (${version})</title>
 <style>
   @page { size: letter; margin: 0; }
   * { box-sizing: border-box; }
@@ -196,11 +194,20 @@ const html = `<!doctype html>
   .texto { font-size: 6.7pt; line-height: 1.18; font-weight: 600; }
   .ops { display: flex; flex-wrap: wrap; column-gap: 1.8mm; row-gap: 0.2mm; font-size: 6.2pt; line-height: 1.2; color: #333; }
   .op i {
+    display: inline-block;
+    width: 2.5mm;
+    height: 2.5mm;
+    line-height: 2.5mm;
+    text-align: center;
     font-style: normal;
+    font-size: 5.4pt;
     font-weight: 800;
-    margin-right: 0.6mm;
+    margin-right: 0.5mm;
     color: #111;
+    border-radius: 50%;
   }
+  /* Marca de la respuesta correcta: la letra en círculo relleno. */
+  .op.ok i { background: #111; color: #fff; }
   /* Pregunta deportiva escondida en otra categoría: borde de cancha y balón. */
   .fila.deporte {
     background: repeating-linear-gradient(90deg, #eef7ee 0 3mm, #e2f0e2 3mm 6mm);
@@ -214,29 +221,28 @@ const html = `<!doctype html>
     width: 3.8mm;
     height: 3.8mm;
   }
-  /* Clave de respuestas de cabeza, para que quien lee la pregunta no la vea de reojo. */
-  footer {
-    transform: rotate(180deg);
-    text-align: center;
-    font-size: 5.6pt;
-    font-weight: 600;
-    letter-spacing: 0.04em;
-    color: #777;
-    border-top: 0.2mm solid #ddd;
-    padding-top: 0.6mm;
-    margin-top: 0.6mm;
+
+  /* Blanco y negro: sin colores ni fondos grandes para ahorrar tinta. */
+  .bn .chip { background: #111 !important; color: #111 !important; }
+  .bn header { background: #fff; color: #111; border: 0.3mm solid #111; }
+  .bn header .logo b { color: #111; }
+  .bn .fila.deporte {
+    background: repeating-linear-gradient(90deg, #fff 0 3mm, #f2f2f2 3mm 6mm);
+    border: 0.3mm dashed #111;
   }
 </style>
 </head>
-<body>
+<body class="${version}">
 ${hojas.join("\n")}
 </body>
 </html>
 `;
 
-const salidaHtml = join(dir, "tarjetas.html");
-writeFileSync(salidaHtml, html);
-console.log(`HTML: ${salidaHtml}`);
+const versiones = ["color", "bn"];
+for (const v of versiones) {
+  writeFileSync(join(dir, `tarjetas-${v}.html`), html(v));
+  console.log(`HTML: ${join(dir, `tarjetas-${v}.html`)}`);
+}
 
 let chromium;
 try {
@@ -250,12 +256,14 @@ try {
 }
 const navegador = await chromium.launch();
 const pagina = await navegador.newPage();
-await pagina.goto("file://" + salidaHtml);
-await pagina.pdf({
-  path: join(dir, "tarjetas.pdf"),
-  format: "Letter",
-  printBackground: true,
-  margin: { top: 0, right: 0, bottom: 0, left: 0 },
-});
+for (const v of versiones) {
+  await pagina.goto("file://" + join(dir, `tarjetas-${v}.html`));
+  await pagina.pdf({
+    path: join(dir, `tarjetas-${v}.pdf`),
+    format: "Letter",
+    printBackground: true,
+    margin: { top: 0, right: 0, bottom: 0, left: 0 },
+  });
+  console.log(`PDF: ${join(dir, `tarjetas-${v}.pdf`)}`);
+}
 await navegador.close();
-console.log(`PDF: ${join(dir, "tarjetas.pdf")}`);

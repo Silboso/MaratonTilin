@@ -1,198 +1,198 @@
 [
  {
   "deporte": true,
-  "p": "En Need for Speed: Most Wanted, ¿quién te persigue en las carreras?",
+  "p": "En Mario Kart, ¿qué objeto encoge a todos los rivales?",
   "o": [
-   "La policía",
-   "Una pandilla rival",
-   "Un cazarrecompensas"
+   "El rayo",
+   "La estrella",
+   "El calamar"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué juego de Konami se jugaba en un tapete de baile con flechas?",
+  "p": "¿Qué saga de carreras de Xbox compite con Gran Turismo?",
   "o": [
-   "Dance Dance Revolution",
-   "Just Dance",
-   "Guitar Hero"
+   "Forza",
+   "Burnout",
+   "Need for Speed"
   ]
  },
  {
   "deporte": true,
-  "p": "En Need for Speed: Underground, ¿qué le hacías a tu auto además de correr?",
+  "p": "¿Qué futbolista salió en la portada de FIFA 18?",
   "o": [
-   "Tunearlo",
-   "Venderlo por piezas",
-   "Pintarlo de patrulla"
+   "Cristiano Ronaldo",
+   "Lionel Messi",
+   "Eden Hazard"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué saga de snowboard de EA tenía pistas imposibles y trucos «Über»?",
+  "p": "¿Qué juego de 2022 trajo de vuelta el boliche y el tenis con control de movimiento?",
   "o": [
-   "SSX",
-   "Amped",
-   "Cool Boarders"
+   "Nintendo Switch Sports",
+   "Wii Sports Club",
+   "Mario Sports Superstars"
   ]
  },
  {
-  "p": "En Pac-Man, ¿qué te comes para que los fantasmas se vuelvan azules?",
+  "p": "¿Qué campeona yordle de LoL dispara con un cañón gigante?",
   "o": [
-   "Una pastilla de poder",
-   "Una cereza",
-   "Un hongo"
+   "Tristana",
+   "Poppy",
+   "Vex"
   ]
  },
  {
-  "p": "¿Qué personaje de Mario es un hongo con sombrero de puntos?",
+  "p": "En Hollow Knight, ¿cómo se llama la moneda que juntas?",
   "o": [
-   "Toad",
-   "Yoshi",
-   "Boo"
+   "Geo",
+   "Almas",
+   "Rupias"
   ]
  },
  {
-  "p": "¿Cómo se llama el erizo negro rival de Sonic?",
+  "p": "En LoL, ¿cómo se llama el dragón que aparece tarde y es el más fuerte?",
   "o": [
-   "Shadow",
-   "Silver",
-   "Knuckles"
+   "El Dragón Ancestral",
+   "El Dragón Infernal",
+   "El Dragón de Nubes"
   ]
  },
  {
-  "p": "¿Cuál es el videojuego más vendido de la historia?",
+  "p": "¿Qué héroe de Overwatch es un ninja cyborg?",
   "o": [
-   "Minecraft",
-   "Tetris",
-   "GTA V"
+   "Genji",
+   "Hanzo",
+   "Kiriko"
   ]
  },
  {
-  "p": "¿Qué consola de Nintendo se juega en la tele y también como portátil?",
+  "p": "¿Qué heroína rusa de Overwatch levanta pesas?",
   "o": [
-   "Nintendo Switch",
-   "Wii U",
-   "Nintendo 3DS"
+   "Zarya",
+   "Mei",
+   "Sombra"
   ]
  },
  {
-  "p": "¿Qué empresa publica Call of Duty?",
+  "p": "¿Qué personaje de Smash viene de Splatoon?",
   "o": [
-   "Activision",
-   "EA",
-   "Ubisoft"
+   "Inkling",
+   "Aldeano",
+   "Isabelle"
   ]
  },
  {
-  "p": "En LoL, ¿qué ganas al matar minions para comprar objetos?",
+  "p": "¿Contra qué alianza religiosa de alienígenas pelea el Jefe Maestro en Halo?",
   "o": [
-   "Oro",
-   "Gemas",
-   "Puntos"
+   "El Covenant",
+   "El Flood",
+   "Los Prometeos"
   ]
  },
  {
-  "p": "¿Qué shooter táctico creó Riot Games?",
+  "p": "En Super Mario Bros. 3, ¿qué objeto le da a Mario cola de mapache?",
   "o": [
-   "Valorant",
-   "Apex Legends",
-   "Overwatch"
+   "La hoja",
+   "La flor",
+   "La pluma"
   ]
  },
  {
-  "p": "¿Qué héroe de Overwatch fue el comandante de Overwatch y usa un rifle de pulsos?",
+  "p": "¿Cómo se llama el sobrino de Donkey Kong que usa gorra roja?",
   "o": [
-   "Soldado: 76",
-   "Reaper",
-   "Cassidy"
+   "Diddy Kong",
+   "Dixie Kong",
+   "Funky Kong"
   ]
  },
  {
-  "p": "¿Qué juego de Supercell tiene torres, cartas y elixir?",
+  "p": "¿Qué villana de Disney dirige a los villanos en el primer Kingdom Hearts?",
   "o": [
-   "Clash Royale",
-   "Clash of Clans",
-   "Brawl Stars"
+   "Maléfica",
+   "Úrsula",
+   "Cruella de Vil"
   ]
  },
  {
-  "p": "¿De qué color es la ropa clásica de Link?",
+  "p": "En The Last of Us, ¿cómo se llama la hija de Joel?",
   "o": [
-   "Verde",
-   "Azul",
-   "Rojo"
+   "Sarah",
+   "Ellie",
+   "Tess"
   ]
  },
  {
-  "p": "¿Qué Pokémon evoluciona en Charizard?",
+  "p": "¿En qué saga sale Leon S. Kennedy?",
   "o": [
-   "Charmeleon",
-   "Charmander",
-   "Dragonite"
+   "Resident Evil",
+   "Silent Hill",
+   "Dead Space"
   ]
  },
  {
-  "p": "¿En qué juego de terror cuidas una pizzería de noche?",
+  "p": "¿Qué empresa creó Half-Life?",
   "o": [
-   "Five Nights at Freddy's",
-   "Outlast",
-   "Slender"
+   "Valve",
+   "id Software",
+   "Bungie"
   ]
  },
  {
-  "p": "¿Qué juego de celular quitó su creador de las tiendas en 2014, en pleno éxito?",
+  "p": "En Undertale, ¿cómo se llama el hermano de Sans?",
   "o": [
-   "Flappy Bird",
-   "Doodle Jump",
-   "Fruit Ninja"
+   "Papyrus",
+   "Asgore",
+   "Flowey"
   ]
  },
  {
-  "p": "¿Qué battle royale tiene construcciones y bailes famosos?",
+  "p": "En Among Us, ¿qué pasa cuando reportas un cuerpo?",
   "o": [
-   "Fortnite",
-   "PUBG",
-   "Apex Legends"
+   "Se llama a una reunión",
+   "Se revela quién es el impostor",
+   "El cuerpo desaparece"
   ]
  },
  {
-  "p": "En Assassin's Creed, ¿cómo se llama el salto desde lo alto a un montón de paja?",
+  "p": "¿Quién es el emperador villano de Mortal Kombat?",
   "o": [
-   "El salto de fe",
-   "El salto del águila",
-   "El vuelo del halcón"
+   "Shao Kahn",
+   "Shang Tsung",
+   "Goro"
   ]
  },
  {
-  "p": "¿De qué consola es la saga Halo?",
+  "p": "En Team Fortress 2, ¿qué clase carga una ametralladora gigante?",
   "o": [
-   "Xbox",
-   "PlayStation",
-   "Nintendo"
+   "El Heavy",
+   "El Soldier",
+   "El Pyro"
   ]
  },
  {
-  "p": "En Super Mario Sunshine, ¿quién ensucia la isla con un pincel mágico?",
+  "p": "En Plants vs Zombies, ¿qué planta explota como bomba?",
   "o": [
-   "Bowser Jr.",
-   "Kamek",
-   "Wario"
+   "La petacereza",
+   "El girasol",
+   "La nuez"
   ]
  },
  {
-  "p": "¿Qué juego de celular de Supercell tiene peleas de 3 contra 3 por gemas?",
+  "p": "En Skyrim, ¿cómo se llaman los gritos de dragón?",
   "o": [
-   "Brawl Stars",
-   "Clash Royale",
-   "Boom Beach"
+   "Thu'um",
+   "Mantras",
+   "Rugidos"
   ]
  },
  {
-  "p": "¿Qué juego de granja tiene a Pueblo Pelícano?",
+  "p": "En Final Fantasy VII, ¿cómo se llama la florista?",
   "o": [
-   "Stardew Valley",
-   "Harvest Moon",
-   "FarmVille"
+   "Aerith",
+   "Tifa",
+   "Yuffie"
   ]
  }
 ]

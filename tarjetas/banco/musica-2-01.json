@@ -1,892 +1,900 @@
 [
  {
   "deporte": true,
-  "p": "¿Qué canción de Neil Diamond cantan en el estadio de los Red Sox y los aficionados ingleses?",
+  "p": "¿En qué compositor clásico se basa el himno de la Champions League?",
   "o": [
-   "«Sweet Caroline»",
+   "Händel",
+   "Mozart",
+   "Beethoven"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué canción de Fleetwood Mac es el tema de la Fórmula 1 en la tele británica?",
+  "o": [
+   "«The Chain»",
+   "«Dreams»",
+   "«Go Your Own Way»"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué canción cantó Paul McCartney en la inauguración de Londres 2012?",
+  "o": [
    "«Hey Jude»",
-   "«Country Roads»"
+   "«Let It Be»",
+   "«Yesterday»"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué cantante hizo el medio tiempo del Super Bowl 2021 metido en un laberinto de espejos?",
+  "p": "¿Quiénes cantan «Tukoh Taka», del Mundial 2022?",
   "o": [
-   "The Weeknd",
-   "Drake",
-   "Bruno Mars"
+   "Nicki Minaj, Maluma y Myriam Fares",
+   "Shakira y Pitbull",
+   "J Balvin y Bad Bunny"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué rapero hizo el medio tiempo del Super Bowl 2025 y cantó «Not Like Us»?",
+  "p": "¿Qué compositor de cine hizo la fanfarria de los Olímpicos de Los Ángeles 84?",
   "o": [
-   "Kendrick Lamar",
-   "Drake",
-   "Travis Scott"
+   "John Williams",
+   "Hans Zimmer",
+   "Vangelis"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué canción grabó Shakira para el Mundial de Brasil 2014?",
+  "p": "¿Qué canción de The Doors remezclada con Snoop Dogg salió en Need for Speed Underground 2?",
   "o": [
-   "«La La La»",
-   "«Waka Waka»",
-   "«Loca»"
+   "«Riders on the Storm»",
+   "«Break On Through»",
+   "«People Are Strange»"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué banda canta «Burning Heart», de «Rocky IV»?",
+  "p": "¿En qué estadio de béisbol dieron The Beatles un concierto histórico en 1965?",
   "o": [
-   "Survivor",
-   "Europe",
-   "Journey"
+   "Shea Stadium",
+   "Yankee Stadium",
+   "Fenway Park"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Quién canta «Hall of Fame» con The Script?",
+  "p": "¿En qué video de Michael Jackson sale Michael Jordan jugando básquetbol?",
   "o": [
-   "will.i.am",
-   "Pitbull",
-   "Flo Rida"
+   "«Jam»",
+   "«Black or White»",
+   "«Remember the Time»"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué cantante de reguetón luchó en WrestleMania 37?",
+  "p": "¿En qué estadio de fútbol grabó Queen su famoso concierto de 1986?",
   "o": [
-   "Bad Bunny",
-   "Daddy Yankee",
-   "Anuel AA"
+   "Wembley",
+   "Old Trafford",
+   "Anfield"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué banda hizo el medio tiempo del Super Bowl 2019?",
+  "p": "¿Cómo se llama el opening original japonés de «Captain Tsubasa»?",
   "o": [
-   "Maroon 5",
-   "Imagine Dragons",
-   "OneRepublic"
+   "«Moete Hero»",
+   "«Dream Shoot»",
+   "«Fighting!»"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Quién canta «Live It Up», la canción oficial del Mundial 2018, con Will Smith?",
+  "p": "¿Qué guitarrista grabó «Dar um Jeito», himno del Mundial 2014, con Wyclef Jean?",
   "o": [
-   "Nicky Jam",
-   "J Balvin",
-   "Maluma"
+   "Carlos Santana",
+   "Slash",
+   "Brian May"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué cantante hizo el medio tiempo del Super Bowl 2007 bajo la lluvia con «Purple Rain»?",
+  "p": "¿Antes de qué final tocó Linkin Park en Múnich en mayo de 2025?",
   "o": [
-   "Prince",
-   "Bruce Springsteen",
-   "Madonna"
+   "La de la Champions League",
+   "La de la Europa League",
+   "La de la Copa del Rey"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué cantante hizo el histórico medio tiempo del Super Bowl de 1993?",
+  "p": "¿Quién cantó «Boom», canción oficial del Mundial 2002?",
   "o": [
-   "Michael Jackson",
-   "Madonna",
-   "Prince"
+   "Anastacia",
+   "Shakira",
+   "Christina Aguilera"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué cantante reunió a Destiny's Child en el medio tiempo del Super Bowl 2013?",
+  "p": "¿Quiénes cantaron «The Time of Our Lives», canción oficial del Mundial 2006?",
   "o": [
-   "Beyoncé",
-   "Kelly Rowland",
-   "Rihanna"
+   "Il Divo y Toni Braxton",
+   "Shakira y Wyclef Jean",
+   "Ricky Martin y Christina Aguilera"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué banda encabezó el medio tiempo del Super Bowl 50 con Beyoncé y Bruno Mars?",
+  "p": "¿Qué integrante de BTS cantó «Dreamers» en la inauguración del Mundial 2022?",
   "o": [
-   "Coldplay",
-   "Maroon 5",
-   "U2"
+   "Jung Kook",
+   "Jimin",
+   "V"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué cantante hizo el medio tiempo del Super Bowl 2024 en patines?",
+  "p": "¿Cómo se llama la canción del Mundial de 1990 de Gianna Nannini y Edoardo Bennato?",
   "o": [
-   "Usher",
-   "Chris Brown",
-   "Justin Timberlake"
+   "«Un'estate italiana»",
+   "«Volare»",
+   "«Azzurro»"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué rapero se arrodilló en el medio tiempo del Super Bowl 2022?",
+  "p": "¿Qué canción de John Cafferty sale en «Rocky IV»?",
   "o": [
+   "«Hearts on Fire»",
+   "«Burning Heart»",
+   "«Eye of the Tiger»"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quiénes cantan «Hayya Hayya (Better Together)», del Mundial 2022?",
+  "o": [
+   "Trinidad Cardona, Davido y Aisha",
+   "Nicki Minaj y Maluma",
+   "Jung Kook y Fahad Al Kubaisi"
+  ]
+ },
+ {
+  "p": "¿Qué integrante de Linkin Park es el que rapea?",
+  "o": [
+   "Mike Shinoda",
+   "Chester Bennington",
+   "Brad Delson"
+  ]
+ },
+ {
+  "p": "¿Con qué banda cantó el vocalista de Linkin Park de 2013 a 2015?",
+  "o": [
+   "Stone Temple Pilots",
+   "Soundgarden",
+   "Alice in Chains"
+  ]
+ },
+ {
+  "p": "¿En qué disco de Linkin Park viene «What I've Done»?",
+  "o": [
+   "Minutes to Midnight",
+   "Meteora",
+   "A Thousand Suns"
+  ]
+ },
+ {
+  "p": "¿Con qué rapero hizo Linkin Park el disco «Collision Course»?",
+  "o": [
+   "Jay-Z",
    "Eminem",
-   "Snoop Dogg",
-   "Dr. Dre"
+   "Kanye West"
   ]
  },
  {
-  "deporte": true,
-  "p": "¿Qué banda canta «Eye of the Tiger»?",
+  "p": "¿Cómo se llama el disco de remixes de Linkin Park de 2002?",
   "o": [
-   "Survivor",
-   "Queen",
-   "Journey"
+   "Reanimation",
+   "Recharged",
+   "Remixed"
   ]
  },
  {
-  "deporte": true,
-  "p": "¿Quién cantó desde la Torre Eiffel en la inauguración de París 2024?",
+  "p": "¿En qué canción de Linkin Park hay un grito de unos 17 segundos?",
   "o": [
-   "Céline Dion",
-   "Adele",
-   "Shakira"
+   "«Given Up»",
+   "«Faint»",
+   "«Bleed It Out»"
   ]
  },
  {
-  "deporte": true,
-  "p": "¿Qué canción cantó Shakira en la clausura del Mundial 2006?",
+  "p": "¿Qué instrumento toca Mikey Way en My Chemical Romance?",
   "o": [
-   "«Hips Don't Lie»",
-   "«Waka Waka»",
-   "«Whenever, Wherever»"
+   "El bajo",
+   "La batería",
+   "La guitarra"
   ]
  },
  {
-  "p": "¿Quién canta «Usseewa»?",
+  "p": "¿Qué leyenda de Broadway canta en «Mama», de My Chemical Romance?",
   "o": [
-   "Ado",
-   "LiSA",
-   "Aimer"
+   "Liza Minnelli",
+   "Barbra Streisand",
+   "Bette Midler"
   ]
  },
  {
-  "p": "¿Quién canta «Lemon»?",
+  "p": "¿En qué disco de My Chemical Romance viene «Helena»?",
   "o": [
-   "Kenshi Yonezu",
-   "Eve",
-   "Vaundy"
+   "Three Cheers for Sweet Revenge",
+   "The Black Parade",
+   "Danger Days"
   ]
  },
  {
-  "p": "¿Quién canta «Yoru ni Kakeru» («Racing into the Night»)?",
+  "p": "¿En qué disco de My Chemical Romance aparecen los «Killjoys»?",
   "o": [
-   "YOASOBI",
-   "Ado",
-   "Yorushika"
+   "Danger Days",
+   "The Black Parade",
+   "Conventional Weapons"
   ]
  },
  {
-  "p": "¿Quién canta «crossing field», opening de Sword Art Online?",
+  "p": "¿Qué cómic creó Gerard Way, que luego fue serie de Netflix?",
   "o": [
-   "LiSA",
-   "Eir Aoi",
-   "YOASOBI"
+   "The Umbrella Academy",
+   "The Boys",
+   "Locke & Key"
   ]
  },
  {
-  "p": "¿Quién canta «Yuusha», opening de «Frieren»?",
+  "p": "¿Qué canción de Paramore salió en «Crepúsculo»?",
   "o": [
-   "YOASOBI",
-   "Ado",
-   "Eve"
+   "«Decode»",
+   "«Misery Business»",
+   "«The Only Exception»"
   ]
  },
  {
-  "p": "¿Quién canta «Kaikai Kitan», opening de Jujutsu Kaisen?",
+  "p": "¿En qué disco de Paramore viene «Misery Business»?",
   "o": [
-   "Eve",
-   "King Gnu",
-   "Kenshi Yonezu"
+   "Riot!",
+   "Brand New Eyes",
+   "After Laughter"
   ]
  },
  {
-  "p": "¿Quién canta «Peace Sign», opening de My Hero Academia?",
+  "p": "¿En qué disco de Paramore viene «Ain't It Fun»?",
   "o": [
-   "Kenshi Yonezu",
-   "King Gnu",
-   "Eve"
+   "Paramore (2013)",
+   "Riot!",
+   "This Is Why"
   ]
  },
  {
-  "p": "¿Qué banda canta «Haruka Kanata», opening de Naruto?",
+  "p": "¿Para qué película grabó My Chemical Romance un cover de «Desolation Row»?",
   "o": [
+   "Watchmen",
+   "V de Venganza",
+   "Sin City"
+  ]
+ },
+ {
+  "p": "¿Qué guitarrista de Queen es astrofísico?",
+  "o": [
+   "Brian May",
+   "John Deacon",
+   "Roger Taylor"
+  ]
+ },
+ {
+  "p": "¿En qué concierto benéfico de 1985 dio Queen una actuación legendaria?",
+  "o": [
+   "Live Aid",
+   "Live 8",
+   "Farm Aid"
+  ]
+ },
+ {
+  "p": "¿Qué actor ganó el Óscar por interpretar a Freddie Mercury?",
+  "o": [
+   "Rami Malek",
+   "Sacha Baron Cohen",
+   "Joseph Mazzello"
+  ]
+ },
+ {
+  "p": "¿Cuál era el nombre real de Freddie Mercury?",
+  "o": [
+   "Farrokh Bulsara",
+   "Frederick Mercer",
+   "Fahad Bulsara"
+  ]
+ },
+ {
+  "p": "¿En qué disco de Queen viene «Bohemian Rhapsody»?",
+  "o": [
+   "A Night at the Opera",
+   "News of the World",
+   "The Game"
+  ]
+ },
+ {
+  "p": "¿Con qué canción volvió MCR en 2022?",
+  "o": [
+   "«The Foundations of Decay»",
+   "«Fake Your Death»",
+   "«Na Na Na»"
+  ]
+ },
+ {
+  "p": "¿A quién le dedicó Gerard Way la canción «Helena»?",
+  "o": [
+   "A su abuela",
+   "A su mamá",
+   "A su exnovia"
+  ]
+ },
+ {
+  "p": "¿En qué disco de Michael Jackson de 1987 viene «Smooth Criminal»?",
+  "o": [
+   "Bad",
+   "Thriller",
+   "Dangerous"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba el chimpancé de Michael Jackson?",
+  "o": [
+   "Bubbles",
+   "Bobo",
+   "Max"
+  ]
+ },
+ {
+  "p": "¿Quién es el guitarrista actual de Paramore?",
+  "o": [
+   "Taylor York",
+   "Josh Farro",
+   "Zac Farro"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el primer disco de Paramore?",
+  "o": [
+   "All We Know Is Falling",
+   "Riot!",
+   "Brand New Eyes"
+  ]
+ },
+ {
+  "p": "¿Con qué rapero canta Hayley Williams «Airplanes»?",
+  "o": [
+   "B.o.B",
+   "Flo Rida",
+   "Kanye West"
+  ]
+ },
+ {
+  "p": "¿Qué Beatle compuso «Here Comes the Sun»?",
+  "o": [
+   "George Harrison",
+   "John Lennon",
+   "Paul McCartney"
+  ]
+ },
+ {
+  "p": "¿En qué año se separaron The Beatles?",
+  "o": [
+   "1970",
+   "1965",
+   "1980"
+  ]
+ },
+ {
+  "p": "¿En qué disco de The Beatles viene «Lucy in the Sky with Diamonds»?",
+  "o": [
+   "Sgt. Pepper's Lonely Hearts Club Band",
+   "Abbey Road",
+   "Rubber Soul"
+  ]
+ },
+ {
+  "p": "¿A qué productor le dicen «el quinto Beatle»?",
+  "o": [
+   "George Martin",
+   "Brian Epstein",
+   "Phil Spector"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Cha-La Head-Cha-La» en japonés?",
+  "o": [
+   "Hironobu Kageyama",
+   "Masaaki Endoh",
+   "Ichiro Mizuki"
+  ]
+ },
+ {
+  "p": "¿Qué grupo canta «Pegasus Fantasy» en japonés?",
+  "o": [
+   "MAKE-UP",
+   "JAM Project",
+   "FLOW"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el opening de Dragon Ball GT?",
+  "o": [
+   "«Dan Dan Kokoro Hikareteku»",
+   "«We Gotta Power»",
+   "«Makafushigi Adventure!»"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el primer opening de Dragon Ball, el original?",
+  "o": [
+   "«Makafushigi Adventure!»",
+   "«Cha-La Head-Cha-La»",
+   "«Dan Dan Kokoro Hikareteku»"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el segundo opening de Dragon Ball Z?",
+  "o": [
+   "«We Gotta Power»",
+   "«Cha-La Head-Cha-La»",
+   "«Limit Break x Survivor»"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el primer opening japonés de Pokémon?",
+  "o": [
+   "«Mezase Pokémon Master»",
+   "«Pokémon Ieru Kana?»",
+   "«Type: Wild»"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Brave Heart», la canción de las digievoluciones de Digimon?",
+  "o": [
+   "Ayumi Miyazaki",
+   "Kouji Wada",
+   "AiM"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Kanashimi wo Yasashisa ni», opening de Naruto?",
+  "o": [
+   "little by little",
    "Asian Kung-Fu Generation",
+   "FLOW"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta el primer opening de Bleach, «*~Asterisk~»?",
+  "o": [
+   "Orange Range",
+   "UVERworld",
+   "FLOW"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el opening de Digimon Adventure 02?",
+  "o": [
+   "«Target ~Akai Shōgeki~»",
+   "«The Biggest Dreamer»",
+   "«Brave Heart»"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «COLORS», primer opening de Code Geass?",
+  "o": [
    "FLOW",
+   "ALI PROJECT",
    "Orange Range"
   ]
  },
  {
-  "p": "¿Cómo se llama el primer opening japonés de Sailor Moon?",
+  "p": "¿Qué banda canta «What's Up, People?!», opening de Death Note?",
   "o": [
-   "«Moonlight Densetsu»",
-   "«Tuxedo Mirage»",
-   "«Pegasus Fantasy»"
+   "Maximum the Hormone",
+   "Nightmare",
+   "SiM"
   ]
  },
  {
-  "p": "¿De qué anime es el opening «Tank!»?",
+  "p": "¿Qué banda canta «O2», opening de Code Geass R2?",
   "o": [
-   "Cowboy Bebop",
-   "Samurai Champloo",
-   "Trigun"
+   "Orange Range",
+   "FLOW",
+   "UVERworld"
   ]
  },
  {
-  "p": "¿De qué anime es el opening «Mixed Nuts»?",
+  "p": "¿Cómo se llama el opening de Hunter x Hunter (2011)?",
   "o": [
-   "Spy x Family",
-   "Kaguya-sama",
-   "Bocchi the Rock!"
+   "«departure!»",
+   "«Ohayou»",
+   "«Just Awake»"
   ]
  },
  {
-  "p": "¿De qué anime es el opening «Lilium»?",
+  "p": "¿Qué integrante de Queen canta «I'm in Love with My Car»?",
   "o": [
-   "Elfen Lied",
-   "Another",
-   "Higurashi"
+   "Roger Taylor",
+   "John Deacon",
+   "Brian May"
   ]
  },
  {
-  "p": "¿De qué anime es el opening «Sign», de FLOW?",
+  "p": "¿Cómo se llama el ending de Evangelion, un clásico del jazz?",
   "o": [
-   "Naruto Shippuden",
-   "Code Geass",
-   "Bleach"
+   "«Fly Me to the Moon»",
+   "«The Girl from Ipanema»",
+   "«Take Five»"
   ]
  },
  {
-  "p": "¿Cómo se llama el segundo disco de Linkin Park?",
+  "p": "¿Qué compositor hizo la música de Super Mario y Zelda?",
   "o": [
-   "Meteora",
-   "Hybrid Theory",
-   "Minutes to Midnight"
+   "Koji Kondo",
+   "Nobuo Uematsu",
+   "Yoko Shimomura"
   ]
  },
  {
-  "p": "¿Quién era el vocalista principal de Linkin Park?",
+  "p": "¿Qué compositor hizo la música clásica de Final Fantasy?",
   "o": [
-   "Chester Bennington",
-   "Chris Cornell",
-   "Chad Kroeger"
+   "Nobuo Uematsu",
+   "Koji Kondo",
+   "Hans Zimmer"
   ]
  },
  {
-  "p": "¿Quién es la vocalista de Paramore?",
+  "p": "¿Cómo se llama la guitarra que el guitarrista de Queen hizo con su papá?",
   "o": [
-   "Hayley Williams",
-   "Amy Lee",
-   "Avril Lavigne"
+   "Red Special",
+   "Black Beauty",
+   "Blackie"
   ]
  },
  {
-  "p": "¿Quién es el vocalista de My Chemical Romance?",
+  "p": "¿Qué grupo de K-pop cantó «GODS», himno del Mundial de LoL 2023?",
   "o": [
-   "Gerard Way",
-   "Patrick Stump",
+   "NewJeans",
+   "Blackpink",
+   "LE SSERAFIM"
+  ]
+ },
+ {
+  "p": "¿Para qué película de 1986 hizo Queen «Who Wants to Live Forever»?",
+  "o": [
+   "Highlander",
+   "Flash Gordon",
+   "Top Gun"
+  ]
+ },
+ {
+  "p": "¿De dónde es Café Tacvba?",
+  "o": [
+   "Ciudad Satélite, Estado de México",
+   "Guadalajara",
+   "Monterrey"
+  ]
+ },
+ {
+  "p": "¿Quién es el vocalista de Caifanes?",
+  "o": [
+   "Saúl Hernández",
+   "Rubén Albarrán",
+   "León Larregui"
+  ]
+ },
+ {
+  "p": "¿Quién es el vocalista de Zoé?",
+  "o": [
+   "León Larregui",
+   "Saúl Hernández",
+   "José Madero"
+  ]
+ },
+ {
+  "p": "¿Cuántos integrantes tenía RBD?",
+  "o": [
+   "6",
+   "5",
+   "4"
+  ]
+ },
+ {
+  "p": "¿Qué cantante sale de gira con Queen desde 2012?",
+  "o": [
+   "Adam Lambert",
+   "Chris Daughtry",
    "Brendon Urie"
   ]
  },
  {
-  "p": "¿Qué banda canta «Chasing Cars»?",
+  "p": "¿Quién era el baterista de Linkin Park en la época de Chester?",
   "o": [
-   "Snow Patrol",
-   "The Fray",
-   "Keane"
+   "Rob Bourdon",
+   "Brad Delson",
+   "Dave Farrell"
   ]
  },
  {
-  "p": "¿Con quién cantó Michael Jackson «Say Say Say»?",
+  "p": "¿Cómo se llama el guitarrista de My Chemical Romance del pelo afro?",
   "o": [
-   "Paul McCartney",
-   "Lionel Richie",
-   "Stevie Wonder"
+   "Ray Toro",
+   "Frank Iero",
+   "Bob Bryar"
   ]
  },
  {
-  "p": "¿Cómo le dicen al bajista de Red Hot Chili Peppers?",
+  "p": "¿Dónde nació Freddie Mercury?",
   "o": [
-   "Flea",
-   "The Edge",
-   "Fieldy"
+   "Zanzíbar",
+   "Bombay",
+   "Londres"
   ]
  },
  {
-  "p": "¿Quién es el vocalista de Coldplay?",
+  "p": "¿Cuál fue el primer sencillo de The Beatles?",
   "o": [
-   "Chris Martin",
-   "Adam Levine",
-   "Brandon Flowers"
+   "«Love Me Do»",
+   "«Please Please Me»",
+   "«She Loves You»"
   ]
  },
  {
-  "p": "¿Quién es el vocalista de Arctic Monkeys?",
+  "p": "¿De qué país es Soda Stereo?",
   "o": [
-   "Alex Turner",
-   "Julian Casablancas",
-   "Brandon Flowers"
+   "Argentina",
+   "Chile",
+   "España"
   ]
  },
  {
-  "p": "¿Qué banda canta «Paranoid»?",
+  "p": "¿De qué país es Héroes del Silencio?",
   "o": [
-   "Black Sabbath",
-   "Deep Purple",
-   "Iron Maiden"
+   "España",
+   "Argentina",
+   "México"
   ]
  },
  {
-  "p": "¿A quién le dicen «el Príncipe de las Tinieblas»?",
+  "p": "¿Qué canción canta Mon Laferte con Juanes?",
   "o": [
-   "Ozzy Osbourne",
-   "Marilyn Manson",
-   "Alice Cooper"
+   "«Amárrame»",
+   "«Tu falta de querer»",
+   "«La Camisa Negra»"
   ]
  },
  {
-  "p": "¿Qué banda tiene como mascota a «Eddie»?",
+  "p": "¿De qué ciudad colombiana es Shakira?",
   "o": [
-   "Iron Maiden",
-   "Metallica",
-   "Megadeth"
+   "Barranquilla",
+   "Medellín",
+   "Cartagena"
   ]
  },
  {
-  "p": "¿Qué banda toca con máscaras y overoles?",
+  "p": "¿Cómo se llama el primer disco de Bad Bunny?",
   "o": [
-   "Slipknot",
-   "Korn",
-   "Ghost"
+   "X 100PRE",
+   "YHLQMDLG",
+   "Un Verano Sin Ti"
   ]
  },
  {
-  "p": "¿Qué banda canta «Freak on a Leash»?",
+  "p": "¿En qué video de Queen salen sus integrantes vestidos de amas de casa?",
   "o": [
-   "Korn",
-   "Limp Bizkit",
-   "Deftones"
+   "«I Want to Break Free»",
+   "«Radio Ga Ga»",
+   "«Bicycle Race»"
   ]
  },
  {
-  "p": "¿Qué banda canta «The Diary of Jane»?",
+  "p": "¿Quién es el líder de BTS?",
   "o": [
-   "Breaking Benjamin",
-   "Seether",
-   "Disturbed"
+   "RM",
+   "Suga",
+   "Jin"
   ]
  },
  {
-  "p": "¿Qué banda canta «Can't Stop» y «Californication»?",
+  "p": "¿Qué productor hizo «Off the Wall», «Thriller» y «Bad» con Michael Jackson?",
   "o": [
-   "Red Hot Chili Peppers",
-   "Foo Fighters",
-   "Pearl Jam"
+   "Quincy Jones",
+   "Berry Gordy",
+   "Prince"
   ]
  },
  {
-  "p": "¿Qué banda canta «Everlong»?",
+  "p": "¿Qué integrante de Blackpink es de Tailandia?",
   "o": [
-   "Foo Fighters",
-   "Nirvana",
-   "Weezer"
-  ]
- },
- {
-  "p": "¿Qué banda canta «Creep»?",
-  "o": [
-   "Radiohead",
-   "Oasis",
-   "Coldplay"
-  ]
- },
- {
-  "p": "¿Qué banda canta «All the Small Things»?",
-  "o": [
-   "Blink-182",
-   "Sum 41",
-   "Simple Plan"
-  ]
- },
- {
-  "p": "¿Qué banda canta «Africa»?",
-  "o": [
-   "Toto",
-   "Journey",
-   "Foreigner"
-  ]
- },
- {
-  "p": "¿Qué banda canta «High Hopes»?",
-  "o": [
-   "Panic! at the Disco",
-   "Fall Out Boy",
-   "Twenty One Pilots"
-  ]
- },
- {
-  "p": "¿Qué banda canta «What You Know»?",
-  "o": [
-   "Two Door Cinema Club",
-   "Foster the People",
-   "The Kooks"
-  ]
- },
- {
-  "p": "¿Qué rapero canta «In da Club»?",
-  "o": [
-   "50 Cent",
-   "Eminem",
-   "Snoop Dogg"
-  ]
- },
- {
-  "p": "¿Qué rapero canta «Stronger»?",
-  "o": [
-   "Kanye West",
-   "Jay-Z",
-   "Lil Wayne"
-  ]
- },
- {
-  "p": "¿Qué DJ francés canta «Titanium» con Sia?",
-  "o": [
-   "David Guetta",
-   "DJ Snake",
-   "Martin Solveig"
-  ]
- },
- {
-  "p": "¿Qué grupo noruego canta «What Does the Fox Say?»?",
-  "o": [
-   "Ylvis",
-   "a-ha",
-   "Kygo"
-  ]
- },
- {
-  "p": "¿Qué actor canta «You're Welcome» como Maui en «Moana»?",
-  "o": [
-   "Dwayne Johnson",
-   "Jason Momoa",
-   "Vin Diesel"
-  ]
- },
- {
-  "p": "¿Quién canta «My Heart Will Go On», de Titanic?",
-  "o": [
-   "Céline Dion",
-   "Whitney Houston",
-   "Mariah Carey"
-  ]
- },
- {
-  "p": "¿Qué grupo canta «Bye Bye Bye»?",
-  "o": [
-   "NSYNC",
-   "Backstreet Boys",
-   "Westlife"
-  ]
- },
- {
-  "p": "¿Quién canta «Stitches» y «Treat You Better»?",
-  "o": [
-   "Shawn Mendes",
-   "Charlie Puth",
-   "Ed Sheeran"
-  ]
- },
- {
-  "p": "¿Qué banda canta «Stairway to Heaven»?",
-  "o": [
-   "Led Zeppelin",
-   "Pink Floyd",
-   "The Who"
-  ]
- },
- {
-  "p": "¿Quién era el vocalista de Soda Stereo?",
-  "o": [
-   "Gustavo Cerati",
-   "Charly García",
-   "Fito Páez"
-  ]
- },
- {
-  "p": "¿Qué banda canta «Amargo adiós»?",
-  "o": [
-   "Inspector",
-   "Los de Abajo",
-   "Maldita Vecindad"
-  ]
- },
- {
-  "p": "¿Qué banda canta «Labios rotos»?",
-  "o": [
-   "Zoé",
-   "Enjambre",
-   "Kinky"
-  ]
- },
- {
-  "p": "¿Qué banda canta «Ingrata»?",
-  "o": [
-   "Café Tacvba",
-   "Molotov",
-   "Caifanes"
-  ]
- },
- {
-  "p": "¿Qué grupo canta «Me cuesta tanto olvidarte»?",
-  "o": [
-   "Mecano",
-   "La Oreja de Van Gogh",
-   "Hombres G"
-  ]
- },
- {
-  "p": "¿Qué grupo canta «Rosas»?",
-  "o": [
-   "La Oreja de Van Gogh",
-   "Mecano",
-   "Amaral"
-  ]
- },
- {
-  "p": "¿Qué grupo canta «Zapatillas»?",
-  "o": [
-   "El Canto del Loco",
-   "Hombres G",
-   "Pignoise"
-  ]
- },
- {
-  "p": "¿Qué grupo canta «Devuélveme a mi chica»?",
-  "o": [
-   "Hombres G",
-   "Los Prisioneros",
-   "Mecano"
-  ]
- },
- {
-  "p": "¿Quién canta «Corazón partío»?",
-  "o": [
-   "Alejandro Sanz",
-   "David Bisbal",
-   "Bunbury"
-  ]
- },
- {
-  "p": "¿Quién era el vocalista de Héroes del Silencio?",
-  "o": [
-   "Enrique Bunbury",
-   "Gustavo Cerati",
-   "Saúl Hernández"
-  ]
- },
- {
-  "p": "¿Quién canta «1, 2, 3» con Jason Derulo?",
-  "o": [
-   "Sofía Reyes",
-   "Danna Paola",
-   "Kenia OS"
-  ]
- },
- {
-  "p": "¿Quién canta «Piel morena»?",
-  "o": [
-   "Thalía",
-   "Paulina Rubio",
-   "Lucero"
-  ]
- },
- {
-  "p": "¿Quién canta «Pelo suelto»?",
-  "o": [
-   "Gloria Trevi",
-   "Alejandra Guzmán",
-   "Paulina Rubio"
-  ]
- },
- {
-  "p": "¿Quién canta «Mala fama»?",
-  "o": [
-   "Danna Paola",
-   "Kenia OS",
-   "Belinda"
-  ]
- },
- {
-  "p": "¿Quién canta «Malas decisiones»?",
-  "o": [
-   "Kenia OS",
-   "Danna Paola",
-   "Sofía Reyes"
-  ]
- },
- {
-  "p": "¿Quién canta «Como la flor»?",
-  "o": [
-   "Selena",
-   "Thalía",
-   "Gloria Trevi"
-  ]
- },
- {
-  "p": "¿Quién canta «Vivir mi vida»?",
-  "o": [
-   "Marc Anthony",
-   "Romeo Santos",
-   "Prince Royce"
-  ]
- },
- {
-  "p": "¿Qué grupo canta «Que no quede huella»?",
-  "o": [
-   "Bronco",
-   "Los Temerarios",
-   "Los Bukis"
-  ]
- },
- {
-  "p": "¿Quién canta «Cumbia sobre el río»?",
-  "o": [
-   "Celso Piña",
-   "Los Ángeles Azules",
-   "Rigo Tovar"
-  ]
- },
- {
-  "p": "¿Con quién hizo Bizarrap la session de «Quédate»?",
-  "o": [
-   "Quevedo",
-   "Duki",
-   "Nicki Nicole"
-  ]
- },
- {
-  "p": "¿Cómo se llaman las fans de BTS?",
-  "o": [
-   "ARMY",
-   "Blinks",
-   "Swifties"
-  ]
- },
- {
-  "p": "¿Cómo se llaman los fans de Blackpink?",
-  "o": [
-   "Blinks",
-   "ARMY",
-   "Once"
-  ]
- },
- {
-  "p": "¿Qué banda cantó «Warriors», el himno del Mundial de LoL 2014?",
-  "o": [
-   "Imagine Dragons",
-   "Against The Current",
-   "Linkin Park"
-  ]
- },
- {
-  "p": "¿Qué grupo virtual de LoL canta «GIANTS»?",
-  "o": [
-   "True Damage",
-   "K/DA",
-   "Pentakill"
-  ]
- },
- {
-  "p": "¿Con qué empieza el tema principal de Halo?",
-  "o": [
-   "Un canto de monjes",
-   "Un solo de guitarra",
-   "Una marcha militar"
-  ]
- },
- {
-  "p": "¿Quién canta «Someone You Loved»?",
-  "o": [
-   "Lewis Capaldi",
-   "Sam Smith",
-   "Ed Sheeran"
-  ]
- },
- {
-  "p": "¿Qué cantante de reguetón canta «Hawái»?",
-  "o": [
-   "Maluma",
-   "J Balvin",
-   "Ozuna"
-  ]
- },
- {
-  "p": "¿Qué cantante de reguetón canta «Bichota»?",
-  "o": [
-   "Karol G",
-   "Becky G",
-   "Anitta"
-  ]
- },
- {
-  "p": "¿Qué cantante canta «Felices los 4»?",
-  "o": [
-   "Maluma",
-   "Sebastián Yatra",
-   "Manuel Turizo"
-  ]
- },
- {
-  "p": "¿Quién canta «Me porto bonito» con Chencho Corleone?",
-  "o": [
-   "Bad Bunny",
-   "Rauw Alejandro",
-   "Myke Towers"
-  ]
- },
- {
-  "p": "¿Qué cantante es conocida como «la Diva de la Banda»?",
-  "o": [
-   "Jenni Rivera",
-   "Paquita la del Barrio",
-   "Ana Bárbara"
-  ]
- },
- {
-  "p": "¿Qué grupo canta «La Bamba» en la versión más famosa?",
-  "o": [
-   "Los Lobos",
-   "Los Lonely Boys",
-   "Los Tigres del Norte"
-  ]
- },
- {
-  "p": "¿Qué grupo de K-pop canta «God's Menu»?",
-  "o": [
-   "Stray Kids",
-   "BTS",
-   "ATEEZ"
-  ]
- },
- {
-  "p": "¿Qué integrante de Blackpink canta «APT.» con Bruno Mars?",
-  "o": [
-   "Rosé",
    "Lisa",
-   "Jennie"
+   "Rosé",
+   "Jisoo"
   ]
  },
  {
-  "p": "¿A quién le dicen «la Reina del Pop»?",
+  "p": "¿Qué canción cantó Michael Jackson como solista en «Motown 25» (1983)?",
   "o": [
-   "Madonna",
-   "Britney Spears",
-   "Lady Gaga"
+   "«Billie Jean»",
+   "«Beat It»",
+   "«Thriller»"
   ]
  },
  {
-  "p": "¿Qué guitarrista toca «Corazón espinado» con Maná?",
+  "p": "¿Qué integrante de Queen compuso «Radio Ga Ga»?",
   "o": [
-   "Carlos Santana",
-   "Slash",
-   "Eric Clapton"
+   "Roger Taylor",
+   "Freddie Mercury",
+   "Brian May"
   ]
  },
  {
-  "p": "¿Quién canta «Propuesta indecente»?",
+  "p": "¿Cuál es el nombre real de Lady Gaga?",
   "o": [
-   "Romeo Santos",
-   "Prince Royce",
-   "Juan Luis Guerra"
+   "Stefani Germanotta",
+   "Alecia Moore",
+   "Katheryn Hudson"
   ]
  },
  {
-  "p": "¿Quién canta «Travesuras» y «Hasta el amanecer»?",
+  "p": "¿Qué bajista fundador de Paramore dejó la banda en 2015?",
   "o": [
-   "Nicky Jam",
-   "Ozuna",
-   "Daddy Yankee"
+   "Jeremy Davis",
+   "Josh Farro",
+   "Zac Farro"
   ]
  },
  {
-  "p": "¿Qué grupo canta «Sucker» (2019)?",
+  "p": "¿Qué bajista de Metallica murió en 1986?",
   "o": [
-   "Jonas Brothers",
-   "One Direction",
-   "5 Seconds of Summer"
+   "Cliff Burton",
+   "Jason Newsted",
+   "Robert Trujillo"
   ]
  },
  {
-  "p": "¿Quién canta «Flowers» (2023)?",
+  "p": "¿En qué ciudad nació Michael Jackson?",
   "o": [
-   "Miley Cyrus",
-   "Selena Gomez",
-   "Demi Lovato"
+   "Gary, Indiana",
+   "Detroit",
+   "Chicago"
   ]
  },
  {
-  "p": "¿Quién canta «Heat Waves»?",
+  "p": "¿Qué canción de Paramore ganó un Grammy en 2015?",
   "o": [
-   "Glass Animals",
+   "«Ain't It Fun»",
+   "«Still Into You»",
+   "«Misery Business»"
+  ]
+ },
+ {
+  "p": "¿Qué integrante de Queen escribió «We Will Rock You» para que el público participara?",
+  "o": [
+   "Brian May",
+   "Freddie Mercury",
+   "Roger Taylor"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el ending del Dragon Ball original?",
+  "o": [
+   "«Romantic Ageru yo»",
+   "«Hitori Janai»",
+   "«Detekoi Tobikiri Zenkai Power!»"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el primer opening de Naruto?",
+  "o": [
+   "«R★O★C★K★S»",
+   "«Haruka Kanata»",
+   "«GO!!!»"
+  ]
+ },
+ {
+  "p": "¿Qué grupo canta «Phoenix», himno del Mundial de LoL 2019?",
+  "o": [
+   "Cailin Russo y Chrissy Costanza",
    "Imagine Dragons",
-   "The Neighbourhood"
+   "K/DA"
   ]
  },
  {
-  "p": "¿Quién canta «Sunflower», de «Spider-Verse», con Swae Lee?",
+  "p": "¿Qué guitarrista toca el solo de «Beat It»?",
   "o": [
-   "Post Malone",
-   "Travis Scott",
-   "Khalid"
+   "Eddie Van Halen",
+   "Slash",
+   "Steve Vai"
   ]
  },
  {
-  "p": "¿Quién canta «Hey Ya!»?",
+  "p": "¿Qué bajista de Queen compuso «Another One Bites the Dust»?",
   "o": [
-   "OutKast",
-   "Black Eyed Peas",
-   "Gnarls Barkley"
+   "John Deacon",
+   "Brian May",
+   "Roger Taylor"
   ]
  },
  {
-  "p": "¿Quién canta «Shallow» con Bradley Cooper?",
+  "p": "¿En qué año murió Freddie Mercury?",
   "o": [
-   "Lady Gaga",
-   "Adele",
-   "Katy Perry"
+   "1991",
+   "1985",
+   "1997"
   ]
  },
  {
-  "p": "¿Quién canta «Complicated» y «Sk8er Boi»?",
+  "p": "¿En qué año murió Michael Jackson?",
   "o": [
-   "Avril Lavigne",
-   "Hilary Duff",
-   "Kelly Clarkson"
+   "2009",
+   "2006",
+   "2012"
   ]
  },
  {
-  "p": "¿Quién canta «Torero»?",
+  "p": "¿En qué año murió Chester Bennington?",
   "o": [
-   "Chayanne",
-   "Ricky Martin",
-   "Luis Fonsi"
+   "2017",
+   "2014",
+   "2020"
   ]
  },
  {
-  "p": "¿Qué grupo español canta «El Sol no regresa»?",
+  "p": "¿Cuál es la canción de The Beatles con más versiones de otros artistas?",
   "o": [
-   "La Quinta Estación",
-   "La Oreja de Van Gogh",
-   "Amaral"
+   "«Yesterday»",
+   "«Let It Be»",
+   "«Hey Jude»"
+  ]
+ },
+ {
+  "p": "¿En qué ciudad alemana tocaron The Beatles antes de ser famosos?",
+  "o": [
+   "Hamburgo",
+   "Berlín",
+   "Múnich"
+  ]
+ },
+ {
+  "p": "¿Qué grupo canta «Moonlight Densetsu», opening de Sailor Moon?",
+  "o": [
+   "DALI",
+   "MAKE-UP",
+   "AiM"
+  ]
+ },
+ {
+  "p": "¿Qué actor de películas de terror pone la voz en «Thriller»?",
+  "o": [
+   "Vincent Price",
+   "Christopher Lee",
+   "Boris Karloff"
+  ]
+ },
+ {
+  "p": "¿Qué baterista tuvieron The Beatles hasta 1962?",
+  "o": [
+   "Pete Best",
+   "Stuart Sutcliffe",
+   "Brian Epstein"
+  ]
+ },
+ {
+  "p": "¿En qué estado de Estados Unidos se formó My Chemical Romance?",
+  "o": [
+   "Nueva Jersey",
+   "California",
+   "Illinois"
   ]
  }
 ]

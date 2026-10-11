@@ -1,0 +1,852 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Cómo se llama el héroe deportista de «LazyTown»?",
+  "o": [
+   "Sportacus",
+   "Sportman",
+   "Supersaludable"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Rocket Power», ¿qué practican los amigos?",
+  "o": [
+   "Deportes extremos",
+   "Fútbol",
+   "Béisbol"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Cobra Kai», ¿quién reabre el dojo Cobra Kai?",
+  "o": [
+   "Johnny Lawrence",
+   "Daniel LaRusso",
+   "Miguel Díaz"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Big Time Rush», ¿qué deporte jugaban los chicos en Minnesota?",
+  "o": [
+   "Hockey",
+   "Béisbol",
+   "Básquetbol"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Los Simpson», ¿qué deporte juega Homero con sus amigos?",
+  "o": [
+   "Boliche",
+   "Golf",
+   "Béisbol"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Los Picapiedra», ¿qué deporte juegan Pedro y Pablo en su liga?",
+  "o": [
+   "Boliche",
+   "Golf",
+   "Béisbol"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Glee», ¿qué son las Cheerios de Sue Sylvester?",
+  "o": [
+   "Porristas",
+   "Nadadoras",
+   "Gimnastas"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿De qué deporte trata «Club de Cuervos»?",
+  "o": [
+   "Fútbol",
+   "Béisbol",
+   "Box"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Ted Lasso», ¿en qué país entrena Ted?",
+  "o": [
+   "Inglaterra",
+   "Estados Unidos",
+   "España"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Ted Lasso», ¿qué deporte entrena Ted en Inglaterra?",
+  "o": [
+   "Fútbol",
+   "Rugby",
+   "Cricket"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «El Chavo del 8», ¿qué deporte juegan los niños en la vecindad?",
+  "o": [
+   "Fútbol",
+   "Béisbol",
+   "Básquetbol"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué luchador de la WWE protagoniza la serie «Peacemaker»?",
+  "o": [
+   "John Cena",
+   "Dave Bautista",
+   "Dwayne Johnson"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «High School Musical», ¿cómo se llama el equipo de básquetbol?",
+  "o": [
+   "Los Wildcats",
+   "Los Tigres",
+   "Los Lobos"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Friends», ¿qué juegan los amigos en un Día de Acción de Gracias?",
+  "o": [
+   "Fútbol americano",
+   "Béisbol",
+   "Voleibol"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Stranger Things», ¿en qué llega Max a la escuela?",
+  "o": [
+   "En patineta",
+   "En bicicleta",
+   "En patines"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Soy Luna», ¿en qué patina Luna?",
+  "o": [
+   "En patines de ruedas",
+   "En patineta",
+   "En patines de hielo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Lilo y Stitch», ¿qué deporte practican Lilo y Nani en el mar?",
+  "o": [
+   "Surf",
+   "Natación",
+   "Buceo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué piloto mexicano sale en la serie de Netflix «Drive to Survive»?",
+  "o": [
+   "Checo Pérez",
+   "Esteban Gutiérrez",
+   "Adrián Fernández"
+  ]
+ },
+ {
+  "p": "¿Cómo se llaman Las Chicas Superpoderosas?",
+  "o": [
+   "Bombón, Burbuja y Bellota",
+   "Flor, Burbuja y Bellota",
+   "Bombón, Bonita y Bellota"
+  ]
+ },
+ {
+  "p": "¿Quién creó a Las Chicas Superpoderosas?",
+  "o": [
+   "El Profesor Utonio",
+   "Mojo Jojo",
+   "El Alcalde"
+  ]
+ },
+ {
+  "p": "En «Las Chicas Superpoderosas», ¿cuál es la más ruda de las tres?",
+  "o": [
+   "Bellota",
+   "Bombón",
+   "Burbuja"
+  ]
+ },
+ {
+  "p": "En «¡Oye, Arnold!», ¿qué forma tiene la cabeza de Arnold?",
+  "o": [
+   "De balón de americano",
+   "De huevo",
+   "De foco"
+  ]
+ },
+ {
+  "p": "En «Ed, Edd y Eddy», ¿cómo le dicen a Edd?",
+  "o": [
+   "Doble D",
+   "Cara de Tabla",
+   "Cerebrito"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el perro de Garfield?",
+  "o": [
+   "Odie",
+   "Nermal",
+   "Pooky"
+  ]
+ },
+ {
+  "p": "En «Hora de Aventura», ¿qué lleva Finn siempre en la cabeza?",
+  "o": [
+   "Un gorro de oso blanco",
+   "Una gorra roja",
+   "Un casco de vikingo"
+  ]
+ },
+ {
+  "p": "En «Hora de Aventura», ¿qué es BMO?",
+  "o": [
+   "Una consola de videojuegos",
+   "Un perro",
+   "Un vampiro"
+  ]
+ },
+ {
+  "p": "En «Las sombrías aventuras de Billy y Mandy», ¿quién es su «amigo» obligado?",
+  "o": [
+   "Puro Hueso",
+   "Irwin",
+   "Grim Jr."
+  ]
+ },
+ {
+  "p": "En «Mansión Foster», ¿cómo se llama el mejor amigo imaginario de Mac?",
+  "o": [
+   "Bloo",
+   "Eduardo",
+   "Coco"
+  ]
+ },
+ {
+  "p": "¿Qué peinado tiene Johnny Bravo?",
+  "o": [
+   "Un copete rubio",
+   "Una cresta roja",
+   "La cabeza rapada"
+  ]
+ },
+ {
+  "p": "En «El increíble mundo de Gumball», ¿qué animal es Gumball?",
+  "o": [
+   "Un gato",
+   "Un conejo",
+   "Un perro"
+  ]
+ },
+ {
+  "p": "En «El increíble mundo de Gumball», ¿qué es Darwin?",
+  "o": [
+   "Un pez con patas",
+   "Un sapo",
+   "Un pájaro"
+  ]
+ },
+ {
+  "p": "En «Samurai Jack», ¿cómo se llama el villano principal?",
+  "o": [
+   "Aku",
+   "Scaramouche",
+   "Demongo"
+  ]
+ },
+ {
+  "p": "En «Backyardigans», ¿qué animal es Pablo?",
+  "o": [
+   "Un pingüino",
+   "Un alce",
+   "Un hipopótamo"
+  ]
+ },
+ {
+  "p": "En «Los Padrinos Mágicos», ¿con qué conceden deseos Cosmo y Wanda?",
+  "o": [
+   "Con varitas mágicas",
+   "Con anillos mágicos",
+   "Con una lámpara mágica"
+  ]
+ },
+ {
+  "p": "En «Phineas y Ferb», ¿cómo se llama el científico malvado?",
+  "o": [
+   "Doofenshmirtz",
+   "Rodney",
+   "Monograma"
+  ]
+ },
+ {
+  "p": "En «Kim Possible», ¿qué animal es Rufus?",
+  "o": [
+   "Una rata topo",
+   "Un hámster",
+   "Un ratón"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la mascota de Mickey Mouse?",
+  "o": [
+   "Pluto",
+   "Fígaro",
+   "Butch"
+  ]
+ },
+ {
+  "p": "En «Zack y Cody», ¿cómo se llama la heredera rubia del hotel?",
+  "o": [
+   "London Tipton",
+   "Maddie",
+   "Bailey"
+  ]
+ },
+ {
+  "p": "En «Los Hechiceros de Waverly Place», ¿cómo se llama la protagonista?",
+  "o": [
+   "Alex Russo",
+   "Harper Finkle",
+   "Juliet"
+  ]
+ },
+ {
+  "p": "En «Jessie», ¿de qué familia es niñera Jessie?",
+  "o": [
+   "De los Ross",
+   "De los Russo",
+   "De los Duncan"
+  ]
+ },
+ {
+  "p": "En «Hannah Montana», ¿qué se pone Miley para convertirse en Hannah?",
+  "o": [
+   "Una peluca rubia",
+   "Unos lentes oscuros",
+   "Una máscara"
+  ]
+ },
+ {
+  "p": "En «Gravity Falls», ¿cómo se llaman los gemelos?",
+  "o": [
+   "Dipper y Mabel",
+   "Phineas y Ferb",
+   "Zack y Cody"
+  ]
+ },
+ {
+  "p": "En «Gravity Falls», ¿quién es el tío abuelo de los gemelos?",
+  "o": [
+   "Stan",
+   "Soos",
+   "Bill"
+  ]
+ },
+ {
+  "p": "En «Bob Esponja», ¿cómo se llama la ciudad donde vive?",
+  "o": [
+   "Fondo de Bikini",
+   "Atlántida",
+   "Ciudad Coral"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el caracol de Bob Esponja?",
+  "o": [
+   "Gary",
+   "Larry",
+   "Perry"
+  ]
+ },
+ {
+  "p": "En «Bob Esponja», ¿cómo se llama la hamburguesa del Crustáceo Cascarudo?",
+  "o": [
+   "Cangreburger",
+   "Plankburger",
+   "Burger Marina"
+  ]
+ },
+ {
+  "p": "En «Rugrats», ¿qué guarda Tommy siempre en el pañal?",
+  "o": [
+   "Un destornillador",
+   "Un chupón",
+   "Una galleta"
+  ]
+ },
+ {
+  "p": "¿Qué quiere robar Plankton?",
+  "o": [
+   "La fórmula secreta de la Cangreburger",
+   "La casa de Bob",
+   "El dinero de Don Cangrejo"
+  ]
+ },
+ {
+  "p": "En «Los Padrinos Mágicos», ¿cómo se llama la niñera malvada?",
+  "o": [
+   "Vicky",
+   "Trixie",
+   "Tootie"
+  ]
+ },
+ {
+  "p": "¿Qué actriz interpreta a Alex Russo en «Los Hechiceros de Waverly Place»?",
+  "o": [
+   "Selena Gomez",
+   "Demi Lovato",
+   "Miley Cyrus"
+  ]
+ },
+ {
+  "p": "En «Invasor Zim», ¿cómo se llama el robot de Zim?",
+  "o": [
+   "GIR",
+   "MiniMoose",
+   "Dib"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el protagonista de la caricatura mexicana «El Tigre»?",
+  "o": [
+   "Manny Rivera",
+   "Frida Suárez",
+   "Puma Loco"
+  ]
+ },
+ {
+  "p": "En «Rugrats», ¿cómo se llama el bebé líder?",
+  "o": [
+   "Tommy Pickles",
+   "Chuckie",
+   "Phil"
+  ]
+ },
+ {
+  "p": "En «Los Thornberrys», ¿qué puede hacer Eliza?",
+  "o": [
+   "Hablar con los animales",
+   "Volar",
+   "Ser invisible"
+  ]
+ },
+ {
+  "p": "En «Avatar: la leyenda de Aang», ¿cómo se llama el bisonte volador?",
+  "o": [
+   "Appa",
+   "Momo",
+   "Naga"
+  ]
+ },
+ {
+  "p": "En «iCarly», ¿cómo se llama el hermano mayor de Carly?",
+  "o": [
+   "Spencer",
+   "Freddie",
+   "Gibby"
+  ]
+ },
+ {
+  "p": "En «Victorious», ¿a qué escuela va Tori?",
+  "o": [
+   "Hollywood Arts",
+   "Ridgeway",
+   "Elite Way"
+  ]
+ },
+ {
+  "p": "En «Power Rangers», ¿cómo se llaman los robots gigantes que manejan?",
+  "o": [
+   "Zords",
+   "Droides",
+   "Titanes"
+  ]
+ },
+ {
+  "p": "¿Cuántos Teletubbies hay?",
+  "o": [
+   "4",
+   "3",
+   "5"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de «Victorious» interpreta Ariana Grande?",
+  "o": [
+   "Cat Valentine",
+   "Jade West",
+   "Trina Vega"
+  ]
+ },
+ {
+  "p": "¿Qué animal es Doki, de Discovery Kids?",
+  "o": [
+   "Un perro",
+   "Un gato",
+   "Un mono"
+  ]
+ },
+ {
+  "p": "En «Power Rangers», ¿cómo se llama el robot gigante que forman al unirse?",
+  "o": [
+   "Megazord",
+   "Gigazord",
+   "Robozord"
+  ]
+ },
+ {
+  "p": "En «Stranger Things», ¿qué juego de mesa juegan los niños?",
+  "o": [
+   "Dungeons & Dragons",
+   "Monopoly",
+   "Clue"
+  ]
+ },
+ {
+  "p": "¿En qué pueblo pasa «Stranger Things»?",
+  "o": [
+   "Hawkins",
+   "Roanoke",
+   "Millbrook"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿a qué se dedicaba Walter White antes?",
+  "o": [
+   "Era maestro de química",
+   "Era policía",
+   "Era doctor"
+  ]
+ },
+ {
+  "p": "En «Game of Thrones», ¿cómo se llama el trono que todos quieren?",
+  "o": [
+   "El Trono de Hierro",
+   "El Trono de Fuego",
+   "El Trono de Hielo"
+  ]
+ },
+ {
+  "p": "¿Cuál es el lema de los Stark en «Game of Thrones»?",
+  "o": [
+   "«Se acerca el invierno»",
+   "«Fuego y sangre»",
+   "«Oye mi rugido»"
+  ]
+ },
+ {
+  "p": "¿En qué ciudad está la oficina de «The Office»?",
+  "o": [
+   "Scranton",
+   "Stamford",
+   "Nueva York"
+  ]
+ },
+ {
+  "p": "¿Quién es el jefe de la oficina en «The Office»?",
+  "o": [
+   "Michael Scott",
+   "Dwight Schrute",
+   "Jim Halpert"
+  ]
+ },
+ {
+  "p": "En «Friends», ¿en qué cafetería se juntan?",
+  "o": [
+   "Central Perk",
+   "Java Joe's",
+   "Coffee Corner"
+  ]
+ },
+ {
+  "p": "En «The Big Bang Theory», ¿qué dice Sheldon cuando hace una broma?",
+  "o": [
+   "«¡Bazinga!»",
+   "«¡Legendario!»",
+   "«¡Ay, caramba!»"
+  ]
+ },
+ {
+  "p": "En «The Big Bang Theory», ¿en qué trabaja Penny al inicio de la serie?",
+  "o": [
+   "Es mesera",
+   "Es enfermera",
+   "Es maestra"
+  ]
+ },
+ {
+  "p": "En «Los Simpson», ¿cómo se llama el perro de la familia?",
+  "o": [
+   "Ayudante de Santa",
+   "Bola de Nieve",
+   "Bobo"
+  ]
+ },
+ {
+  "p": "¿Qué cerveza toma Homero Simpson?",
+  "o": [
+   "Duff",
+   "Corona",
+   "Buzz Cola"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el robot de «Futurama»?",
+  "o": [
+   "Bender",
+   "Robotina",
+   "Calculón"
+  ]
+ },
+ {
+  "p": "En «Rick and Morty», ¿qué es Rick de Morty?",
+  "o": [
+   "Su abuelo",
+   "Su papá",
+   "Su tío"
+  ]
+ },
+ {
+  "p": "¿De qué familia es Merlina?",
+  "o": [
+   "Los Locos Addams",
+   "Los Munster",
+   "Los Cullen"
+  ]
+ },
+ {
+  "p": "¿Cuál es el primer juego de «El Juego del Calamar»?",
+  "o": [
+   "«Luz roja, luz verde»",
+   "Las canicas",
+   "Jalar la cuerda"
+  ]
+ },
+ {
+  "p": "En «La Casa de Papel», ¿de qué color son los overoles de los atracadores?",
+  "o": [
+   "Rojos",
+   "Negros",
+   "Amarillos"
+  ]
+ },
+ {
+  "p": "En «Malcolm», ¿cuántos hijos tienen Hal y Lois en total?",
+  "o": [
+   "5",
+   "4",
+   "3"
+  ]
+ },
+ {
+  "p": "¿Qué comediante es el narrador de «Todos odian a Chris»?",
+  "o": [
+   "Chris Rock",
+   "Chris Tucker",
+   "Chris Pratt"
+  ]
+ },
+ {
+  "p": "En «Malcolm», ¿qué tiene de especial Malcolm?",
+  "o": [
+   "Es un genio",
+   "Puede leer mentes",
+   "Es adoptado"
+  ]
+ },
+ {
+  "p": "En «El Chapulín Colorado», ¿qué toma el Chapulín para hacerse pequeño?",
+  "o": [
+   "Pastillas de chiquitolina",
+   "Un jarabe mágico",
+   "Polvos de hada"
+  ]
+ },
+ {
+  "p": "¿Cuántos son los amigos protagonistas de «Friends»?",
+  "o": [
+   "6",
+   "5",
+   "4"
+  ]
+ },
+ {
+  "p": "En «El Chavo del 8», ¿cómo se llama el dueño de la vecindad?",
+  "o": [
+   "El Señor Barriga",
+   "Don Ramón",
+   "El Profesor Jirafales"
+  ]
+ },
+ {
+  "p": "En «La familia P. Luche», ¿cómo se llama el papá?",
+  "o": [
+   "Ludovico",
+   "Federico",
+   "Plácido"
+  ]
+ },
+ {
+  "p": "¿Qué actor interpreta a Luis Miguel en «Luis Miguel: la serie»?",
+  "o": [
+   "Diego Boneta",
+   "Diego Luna",
+   "Gael García Bernal"
+  ]
+ },
+ {
+  "p": "En «Rebelde», ¿cómo se llama la escuela?",
+  "o": [
+   "Elite Way School",
+   "Colegio Real",
+   "Instituto Mariano"
+  ]
+ },
+ {
+  "p": "En «Supernatural», ¿cómo se apellidan Sam y Dean?",
+  "o": [
+   "Winchester",
+   "Campbell",
+   "Singer"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el sheriff protagonista de «The Walking Dead»?",
+  "o": [
+   "Rick Grimes",
+   "Daryl Dixon",
+   "Negan"
+  ]
+ },
+ {
+  "p": "En «Dr. House», ¿qué usa House para caminar?",
+  "o": [
+   "Un bastón",
+   "Muletas",
+   "Una silla de ruedas"
+  ]
+ },
+ {
+  "p": "¿En qué ciudad pasa «Grey's Anatomy»?",
+  "o": [
+   "Seattle",
+   "Chicago",
+   "Boston"
+  ]
+ },
+ {
+  "p": "En «Suits», ¿cómo se llama el abogado estrella?",
+  "o": [
+   "Harvey Specter",
+   "Louis Litt",
+   "Mike Ross"
+  ]
+ },
+ {
+  "p": "En «Prison Break», ¿qué hace Michael Scofield para que lo encierren?",
+  "o": [
+   "Asalta un banco",
+   "Roba un auto",
+   "Choca una patrulla"
+  ]
+ },
+ {
+  "p": "¿Qué actor interpreta a Sherlock en «Sherlock»?",
+  "o": [
+   "Benedict Cumberbatch",
+   "Martin Freeman",
+   "Robert Downey Jr."
+  ]
+ },
+ {
+  "p": "¿Qué actriz protagoniza «La Reina del Sur»?",
+  "o": [
+   "Kate del Castillo",
+   "Ana de la Reguera",
+   "Salma Hayek"
+  ]
+ },
+ {
+  "p": "¿Qué narcotraficante es el protagonista de la primera temporada de «Narcos»?",
+  "o": [
+   "Pablo Escobar",
+   "El Chapo",
+   "Rafael Caro Quintero"
+  ]
+ },
+ {
+  "p": "En «Elite», ¿cómo se llama la escuela?",
+  "o": [
+   "Las Encinas",
+   "Elite Way",
+   "Hollywood Arts"
+  ]
+ },
+ {
+  "p": "En «El Juego del Calamar», ¿de qué color son los pants de los jugadores?",
+  "o": [
+   "Verdes",
+   "Rojos",
+   "Grises"
+  ]
+ },
+ {
+  "p": "¿Qué actriz interpreta a Daenerys Targaryen en «Game of Thrones»?",
+  "o": [
+   "Emilia Clarke",
+   "Sophie Turner",
+   "Maisie Williams"
+  ]
+ },
+ {
+  "p": "¿Qué instrumento toca Lisa Simpson?",
+  "o": [
+   "El saxofón",
+   "La trompeta",
+   "El violín"
+  ]
+ },
+ {
+  "p": "¿Qué instrumento toca Calamardo?",
+  "o": [
+   "El clarinete",
+   "La flauta",
+   "La tuba"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la ardilla amiga de Bob Esponja?",
+  "o": [
+   "Arenita",
+   "Perlita",
+   "Karen"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el niño humano de «Hora de Aventura»?",
+  "o": [
+   "Finn",
+   "Marshall",
+   "Billy"
+  ]
+ }
+]

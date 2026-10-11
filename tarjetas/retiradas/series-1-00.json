@@ -1,0 +1,132 @@
+[
+ {
+  "p": "En «Los Padrinos Mágicos», ¿cómo se llaman los padrinos de Timmy?",
+  "o": [
+   "Cosmo y Wanda",
+   "Jorgen y Poof",
+   "Juandissimo y Trixie"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el ornitorrinco de Phineas y Ferb?",
+  "o": [
+   "Perry",
+   "Pinky",
+   "Peter"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «High School Musical», ¿qué deporte juega Troy Bolton?",
+  "o": [
+   "Básquetbol",
+   "Fútbol americano",
+   "Béisbol"
+  ]
+ },
+ {
+  "p": "En «Bob Esponja», ¿dónde trabaja Bob?",
+  "o": [
+   "El Crustáceo Cascarudo",
+   "El Balde de Carnada",
+   "La Fonda de Fondo de Bikini"
+  ]
+ },
+ {
+  "p": "¿Qué niño genio tiene un laboratorio secreto y una hermana llamada Dee Dee?",
+  "o": [
+   "Dexter",
+   "Jimmy Neutrón",
+   "Johnny Bravo"
+  ]
+ },
+ {
+  "p": "En «Stranger Things», ¿cómo se llama la niña con poderes?",
+  "o": [
+   "Once",
+   "Max",
+   "Nancy"
+  ]
+ },
+ {
+  "p": "¿En qué ciudad viven Las Chicas Superpoderosas?",
+  "o": [
+   "Saltadilla",
+   "Ciudad Central",
+   "Villa Alegre"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué arte marcial practican Bob Esponja y Arenita?",
+  "o": [
+   "Karate",
+   "Kung fu",
+   "Judo"
+  ]
+ },
+ {
+  "p": "En «Los Simpson», ¿cómo se llama el dueño del Kwik-E-Mart?",
+  "o": [
+   "Apu",
+   "Moe",
+   "Cletus"
+  ]
+ },
+ {
+  "p": "En «Hannah Montana», ¿cuál es el nombre real de Hannah?",
+  "o": [
+   "Miley Stewart",
+   "Lilly Truscott",
+   "Lola Luftnagle"
+  ]
+ },
+ {
+  "p": "En la serie original de «Ben 10», ¿cómo se llama el reloj alienígena?",
+  "o": [
+   "Omnitrix",
+   "Alientrix",
+   "Megatrix"
+  ]
+ },
+ {
+  "p": "En «Los Simpson», ¿cómo se llama el bar al que va Homero?",
+  "o": [
+   "La taberna de Moe",
+   "El bar de Barney",
+   "La cantina de Lenny"
+  ]
+ },
+ {
+  "p": "En «Animaniacs», ¿cómo se llaman los hermanos Warner?",
+  "o": [
+   "Yakko, Wakko y Dot",
+   "Pinky, Cerebro y Dot",
+   "Buster, Babs y Plucky"
+  ]
+ },
+ {
+  "p": "En «Los Picapiedra», ¿cómo se llama el mejor amigo de Pedro?",
+  "o": [
+   "Pablo Mármol",
+   "Bam-Bam",
+   "Señor Rajuela"
+  ]
+ },
+ {
+  "p": "En «Los Simpson», ¿cómo se llama el vecino religioso de Homero?",
+  "o": [
+   "Ned Flanders",
+   "Lenny",
+   "Moe"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el villano de «LazyTown»?",
+  "o": [
+   "Robbie Rotten",
+   "Sportacus",
+   "Pixel"
+  ]
+ }
+]

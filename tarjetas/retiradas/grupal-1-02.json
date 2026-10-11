@@ -1,0 +1,198 @@
+[
+ {
+  "deporte": true,
+  "p": "¿En qué deporte destacó Ana Guevara?",
+  "o": [
+   "Atletismo",
+   "Natación",
+   "Clavados"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué bebida para deportistas tiene un rayo en su logo?",
+  "o": [
+   "Gatorade",
+   "Powerade",
+   "Electrolit"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué deporte destacó Fernando Valenzuela?",
+  "o": [
+   "Béisbol",
+   "Box",
+   "Fútbol americano"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿De qué ciudad son los Tigres de la UANL?",
+  "o": [
+   "Monterrey",
+   "Guadalajara",
+   "Toluca"
+  ]
+ },
+ {
+  "p": "En el anime, ¿qué indica el «-chan» al final de un nombre?",
+  "o": [
+   "Cariño o confianza",
+   "Respeto a un jefe",
+   "Que es un maestro"
+  ]
+ },
+ {
+  "p": "¿Qué cadena de pollo frito tiene la cara de un señor de barba blanca?",
+  "o": [
+   "KFC",
+   "Popeyes",
+   "Church's"
+  ]
+ },
+ {
+  "p": "¿Qué galletas de Gamesa son redondas, sencillas y de vainilla?",
+  "o": [
+   "Marías",
+   "Emperador",
+   "Chokis"
+  ]
+ },
+ {
+  "p": "¿Qué botana de cerdo en vinagre se vendía en bolsita afuera de las escuelas?",
+  "o": [
+   "Cueritos",
+   "Chicharrones",
+   "Duros"
+  ]
+ },
+ {
+  "p": "¿Qué pingüino de «Madagascar» dice «Kowalski, análisis»?",
+  "o": [
+   "Skipper",
+   "Rico",
+   "Cabo"
+  ]
+ },
+ {
+  "p": "¿Quién pregunta «¿Qué hay de nuevo, viejo?»?",
+  "o": [
+   "Bugs Bunny",
+   "El Pato Lucas",
+   "Porky"
+  ]
+ },
+ {
+  "p": "¿Qué juego de celular llenaba Facebook de solicitudes de «vidas»?",
+  "o": [
+   "Candy Crush",
+   "Angry Birds",
+   "Temple Run"
+  ]
+ },
+ {
+  "p": "¿Qué botana de harina frita tiene forma de ruedita y se come con salsa Valentina?",
+  "o": [
+   "Duros",
+   "Cueritos",
+   "Chicharrones de cerdo"
+  ]
+ },
+ {
+  "p": "¿En qué red social podías darle un «toque» a alguien?",
+  "o": [
+   "Facebook",
+   "Twitter",
+   "Instagram"
+  ]
+ },
+ {
+  "p": "¿Qué dulce de tamarindo se exprime desde un tubito?",
+  "o": [
+   "Pelón Pelo Rico",
+   "Pulparindo",
+   "Rockaleta"
+  ]
+ },
+ {
+  "p": "¿Qué documento pides en una compra para poder deducirla de impuestos?",
+  "o": [
+   "La factura",
+   "El ticket",
+   "La garantía"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la galleta con vida de «Shrek» en el doblaje latino?",
+  "o": [
+   "Jengi",
+   "Galletín",
+   "Pan Dulce"
+  ]
+ },
+ {
+  "p": "¿Qué es pedir un «aventón»?",
+  "o": [
+   "Que te lleven gratis en un auto",
+   "Que te presten dinero",
+   "Que te ayuden a cargar algo"
+  ]
+ },
+ {
+  "p": "¿Qué marca de pegamento en barra pedían en la escuela?",
+  "o": [
+   "Pritt",
+   "Resistol",
+   "Kola Loka"
+  ]
+ },
+ {
+  "p": "¿Qué pan se come para pasar un susto?",
+  "o": [
+   "El bolillo",
+   "La concha",
+   "El cuerno"
+  ]
+ },
+ {
+  "p": "¿Qué es un «puente» en México?",
+  "o": [
+   "Un fin de semana largo por festivo",
+   "Un préstamo entre amigos",
+   "El día que cae la quincena"
+  ]
+ },
+ {
+  "p": "¿Qué significa «¡Qué oso!»?",
+  "o": [
+   "¡Qué vergüenza!",
+   "¡Qué miedo!",
+   "¡Qué flojera!"
+  ]
+ },
+ {
+  "p": "¿Con qué galletas se hace el pay de limón casero?",
+  "o": [
+   "Marías",
+   "Chokis",
+   "Emperador"
+  ]
+ },
+ {
+  "p": "¿Qué juego de patio consiste en tocar a los demás para dejarlos congelados?",
+  "o": [
+   "Encantados",
+   "Stop",
+   "Avioncito"
+  ]
+ },
+ {
+  "p": "¿Qué se le pone al pozole?",
+  "o": [
+   "Rábano, lechuga y orégano",
+   "Cebolla, cilantro y piña",
+   "Crema, queso y aguacate"
+  ]
+ }
+]

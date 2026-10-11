@@ -1,98 +1,100 @@
 [
  {
-  "p": "¿Qué villana de Disney dice «Espejito, espejito»?",
+  "p": "¿De qué estado es la cochinita pibil?",
   "o": [
-   "La Reina Malvada",
-   "Maléfica",
-   "Úrsula"
+   "Yucatán",
+   "Oaxaca",
+   "Puebla"
   ]
  },
  {
-  "p": "¿Qué personaje de «Up» grita «¡Ardilla!» cada que se distrae?",
+  "p": "En «La Rosa de Guadalupe», ¿qué se siente cuando llega el milagro?",
   "o": [
-   "Dug",
-   "Kevin",
-   "Russell"
+   "Un airecito",
+   "Unas campanas",
+   "Un coro de ángeles"
   ]
  },
  {
-  "p": "¿Quién dice «¡Se me chispoteó!»?",
+  "p": "¿Cómo se llama la rana verde del meme «Feels good man»?",
   "o": [
-   "El Chavo",
-   "Quico",
-   "La Chilindrina"
+   "Pepe",
+   "Kermit",
+   "Freddy"
   ]
  },
  {
-  "p": "¿De qué raza es el perro del meme «Doge»?",
+  "p": "Por ley, ¿cuánto es lo mínimo de aguinaldo?",
   "o": [
-   "Shiba Inu",
-   "Akita",
-   "Corgi"
+   "15 días de salario",
+   "10 días de salario",
+   "30 días de salario"
   ]
  },
  {
-  "p": "¿Qué institución cobra los impuestos en México?",
+  "deporte": true,
+  "p": "¿Cuántos anillos de la NBA ganó Michael Jordan?",
   "o": [
-   "El SAT",
-   "El IMSS",
-   "El Infonavit"
+   "6",
+   "5",
+   "4"
   ]
  },
  {
-  "p": "¿Qué app de videos de 6 segundos cerró en 2017?",
+  "p": "¿Qué personaje grita «It's over 9000!» en el famoso meme?",
   "o": [
-   "Vine",
-   "Musical.ly",
-   "Snapchat"
+   "Vegeta",
+   "Goku",
+   "Freezer"
   ]
  },
  {
-  "p": "¿En qué película el protagonista le grita «¡Wilson!» a un balón?",
+  "p": "En Japón, ¿cuándo se dice «itadakimasu»?",
   "o": [
-   "Náufrago",
-   "Forrest Gump",
-   "La terminal"
+   "Antes de comer",
+   "Al llegar a casa",
+   "Al despedirse"
   ]
  },
  {
-  "p": "¿Qué clave de 18 caracteres identifica a cada persona en México?",
+  "p": "En japonés, ¿qué es un «senpai»?",
   "o": [
-   "CURP",
-   "RFC",
-   "NSS"
+   "Alguien con más antigüedad que tú",
+   "Un maestro",
+   "Un hermano menor"
   ]
  },
  {
-  "p": "¿Cuál es la montaña más alta de Japón?",
+  "p": "¿Qué comida japonesa son bolitas rellenas de pulpo?",
   "o": [
-   "Monte Fuji",
-   "Monte Aso",
-   "Monte Takao"
+   "Takoyaki",
+   "Onigiri",
+   "Gyozas"
   ]
  },
  {
-  "p": "¿A quién llaman cuando dicen «¿Y ahora quién podrá defendernos?»?",
+  "deporte": true,
+  "p": "¿Qué luchador mexicano hizo famoso el «619» en la WWE?",
   "o": [
-   "Al Chapulín Colorado",
-   "Al Chavo",
-   "Al Doctor Chapatín"
+   "Rey Mysterio",
+   "Místico",
+   "Sin Cara"
   ]
  },
  {
-  "p": "¿En qué película dicen «Toto, creo que ya no estamos en Kansas»?",
+  "p": "¿Con cuántos botones se jugaba el Tamagotchi?",
   "o": [
-   "El mago de Oz",
-   "Alicia en el país de las maravillas",
-   "Twister"
+   "3",
+   "2",
+   "4"
   ]
  },
  {
-  "p": "¿Qué significa «stalkear» a alguien?",
+  "p": "¿Qué institución da créditos para vivienda a los trabajadores formales?",
   "o": [
-   "Revisar su perfil a escondidas",
-   "Bloquearlo",
-   "Etiquetarlo en fotos"
+   "Infonavit",
+   "La Afore",
+   "El SAT"
   ]
  }
 ]

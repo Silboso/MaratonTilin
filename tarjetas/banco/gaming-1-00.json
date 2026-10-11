@@ -1,115 +1,76 @@
 [
  {
-  "p": "¿Qué enemigo de Mario se tapa la cara con las manos cuando lo miras?",
+  "deporte": true,
+  "p": "¿Cuántos deportes trae el «Wii Sports» original?",
   "o": [
-   "Boo",
-   "Goomba",
-   "Shy Guy"
-  ]
- },
- {
-  "p": "¿Qué heroína de Overwatch es mexicana?",
-  "o": [
-   "Sombra",
-   "Mercy",
-   "Tracer"
-  ]
- },
- {
-  "p": "En Valorant, ¿qué objeto debe plantar el equipo atacante?",
-  "o": [
-   "El Spike",
-   "La bomba C4",
-   "El Núcleo"
-  ]
- },
- {
-  "p": "¿Cómo se llama el protagonista de GTA San Andreas?",
-  "o": [
-   "Carl «CJ» Johnson",
-   "Tommy Vercetti",
-   "Niko Bellic"
+   "5",
+   "4",
+   "7"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué empresa hizo los videojuegos de FIFA hasta FIFA 23?",
+  "p": "En «Punch-Out!!» de Nintendo, ¿cómo se llama el boxeador protagonista?",
   "o": [
-   "EA (Electronic Arts)",
-   "Konami",
-   "Ubisoft"
+   "Little Mac",
+   "Glass Joe",
+   "King Hippo"
   ]
  },
  {
-  "p": "En Minecraft, ¿qué criatura verde explota cuando se te acerca?",
+  "p": "En Clash Royale, ¿cuánto elixir cuesta el Gigante?",
   "o": [
-   "El Creeper",
-   "El Enderman",
-   "El Zombie"
+   "5",
+   "4",
+   "6"
   ]
  },
  {
-  "p": "¿Qué heroína de Overwatch pilotea un MEKA rosa?",
+  "p": "¿Qué agente de Valorant es de México?",
   "o": [
-   "D.Va",
-   "Echo",
-   "Brigitte"
+   "Reyna",
+   "Sage",
+   "Jett"
   ]
  },
  {
-  "p": "¿Cómo se llama el gorila científico de Overwatch?",
+  "p": "En Super Smash Bros., ¿qué objeto te da el ataque definitivo de tu personaje?",
   "o": [
-   "Winston",
-   "Doomfist",
-   "Reinhardt"
+   "La Bola Smash",
+   "La Superestrella",
+   "El Martillo"
   ]
  },
  {
-  "p": "En Clash Royale, ¿cuántas torres tiene cada jugador al empezar la partida?",
+  "p": "En LoL, ¿cómo se llama la definitiva de Jinx?",
   "o": [
-   "3",
-   "2",
-   "4"
+   "¡Súper Mega Cohete Mortal!",
+   "¡Zap!",
+   "¡Masticallamas!"
   ]
  },
  {
-  "p": "¿Qué campeón de LoL es un mono que pelea con un bastón?",
+  "p": "En «NieR: Automata», ¿cómo se llama la androide protagonista de vestido negro?",
   "o": [
-   "Wukong",
-   "Rammus",
-   "Teemo"
+   "2B",
+   "A2",
+   "9S"
   ]
  },
  {
-  "p": "En «Crash Bandicoot», ¿qué fruta colecciona Crash?",
+  "p": "En LoL, ¿qué campeona es la hermana de Jinx?",
   "o": [
-   "La fruta Wumpa",
-   "La mora Cortex",
-   "La manzana Aku"
+   "Vi",
+   "Caitlyn",
+   "Sevika"
   ]
  },
  {
-  "p": "¿Cómo se llama el zorro que es el mejor amigo de Sonic?",
+  "p": "En Breath of the Wild, ¿cómo se llaman las cuatro máquinas gigantes que liberas?",
   "o": [
-   "Tails",
-   "Knuckles",
-   "Silver"
-  ]
- },
- {
-  "p": "En «Five Nights at Freddy's», ¿cuál es tu trabajo?",
-  "o": [
-   "Guardia de seguridad nocturno",
-   "Cocinero de la pizzería",
-   "Animador de fiestas"
-  ]
- },
- {
-  "p": "En «Among Us», ¿cómo se le dice al que sabotea y elimina a los demás?",
-  "o": [
-   "El impostor",
-   "El tripulante",
-   "El fantasma"
+   "Las Bestias Divinas",
+   "Los Guardianes",
+   "Los Titanes"
   ]
  }
 ]

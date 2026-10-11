@@ -1,0 +1,884 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Cuántas casillas tiene un tablero de ajedrez?",
+  "o": [
+   "64",
+   "100",
+   "48"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En ajedrez, ¿qué pieza se mueve en forma de «L»?",
+  "o": [
+   "El caballo",
+   "El alfil",
+   "La torre"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En ajedrez, ¿cuál es la pieza más poderosa?",
+  "o": [
+   "La reina",
+   "El rey",
+   "La torre"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En ajedrez, ¿qué pieza solo se mueve en diagonal?",
+  "o": [
+   "El alfil",
+   "El caballo",
+   "El peón"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En la Fórmula 1, ¿qué bandera marca el final de la carrera?",
+  "o": [
+   "La bandera a cuadros",
+   "La bandera roja",
+   "La bandera azul"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué escudería de la F1 lleva un caballo negro en su escudo?",
+  "o": [
+   "Ferrari",
+   "McLaren",
+   "Williams"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Con qué escudería de F1 ha ganado campeonatos Max Verstappen?",
+  "o": [
+   "Red Bull",
+   "Ferrari",
+   "McLaren"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué escudería de F1 es alemana y de autos plateados?",
+  "o": [
+   "Mercedes",
+   "Audi",
+   "BMW"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En la Fórmula 1, ¿qué significa la bandera amarilla?",
+  "o": [
+   "Peligro: no se puede rebasar",
+   "Última vuelta",
+   "Entrar a pits"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Para qué escudería corrió Checo Pérez de 2021 a 2024?",
+  "o": [
+   "Red Bull",
+   "Ferrari",
+   "Mercedes"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En la F1, ¿qué hacen los mecánicos en un «pit stop»?",
+  "o": [
+   "Cambiar las llantas",
+   "Lavar el auto",
+   "Cambiar de piloto"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Harry Potter y el cáliz de fuego», ¿qué competencia se celebra en Hogwarts?",
+  "o": [
+   "El Torneo de los Tres Magos",
+   "La Copa Mundial de Quidditch",
+   "El Duelo de Magos"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué vuelan los jugadores de Quidditch?",
+  "o": [
+   "En escobas",
+   "En dragones",
+   "En hipogrifos"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué aparato cuenta los pasos que das al caminar?",
+  "o": [
+   "Podómetro",
+   "Barómetro",
+   "Velocímetro"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué juego de mesa usa una ruleta para poner manos y pies en círculos de colores?",
+  "o": [
+   "Twister",
+   "Jenga",
+   "Turista"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se le dice en México al juego de mesa de fútbol con muñequitos en barras?",
+  "o": [
+   "Futbolito",
+   "Tochito",
+   "Fut rápido"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Thor: Ragnarok», ¿contra quién pelea Thor en la arena de gladiadores?",
+  "o": [
+   "Hulk",
+   "Loki",
+   "Hela"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Capitán América 2», ¿qué le dice Steve a Sam cada vez que lo rebasa corriendo?",
+  "o": [
+   "«A tu izquierda»",
+   "«Más rápido»",
+   "«Sigue el paso»"
+  ]
+ },
+ {
+  "p": "¿Qué actor interpreta a Thor en el UCM?",
+  "o": [
+   "Chris Hemsworth",
+   "Chris Evans",
+   "Chris Pratt"
+  ]
+ },
+ {
+  "p": "¿De qué metal está hecho el escudo del Capitán América?",
+  "o": [
+   "Vibranium",
+   "Adamantium",
+   "Titanio"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el hermano adoptivo de Thor?",
+  "o": [
+   "Loki",
+   "Heimdall",
+   "Balder"
+  ]
+ },
+ {
+  "p": "¿Qué villano de Spider-Man es un simbionte alienígena negro con colmillos?",
+  "o": [
+   "Venom",
+   "Mysterio",
+   "Electro"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de Star Wars se peina con dos chongos a los lados?",
+  "o": [
+   "La princesa Leia",
+   "Ahsoka Tano",
+   "Mon Mothma"
+  ]
+ },
+ {
+  "p": "¿Qué integrante de los Guardianes de la Galaxia es un árbol?",
+  "o": [
+   "Groot",
+   "Drax",
+   "Rocket"
+  ]
+ },
+ {
+  "p": "¿Qué Vengador pelea con arco y flechas?",
+  "o": [
+   "Ojo de Halcón",
+   "Black Widow",
+   "Falcon"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el mapache de los Guardianes de la Galaxia?",
+  "o": [
+   "Rocket",
+   "Drax",
+   "Yondu"
+  ]
+ },
+ {
+  "p": "¿De qué metal son las garras de Wolverine?",
+  "o": [
+   "Adamantium",
+   "Vibranium",
+   "Acero"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el periódico donde trabaja Clark Kent?",
+  "o": [
+   "El Planeta Diario",
+   "El Clarín de Gótica",
+   "La Gaceta Central"
+  ]
+ },
+ {
+  "p": "¿En qué ciudad vive Batman?",
+  "o": [
+   "Ciudad Gótica",
+   "Metrópolis",
+   "Ciudad Central"
+  ]
+ },
+ {
+  "p": "¿Cuál es la debilidad de Superman?",
+  "o": [
+   "La kriptonita",
+   "El vibranium",
+   "La plata"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el mayordomo de Batman?",
+  "o": [
+   "Alfred",
+   "Lucius",
+   "Jarvis"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama Superman cuando está disfrazado de humano?",
+  "o": [
+   "Clark Kent",
+   "Bruce Wayne",
+   "Barry Allen"
+  ]
+ },
+ {
+  "p": "¿Qué villano de Batman es un payaso?",
+  "o": [
+   "El Guasón",
+   "El Pingüino",
+   "Dos Caras"
+  ]
+ },
+ {
+  "p": "¿Qué superheroína amazona tiene el Lazo de la Verdad?",
+  "o": [
+   "La Mujer Maravilla",
+   "Supergirl",
+   "Batichica"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el ayudante joven de Batman?",
+  "o": [
+   "Robin",
+   "Cyborg",
+   "Kid Flash"
+  ]
+ },
+ {
+  "p": "En Star Wars, ¿qué tipo de criatura es Jabba?",
+  "o": [
+   "Un hutt",
+   "Un jawa",
+   "Un gungan"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la novia pelirroja de Spider-Man que le dice «tigre»?",
+  "o": [
+   "Mary Jane",
+   "Gwen Stacy",
+   "Felicia Hardy"
+  ]
+ },
+ {
+  "p": "¿Qué maestro Jedi es pequeño, verde y habla al revés?",
+  "o": [
+   "Yoda",
+   "Grogu",
+   "Mace Windu"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el wookiee compañero de Han Solo?",
+  "o": [
+   "Chewbacca",
+   "Wicket",
+   "Jabba"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la nave de Han Solo?",
+  "o": [
+   "El Halcón Milenario",
+   "El X-Wing",
+   "El Destructor Estelar"
+  ]
+ },
+ {
+  "p": "¿Cómo le dice internet a Grogu?",
+  "o": [
+   "Baby Yoda",
+   "Mini Jedi",
+   "Yodita"
+  ]
+ },
+ {
+  "p": "En Star Wars, ¿cómo se llama la estación espacial del Imperio que destruye planetas?",
+  "o": [
+   "La Estrella de la Muerte",
+   "El Ejecutor",
+   "La Base Eco"
+  ]
+ },
+ {
+  "p": "¿Qué frase se dicen los Jedi para desearse suerte?",
+  "o": [
+   "«Que la Fuerza te acompañe»",
+   "«Larga vida y prosperidad»",
+   "«Hasta el infinito»"
+  ]
+ },
+ {
+  "p": "¿Qué droide de Star Wars es dorado y habla millones de idiomas?",
+  "o": [
+   "C-3PO",
+   "R2-D2",
+   "BB-8"
+  ]
+ },
+ {
+  "p": "¿Qué objeto usa Harry Potter para volverse invisible?",
+  "o": [
+   "Una capa",
+   "Un anillo",
+   "Un sombrero"
+  ]
+ },
+ {
+  "p": "¿Con qué tíos vive Harry Potter antes de entrar a Hogwarts?",
+  "o": [
+   "Los Dursley",
+   "Los Weasley",
+   "Los Malfoy"
+  ]
+ },
+ {
+  "p": "¿Qué actor interpretó a Harry Potter en las películas?",
+  "o": [
+   "Daniel Radcliffe",
+   "Rupert Grint",
+   "Tom Felton"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el director de Hogwarts en casi toda la saga?",
+  "o": [
+   "Albus Dumbledore",
+   "Severus Snape",
+   "Minerva McGonagall"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el guardabosques gigante de Hogwarts?",
+  "o": [
+   "Hagrid",
+   "Filch",
+   "Dobby"
+  ]
+ },
+ {
+  "p": "¿De qué andén sale el tren a Hogwarts?",
+  "o": [
+   "9 ¾",
+   "7 ½",
+   "10 ¼"
+  ]
+ },
+ {
+  "p": "¿Qué hechizo usa Harry para desarmar a sus enemigos?",
+  "o": [
+   "Expelliarmus",
+   "Lumos",
+   "Wingardium Leviosa"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de «El Señor de los Anillos» le dice «mi tesoro» al Anillo?",
+  "o": [
+   "Gollum",
+   "Gimli",
+   "Legolas"
+  ]
+ },
+ {
+  "p": "En «El Señor de los Anillos», ¿quién lleva el Anillo Único?",
+  "o": [
+   "Frodo",
+   "Sam",
+   "Aragorn"
+  ]
+ },
+ {
+  "p": "¿Qué le grita Gandalf al Balrog en el puente?",
+  "o": [
+   "«¡No puedes pasar!»",
+   "«¡Corran, insensatos!»",
+   "«¡Por la Comarca!»"
+  ]
+ },
+ {
+  "p": "¿Qué son Frodo y Sam?",
+  "o": [
+   "Hobbits",
+   "Elfos",
+   "Enanos"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el mago de «El Señor de los Anillos» que acompaña a la Comunidad?",
+  "o": [
+   "Gandalf",
+   "Saruman",
+   "Radagast"
+  ]
+ },
+ {
+  "p": "En UNO, ¿con qué carta eliges color y el siguiente tiene que comer cartas?",
+  "o": [
+   "El comodín +4",
+   "El +2",
+   "La reversa"
+  ]
+ },
+ {
+  "p": "En Monopoly, ¿qué construyes en una propiedad después de tener cuatro casas?",
+  "o": [
+   "Un hotel",
+   "Un edificio",
+   "Un castillo"
+  ]
+ },
+ {
+  "p": "En Jenga, ¿qué tienes que hacer?",
+  "o": [
+   "Sacar bloques sin tirar la torre",
+   "Armar una torre lo más rápido posible",
+   "Adivinar palabras"
+  ]
+ },
+ {
+  "p": "¿Qué juego de mesa mexicano es parecido al Monopoly?",
+  "o": [
+   "Turista",
+   "Maratón",
+   "Destreza"
+  ]
+ },
+ {
+  "p": "¿Cuál es el planeta más grande del sistema solar?",
+  "o": [
+   "Júpiter",
+   "Saturno",
+   "Neptuno"
+  ]
+ },
+ {
+  "p": "¿Cuál es el animal más grande del mundo?",
+  "o": [
+   "La ballena azul",
+   "El elefante africano",
+   "El tiburón ballena"
+  ]
+ },
+ {
+  "p": "¿Cuántos planetas tiene el sistema solar?",
+  "o": [
+   "8",
+   "9",
+   "7"
+  ]
+ },
+ {
+  "p": "¿Qué planeta tiene los anillos más famosos?",
+  "o": [
+   "Saturno",
+   "Urano",
+   "Júpiter"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la agencia espacial de Estados Unidos?",
+  "o": [
+   "NASA",
+   "ESA",
+   "SpaceX"
+  ]
+ },
+ {
+  "p": "¿Quién fue el primer hombre en pisar la Luna?",
+  "o": [
+   "Neil Armstrong",
+   "Buzz Aldrin",
+   "Yuri Gagarin"
+  ]
+ },
+ {
+  "p": "¿Qué dinosaurio carnívoro es famoso por sus bracitos cortos?",
+  "o": [
+   "T-Rex",
+   "Velocirraptor",
+   "Braquiosaurio"
+  ]
+ },
+ {
+  "p": "¿Qué científico propuso la teoría de la evolución de las especies?",
+  "o": [
+   "Charles Darwin",
+   "Gregor Mendel",
+   "Louis Pasteur"
+  ]
+ },
+ {
+  "p": "¿Quién fundó Apple junto con Wozniak?",
+  "o": [
+   "Steve Jobs",
+   "Bill Gates",
+   "Elon Musk"
+  ]
+ },
+ {
+  "p": "¿Qué empresa fabrica los celulares Pixel?",
+  "o": [
+   "Google",
+   "Motorola",
+   "Samsung"
+  ]
+ },
+ {
+  "p": "¿Quién creó Facebook?",
+  "o": [
+   "Mark Zuckerberg",
+   "Jack Dorsey",
+   "Larry Page"
+  ]
+ },
+ {
+  "p": "¿Qué app de navegación con un logo sonriente te avisa del tráfico?",
+  "o": [
+   "Waze",
+   "Google Maps",
+   "Uber"
+  ]
+ },
+ {
+  "p": "¿Qué empresa fabrica el PlayStation?",
+  "o": [
+   "Sony",
+   "Nintendo",
+   "Microsoft"
+  ]
+ },
+ {
+  "p": "¿De qué país es Samsung?",
+  "o": [
+   "Corea del Sur",
+   "Japón",
+   "China"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la app de Meta para publicar textos que compite con X?",
+  "o": [
+   "Threads",
+   "Bluesky",
+   "Tumblr"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el asistente de voz de Amazon?",
+  "o": [
+   "Alexa",
+   "Siri",
+   "Bixby"
+  ]
+ },
+ {
+  "p": "¿De qué país es la app TikTok?",
+  "o": [
+   "China",
+   "Japón",
+   "Estados Unidos"
+  ]
+ },
+ {
+  "p": "¿Qué app tiene como logo un fantasmita sobre fondo amarillo?",
+  "o": [
+   "Snapchat",
+   "Telegram",
+   "Pinterest"
+  ]
+ },
+ {
+  "p": "¿Qué red social nació a partir de la app Musical.ly?",
+  "o": [
+   "TikTok",
+   "Vine",
+   "Likee"
+  ]
+ },
+ {
+  "p": "¿Qué superhéroe de Marvel es Steve Rogers?",
+  "o": [
+   "El Capitán América",
+   "Iron Man",
+   "El Halcón"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el mejor amigo de Peter Parker en las películas de Tom Holland?",
+  "o": [
+   "Ned",
+   "Harry Osborn",
+   "Flash Thompson"
+  ]
+ },
+ {
+  "p": "¿Qué empresa creó ChatGPT?",
+  "o": [
+   "OpenAI",
+   "Google",
+   "Microsoft"
+  ]
+ },
+ {
+  "p": "¿Qué significan las siglas «www» de las páginas web?",
+  "o": [
+   "World Wide Web",
+   "World Web Window",
+   "Wide Web World"
+  ]
+ },
+ {
+  "p": "¿Qué héroe griego tenía el talón como único punto débil?",
+  "o": [
+   "Aquiles",
+   "Hércules",
+   "Perseo"
+  ]
+ },
+ {
+  "p": "¿Quién es el papá de Thor en Marvel y en la mitología nórdica?",
+  "o": [
+   "Odín",
+   "Heimdall",
+   "Tyr"
+  ]
+ },
+ {
+  "p": "En «Percy Jackson», ¿de qué dios es hijo Percy?",
+  "o": [
+   "Poseidón",
+   "Zeus",
+   "Hades"
+  ]
+ },
+ {
+  "p": "¿Qué criatura mitológica convierte en piedra con la mirada?",
+  "o": [
+   "Medusa",
+   "La Hidra",
+   "La Esfinge"
+  ]
+ },
+ {
+  "p": "En Serpientes y escaleras, ¿qué pasa si caes en la cabeza de una serpiente?",
+  "o": [
+   "Bajas hasta su cola",
+   "Pierdes un turno",
+   "Regresas a la salida"
+  ]
+ },
+ {
+  "p": "¿Qué tienda en línea tiene de logo una flecha que parece sonrisa?",
+  "o": [
+   "Amazon",
+   "Mercado Libre",
+   "eBay"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el navegador de internet de Apple?",
+  "o": [
+   "Safari",
+   "Opera",
+   "Edge"
+  ]
+ },
+ {
+  "p": "¿Qué plataforma es famosa por ver transmisiones en vivo de videojuegos?",
+  "o": [
+   "Twitch",
+   "Discord",
+   "Steam"
+  ]
+ },
+ {
+  "p": "En «Yu-Gi-Oh!», ¿cómo se llama el rival millonario de Yugi?",
+  "o": [
+   "Seto Kaiba",
+   "Joey Wheeler",
+   "Tristán Taylor"
+  ]
+ },
+ {
+  "p": "En «Yu-Gi-Oh!», ¿cómo se le dice a las batallas de cartas?",
+  "o": [
+   "Duelos",
+   "Combates",
+   "Torneos"
+  ]
+ },
+ {
+  "p": "¿Cuál es el planeta más cercano al Sol?",
+  "o": [
+   "Mercurio",
+   "Venus",
+   "Marte"
+  ]
+ },
+ {
+  "p": "¿Qué científico tiene una famosa foto sacando la lengua?",
+  "o": [
+   "Albert Einstein",
+   "Isaac Newton",
+   "Nikola Tesla"
+  ]
+ },
+ {
+  "p": "¿Qué villano de los X-Men controla el metal?",
+  "o": [
+   "Magneto",
+   "Mística",
+   "Juggernaut"
+  ]
+ },
+ {
+  "p": "¿Qué superhéroe es Tony Stark?",
+  "o": [
+   "Iron Man",
+   "Capitán América",
+   "Doctor Strange"
+  ]
+ },
+ {
+  "p": "¿Qué superhéroe es Bruce Wayne?",
+  "o": [
+   "Batman",
+   "Superman",
+   "Flash"
+  ]
+ },
+ {
+  "p": "¿Qué científico se convierte en Hulk?",
+  "o": [
+   "Bruce Banner",
+   "Tony Stark",
+   "Stephen Strange"
+  ]
+ },
+ {
+  "p": "¿Cómo se llaman los soldados de armadura blanca del Imperio en Star Wars?",
+  "o": [
+   "Stormtroopers",
+   "Mandalorianos",
+   "Sith"
+  ]
+ },
+ {
+  "p": "¿Qué tienen de especial los pies de los hobbits?",
+  "o": [
+   "Son grandes y peludos",
+   "Son muy pequeños",
+   "Tienen garras"
+  ]
+ },
+ {
+  "p": "En Harry Potter, ¿cómo se llaman los dulces de todos los sabores, hasta de moco?",
+  "o": [
+   "Grageas Bertie Bott",
+   "Ranas de chocolate",
+   "Meigas fritas"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el mejor amigo pelirrojo de Harry Potter?",
+  "o": [
+   "Ron Weasley",
+   "Neville Longbottom",
+   "Draco Malfoy"
+  ]
+ },
+ {
+  "p": "¿Qué cuerpo celeste dejó de considerarse planeta en 2006?",
+  "o": [
+   "Plutón",
+   "Ceres",
+   "Eris"
+  ]
+ },
+ {
+  "p": "¿Qué combinación de teclas deshace lo último que hiciste?",
+  "o": [
+   "Ctrl + Z",
+   "Ctrl + Y",
+   "Ctrl + X"
+  ]
+ },
+ {
+  "p": "¿Qué semidiós griego es famoso por su fuerza y sus doce trabajos?",
+  "o": [
+   "Hércules",
+   "Aquiles",
+   "Perseo"
+  ]
+ },
+ {
+  "p": "En «El Señor de los Anillos», ¿qué era Gollum antes de cambiar por el Anillo?",
+  "o": [
+   "Un hobbit",
+   "Un elfo",
+   "Un enano"
+  ]
+ },
+ {
+  "p": "¿Qué tipo de conector usan para cargar casi todos los celulares Android nuevos?",
+  "o": [
+   "USB-C",
+   "Micro USB",
+   "Mini USB"
+  ]
+ }
+]

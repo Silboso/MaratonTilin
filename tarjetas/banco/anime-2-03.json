@@ -1,198 +1,198 @@
 [
  {
   "deporte": true,
-  "p": "En «Hajime no Ippo», ¿por qué empieza Ippo a boxear?",
+  "p": "En «Hajime no Ippo», ¿cómo se llama el rival de Osaka que se vuelve amigo de Ippo?",
   "o": [
-   "Lo salvó un boxeador de abusones",
-   "Su papá había sido campeón",
-   "Ganó un torneo escolar"
+   "Takeshi Sendo",
+   "Ichiro Miyata",
+   "Eiji Date"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Blue Lock», ¿la selección de qué país quieren hacer campeona?",
+  "p": "En «Supercampeones», ¿desde dónde presumía Benji que nadie le podía anotar?",
   "o": [
-   "Japón",
-   "Brasil",
-   "Alemania"
+   "Desde fuera del área",
+   "Desde el área chica",
+   "Desde el punto penal"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué actor es el entrenador de básquetbol en «Coach Carter»?",
+  "p": "En «Hajime no Ippo», ¿de qué país viene el boxeador Volg?",
   "o": [
-   "Samuel L. Jackson",
-   "Denzel Washington",
-   "Morgan Freeman"
+   "Rusia",
+   "Alemania",
+   "Polonia"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué actor protagoniza «Gigantes de acero», de robots boxeadores?",
+  "p": "En «Rocky», ¿qué golpea Rocky como costal en el trabajo de Paulie?",
   "o": [
-   "Hugh Jackman",
-   "Mark Wahlberg",
-   "Chris Hemsworth"
+   "Reses congeladas",
+   "Llantas de camión",
+   "Costales de harina"
   ]
  },
  {
-  "p": "¿Cómo se llama el villano rosa de Dragon Ball Z?",
+  "p": "En «Dragon Ball», ¿quién es el maestro de Ten Shin Han?",
   "o": [
-   "Majin Buu",
-   "Babidi",
-   "Dabura"
+   "El Maestro Grulla",
+   "El Maestro Roshi",
+   "Kami-sama"
   ]
  },
  {
-  "p": "¿Qué técnica hace Goku juntando la energía de todos los seres vivos?",
+  "p": "¿Cómo se llama la hija de Krilin y la Androide 18?",
   "o": [
-   "La Genkidama",
-   "El Kaioken",
-   "El Kamehameha"
+   "Marron",
+   "Pan",
+   "Bra"
   ]
  },
  {
-  "p": "¿Cómo se llama el hijo de Vegeta y Bulma?",
+  "p": "¿Cómo se llama el ángel que acompaña a Bills?",
   "o": [
-   "Trunks",
-   "Goten",
-   "Gohan"
+   "Whis",
+   "Vados",
+   "Zeno"
   ]
  },
  {
-  "p": "En «Naruto», ¿qué ojo especial tiene el clan Hyuga?",
+  "p": "En «Viernes 13» (1980), ¿quién es el asesino del campamento?",
   "o": [
-   "Byakugan",
-   "Sharingan",
-   "Rinnegan"
+   "La mamá de Jason",
+   "Jason Voorhees",
+   "El cocinero del campamento"
   ]
  },
  {
-  "p": "En «Naruto», ¿quién es el sensei de Rock Lee?",
+  "p": "En «Naruto», ¿quién fue el maestro de Jiraiya, Tsunade y Orochimaru?",
   "o": [
-   "Might Guy",
-   "Kakashi",
-   "Asuma"
+   "El Tercer Hokage",
+   "El Cuarto Hokage",
+   "Danzo"
   ]
  },
  {
-  "p": "En la primera «Kung Fu Panda», ¿cómo se llama el villano?",
+  "p": "¿Qué miembro de Akatsuki parece tiburón y usa la espada Samehada?",
   "o": [
-   "Tai Lung",
-   "Lord Shen",
-   "Kai"
+   "Kisame",
+   "Deidara",
+   "Kakuzu"
   ]
  },
  {
-  "p": "En «Digimon Adventure», ¿cuál es el Digimon de Sora?",
+  "p": "¿Qué Pokémon evoluciona en Gengar al intercambiarlo?",
   "o": [
-   "Biyomon",
-   "Palmon",
-   "Tentomon"
+   "Haunter",
+   "Gastly",
+   "Misdreavus"
   ]
  },
  {
-  "p": "En «Death Note», ¿qué nombre falso usa L con Light?",
+  "p": "En «Pokémon», ¿cómo se llama la mamá de Ash?",
   "o": [
-   "Ryuzaki",
-   "Kira",
-   "Near"
+   "Delia",
+   "Joy",
+   "Jenny"
   ]
  },
  {
-  "p": "En «Code Geass», ¿qué imperio conquista Japón?",
+  "p": "En «Digimon Adventure», ¿qué emblema tiene Tai?",
   "o": [
-   "Britannia",
-   "La Unión Euroasiática",
-   "La Federación China"
+   "El Valor",
+   "La Amistad",
+   "La Esperanza"
   ]
  },
  {
-  "p": "En «Attack on Titan», ¿qué titán rompe la muralla al inicio?",
+  "p": "En «Digimon Adventure», ¿cómo se llama el hermano menor de Matt?",
   "o": [
-   "El Titán Colosal",
-   "El Titán Bestia",
-   "El Titán Mandíbula"
+   "T.K.",
+   "Izzy",
+   "Joe"
   ]
  },
  {
-  "p": "En «Jujutsu Kaisen», ¿a quién le dicen el Rey de las Maldiciones?",
+  "p": "En «Death Note», ¿qué sucesor de L trabaja con la mafia?",
   "o": [
-   "Sukuna",
-   "Mahito",
-   "Jogo"
+   "Mello",
+   "Near",
+   "Matt"
   ]
  },
  {
-  "p": "En «Demon Slayer», ¿qué personaje pelea mejor cuando se queda dormido?",
+  "p": "En «Piratas del Caribe», ¿hacia dónde apunta la brújula de Jack Sparrow?",
   "o": [
-   "Zenitsu",
-   "Inosuke",
-   "Tanjiro"
+   "A lo que más deseas",
+   "Al norte verdadero",
+   "Al tesoro más cercano"
   ]
  },
  {
-  "p": "En «One Punch Man», ¿de qué color es la capa de Saitama?",
+  "p": "En «Jujutsu Kaisen», ¿qué grado de hechicero tiene Gojo?",
   "o": [
-   "Blanca",
-   "Roja",
-   "Negra"
+   "Grado especial",
+   "Primer grado",
+   "Grado uno semi"
   ]
  },
  {
-  "p": "En «Hunter x Hunter», ¿a quién busca Gon?",
+  "p": "En «Demon Slayer», ¿qué Pilar usa la Respiración del Sonido?",
   "o": [
-   "A su papá",
-   "A su mamá",
-   "A su hermano"
+   "Tengen Uzui",
+   "Kyojuro Rengoku",
+   "Obanai Iguro"
   ]
  },
  {
-  "p": "En «Fullmetal Alchemist», ¿qué buscan los hermanos Elric?",
+  "p": "¿Cuál es el apellido de Tanjiro en «Demon Slayer»?",
   "o": [
-   "La piedra filosofal",
-   "El círculo de transmutación perfecto",
-   "Un homúnculo"
+   "Kamado",
+   "Agatsuma",
+   "Hashibira"
   ]
  },
  {
-  "p": "¿Cómo se llama la brujita repartidora de Studio Ghibli?",
+  "p": "En «Y tu mamá también», ¿cómo se llama la playa a la que van los tres?",
   "o": [
-   "Kiki",
-   "Chihiro",
-   "Sophie"
+   "Boca del Cielo",
+   "Puerto Escondido",
+   "Playa del Carmen"
   ]
  },
  {
-  "p": "En «Jurassic Park», ¿qué dinosaurio escupe veneno?",
+  "p": "En «Kill Bill», ¿cuál es el nombre clave de la Novia?",
   "o": [
-   "El dilofosaurio",
-   "El velocirraptor",
-   "El compsognathus"
+   "Mamba Negra",
+   "Boca de Algodón",
+   "Cabeza de Cobre"
   ]
  },
  {
-  "p": "En «Matrix», ¿a quién le dicen «el Elegido»?",
+  "p": "En «Jurassic Park», ¿qué personaje dice «La vida se abre camino»?",
   "o": [
-   "A Neo",
-   "A Morfeo",
-   "A Trinity"
+   "Ian Malcolm",
+   "Alan Grant",
+   "John Hammond"
   ]
  },
  {
-  "p": "En «Mean Girls», ¿cómo le dicen al grupo de Regina George?",
+  "p": "¿Qué actor interpreta a Pennywise en «It» (2017)?",
   "o": [
-   "Las Plásticas",
-   "Las Divinas",
-   "Las Reinas"
+   "Bill Skarsgård",
+   "Tim Curry",
+   "Joaquin Phoenix"
   ]
  },
  {
-  "p": "¿En qué pueblo pasa «It»?",
+  "p": "¿Qué código aparece escondido en casi todas las películas de Pixar?",
   "o": [
-   "Derry",
-   "Hawkins",
-   "Castle Rock"
+   "A113",
+   "B612",
+   "THX 1138"
   ]
  }
 ]

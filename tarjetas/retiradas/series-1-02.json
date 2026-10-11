@@ -1,0 +1,198 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Qué arte marcial practican en «Cobra Kai»?",
+  "o": [
+   "Karate",
+   "Kung fu",
+   "Taekwondo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Glee», ¿qué deporte juega Finn?",
+  "o": [
+   "Fútbol americano",
+   "Básquetbol",
+   "Béisbol"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Stranger Things», ¿en qué andan los niños por todo Hawkins?",
+  "o": [
+   "En bicicleta",
+   "En patineta",
+   "En patines"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Club de Cuervos», ¿qué puesto tiene Chava en el equipo?",
+  "o": [
+   "Presidente",
+   "Entrenador",
+   "Portero"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la camioneta de Scooby-Doo y sus amigos?",
+  "o": [
+   "La Máquina del Misterio",
+   "El Autobús Mágico",
+   "La Van Fantasma"
+  ]
+ },
+ {
+  "p": "En «Los Simpson», ¿cómo se llama el abuelo de Bart?",
+  "o": [
+   "Abraham",
+   "Herbert",
+   "Clancy"
+  ]
+ },
+ {
+  "p": "En «Stranger Things», ¿qué le pasa a Once cuando usa sus poderes?",
+  "o": [
+   "Le sangra la nariz",
+   "Se le ponen blancos los ojos",
+   "Le sale humo de la boca"
+  ]
+ },
+ {
+  "p": "En «Hora de Aventura», ¿qué animal es Jake?",
+  "o": [
+   "Un perro",
+   "Un gato",
+   "Un oso"
+  ]
+ },
+ {
+  "p": "En «Hora de Aventura», ¿qué poder tiene Jake?",
+  "o": [
+   "Estirarse",
+   "Volar",
+   "Ser invisible"
+  ]
+ },
+ {
+  "p": "En «Ben 10», ¿de dónde salió el Omnitrix?",
+  "o": [
+   "Cayó del espacio",
+   "Se lo dio su abuelo",
+   "Lo encontró en el mar"
+  ]
+ },
+ {
+  "p": "En «Tom y Jerry», ¿cómo se llama el perro bulldog?",
+  "o": [
+   "Spike",
+   "Butch",
+   "Toodles"
+  ]
+ },
+ {
+  "p": "En «iCarly», ¿qué hacen Carly, Sam y Freddie?",
+  "o": [
+   "Un programa web",
+   "Una banda",
+   "Un periódico escolar"
+  ]
+ },
+ {
+  "p": "En «Hannah Montana», ¿qué secreto esconde Miley?",
+  "o": [
+   "Que es una estrella pop",
+   "Que trabaja de niñera",
+   "Que se va a mudar"
+  ]
+ },
+ {
+  "p": "¿Qué son Zack y Cody?",
+  "o": [
+   "Gemelos",
+   "Primos",
+   "Mejores amigos"
+  ]
+ },
+ {
+  "p": "¿Qué son Drake y Josh?",
+  "o": [
+   "Hermanastros",
+   "Gemelos",
+   "Primos"
+  ]
+ },
+ {
+  "p": "En «Stranger Things», ¿quién desaparece al principio?",
+  "o": [
+   "Will Byers",
+   "Mike Wheeler",
+   "Dustin Henderson"
+  ]
+ },
+ {
+  "p": "En «Friends», ¿quién es chef?",
+  "o": [
+   "Monica",
+   "Rachel",
+   "Phoebe"
+  ]
+ },
+ {
+  "p": "En «The Big Bang Theory», ¿quién es el ingeniero que vive con su mamá?",
+  "o": [
+   "Howard",
+   "Raj",
+   "Leonard"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿qué droga fabrica Walter White?",
+  "o": [
+   "Metanfetamina",
+   "Cocaína",
+   "Marihuana"
+  ]
+ },
+ {
+  "p": "En «Game of Thrones», ¿qué familia tiene un lobo como símbolo?",
+  "o": [
+   "Los Stark",
+   "Los Lannister",
+   "Los Targaryen"
+  ]
+ },
+ {
+  "p": "En «El Chavo del 8», ¿cómo le dicen a la niña de las coletas?",
+  "o": [
+   "La Chilindrina",
+   "La Popis",
+   "Paty"
+  ]
+ },
+ {
+  "p": "En «El Chavo del 8», ¿qué personaje se viste de marinero?",
+  "o": [
+   "Quico",
+   "El Chavo",
+   "Ñoño"
+  ]
+ },
+ {
+  "p": "¿Qué actriz interpreta a Merlina en la serie de Netflix?",
+  "o": [
+   "Jenna Ortega",
+   "Millie Bobby Brown",
+   "Emma Myers"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿dónde cocinan Walter y Jesse al principio?",
+  "o": [
+   "En una casa rodante",
+   "En una bodega",
+   "En un sótano"
+  ]
+ }
+]

@@ -1,0 +1,108 @@
+[
+ {
+  "deporte": true,
+  "p": "En «Supercampeones», ¿qué tienen de famosas las canchas donde juegan?",
+  "o": [
+   "Parecen no tener fin",
+   "Son de pasto azul",
+   "Siempre están nevadas"
+  ]
+ },
+ {
+  "p": "En «Ratatouille», ¿en qué ciudad está el restaurante de Gusteau?",
+  "o": [
+   "París",
+   "Roma",
+   "Londres"
+  ]
+ },
+ {
+  "p": "En «Coco» de Pixar, ¿cómo se llama el xoloitzcuintle de Miguel?",
+  "o": [
+   "Dante",
+   "Pepita",
+   "Chicharrón"
+  ]
+ },
+ {
+  "p": "En «One Piece», ¿qué sueña ser Monkey D. Luffy?",
+  "o": [
+   "El Rey de los Piratas",
+   "Almirante de la Marina",
+   "El mejor espadachín del mundo"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿a qué equipo villano pertenecen Jessie y James?",
+  "o": [
+   "Equipo Rocket",
+   "Equipo Magma",
+   "Equipo Galaxia"
+  ]
+ },
+ {
+  "p": "¿En qué película Eugenio Derbez cría a una niña en Los Ángeles?",
+  "o": [
+   "No se aceptan devoluciones",
+   "Nosotros los Nobles",
+   "¿Qué culpa tiene el niño?"
+  ]
+ },
+ {
+  "p": "¿Qué director hizo «Titanic» y «Avatar»?",
+  "o": [
+   "James Cameron",
+   "Steven Spielberg",
+   "Christopher Nolan"
+  ]
+ },
+ {
+  "p": "En «Attack on Titan», ¿cuál es el apellido de Eren?",
+  "o": [
+   "Jaeger",
+   "Ackerman",
+   "Arlert"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿qué bestia con cola está sellada dentro de Naruto?",
+  "o": [
+   "El Kyubi (nueve colas)",
+   "Shukaku (una cola)",
+   "El Hachibi (ocho colas)"
+  ]
+ },
+ {
+  "p": "En «Dragon Ball Z», ¿quién es el príncipe de los Saiyajin?",
+  "o": [
+   "Vegeta",
+   "Goku",
+   "Raditz"
+  ]
+ },
+ {
+  "p": "En «Konosuba», ¿cuál es el único hechizo que usa Megumin?",
+  "o": [
+   "Explosión",
+   "Bola de fuego",
+   "Rayo"
+  ]
+ },
+ {
+  "p": "En «Shrek 2», ¿cómo se llama el reino de los papás de Fiona?",
+  "o": [
+   "Muy Muy Lejano",
+   "Duloc",
+   "Encantia"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Initial D», ¿qué técnica usa Takumi para tomar las curvas?",
+  "o": [
+   "El derrape",
+   "El nitro",
+   "El rebufo"
+  ]
+ }
+]

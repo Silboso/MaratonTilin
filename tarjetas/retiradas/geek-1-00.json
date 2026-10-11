@@ -1,0 +1,100 @@
+[
+ {
+  "p": "¿Qué actor interpretó a Iron Man en las películas de Marvel?",
+  "o": [
+   "Robert Downey Jr.",
+   "Chris Evans",
+   "Mark Ruffalo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En el Quidditch, ¿qué pelota termina el partido al atraparla?",
+  "o": [
+   "La Snitch Dorada",
+   "La Quaffle",
+   "La Bludger"
+  ]
+ },
+ {
+  "p": "¿Quién fundó Microsoft junto con Paul Allen?",
+  "o": [
+   "Bill Gates",
+   "Steve Jobs",
+   "Steve Wozniak"
+  ]
+ },
+ {
+  "p": "En Star Wars, ¿cómo se llaman los ositos peludos de la luna de Endor?",
+  "o": [
+   "Ewoks",
+   "Jawas",
+   "Wookiees"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el martillo de Thor?",
+  "o": [
+   "Mjolnir",
+   "Stormbreaker",
+   "Gungnir"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la empresa dueña de Facebook desde 2021?",
+  "o": [
+   "Meta",
+   "Alphabet",
+   "Horizon"
+  ]
+ },
+ {
+  "p": "¿Cuál es el planeta natal de Superman?",
+  "o": [
+   "Kriptón",
+   "Marte",
+   "Oa"
+  ]
+ },
+ {
+  "p": "En Star Wars, ¿cómo se llama el droide pequeño azul con blanco?",
+  "o": [
+   "R2-D2",
+   "C-3PO",
+   "BB-8"
+  ]
+ },
+ {
+  "p": "En «El Señor de los Anillos», ¿dónde hay que destruir el Anillo Único?",
+  "o": [
+   "En el Monte del Destino",
+   "En Rivendel",
+   "En Minas Tirith"
+  ]
+ },
+ {
+  "p": "En «Yu-Gi-Oh!», ¿cuál es el monstruo favorito de Yugi?",
+  "o": [
+   "El Mago Oscuro",
+   "El Dragón Blanco de Ojos Azules",
+   "Exodia"
+  ]
+ },
+ {
+  "p": "¿Qué cazarrecompensas de Star Wars protege a Grogu?",
+  "o": [
+   "El Mandaloriano",
+   "Boba Fett",
+   "Cad Bane"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué posición juega Harry Potter en el Quidditch?",
+  "o": [
+   "Buscador",
+   "Guardián",
+   "Golpeador"
+  ]
+ }
+]

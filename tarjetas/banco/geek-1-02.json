@@ -1,198 +1,198 @@
 [
  {
   "deporte": true,
-  "p": "En ajedrez, ¿qué pieza avanza hacia adelante y captura en diagonal?",
+  "p": "¿Qué escudería de F1 es de color naranja papaya?",
   "o": [
-   "El peón",
-   "El alfil",
-   "El rey"
+   "McLaren",
+   "Renault",
+   "Haas"
   ]
  },
  {
   "deporte": true,
-  "p": "En ajedrez, ¿qué piezas empiezan en las esquinas del tablero?",
+  "p": "¿Qué piloto español ganó dos campeonatos de F1 con Renault?",
   "o": [
-   "Las torres",
-   "Los caballos",
-   "Los alfiles"
+   "Fernando Alonso",
+   "Carlos Sainz",
+   "Pedro de la Rosa"
   ]
  },
  {
   "deporte": true,
-  "p": "En ajedrez, ¿de qué color son las piezas que mueven primero?",
+  "p": "En ajedrez, ¿qué significa quedar en «tablas»?",
   "o": [
-   "Blancas",
-   "Negras",
-   "Las del que gane el volado"
+   "Empatar",
+   "Perder",
+   "Rendirse"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Cómo se llama el deporte de los magos en Harry Potter?",
+  "p": "En su primer partido de Quidditch, ¿cómo atrapa Harry la Snitch?",
   "o": [
-   "Quidditch",
-   "Quodpot",
-   "Gobstones"
+   "Casi se la traga",
+   "Con su varita",
+   "Con los pies"
   ]
  },
  {
-  "p": "¿Cómo se llama la nube de Google para guardar archivos?",
+  "p": "En «Thor: Ragnarok», ¿cómo se llama el planeta basurero donde cae Thor?",
   "o": [
-   "Drive",
-   "Dropbox",
-   "OneDrive"
+   "Sakaar",
+   "Xandar",
+   "Vormir"
   ]
  },
  {
-  "p": "¿Qué planeta es el tercero más cercano al Sol?",
+  "p": "¿Cómo se llaman los nueve jinetes negros que persiguen a Frodo?",
   "o": [
-   "La Tierra",
-   "Marte",
-   "Venus"
+   "Los Nazgûl",
+   "Los Uruk-hai",
+   "Los trasgos"
   ]
  },
  {
-  "p": "¿Qué villana de Batman es una ladrona con traje de gato?",
+  "p": "¿Cómo se llama el perro de tres cabezas que cuida la piedra filosofal?",
   "o": [
-   "Gatúbela",
-   "Hiedra Venenosa",
-   "Harley Quinn"
+   "Fluffy",
+   "Fang",
+   "Canuto"
   ]
  },
  {
-  "p": "¿En qué ciudad vive Superman?",
+  "p": "¿Qué villano de Spider-Man vuela en un planeador?",
   "o": [
-   "Metrópolis",
-   "Ciudad Gótica",
-   "Ciudad Central"
+   "El Duende Verde",
+   "Mysterio",
+   "El Lagarto"
   ]
  },
  {
-  "p": "¿Cómo se llama el protagonista de la primera trilogía de Star Wars?",
+  "p": "¿Cómo se llama el escondite de hielo de Superman en el Ártico?",
+  "o": [
+   "La Fortaleza de la Soledad",
+   "La Atalaya",
+   "La Torre de los Titanes"
+  ]
+ },
+ {
+  "p": "¿De qué color es el sable de luz de Mace Windu?",
+  "o": [
+   "Morado",
+   "Verde",
+   "Azul"
+  ]
+ },
+ {
+  "p": "¿Qué personaje pierde una mano en «El Imperio contraataca»?",
   "o": [
    "Luke Skywalker",
    "Han Solo",
-   "Anakin Skywalker"
+   "Darth Vader"
   ]
  },
  {
-  "p": "En «Adivina quién», ¿cuántos personajes tiene el tablero de cada jugador?",
+  "p": "¿Qué criatura gorda tiene prisionera a Leia en «El regreso del Jedi»?",
   "o": [
-   "24",
-   "20",
-   "30"
+   "Jabba el Hutt",
+   "Watto",
+   "Sebulba"
   ]
  },
  {
-  "p": "¿Cómo se llama la escuela de magia de Harry Potter?",
+  "p": "¿Cómo se llama la casa de los Weasley?",
   "o": [
-   "Hogwarts",
-   "Beauxbatons",
-   "Durmstrang"
+   "La Madriguera",
+   "Grimmauld Place",
+   "La Casa de los Gritos"
   ]
  },
  {
-  "p": "¿Cómo se llama el gran villano de Harry Potter?",
+  "p": "¿Qué objeto usa Hermione para ir a varias clases a la misma hora?",
   "o": [
-   "Voldemort",
-   "Grindelwald",
-   "Draco"
+   "Un giratiempo",
+   "Un traslador",
+   "Un pensadero"
   ]
  },
  {
-  "p": "¿Cómo se llama el hobbit jardinero y mejor amigo de Frodo?",
+  "p": "En Harry Potter, ¿cómo se llama el árbol que golpea a quien se le acerca?",
   "o": [
-   "Sam",
-   "Pippin",
-   "Merry"
+   "El Sauce Boxeador",
+   "El Roble Furioso",
+   "El Árbol Rugiente"
   ]
  },
  {
-  "p": "En UNO, ¿qué carta hace que el siguiente pierda su turno?",
+  "p": "¿Cómo se llama la región donde viven los hobbits?",
   "o": [
-   "Salta",
-   "Reversa",
-   "+2"
+   "La Comarca",
+   "Rivendel",
+   "Mordor"
   ]
  },
  {
-  "p": "¿Cómo se llama el cambio de estado cuando el hielo se vuelve agua?",
+  "p": "¿Cómo se llaman los árboles que hablan y caminan en «El Señor de los Anillos»?",
   "o": [
-   "Fusión",
-   "Evaporación",
-   "Condensación"
+   "Los Ents",
+   "Los Beórnidas",
+   "Los Huargos"
   ]
  },
  {
-  "p": "¿Qué plataforma de streaming tiene las películas de Mickey, Marvel y Pixar?",
+  "p": "¿Qué buscador de internet es de Microsoft?",
   "o": [
-   "Disney+",
-   "Prime Video",
-   "Max"
+   "Bing",
+   "Yahoo",
+   "DuckDuckGo"
   ]
  },
  {
-  "p": "¿Qué app de Microsoft se usa para juntas y clases en línea?",
+  "p": "¿Qué significa «QR» en código QR?",
   "o": [
-   "Teams",
-   "Zoom",
-   "Meet"
+   "Quick Response",
+   "Quality Read",
+   "Quick Record"
   ]
  },
  {
-  "p": "¿Qué marca china de celulares tiene la línea Redmi?",
+  "p": "¿Qué empresa es dueña de Marvel desde 2009?",
   "o": [
-   "Xiaomi",
+   "Disney",
+   "Warner Bros.",
+   "Sony"
+  ]
+ },
+ {
+  "p": "¿Qué marca china perdió las apps de Google en sus celulares por un veto de EE. UU.?",
+  "o": [
    "Huawei",
+   "Xiaomi",
    "Oppo"
   ]
  },
  {
-  "p": "¿Qué red social es famosa por guardar ideas en tableros temáticos?",
+  "p": "¿Cuál es el órgano más grande del cuerpo humano?",
   "o": [
-   "Pinterest",
-   "Tumblr",
-   "Flickr"
+   "La piel",
+   "El hígado",
+   "Los pulmones"
   ]
  },
  {
-  "p": "¿Qué marca de audífonos tiene una «b» de logo?",
+  "p": "¿Qué planeta tiene la Gran Mancha Roja?",
   "o": [
-   "Beats",
-   "Bose",
-   "JBL"
+   "Júpiter",
+   "Marte",
+   "Saturno"
   ]
  },
  {
-  "p": "¿Qué dios nórdico es el dios del engaño?",
+  "p": "¿Qué dios griego es el dios del sol y la música?",
   "o": [
-   "Loki",
-   "Odín",
-   "Balder"
-  ]
- },
- {
-  "p": "¿Cómo se llama el caballo con alas de la mitología griega?",
-  "o": [
-   "Pegaso",
-   "Bucéfalo",
-   "Sleipnir"
-  ]
- },
- {
-  "p": "¿Qué superhéroe de los X-Men tiene garras y se cura rápido?",
-  "o": [
-   "Wolverine",
-   "Cíclope",
-   "Gambito"
-  ]
- },
- {
-  "p": "¿Qué juego de mesa se juega con fichas rectangulares marcadas con puntos?",
-  "o": [
-   "Dominó",
-   "Damas",
-   "Bingo"
+   "Apolo",
+   "Ares",
+   "Hermes"
   ]
  }
 ]

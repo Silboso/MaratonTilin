@@ -1,100 +1,93 @@
 [
  {
-  "p": "¿Qué actor interpretó a Iron Man en las películas de Marvel?",
+  "p": "¿Qué significan las siglas USB?",
   "o": [
-   "Robert Downey Jr.",
-   "Chris Evans",
-   "Mark Ruffalo"
+   "Universal Serial Bus",
+   "Unified System Bridge",
+   "Universal Storage Base"
+  ]
+ },
+ {
+  "p": "¿En qué año cambió Twitter su nombre a X?",
+  "o": [
+   "2023",
+   "2021",
+   "2025"
   ]
  },
  {
   "deporte": true,
-  "p": "En el Quidditch, ¿qué pelota termina el partido al atraparla?",
+  "p": "¿Qué tecnología para revisar jugadas debutó en el Mundial de Rusia 2018?",
   "o": [
-   "La Snitch Dorada",
-   "La Quaffle",
-   "La Bludger"
+   "El VAR",
+   "El Ojo de Halcón",
+   "El balón con chip"
   ]
  },
  {
-  "p": "¿Quién fundó Microsoft junto con Paul Allen?",
+  "p": "¿En qué película debuta el Spider-Man de Tom Holland?",
   "o": [
-   "Bill Gates",
-   "Steve Jobs",
-   "Steve Wozniak"
+   "«Capitán América: Civil War»",
+   "«Avengers: Era de Ultrón»",
+   "«Avengers: Infinity War»"
   ]
  },
  {
-  "p": "En Star Wars, ¿cómo se llaman los ositos peludos de la luna de Endor?",
+  "p": "¿Qué empresa compró YouTube en 2006?",
   "o": [
-   "Ewoks",
-   "Jawas",
-   "Wookiees"
+   "Google",
+   "Microsoft",
+   "Yahoo"
   ]
  },
  {
-  "p": "¿Cómo se llama el martillo de Thor?",
+  "p": "¿Qué juego de rol de mesa tiene como símbolo el dado de 20 caras?",
   "o": [
-   "Mjolnir",
-   "Stormbreaker",
-   "Gungnir"
-  ]
- },
- {
-  "p": "¿Cómo se llama la empresa dueña de Facebook desde 2021?",
-  "o": [
-   "Meta",
-   "Alphabet",
-   "Horizon"
-  ]
- },
- {
-  "p": "¿Cuál es el planeta natal de Superman?",
-  "o": [
-   "Kriptón",
-   "Marte",
-   "Oa"
-  ]
- },
- {
-  "p": "En Star Wars, ¿cómo se llama el droide pequeño azul con blanco?",
-  "o": [
-   "R2-D2",
-   "C-3PO",
-   "BB-8"
-  ]
- },
- {
-  "p": "En «El Señor de los Anillos», ¿dónde hay que destruir el Anillo Único?",
-  "o": [
-   "En el Monte del Destino",
-   "En Rivendel",
-   "En Minas Tirith"
-  ]
- },
- {
-  "p": "En «Yu-Gi-Oh!», ¿cuál es el monstruo favorito de Yugi?",
-  "o": [
-   "El Mago Oscuro",
-   "El Dragón Blanco de Ojos Azules",
-   "Exodia"
-  ]
- },
- {
-  "p": "¿Qué cazarrecompensas de Star Wars protege a Grogu?",
-  "o": [
-   "El Mandaloriano",
-   "Boba Fett",
-   "Cad Bane"
+   "Dungeons & Dragons",
+   "Warhammer",
+   "Magic: The Gathering"
   ]
  },
  {
   "deporte": true,
-  "p": "¿En qué posición juega Harry Potter en el Quidditch?",
+  "p": "En «Star Wars: La amenaza fantasma», ¿qué carrera gana Anakin de niño?",
   "o": [
-   "Buscador",
-   "Guardián",
-   "Golpeador"
+   "Una carrera de vainas",
+   "Una carrera de speeders",
+   "Una carrera de X-wings"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Volver al futuro II», ¿en qué escapa Marty de Griff?",
+  "o": [
+   "Una patineta voladora",
+   "Una moto voladora",
+   "Unos patines a reacción"
+  ]
+ },
+ {
+  "p": "¿Qué superhéroe de DC es Barry Allen?",
+  "o": [
+   "Flash",
+   "Linterna Verde",
+   "Aquaman"
+  ]
+ },
+ {
+  "p": "¿Qué significan las siglas PDF?",
+  "o": [
+   "Portable Document Format",
+   "Printable Data File",
+   "Public Document Form"
+  ]
+ },
+ {
+  "p": "En «God of War», ¿de qué dios es hijo Kratos?",
+  "o": [
+   "Zeus",
+   "Ares",
+   "Hades"
   ]
  }
 ]

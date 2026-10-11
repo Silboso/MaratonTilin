@@ -1,884 +1,909 @@
 [
  {
   "deporte": true,
-  "p": "¿Qué narrador hizo famoso el «Goooooool» larguísimo en la tele en español de Estados Unidos?",
+  "p": "¿Qué taekwondoín mexicano ganó oro en Pekín 2008?",
   "o": [
-   "Andrés Cantor",
-   "Enrique Bermúdez",
-   "Christian Martinoli"
+   "Guillermo Pérez",
+   "Rommel Pacheco",
+   "Iván García"
   ]
  },
  {
   "deporte": true,
-  "p": "¿En qué deporte fue número uno del mundo Lorena Ochoa?",
+  "p": "¿Qué clavadista mexicana ganó medallas olímpicas en 2008 y 2012?",
   "o": [
-   "Golf",
-   "Tenis",
-   "Clavados"
+   "Paola Espinosa",
+   "Alejandra Orozco",
+   "Laura Sánchez"
   ]
  },
  {
   "deporte": true,
-  "p": "En la lucha libre, ¿qué apuesta un luchador sin máscara en una lucha de apuestas?",
+  "p": "Además de México 86, ¿en qué Mundial llegó México a cuartos de final?",
   "o": [
-   "La cabellera",
-   "El cinturón",
-   "La bolsa"
+   "México 70",
+   "Estados Unidos 94",
+   "Brasil 2014"
   ]
  },
  {
   "deporte": true,
-  "p": "¿De qué organización de box es el famoso cinturón verde?",
+  "p": "¿Quién anotó el gol de México contra Alemania en el Mundial 2018?",
   "o": [
-   "El CMB",
-   "La AMB",
-   "La FIB"
+   "Hirving «Chucky» Lozano",
+   "Javier «Chicharito» Hernández",
+   "Carlos Vela"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué técnico argentino dirigió a México en el Mundial de Qatar 2022?",
+  "p": "¿Qué animal era Zakumi, la mascota del Mundial de Sudáfrica 2010?",
   "o": [
-   "Gerardo «Tata» Martino",
-   "Ricardo La Volpe",
-   "Marcelo Bielsa"
+   "Un leopardo",
+   "Un león",
+   "Un guepardo"
   ]
  },
  {
   "deporte": true,
-  "p": "¿En qué equipo de la NBA ha jugado toda su carrera Stephen Curry?",
+  "p": "¿Qué estadio es el primero en tener tres inauguraciones de Mundial?",
   "o": [
-   "Golden State Warriors",
-   "Los Angeles Lakers",
-   "Boston Celtics"
+   "El Azteca",
+   "El Maracaná",
+   "Wembley"
   ]
  },
  {
   "deporte": true,
-  "p": "En el fútbol mexicano, ¿qué es «el quinto partido»?",
+  "p": "¿Quién era el técnico de México en el Mundial 2014, famoso por sus festejos?",
   "o": [
-   "Llegar a cuartos de final del Mundial",
-   "Ganar cinco partidos seguidos",
-   "Jugar la final de la Copa Oro"
+   "Miguel «el Piojo» Herrera",
+   "Juan Carlos Osorio",
+   "Javier Aguirre"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué defensa mexicano fue capitán del Tri y jugó en el Barcelona?",
+  "p": "¿Contra quién perdió Canelo su primera pelea profesional?",
   "o": [
-   "Rafael Márquez",
-   "Carlos Salcido",
-   "Ricardo Osorio"
+   "Floyd Mayweather",
+   "Dmitry Bivol",
+   "Gennady Golovkin"
   ]
  },
  {
   "deporte": true,
-  "p": "Desde 1994, ¿en qué ronda se quedaba México en cada Mundial?",
+  "p": "¿Quién anotó dos goles en la final de la Confederaciones 1999 ante Brasil?",
   "o": [
-   "En octavos de final",
-   "En cuartos de final",
-   "En fase de grupos"
+   "Miguel Zepeda",
+   "José Manuel Abundis",
+   "Cuauhtémoc Blanco"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué atleta mexicana ganó plata en 400 metros en Atenas 2004?",
+  "p": "¿Contra quién peleó Julio César Chávez ante 132 mil personas en el Estadio Azteca?",
   "o": [
-   "Ana Gabriela Guevara",
-   "Soraya Jiménez",
-   "María del Rosario Espinoza"
+   "Greg Haugen",
+   "Meldrick Taylor",
+   "Héctor «Macho» Camacho"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué equipo de la Liga MX es «La Máquina»?",
+  "p": "¿Qué equipo de la Liga MX son «los Rayados»?",
   "o": [
-   "Cruz Azul",
    "Monterrey",
-   "Toluca"
+   "Tigres",
+   "Santos"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué piloto mexicano corre en IndyCar con el equipo McLaren?",
+  "p": "¿Qué equipo de la Liga MX son «los Tuzos»?",
   "o": [
-   "Pato O'Ward",
-   "Esteban Gutiérrez",
-   "Sergio Pérez"
+   "Pachuca",
+   "Querétaro",
+   "León"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Cómo se le dice al partido América contra Chivas?",
+  "p": "¿Qué equipo de la Liga MX son «los Diablos Rojos»?",
   "o": [
-   "El Clásico Nacional",
-   "El Clásico Regio",
-   "El Clásico Capitalino"
+   "Toluca",
+   "Necaxa",
+   "Tijuana"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué basquetbolista gritas al lanzar una bola de papel al bote de basura?",
+  "p": "¿Qué beisbolista japonés es estrella de los Dodgers?",
   "o": [
-   "¡Kobe!",
-   "¡Jordan!",
-   "¡LeBron!"
+   "Shohei Ohtani",
+   "Ichiro Suzuki",
+   "Yu Darvish"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Cuál es la empresa de lucha libre más antigua del mundo?",
+  "p": "¿Qué boxeador mexicano era apodado «el Terrible»?",
   "o": [
-   "El CMLL",
+   "Érik Morales",
+   "Marco Antonio Barrera",
+   "Rafael Márquez"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué deporte de pelota se juega en el Frontón México?",
+  "o": [
+   "Jai alai",
+   "Squash",
+   "Pádel"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué empresa de lucha libre fundó Antonio Peña en 1992?",
+  "o": [
    "La AAA",
-   "La WWE"
+   "El CMLL",
+   "Lucha Underground"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Con qué equipo ganó Tom Brady su último Super Bowl?",
-  "o": [
-   "Bucaneros de Tampa Bay",
-   "Patriotas de Nueva Inglaterra",
-   "Jefes de Kansas City"
-  ]
- },
- {
-  "deporte": true,
-  "p": "En la NFL, ¿cuántos puntos vale un gol de campo?",
+  "p": "¿En cuántos Juegos Olímpicos seguidos ganó medalla María del Rosario Espinoza?",
   "o": [
    "3",
    "2",
-   "6"
+   "4"
   ]
  },
  {
   "deporte": true,
-  "p": "¿En qué deporte compite la mexicana Alexa Moreno?",
+  "p": "¿Qué narrador de TV Azteca es famoso por sus frases y apodos burlones?",
   "o": [
-   "Gimnasia",
-   "Clavados",
-   "Taekwondo"
+   "Christian Martinoli",
+   "Enrique Bermúdez",
+   "Raúl Orvañanos"
   ]
  },
  {
-  "p": "¿De qué estado es el pozole verde?",
+  "p": "¿Qué antivirus gratuito tenía un paraguas rojo de logo?",
   "o": [
-   "Guerrero",
-   "Jalisco",
-   "Sinaloa"
+   "Avira",
+   "Avast",
+   "AVG"
   ]
  },
  {
-  "p": "¿De qué planta se hace el tequila?",
+  "p": "¿Qué es el huitlacoche?",
   "o": [
-   "Agave azul",
-   "Maguey pulquero",
-   "Nopal"
+   "Un hongo del maíz",
+   "Un chile seco",
+   "Un tipo de nopal"
   ]
  },
  {
-  "p": "¿De qué estado son las tlayudas?",
+  "p": "¿Qué bebida espumosa de Oaxaca se hace con maíz, cacao y flor de cacao?",
   "o": [
-   "Oaxaca",
-   "Chiapas",
-   "Guerrero"
+   "Tejate",
+   "Champurrado",
+   "Tascalate"
   ]
  },
  {
-  "p": "¿Cómo se le dice a la torta de tamal?",
+  "p": "¿Qué empresa hace las cervezas Indio y XX?",
   "o": [
-   "Guajolota",
-   "Pambazo",
-   "Chilaquilera"
+   "Heineken",
+   "Grupo Modelo",
+   "Constellation Brands"
   ]
  },
  {
-  "p": "¿Qué es el tejuino?",
+  "p": "¿Qué tamal michoacano tiene forma de triángulo y casi siempre va sin relleno?",
   "o": [
-   "Una bebida de maíz fermentado",
-   "Un pan de elote",
-   "Un dulce de leche"
+   "Corunda",
+   "Uchepo",
+   "Zacahuil"
   ]
  },
  {
-  "p": "¿Qué dulce se hace con leche de cabra quemada?",
+  "p": "Completa el dicho: «Hijo de tigre…»",
   "o": [
-   "Cajeta",
-   "Jamoncillo",
-   "Glorias"
+   "…pintito",
+   "…rayado",
+   "…manchado"
   ]
  },
  {
-  "p": "¿De qué ciudad es famosa la cajeta?",
+  "p": "¿De qué ciudad de Nuevo León son las glorias?",
   "o": [
-   "Celaya",
+   "Linares",
+   "Monterrey",
+   "Saltillo"
+  ]
+ },
+ {
+  "p": "¿En qué película dicen «Me llamo Máximo Décimo Meridio»?",
+  "o": [
+   "Gladiador",
+   "Troya",
+   "300"
+  ]
+ },
+ {
+  "p": "¿Qué actriz interpretó a Soraya Montenegro?",
+  "o": [
+   "Itatí Cantoral",
+   "Thalía",
+   "Laura León"
+  ]
+ },
+ {
+  "p": "¿Qué actriz interpretó a Catalina Creel en «Cuna de lobos»?",
+  "o": [
+   "María Rubio",
+   "Silvia Pinal",
+   "Ofelia Guilmáin"
+  ]
+ },
+ {
+  "p": "¿Cuántos años estuvo al aire «En Familia con Chabelo»?",
+  "o": [
+   "48",
+   "30",
+   "25"
+  ]
+ },
+ {
+  "p": "¿Cuál de estas telenovelas NO es de la «trilogía de las Marías» de Thalía?",
+  "o": [
+   "María Isabel",
+   "Marimar",
+   "María Mercedes"
+  ]
+ },
+ {
+  "p": "¿Cuál era el nombre real de Chespirito?",
+  "o": [
+   "Roberto Gómez Bolaños",
+   "Ramón Valdés",
+   "Carlos Villagrán"
+  ]
+ },
+ {
+  "p": "¿Qué figura se quema el Sábado de Gloria?",
+  "o": [
+   "Un Judas",
+   "Una piñata",
+   "Un Diablo"
+  ]
+ },
+ {
+  "p": "En la tradición del Día de Muertos, ¿qué día se recuerda a los niños?",
+  "o": [
+   "El 1 de noviembre",
+   "El 2 de noviembre",
+   "El 31 de octubre"
+  ]
+ },
+ {
+  "p": "¿Qué perro guía a las almas en la tradición mexicana?",
+  "o": [
+   "El xoloitzcuintle",
+   "El chihuahua",
+   "El coyote"
+  ]
+ },
+ {
+  "p": "¿Qué chile fresco se llama «ancho» cuando se seca?",
+  "o": [
+   "El poblano",
+   "El jalapeño",
+   "El serrano"
+  ]
+ },
+ {
+  "p": "¿De qué estado es la cecina de Yecapixtla?",
+  "o": [
+   "Morelos",
    "Puebla",
+   "Hidalgo"
+  ]
+ },
+ {
+  "p": "¿Qué es la «cruda moral»?",
+  "o": [
+   "Arrepentirte de lo que hiciste",
+   "Una resaca muy fuerte",
+   "Un desayuno de recalentado"
+  ]
+ },
+ {
+  "p": "¿Qué significa «darle el avión» a alguien?",
+  "o": [
+   "Fingir que le haces caso",
+   "Invitarlo a viajar",
+   "Despedirte de prisa"
+  ]
+ },
+ {
+  "p": "Completa el refrán: «Al nopal nomás se le arriman…»",
+  "o": [
+   "…cuando tiene tunas",
+   "…cuando está en flor",
+   "…los que tienen sed"
+  ]
+ },
+ {
+  "p": "Completa el dicho: «Dime con quién andas…»",
+  "o": [
+   "…y te diré quién eres",
+   "…y te diré a dónde vas",
+   "…y te diré qué comes"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de Star Wars dice «Siempre hay un pez más grande»?",
+  "o": [
+   "Qui-Gon Jinn",
+   "Obi-Wan Kenobi",
+   "Yoda"
+  ]
+ },
+ {
+  "p": "En «Game of Thrones», ¿quién le repite a Jon Snow que no sabe nada?",
+  "o": [
+   "Ygritte",
+   "Melisandre",
+   "Daenerys"
+  ]
+ },
+ {
+  "p": "¿En qué película preguntan «¿Hablas conmigo?» frente al espejo?",
+  "o": [
+   "Taxi Driver",
+   "El Padrino",
+   "Scarface"
+  ]
+ },
+ {
+  "p": "En «Matrix», ¿quién le dice a Neo «No hay cuchara»?",
+  "o": [
+   "Un niño en casa del Oráculo",
+   "Morfeo en el entrenamiento",
+   "El Oráculo en su cocina"
+  ]
+ },
+ {
+  "p": "¿Qué Vengador dice «Puedo hacer esto todo el día»?",
+  "o": [
+   "Capitán América",
+   "Thor",
+   "Spider-Man"
+  ]
+ },
+ {
+  "p": "¿Quién le dice «Te amo 3000» a Tony Stark?",
+  "o": [
+   "Su hija Morgan",
+   "Pepper Potts",
+   "Peter Parker"
+  ]
+ },
+ {
+  "p": "¿Quién grita «¡Por el poder de Grayskull!»?",
+  "o": [
+   "He-Man",
+   "Thundercats",
+   "Voltron"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el señor del meme que sonríe mientras oculta su dolor?",
+  "o": [
+   "Harold",
+   "Brian",
+   "Gordon"
+  ]
+ },
+ {
+  "p": "¿Qué rapero sale en el meme de rechazar una cosa y aprobar otra?",
+  "o": [
+   "Drake",
+   "Kanye West",
+   "Eminem"
+  ]
+ },
+ {
+  "p": "¿De qué película es el meme de Leonardo DiCaprio brindando con una copa?",
+  "o": [
+   "El Gran Gatsby",
+   "Titanic",
+   "El lobo de Wall Street"
+  ]
+ },
+ {
+  "p": "¿De qué película es el meme de DiCaprio señalando?",
+  "o": [
+   "Érase una vez en Hollywood",
+   "El renacido",
+   "Django sin cadenas"
+  ]
+ },
+ {
+  "p": "¿De qué empresa era Hotmail?",
+  "o": [
+   "Microsoft",
+   "Yahoo",
+   "Google"
+  ]
+ },
+ {
+  "p": "¿Qué messenger tenía una florecita verde de logo y sonaba «uh-oh»?",
+  "o": [
+   "ICQ",
+   "AIM",
+   "Yahoo! Messenger"
+  ]
+ },
+ {
+  "p": "¿Qué programa para bajar música era el rival de Ares?",
+  "o": [
+   "LimeWire",
+   "Winamp",
+   "iTunes"
+  ]
+ },
+ {
+  "p": "¿Cuántos caracteres tiene el RFC de una persona física?",
+  "o": [
+   "13",
+   "18",
+   "10"
+  ]
+ },
+ {
+  "p": "¿Qué institución atiende tus quejas contra los bancos?",
+  "o": [
+   "La CONDUSEF",
+   "La PROFECO",
+   "El SAT"
+  ]
+ },
+ {
+  "p": "¿Qué institución atiende tus quejas como consumidor?",
+  "o": [
+   "La PROFECO",
+   "La CONDUSEF",
+   "La COFEPRIS"
+  ]
+ },
+ {
+  "p": "En un crédito, ¿qué significa «CAT»?",
+  "o": [
+   "Costo Anual Total",
+   "Cargo Adicional por Tarjeta",
+   "Crédito Anual Total"
+  ]
+ },
+ {
+  "p": "¿Qué significan las siglas UMA?",
+  "o": [
+   "Unidad de Medida y Actualización",
+   "Unidad Monetaria Anual",
+   "Unión de Mexicanos Asalariados"
+  ]
+ },
+ {
+  "p": "¿Por cuántos años como máximo se puede sacar el pasaporte mexicano?",
+  "o": [
+   "10",
+   "6",
+   "15"
+  ]
+ },
+ {
+  "p": "¿Qué institución asigna la CURP?",
+  "o": [
+   "El RENAPO",
+   "El SAT",
+   "El INE"
+  ]
+ },
+ {
+  "p": "¿Cuántas semanas de incapacidad por maternidad da la ley en México?",
+  "o": [
+   "12",
+   "6",
+   "24"
+  ]
+ },
+ {
+  "p": "¿Qué tasa de IVA se cobra en la franja fronteriza norte con el estímulo fiscal?",
+  "o": [
+   "8%",
+   "16%",
+   "11%"
+  ]
+ },
+ {
+  "p": "¿Qué marca de juguetes creó el Tamagotchi?",
+  "o": [
+   "Bandai",
+   "Mattel",
+   "Hasbro"
+  ]
+ },
+ {
+  "p": "¿Qué marca de ropa tiene un alce en su logo?",
+  "o": [
+   "Abercrombie & Fitch",
+   "Hollister",
+   "Aéropostale"
+  ]
+ },
+ {
+  "p": "¿De qué país eran los que bailaban cargando un ataúd en el meme de 2020?",
+  "o": [
+   "Ghana",
+   "Nigeria",
+   "Kenia"
+  ]
+ },
+ {
+  "p": "¿Hasta qué día se presenta la declaración anual de personas físicas?",
+  "o": [
+   "El 30 de abril",
+   "El 31 de marzo",
+   "El 15 de mayo"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre completo del Señor Barriga en «El Chavo del 8»?",
+  "o": [
+   "Zenón Barriga y Pesado",
+   "Abelardo Barriga y Gordillo",
+   "Federico Barriga y Lozano"
+  ]
+ },
+ {
+  "p": "¿De qué país es la conductora Laura Bozzo?",
+  "o": [
+   "Perú",
+   "Argentina",
+   "Venezuela"
+  ]
+ },
+ {
+  "p": "¿Quién interpretaba a Quico?",
+  "o": [
+   "Carlos Villagrán",
+   "Edgar Vivar",
+   "Rubén Aguirre"
+  ]
+ },
+ {
+  "p": "¿Qué platillo yucateco es de tortillas en salsa de pepita con huevo?",
+  "o": [
+   "Papadzules",
+   "Panuchos",
+   "Salbutes"
+  ]
+ },
+ {
+  "p": "¿Qué significan las siglas SAR?",
+  "o": [
+   "Sistema de Ahorro para el Retiro",
+   "Servicio de Atención al Retirado",
+   "Seguro de Accidentes y Riesgos"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba el perro de Marimar?",
+  "o": [
+   "Pulgoso",
+   "Firulais",
+   "Chato"
+  ]
+ },
+ {
+  "p": "¿Qué porcentaje de tu salario aporta el patrón a tu subcuenta de vivienda del Infonavit?",
+  "o": [
+   "5%",
+   "3%",
+   "10%"
+  ]
+ },
+ {
+  "p": "¿Cuántos años de vigencia tiene la credencial del INE?",
+  "o": [
+   "10",
+   "6",
+   "15"
+  ]
+ },
+ {
+  "p": "En «Kung Fu Panda», ¿quién insiste en que los accidentes no existen?",
+  "o": [
+   "El Maestro Oogway",
+   "El Maestro Shifu",
+   "Tigresa"
+  ]
+ },
+ {
+  "p": "¿Qué cadena de súper creó la promoción «Julio Regalado»?",
+  "o": [
+   "Comercial Mexicana",
+   "Gigante",
+   "Chedraui"
+  ]
+ },
+ {
+  "p": "¿Qué lema tiene la tienda Liverpool?",
+  "o": [
+   "«Es parte de mi vida»",
+   "«Precios bajos siempre»",
+   "«Todo para tu hogar»"
+  ]
+ },
+ {
+  "p": "¿Qué es una «Sofipo»?",
+  "o": [
+   "Una sociedad financiera popular",
+   "Un tipo de seguro de gastos médicos",
+   "Un fondo del gobierno para vivienda"
+  ]
+ },
+ {
+  "p": "¿Qué estado es famoso por el cabrito?",
+  "o": [
+   "Nuevo León",
+   "Sonora",
+   "Jalisco"
+  ]
+ },
+ {
+  "p": "¿Qué estado es famoso por sus tortillas de harina y su carne asada?",
+  "o": [
+   "Sonora",
+   "Yucatán",
+   "Oaxaca"
+  ]
+ },
+ {
+  "p": "¿Qué bebida fría de Tabasco y Chiapas se hace con cacao y masa de maíz?",
+  "o": [
+   "Pozol",
+   "Champurrado",
+   "Tejuino"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el elefante de los Choco Krispis?",
+  "o": [
+   "Melvin",
+   "Elmer",
+   "Trompis"
+  ]
+ },
+ {
+  "p": "Entre 2006 y 2010, ¿cuántos minutos podía durar como máximo un video de YouTube?",
+  "o": [
+   "10",
+   "5",
+   "20"
+  ]
+ },
+ {
+  "p": "¿Qué régimen del SAT para personas físicas reemplazó al RIF en 2022?",
+  "o": [
+   "RESICO",
+   "REPECO",
+   "RESIF"
+  ]
+ },
+ {
+  "p": "En «Ocarina of Time», ¿quién te pregunta si quieres oír otra vez lo que te dijo?",
+  "o": [
+   "Kaepora Gaebora",
+   "Navi",
+   "El Gran Árbol Deku"
+  ]
+ },
+ {
+  "p": "¿Cómo se les decía en México a las personas exhibidas en videos virales de los 2010?",
+  "o": [
+   "Lords y ladies",
+   "Fresas y nacos",
+   "Chairos y fifís"
+  ]
+ },
+ {
+  "p": "Si te despiden sin causa justificada, ¿de cuántos meses de salario es la indemnización?",
+  "o": [
+   "3 meses",
+   "1 mes",
+   "6 meses"
+  ]
+ },
+ {
+  "p": "¿Qué bloque de Cartoon Network pasaba anime como «Dragon Ball Z» en los 2000?",
+  "o": [
+   "Toonami",
+   "Adult Swim",
+   "Cartoon Cartoons"
+  ]
+ },
+ {
+  "p": "En «Beyblade», ¿cómo se llama el beyblade de Tyson?",
+  "o": [
+   "Dragoon",
+   "Dranzer",
+   "Driger"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de Smash Bros. grita «Show me your moves!»?",
+  "o": [
+   "Captain Falcon",
+   "Fox",
+   "Ness"
+  ]
+ },
+ {
+  "p": "¿Hasta cuánto garantiza el IPAB tus ahorros por persona en cada banco?",
+  "o": [
+   "400 mil UDIS",
+   "100 mil UDIS",
+   "1 millón de UDIS"
+  ]
+ },
+ {
+  "p": "¿Qué personaje sale en el billete de 500 pesos actual?",
+  "o": [
+   "Benito Juárez",
+   "Diego Rivera",
+   "Miguel Hidalgo"
+  ]
+ },
+ {
+  "p": "¿Qué animal sale en el billete de 50 pesos actual?",
+  "o": [
+   "El ajolote",
+   "El jaguar",
+   "La mariposa monarca"
+  ]
+ },
+ {
+  "p": "¿Qué es un «chafirete»?",
+  "o": [
+   "Un mal conductor",
+   "Un borracho",
+   "Un policía"
+  ]
+ },
+ {
+  "p": "¿En qué juego los sacerdotes convierten unidades enemigas diciendo «Wololo»?",
+  "o": [
+   "Age of Empires",
+   "Warcraft",
+   "StarCraft"
+  ]
+ },
+ {
+  "p": "En MSN Messenger, ¿qué emoticón salía al escribir (L)?",
+  "o": [
+   "Un corazón",
+   "Un foco",
+   "Un pulgar arriba"
+  ]
+ },
+ {
+  "p": "¿Qué ciudad es «la Sultana del Norte»?",
+  "o": [
+   "Monterrey",
+   "Saltillo",
+   "Chihuahua"
+  ]
+ },
+ {
+  "p": "¿Qué ciudad es «la Perla Tapatía»?",
+  "o": [
+   "Guadalajara",
+   "Veracruz",
+   "Mazatlán"
+  ]
+ },
+ {
+  "p": "¿Qué ciudad es «la Angelópolis»?",
+  "o": [
+   "Puebla",
+   "Querétaro",
+   "Morelia"
+  ]
+ },
+ {
+  "p": "¿Qué ciudad es «la Bella Airosa», por sus vientos?",
+  "o": [
+   "Pachuca",
+   "Zacatecas",
    "Toluca"
   ]
  },
  {
-  "p": "¿Qué chocolate en barrita tiene malvavisco y gomita de fresa adentro?",
+  "p": "¿En qué año eliminó México el horario de verano en casi todo el país?",
   "o": [
-   "Bubulubu",
-   "Kranky",
-   "Carlos V"
+   "2022",
+   "2018",
+   "2020"
   ]
  },
  {
-  "p": "¿Qué paleta de cereza tiene un chicle en el centro?",
+  "p": "¿Cada cuántos años hay que renovar la e.firma del SAT?",
   "o": [
-   "Tutsi Pop",
-   "Vero Mango",
-   "Rockaleta"
+   "4",
+   "2",
+   "10"
   ]
  },
  {
-  "p": "¿Qué agua mineral de Monterrey se volvió famosa en Estados Unidos?",
+  "p": "¿En qué canal se convirtió Fox Kids en Latinoamérica?",
   "o": [
-   "Topo Chico",
-   "Peñafiel",
-   "Tehuacán"
+   "Jetix",
+   "Boomerang",
+   "Discovery Kids"
   ]
  },
  {
-  "p": "¿Qué villana de «Cuna de lobos» usaba un parche en el ojo?",
+  "p": "En «Buscando a Nemo», ¿quién dirige el grupo de tiburones que no comen peces?",
   "o": [
-   "Catalina Creel",
-   "Soraya Montenegro",
-   "Teresa Chávez"
+   "Bruce",
+   "Gill",
+   "Crush"
   ]
  },
  {
-  "p": "¿Qué actriz protagonizó «La Usurpadora»?",
+  "p": "¿Qué significa «estar en la baba»?",
   "o": [
-   "Gabriela Spanic",
-   "Thalía",
-   "Lucero"
-  ]
- },
- {
-  "p": "¿Quién interpreta al payaso Brozo?",
-  "o": [
-   "Víctor Trujillo",
-   "Adal Ramones",
-   "Andrés Bustamante"
-  ]
- },
- {
-  "p": "¿Qué comediante hacía el programa «¿Qué nos pasa?»?",
-  "o": [
-   "Héctor Suárez",
-   "Polo Polo",
-   "Jorge Ortiz de Pinedo"
-  ]
- },
- {
-  "p": "¿Qué programa nocturno conducía Adal Ramones?",
-  "o": [
-   "Otro Rollo",
-   "La Hora Pico",
-   "El Show de Platanito"
-  ]
- },
- {
-  "p": "¿Cómo se llama el programa de chismes de TV Azteca?",
-  "o": [
-   "Ventaneando",
-   "Hoy",
-   "Venga la Alegría"
-  ]
- },
- {
-  "p": "¿Qué significa estar «como agua para chocolate»?",
-  "o": [
-   "Estar furioso",
+   "Estar distraído",
    "Estar enamorado",
    "Estar dormido"
   ]
  },
  {
-  "p": "¿Qué significa «hacerse guaje»?",
+  "p": "¿Qué significa que te «piquen los ojos»?",
   "o": [
-   "Fingir que no sabe",
-   "Emborracharse",
-   "Enojarse"
+   "Que te engañen",
+   "Que te hagan llorar",
+   "Que te desvelen"
   ]
  },
  {
-  "p": "¿Cuántas posadas se hacen antes de Navidad?",
+  "p": "¿Qué documento del SAT empezaron a pedir las empresas para timbrar tu nómina en 2022?",
   "o": [
-   "9",
-   "12",
-   "7"
+   "Constancia de Situación Fiscal",
+   "Acuse de la e.firma",
+   "Opinión de cumplimiento"
   ]
  },
  {
-  "p": "En las posadas, ¿cómo se le dice a la bolsita de dulces que te regalan?",
+  "p": "¿Cuál es el nombre completo de Barbie?",
   "o": [
-   "El aguinaldo",
-   "La calaverita",
-   "La colecta"
+   "Barbara Millicent Roberts",
+   "Barbara Ann Carson",
+   "Barbara Jean Miller"
   ]
  },
  {
-  "p": "¿A quién le dicen «godín»?",
+  "p": "¿Cuál de estas palabras viene del náhuatl?",
   "o": [
-   "A un oficinista",
-   "A un taxista",
-   "A un estudiante"
-  ]
- },
- {
-  "p": "¿Qué significa que algo «esté cañón»?",
-  "o": [
-   "Que está difícil",
-   "Que está ruidoso",
-   "Que está bonito"
-  ]
- },
- {
-  "p": "¿Qué villano de Disney dice «Estoy rodeado de idiotas»?",
-  "o": [
-   "Scar",
-   "Jafar",
-   "Hades"
-  ]
- },
- {
-  "p": "¿En qué película dice Thanos «Yo soy inevitable»?",
-  "o": [
-   "Avengers: Endgame",
-   "Avengers: Infinity War",
-   "Guardianes de la Galaxia"
-  ]
- },
- {
-  "p": "Completa el dicho: «Más vale pájaro en mano…»",
-  "o": [
-   "…que ciento volando",
-   "…que dos en el árbol",
-   "…que nada en el plato"
-  ]
- },
- {
-  "p": "¿Qué significa «senpai»?",
-  "o": [
-   "Compañero mayor",
-   "Maestro",
-   "Mejor amigo"
-  ]
- },
- {
-  "p": "Completa el dicho: «En casa del herrero…»",
-  "o": [
-   "…cuchillo de palo",
-   "…cazuela de barro",
-   "…puerta sin llave"
-  ]
- },
- {
-  "p": "¿Quién dice «¡Por qué tú, pequeño…!» mientras estrangula a su hijo?",
-  "o": [
-   "Homero Simpson",
-   "Peter Griffin",
-   "Don Ramón"
-  ]
- },
- {
-  "p": "¿Qué juguetes de Hasbro eran robots que se convierten en autos?",
-  "o": [
-   "Transformers",
-   "GoBots",
-   "Zords"
-  ]
- },
- {
-  "p": "¿Qué villano pregunta «¿Por qué tan serio?»?",
-  "o": [
-   "El Guasón",
-   "Bane",
-   "Thanos"
-  ]
- },
- {
-  "p": "¿En qué misión se dijo «Houston, tenemos un problema»?",
-  "o": [
-   "Apolo 13",
-   "Apolo 11",
-   "Challenger"
-  ]
- },
- {
-  "p": "¿En qué película gritan «¡Esto es Esparta!»?",
-  "o": [
-   "300",
-   "Gladiador",
-   "Troya"
-  ]
- },
- {
-  "p": "¿De qué videojuego es la frase «Do a barrel roll!»?",
-  "o": [
-   "Star Fox",
-   "F-Zero",
-   "Kid Icarus"
-  ]
- },
- {
-  "p": "En «Toy Story», ¿qué juguete dice «¡Hay una serpiente en mi bota!»?",
-  "o": [
-   "Woody",
-   "Jessie",
-   "Buzz Lightyear"
-  ]
- },
- {
-  "p": "¿Qué muñecos de los 2000 tenían el pelo parado de colores?",
-  "o": [
-   "Los Trolls",
-   "Los Pitufos",
-   "Los Furbys"
-  ]
- },
- {
-  "p": "¿Qué es el «Nyan Cat»?",
-  "o": [
-   "Un gato-galleta que deja un arcoíris",
-   "Un gato que toca el piano",
-   "Un gato gruñón"
-  ]
- },
- {
-  "p": "¿Cómo se llama el meme del bebé en la playa con el puño apretado?",
-  "o": [
-   "Success Kid",
-   "Bad Luck Brian",
-   "Disaster Girl"
-  ]
- },
- {
-  "p": "¿Qué perrito de memes habla agregando «m» a las palabras?",
-  "o": [
-   "Cheems",
-   "Doge",
-   "Walter"
-  ]
- },
- {
-  "p": "¿Qué red social tenía «Top Friends» y música en el perfil?",
-  "o": [
-   "MySpace",
-   "Hi5",
-   "Facebook"
-  ]
- },
- {
-  "p": "¿Qué red social, antes de Facebook, tenía «testimonios» de tus amigos?",
-  "o": [
-   "Hi5",
-   "Sonico",
-   "Twitter"
-  ]
- },
- {
-  "p": "¿De qué país era la red de posts Taringa!?",
-  "o": [
-   "Argentina",
-   "México",
-   "España"
-  ]
- },
- {
-  "p": "¿Para qué sirve la Afore?",
-  "o": [
-   "Para tu ahorro para el retiro",
-   "Para pagar impuestos",
-   "Para tu servicio médico"
-  ]
- },
- {
-  "p": "¿Qué número de 11 dígitos te asigna el IMSS?",
-  "o": [
-   "El NSS",
-   "El RFC",
-   "La CURP"
-  ]
- },
- {
-  "p": "¿Qué es el «finiquito»?",
-  "o": [
-   "Lo que te pagan al dejar un trabajo",
-   "El último pago de un crédito",
-   "Un bono de fin de año"
-  ]
- },
- {
-  "p": "Por ley, ¿a más tardar qué día se debe pagar el aguinaldo?",
-  "o": [
-   "El 20 de diciembre",
-   "El 31 de diciembre",
-   "El 15 de diciembre"
-  ]
- },
- {
-  "p": "¿En qué mes hacen su declaración anual las personas físicas?",
-  "o": [
-   "Abril",
-   "Enero",
-   "Diciembre"
-  ]
- },
- {
-  "p": "¿Qué es el Buró de Crédito?",
-  "o": [
-   "Un registro de cómo pagas tus deudas",
-   "Un banco del gobierno",
-   "Una oficina para pedir préstamos"
-  ]
- },
- {
-  "p": "¿Qué son los Cetes?",
-  "o": [
-   "Bonos del gobierno para invertir",
-   "Tarjetas de crédito",
-   "Billetes conmemorativos"
-  ]
- },
- {
-  "p": "¿Qué es una transferencia SPEI?",
-  "o": [
-   "Un envío de dinero entre bancos",
-   "Un pago en efectivo",
-   "Un retiro en cajero"
-  ]
- },
- {
-  "p": "¿Cómo se llama la cuota mensual que pagas en un edificio por las áreas comunes?",
-  "o": [
-   "Mantenimiento",
-   "Predial",
-   "Tenencia"
-  ]
- },
- {
-  "p": "Al rentar, ¿qué es un «aval»?",
-  "o": [
-   "Quien responde si no pagas",
-   "El dueño del depa",
-   "El que cobra la renta"
-  ]
- },
- {
-  "p": "¿Qué es la e.firma?",
-  "o": [
-   "La firma electrónica del SAT",
-   "Una app de bancos",
-   "La firma de la INE"
-  ]
- },
- {
-  "p": "¿Qué es un «bento»?",
-  "o": [
-   "Una caja de comida",
-   "Un postre de arroz",
-   "Un tipo de té"
-  ]
- },
- {
-  "p": "¿Cómo se llama la costumbre japonesa de ver los cerezos en flor?",
-  "o": [
-   "Hanami",
-   "Matsuri",
-   "Obon"
-  ]
- },
- {
-  "p": "En internet, ¿qué significa «IRL»?",
-  "o": [
-   "En la vida real",
-   "Ahora mismo",
-   "Por si acaso"
-  ]
- },
- {
-  "p": "¿Cómo se llama el tren bala de Japón?",
-  "o": [
-   "Shinkansen",
-   "Maglev",
-   "Tokaido"
-  ]
- },
- {
-  "p": "¿Qué barrio de Tokio es famoso por el anime y la electrónica?",
-  "o": [
-   "Akihabara",
-   "Shibuya",
-   "Harajuku"
-  ]
- },
- {
-  "p": "¿Qué marca de cuadernos era la más común en la escuela?",
-  "o": [
-   "Scribe",
-   "Norma",
-   "Estrella"
-  ]
- },
- {
-  "p": "¿Qué marca de lápiz amarillo «número 2» pedían en la escuela?",
-  "o": [
-   "Mirado",
-   "Berol",
-   "Faber-Castell"
-  ]
- },
- {
-  "p": "¿Qué figura de acción de Mattel era un agente con «modo turbo»?",
-  "o": [
-   "Max Steel",
-   "Action Man",
-   "G.I. Joe"
-  ]
- },
- {
-  "p": "¿Cómo se llamaba el examen de la SEP de primaria y secundaria de los 2000?",
-  "o": [
-   "ENLACE",
-   "PISA",
-   "EXANI"
-  ]
- },
- {
-  "p": "¿Qué maquinita china prometía «9999 juegos en 1» y casi todos eran Tetris?",
-  "o": [
-   "Brick Game",
-   "Game Boy",
-   "Tamagotchi"
-  ]
- },
- {
-  "p": "¿De qué se hace el tepache?",
-  "o": [
-   "De cáscara de piña fermentada",
-   "De maíz fermentado",
-   "De maguey fermentado"
-  ]
- },
- {
-  "p": "¿Qué consola portátil sacó Nintendo en 1989?",
-  "o": [
-   "Game Boy",
-   "Game Gear",
-   "Nintendo DS"
-  ]
- },
- {
-  "p": "¿Qué celular de concha de Motorola fue famosísimo en los 2000?",
-  "o": [
-   "El RAZR V3",
-   "El StarTAC",
-   "El Moto G"
-  ]
- },
- {
-  "p": "¿Qué baile viral de 2013 empezaba con uno solo y luego todos disfrazados?",
-  "o": [
-   "Harlem Shake",
-   "Gangnam Style",
-   "Macarena"
-  ]
- },
- {
-  "p": "¿Cómo se llamaba el reto de acostarse tieso boca abajo en lugares raros?",
-  "o": [
-   "Planking",
-   "Owling",
-   "Dabbing"
-  ]
- },
- {
-  "p": "¿Cómo se les dice a los pantalones entubados que se pusieron de moda?",
-  "o": [
-   "Skinny jeans",
-   "Acampanados",
-   "Cargo"
-  ]
- },
- {
-  "p": "¿Qué son las «alegrías»?",
-  "o": [
-   "Dulces de amaranto",
-   "Paletas de hielo",
-   "Galletas de nata"
-  ]
- },
- {
-  "p": "¿Qué institución del gobierno emite los billetes en México?",
-  "o": [
-   "El Banco de México",
-   "La SHCP",
-   "El SAT"
-  ]
- },
- {
-  "p": "¿Cuál es la moneda de Japón?",
-  "o": [
-   "El yen",
-   "El won",
-   "El yuan"
-  ]
- },
- {
-  "p": "Además de «Español Actividades», ¿qué otro libro de Español daba la SEP en primaria?",
-  "o": [
-   "Español Lecturas",
-   "Español Ejercicios",
-   "Español Ortografía"
-  ]
- },
- {
-  "p": "¿Qué grita el Chapulín Colorado cuando algo sale mal?",
-  "o": [
-   "«¡Chanfle!»",
-   "«¡Recórcholis!»",
-   "«¡Caramba!»"
-  ]
- },
- {
-  "p": "¿Qué día es el Día del Trabajo en México?",
-  "o": [
-   "1 de mayo",
-   "15 de mayo",
-   "1 de septiembre"
-  ]
- },
- {
-  "p": "¿Cómo se llama el 25% extra que te pagan sobre tus días de descanso anual?",
-  "o": [
-   "Prima vacacional",
-   "Aguinaldo",
-   "PTU"
-  ]
- },
- {
-  "p": "¿Qué es el PTU?",
-  "o": [
-   "Tu parte de las ganancias de la empresa",
-   "Un seguro de gastos médicos",
-   "Un crédito para vivienda"
-  ]
- },
- {
-  "p": "¿Cómo se llama el impuesto anual por ser dueño de un vehículo en algunos estados?",
-  "o": [
-   "Tenencia",
-   "Predial",
-   "Verificación"
-  ]
- },
- {
-  "p": "¿Qué documento de la SEP necesitas para ejercer legalmente tu carrera?",
-  "o": [
-   "La cédula profesional",
-   "El título de bachiller",
-   "La CURP"
-  ]
- },
- {
-  "p": "¿Qué es el «predial»?",
-  "o": [
-   "El impuesto de tu casa o terreno",
-   "El recibo del agua",
-   "La cuota del condominio"
-  ]
- },
- {
-  "p": "¿Qué significa que algo te «valga gorro»?",
-  "o": [
-   "Que no te importa",
-   "Que te encanta",
-   "Que te costó mucho"
-  ]
- },
- {
-  "p": "¿Qué bebida japonesa se hace de arroz?",
-  "o": [
-   "Sake",
-   "Matcha",
-   "Ramune"
-  ]
- },
- {
-  "p": "¿Cómo se dice «delicioso» en japonés?",
-  "o": [
-   "Oishii",
-   "Kawaii",
-   "Sugoi"
-  ]
- },
- {
-  "p": "En internet, ¿qué es un «troll»?",
-  "o": [
-   "Alguien que molesta a propósito",
-   "Un hacker",
-   "Un bot de spam"
-  ]
- },
- {
-  "p": "¿Qué significa que alguien «se haga pato»?",
-  "o": [
-   "Que finge que no sabe",
-   "Que se asusta",
-   "Que se va sin pagar"
-  ]
- },
- {
-  "p": "¿De qué videojuego viene el meme «Ah shit, here we go again»?",
-  "o": [
-   "GTA San Andreas",
-   "Halo",
-   "Call of Duty"
-  ]
- },
- {
-  "p": "¿Quién dice «¡Lo sospeché desde un principio!»?",
-  "o": [
-   "El Chapulín Colorado",
-   "El Chavo",
-   "Don Ramón"
-  ]
- },
- {
-  "p": "¿Cómo se llaman los arcos rojos de los templos sintoístas?",
-  "o": [
-   "Torii",
-   "Pagodas",
-   "Ryokan"
-  ]
- },
- {
-  "p": "¿Qué carne de borrego se cocina en un hoyo envuelta en pencas de maguey?",
-  "o": [
-   "Barbacoa",
-   "Birria",
-   "Cochinita"
-  ]
- },
- {
-  "p": "¿Qué tradición del 2 de febrero se hace con el Niño Dios de la Navidad?",
-  "o": [
-   "Vestirlo y llevarlo a bendecir",
-   "Romperlo como piñata",
-   "Esconderlo en la rosca"
-  ]
- },
- {
-  "p": "¿Qué actriz protagonizó la telenovela «Rubí» de 2004?",
-  "o": [
-   "Bárbara Mori",
-   "Gabriela Spanic",
-   "Angelique Boyer"
+   "Tomate",
+   "Papa",
+   "Maíz"
   ]
  }
 ]

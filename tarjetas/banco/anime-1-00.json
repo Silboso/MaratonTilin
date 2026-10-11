@@ -1,108 +1,109 @@
 [
  {
-  "deporte": true,
-  "p": "En «Supercampeones», ¿qué tienen de famosas las canchas donde juegan?",
+  "p": "En «Evangelion», ¿quién pilotea la Unidad 01?",
   "o": [
-   "Parecen no tener fin",
-   "Son de pasto azul",
-   "Siempre están nevadas"
+   "Shinji Ikari",
+   "Asuka Langley",
+   "Rei Ayanami"
   ]
  },
  {
-  "p": "En «Ratatouille», ¿en qué ciudad está el restaurante de Gusteau?",
+  "p": "En «Death Note», ¿qué fruta le encanta al shinigami Ryuk?",
   "o": [
-   "París",
-   "Roma",
-   "Londres"
-  ]
- },
- {
-  "p": "En «Coco» de Pixar, ¿cómo se llama el xoloitzcuintle de Miguel?",
-  "o": [
-   "Dante",
-   "Pepita",
-   "Chicharrón"
-  ]
- },
- {
-  "p": "En «One Piece», ¿qué sueña ser Monkey D. Luffy?",
-  "o": [
-   "El Rey de los Piratas",
-   "Almirante de la Marina",
-   "El mejor espadachín del mundo"
-  ]
- },
- {
-  "p": "En «Pokémon», ¿a qué equipo villano pertenecen Jessie y James?",
-  "o": [
-   "Equipo Rocket",
-   "Equipo Magma",
-   "Equipo Galaxia"
-  ]
- },
- {
-  "p": "¿En qué película Eugenio Derbez cría a una niña en Los Ángeles?",
-  "o": [
-   "No se aceptan devoluciones",
-   "Nosotros los Nobles",
-   "¿Qué culpa tiene el niño?"
-  ]
- },
- {
-  "p": "¿Qué director hizo «Titanic» y «Avatar»?",
-  "o": [
-   "James Cameron",
-   "Steven Spielberg",
-   "Christopher Nolan"
-  ]
- },
- {
-  "p": "En «Attack on Titan», ¿cuál es el apellido de Eren?",
-  "o": [
-   "Jaeger",
-   "Ackerman",
-   "Arlert"
-  ]
- },
- {
-  "p": "En «Naruto», ¿qué bestia con cola está sellada dentro de Naruto?",
-  "o": [
-   "El Kyubi (nueve colas)",
-   "Shukaku (una cola)",
-   "El Hachibi (ocho colas)"
-  ]
- },
- {
-  "p": "En «Dragon Ball Z», ¿quién es el príncipe de los Saiyajin?",
-  "o": [
-   "Vegeta",
-   "Goku",
-   "Raditz"
-  ]
- },
- {
-  "p": "En «Konosuba», ¿cuál es el único hechizo que usa Megumin?",
-  "o": [
-   "Explosión",
-   "Bola de fuego",
-   "Rayo"
-  ]
- },
- {
-  "p": "En «Shrek 2», ¿cómo se llama el reino de los papás de Fiona?",
-  "o": [
-   "Muy Muy Lejano",
-   "Duloc",
-   "Encantia"
+   "Las manzanas",
+   "Las fresas",
+   "Las uvas"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Initial D», ¿qué técnica usa Takumi para tomar las curvas?",
+  "p": "¿Qué actor interpreta a Muhammad Ali en «Ali» (2001)?",
   "o": [
-   "El derrape",
-   "El nitro",
-   "El rebufo"
+   "Will Smith",
+   "Denzel Washington",
+   "Michael B. Jordan"
+  ]
+ },
+ {
+  "p": "En «Code Geass», ¿qué poder le da el Geass a Lelouch?",
+  "o": [
+   "Que lo obedezcan",
+   "Leer mentes",
+   "Detener el tiempo"
+  ]
+ },
+ {
+  "p": "¿En qué película de terror el villano dice «¿Quieres jugar un juego?»?",
+  "o": [
+   "Saw",
+   "Scream",
+   "El Conjuro"
+  ]
+ },
+ {
+  "p": "En «Digimon Adventure», ¿en qué digievoluciona Agumon a nivel campeón?",
+  "o": [
+   "Greymon",
+   "Garurumon",
+   "Birdramon"
+  ]
+ },
+ {
+  "p": "En «Fullmetal Alchemist», ¿qué perdió Alphonse Elric?",
+  "o": [
+   "Todo su cuerpo",
+   "Un brazo y una pierna",
+   "Sus recuerdos"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Kuroko no Basket», ¿qué hace especial a Tetsuya Kuroko?",
+  "o": [
+   "Casi nadie lo nota en la cancha",
+   "Encesta desde media cancha",
+   "Salta más alto que nadie"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Rápidos y Furiosos 5», ¿en qué país roban la bóveda?",
+  "o": [
+   "Brasil",
+   "México",
+   "Colombia"
+  ]
+ },
+ {
+  "p": "En «Steins;Gate», ¿qué aparato permite mandar mensajes al pasado?",
+  "o": [
+   "Un horno de microondas",
+   "Un reloj de pulsera",
+   "Una televisión vieja"
+  ]
+ },
+ {
+  "p": "En «Re:Zero», ¿qué le pasa a Subaru cada vez que muere?",
+  "o": [
+   "Regresa a un punto anterior",
+   "Despierta en otro mundo",
+   "Pierde un recuerdo"
+  ]
+ },
+ {
+  "p": "En «Toradora!», ¿de quién está enamorado Ryuji al inicio?",
+  "o": [
+   "Minori Kushieda",
+   "Ami Kawashima",
+   "Taiga Aisaka"
+  ]
+ },
+ {
+  "p": "En «Intensa-Mente», ¿cómo se llama el amigo imaginario de Riley?",
+  "o": [
+   "Bing Bong",
+   "Ding Dong",
+   "Pim Pom"
   ]
  }
 ]

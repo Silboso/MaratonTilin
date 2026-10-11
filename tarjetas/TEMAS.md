@@ -10,9 +10,11 @@ informativo: no cambia las reglas, pero sirve para separar mazos.
 
 | Nivel | Para quién |
 |---|---|
-| ★ Fácil | Cualquiera del grupo la contesta aunque no sea su tema |
-| ★★ Media | La contesta quien ha visto o jugado lo que se pregunta |
-| ★★★ Difícil | Solo el fan de ese tema |
+| ★ Media | La contesta quien ha visto o jugado lo que se pregunta; nada de cultura general obvia |
+| ★★ Difícil | Solo el fan de ese tema |
+| ★★★ Muy difícil | Solo el más clavado del grupo, y aun así le cuesta |
+
+El grupo es de adultos muy clavados: ninguna pregunta debe poder contestarla cualquiera. Antes había un nivel más fácil; se retiró y sus preguntas quedaron en `retiradas/` (el generador no las usa).
 
 Regla de balance: cada nivel lleva **la misma cantidad de preguntas por categoría**
 (2 por tarjeta, una por cara), y cada cara lleva **una pregunta de deportes**.
@@ -23,7 +25,7 @@ No son categoría propia: van dentro de las 6 categorías, con borde de cancha y
 Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí conocen todos.
 
 - Deportes: fútbol, básquetbol, box y lucha libre, Fórmula 1 y autos, Olímpicos, NFL, béisbol, tenis.
-- **Fútbol:** los dos que lo siguen conocen la Selección Mexicana y los Mundiales, la Liga MX y las ligas europeas y la Champions. Las ★ deben ser de lo muy famoso, que sabe cualquiera; el fútbol puro más específico va en ★★★.
+- **Fútbol:** los dos que lo siguen conocen la Selección Mexicana y los Mundiales, la Liga MX y las ligas europeas y la Champions. Las ★ son de lo famoso que sabe quien sigue el fútbol aunque sea poco; el fútbol puro más específico va en ★★ y ★★★.
 - **Otros deportes que se valen más allá de lo básico:** Fórmula 1 (Checo Pérez, escuderías, GP de México), box y lucha libre (Canelo, Chávez, AAA, CMLL, WWE), NBA y NFL, Olímpicos y mexicanos destacados.
 - Cruces: anime de deportes, películas y series, videojuegos, canciones de Mundiales, mascotas, memes.
 
@@ -40,7 +42,7 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
 | Spy x Family, Frieren, Oshi no Ko, Solo Leveling | Básico |
 | Saint Seiya, Sailor Moon, One Piece, Bleach | Muy básico: solo ★ |
 
-**Anime de conocimiento básico** (solo preguntas ★ o ★★ fáciles: protagonista, premisa, frase o personaje icónico):
+**Anime de conocimiento básico** (solo preguntas ★: protagonista, premisa, frase o personaje icónico):
 
 - **Isekai y light novels:** To Aru Majutsu no Index / Railgun, Re:Zero, Konosuba, Overlord, No Game No Life, Tensei Slime, Mushoku Tensei, Shield Hero
 - **Romance y comedia:** Toradora!, Clannad, Kaguya-sama, Your Lie in April, Horimiya, Ouran, Fruits Basket
@@ -109,7 +111,7 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
 - **Infancia:** Cartoon Network, Disney Channel / XD, Nickelodeon, TV abierta y Discovery Kids.
 - **Series actuales:** hits de Netflix, sitcoms, dramas de HBO y similares, animadas para adultos.
 
-**Series de conocimiento básico** (solo preguntas ★ o ★★ fáciles):
+**Series de conocimiento básico** (solo preguntas ★):
 
 - **Abogados, doctores y oficina:** Suits, Dr. House, Grey's Anatomy, The Good Doctor
 - **Fantasía, sci-fi y terror:** Supernatural, The Walking Dead, Black Mirror, Lost, The Witcher, The Mandalorian
@@ -136,9 +138,9 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
 
 ## 5. Música
 
-Siempre canciones y artistas **muy conocidos**. Se valen ★★★ de **Linkin Park, My Chemical Romance, Paramore, Queen, Michael Jackson y The Beatles** (discos, canciones menos conocidas, integrantes).
+Siempre canciones y artistas **muy conocidos**. Se valen ★★★ de **Linkin Park, My Chemical Romance, Paramore, Queen, Michael Jackson y The Beatles** (discos, canciones menos conocidas, integrantes). En ★★★ también entran datos de fan de los demás artistas muy conocidos de esta lista.
 
-- **Anime, J-pop y J-rock:** los **openings clásicos** (Cha-La Head-Cha-La, Pegasus Fantasy, Butter-Fly…) se valen a fondo. YOASOBI, Ado, LiSA, ONE OK ROCK, Linked Horizon, SiM, Kenshi Yonezu, Aimer y Eve, solo básico. **Vocaloid**, muy básico; la excepción es «Setsuna Drive», de Yoshimitsu Taki (guitarrista de 9mm Parabellum Bullet) con la voz de IA, que el grupo pidió y está en la reserva como ★★★.
+- **Anime, J-pop y J-rock:** los **openings clásicos** (Cha-La Head-Cha-La, Pegasus Fantasy, Butter-Fly…) se valen a fondo. YOASOBI, Ado, LiSA, ONE OK ROCK, Linked Horizon, SiM, Kenshi Yonezu, Aimer y Eve, solo básico. **Vocaloid**, muy básico; la excepción es «Setsuna Drive», de Yoshimitsu Taki (guitarrista de 9mm Parabellum Bullet) con la voz de IA, que el grupo pidió y está en el banco como ★★.
 - **Música de anime en español:** Dragon Ball (Ricardo Silva, Adrián Barba), Digimon, Pokémon, Caballeros del Zodiaco, Sailor Moon, y fandubs y covers.
 - **Pop y rock en inglés:** emo y pop punk de los 2000 (MCR, Paramore, Green Day, Fall Out Boy), pop de los 2000 y 2010, rock alternativo, pop actual (Billie Eilish, The Weeknd, Dua Lipa)
 - **Más en inglés:** electrónica (Daft Punk, Avicii, David Guetta), hip hop de los 2000 (Eminem, 50 Cent, Kanye West), rock y metal clásico (Metallica, AC/DC, Guns N' Roses), indie y alternativo (Arctic Monkeys, The Strokes, Gorillaz)

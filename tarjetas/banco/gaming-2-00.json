@@ -1,76 +1,76 @@
 [
  {
-  "deporte": true,
-  "p": "¿Cuántos deportes trae el «Wii Sports» original?",
+  "p": "¿Qué canción de Ocarina of Time te enseña el hombre del molino?",
   "o": [
-   "5",
-   "4",
-   "7"
+   "Canción de la Tormenta",
+   "Canción del Sol",
+   "Canción de Epona"
+  ]
+ },
+ {
+  "p": "¿Qué campeona de LoL forma K/DA junto a Ahri, Akali y Evelynn?",
+  "o": [
+   "Kai'Sa",
+   "Miss Fortune",
+   "Lux"
+  ]
+ },
+ {
+  "p": "¿En qué Pokémon de Johto evoluciona Onix?",
+  "o": [
+   "Steelix",
+   "Golem",
+   "Rhydon"
+  ]
+ },
+ {
+  "p": "En Smash, ¿de qué saga de videojuegos viene Ness?",
+  "o": [
+   "EarthBound",
+   "Fire Emblem",
+   "Kid Icarus"
+  ]
+ },
+ {
+  "p": "¿Qué campeón de LoL dice «La muerte es como el viento, siempre a mi lado»?",
+  "o": [
+   "Yasuo",
+   "Yone",
+   "Zed"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Punch-Out!!» de Nintendo, ¿cómo se llama el boxeador protagonista?",
+  "p": "En Tony Hawk's Pro Skater 2, ¿qué superhéroe era personaje secreto?",
   "o": [
-   "Little Mac",
-   "Glass Joe",
-   "King Hippo"
+   "Spider-Man",
+   "Batman",
+   "Superman"
   ]
  },
  {
-  "p": "En Clash Royale, ¿cuánto elixir cuesta el Gigante?",
+  "p": "¿Qué Pokémon legendario sale en la portada de Pokémon Esmeralda?",
   "o": [
-   "5",
-   "4",
-   "6"
+   "Rayquaza",
+   "Groudon",
+   "Latios"
   ]
  },
  {
-  "p": "¿Qué agente de Valorant es de México?",
+  "p": "En Minecraft, ¿cuántos bloques de obsidiana necesitas como mínimo para un portal al Nether?",
   "o": [
-   "Reyna",
-   "Sage",
-   "Jett"
+   "10",
+   "14",
+   "12"
   ]
  },
  {
-  "p": "En Super Smash Bros., ¿qué objeto te da el ataque definitivo de tu personaje?",
+  "deporte": true,
+  "p": "En «Mario Kart 8», ¿cuál es la cilindrada más rápida?",
   "o": [
-   "La Bola Smash",
-   "La Superestrella",
-   "El Martillo"
-  ]
- },
- {
-  "p": "En LoL, ¿cómo se llama la definitiva de Jinx?",
-  "o": [
-   "¡Súper Mega Cohete Mortal!",
-   "¡Zap!",
-   "¡Masticallamas!"
-  ]
- },
- {
-  "p": "En «NieR: Automata», ¿cómo se llama la androide protagonista de vestido negro?",
-  "o": [
-   "2B",
-   "A2",
-   "9S"
-  ]
- },
- {
-  "p": "En LoL, ¿qué campeona es la hermana de Jinx?",
-  "o": [
-   "Vi",
-   "Caitlyn",
-   "Sevika"
-  ]
- },
- {
-  "p": "En Breath of the Wild, ¿cómo se llaman las cuatro máquinas gigantes que liberas?",
-  "o": [
-   "Las Bestias Divinas",
-   "Los Guardianes",
-   "Los Titanes"
+   "200cc",
+   "150cc",
+   "250cc"
   ]
  }
 ]

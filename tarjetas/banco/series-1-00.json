@@ -1,132 +1,92 @@
 [
  {
-  "p": "En «Los Padrinos Mágicos», ¿cómo se llaman los padrinos de Timmy?",
+  "p": "En «Phineas y Ferb», ¿cuántos días de vacaciones de verano hay?",
   "o": [
-   "Cosmo y Wanda",
-   "Jorgen y Poof",
-   "Juandissimo y Trixie"
+   "104",
+   "100",
+   "120"
   ]
  },
  {
-  "p": "¿Cómo se llama el ornitorrinco de Phineas y Ferb?",
+  "p": "En «Gravity Falls», ¿cómo se llama la tienda del Tío Stan?",
   "o": [
-   "Perry",
-   "Pinky",
-   "Peter"
+   "La Cabaña del Misterio",
+   "El Museo de lo Raro",
+   "La Casa Embrujada"
+  ]
+ },
+ {
+  "p": "En «Hey Arnold!», ¿quién está enamorada de Arnold en secreto?",
+  "o": [
+   "Helga",
+   "Phoebe",
+   "Lila"
+  ]
+ },
+ {
+  "p": "En «The Office», ¿cómo se llama la empresa de papel?",
+  "o": [
+   "Dunder Mifflin",
+   "Sabre",
+   "Staples"
+  ]
+ },
+ {
+  "p": "En «Un show más», ¿quién es el jefe de Mordecai y Rigby?",
+  "o": [
+   "Benson",
+   "Skips",
+   "Papaleta"
+  ]
+ },
+ {
+  "p": "En «Rick and Morty», ¿en qué se convierte Rick en uno de sus episodios más famosos?",
+  "o": [
+   "En un pepinillo",
+   "En una rata",
+   "En un auto"
+  ]
+ },
+ {
+  "p": "En «Drake & Josh», ¿cómo se llama su hermana menor?",
+  "o": [
+   "Megan",
+   "Mindy",
+   "Molly"
   ]
  },
  {
   "deporte": true,
-  "p": "En «High School Musical», ¿qué deporte juega Troy Bolton?",
+  "p": "¿Qué hace Kim Possible en la escuela además de salvar al mundo?",
   "o": [
-   "Básquetbol",
-   "Fútbol americano",
-   "Béisbol"
+   "Es porrista",
+   "Juega fútbol",
+   "Es capitana de natación"
   ]
  },
  {
-  "p": "En «Bob Esponja», ¿dónde trabaja Bob?",
+  "p": "En «Suits», ¿cuál es el gran secreto de Mike Ross?",
   "o": [
-   "El Crustáceo Cascarudo",
-   "El Balde de Carnada",
-   "La Fonda de Fondo de Bikini"
+   "Nunca estudió Derecho",
+   "Es hijo de Harvey",
+   "Trabaja para la policía"
   ]
  },
  {
-  "p": "¿Qué niño genio tiene un laboratorio secreto y una hermana llamada Dee Dee?",
+  "p": "En «How I Met Your Mother», ¿a qué se dedica Ted Mosby?",
   "o": [
-   "Dexter",
-   "Jimmy Neutrón",
-   "Johnny Bravo"
-  ]
- },
- {
-  "p": "En «Stranger Things», ¿cómo se llama la niña con poderes?",
-  "o": [
-   "Once",
-   "Max",
-   "Nancy"
-  ]
- },
- {
-  "p": "¿En qué ciudad viven Las Chicas Superpoderosas?",
-  "o": [
-   "Saltadilla",
-   "Ciudad Central",
-   "Villa Alegre"
+   "Es arquitecto",
+   "Es abogado",
+   "Es periodista"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué arte marcial practican Bob Esponja y Arenita?",
+  "p": "En «Club de Cuervos», ¿de qué ciudad es el equipo?",
   "o": [
-   "Karate",
-   "Kung fu",
-   "Judo"
-  ]
- },
- {
-  "p": "En «Los Simpson», ¿cómo se llama el dueño del Kwik-E-Mart?",
-  "o": [
-   "Apu",
-   "Moe",
-   "Cletus"
-  ]
- },
- {
-  "p": "En «Hannah Montana», ¿cuál es el nombre real de Hannah?",
-  "o": [
-   "Miley Stewart",
-   "Lilly Truscott",
-   "Lola Luftnagle"
-  ]
- },
- {
-  "p": "En la serie original de «Ben 10», ¿cómo se llama el reloj alienígena?",
-  "o": [
-   "Omnitrix",
-   "Alientrix",
-   "Megatrix"
-  ]
- },
- {
-  "p": "En «Los Simpson», ¿cómo se llama el bar al que va Homero?",
-  "o": [
-   "La taberna de Moe",
-   "El bar de Barney",
-   "La cantina de Lenny"
-  ]
- },
- {
-  "p": "En «Animaniacs», ¿cómo se llaman los hermanos Warner?",
-  "o": [
-   "Yakko, Wakko y Dot",
-   "Pinky, Cerebro y Dot",
-   "Buster, Babs y Plucky"
-  ]
- },
- {
-  "p": "En «Los Picapiedra», ¿cómo se llama el mejor amigo de Pedro?",
-  "o": [
-   "Pablo Mármol",
-   "Bam-Bam",
-   "Señor Rajuela"
-  ]
- },
- {
-  "p": "En «Los Simpson», ¿cómo se llama el vecino religioso de Homero?",
-  "o": [
-   "Ned Flanders",
-   "Lenny",
-   "Moe"
-  ]
- },
- {
-  "p": "¿Cómo se llama el villano de «LazyTown»?",
-  "o": [
-   "Robbie Rotten",
-   "Sportacus",
-   "Pixel"
+   "Nuevo Toledo",
+   "Monterrey",
+   "Guadalajara"
   ]
  }
 ]

@@ -1,198 +1,198 @@
 [
  {
   "deporte": true,
-  "p": "¿Qué actor interpreta a Rocky Balboa?",
+  "p": "En «Hajime no Ippo», ¿por qué empieza Ippo a boxear?",
   "o": [
-   "Sylvester Stallone",
-   "Arnold Schwarzenegger",
-   "Jean-Claude Van Damme"
+   "Lo salvó un boxeador de abusones",
+   "Su papá había sido campeón",
+   "Ganó un torneo escolar"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Dragon Ball Z», ¿qué deporte juega Yamcha como profesional?",
+  "p": "En «Blue Lock», ¿la selección de qué país quieren hacer campeona?",
   "o": [
-   "Béisbol",
-   "Fútbol",
-   "Básquetbol"
+   "Japón",
+   "Brasil",
+   "Alemania"
   ]
  },
  {
   "deporte": true,
-  "p": "En «¿Qué pasó ayer?», ¿de quién es el tigre que aparece en el baño?",
+  "p": "¿Qué actor es el entrenador de básquetbol en «Coach Carter»?",
   "o": [
-   "De Mike Tyson",
-   "De Floyd Mayweather",
-   "De Manny Pacquiao"
+   "Samuel L. Jackson",
+   "Denzel Washington",
+   "Morgan Freeman"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué actor protagoniza «F1: La película» (2025)?",
+  "p": "¿Qué actor protagoniza «Gigantes de acero», de robots boxeadores?",
   "o": [
-   "Brad Pitt",
-   "Tom Cruise",
-   "Ryan Gosling"
+   "Hugh Jackman",
+   "Mark Wahlberg",
+   "Chris Hemsworth"
   ]
  },
  {
-  "p": "¿Qué personaje de Dragon Ball es verde y namekiano?",
+  "p": "¿Cómo se llama el villano rosa de Dragon Ball Z?",
   "o": [
-   "Piccolo",
-   "Cell",
-   "Freezer"
+   "Majin Buu",
+   "Babidi",
+   "Dabura"
   ]
  },
  {
-  "p": "En «Volver al futuro», ¿cómo se apellida el científico Doc?",
+  "p": "¿Qué técnica hace Goku juntando la energía de todos los seres vivos?",
   "o": [
-   "Brown",
-   "Wells",
-   "Miller"
+   "La Genkidama",
+   "El Kaioken",
+   "El Kamehameha"
   ]
  },
  {
-  "p": "En «Solo Leveling», ¿qué rango de cazador tiene el protagonista al inicio?",
+  "p": "¿Cómo se llama el hijo de Vegeta y Bulma?",
   "o": [
-   "Rango E",
-   "Rango S",
-   "Rango B"
+   "Trunks",
+   "Goten",
+   "Gohan"
   ]
  },
  {
-  "p": "¿Qué Pokémon tortuga es el inicial de tipo Agua en Kanto?",
+  "p": "En «Naruto», ¿qué ojo especial tiene el clan Hyuga?",
   "o": [
-   "Squirtle",
-   "Turtwig",
-   "Totodile"
+   "Byakugan",
+   "Sharingan",
+   "Rinnegan"
   ]
  },
  {
-  "p": "¿Qué Pokémon gordo se la pasa durmiendo y bloquea caminos?",
+  "p": "En «Naruto», ¿quién es el sensei de Rock Lee?",
   "o": [
-   "Snorlax",
-   "Slowpoke",
-   "Munchlax"
+   "Might Guy",
+   "Kakashi",
+   "Asuma"
   ]
  },
  {
-  "p": "Completa la frase famosa de Serena: «Te castigaré…»",
+  "p": "En la primera «Kung Fu Panda», ¿cómo se llama el villano?",
   "o": [
-   "…en el nombre de la Luna",
-   "…en el nombre del Sol",
-   "…en el nombre de la justicia"
+   "Tai Lung",
+   "Lord Shen",
+   "Kai"
   ]
  },
  {
-  "p": "En «Death Note», ¿cuál es el nombre de pila de Yagami?",
+  "p": "En «Digimon Adventure», ¿cuál es el Digimon de Sora?",
   "o": [
-   "Light",
-   "Ryuk",
+   "Biyomon",
+   "Palmon",
+   "Tentomon"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿qué nombre falso usa L con Light?",
+  "o": [
+   "Ryuzaki",
+   "Kira",
    "Near"
   ]
  },
  {
-  "p": "En «One Piece», ¿cómo se llama el espadachín que usa tres espadas?",
+  "p": "En «Code Geass», ¿qué imperio conquista Japón?",
   "o": [
-   "Zoro",
-   "Sanji",
-   "Usopp"
+   "Britannia",
+   "La Unión Euroasiática",
+   "La Federación China"
   ]
  },
  {
-  "p": "En «Attack on Titan», ¿cómo se llama el capitán al que le dicen el soldado más fuerte?",
+  "p": "En «Attack on Titan», ¿qué titán rompe la muralla al inicio?",
   "o": [
-   "Levi",
-   "Erwin",
-   "Hange"
+   "El Titán Colosal",
+   "El Titán Bestia",
+   "El Titán Mandíbula"
   ]
  },
  {
-  "p": "En «Demon Slayer», ¿en qué carga Tanjiro a Nezuko en la espalda?",
+  "p": "En «Jujutsu Kaisen», ¿a quién le dicen el Rey de las Maldiciones?",
   "o": [
-   "En una caja de madera",
-   "En una canasta",
-   "En una mochila"
+   "Sukuna",
+   "Mahito",
+   "Jogo"
   ]
  },
  {
-  "p": "¿Cómo se llama el protagonista de «Jujutsu Kaisen»?",
+  "p": "En «Demon Slayer», ¿qué personaje pelea mejor cuando se queda dormido?",
   "o": [
-   "Yuji Itadori",
-   "Megumi Fushiguro",
-   "Satoru Gojo"
+   "Zenitsu",
+   "Inosuke",
+   "Tanjiro"
   ]
  },
  {
-  "p": "En «Spy x Family», ¿qué botana le encanta a Anya?",
+  "p": "En «One Punch Man», ¿de qué color es la capa de Saitama?",
   "o": [
-   "Los cacahuates",
-   "Las papitas",
-   "Las palomitas"
+   "Blanca",
+   "Roja",
+   "Negra"
   ]
  },
  {
-  "p": "En «My Hero Academia», ¿quién es el héroe número uno al inicio?",
+  "p": "En «Hunter x Hunter», ¿a quién busca Gon?",
   "o": [
-   "All Might",
-   "Endeavor",
-   "Hawks"
+   "A su papá",
+   "A su mamá",
+   "A su hermano"
   ]
  },
  {
-  "p": "En «Enredados», ¿qué animal es Pascal, el amigo de Rapunzel?",
+  "p": "En «Fullmetal Alchemist», ¿qué buscan los hermanos Elric?",
   "o": [
-   "Un camaleón",
-   "Una iguana",
-   "Una rana"
+   "La piedra filosofal",
+   "El círculo de transmutación perfecto",
+   "Un homúnculo"
   ]
  },
  {
-  "p": "En «Toy Story 2», ¿cómo se llama la vaquera?",
+  "p": "¿Cómo se llama la brujita repartidora de Studio Ghibli?",
   "o": [
-   "Jessie",
-   "Bo Peep",
-   "Sally"
+   "Kiki",
+   "Chihiro",
+   "Sophie"
   ]
  },
  {
-  "p": "En «Monsters, Inc.», ¿qué juntan los monstruos para darle energía a su ciudad?",
+  "p": "En «Jurassic Park», ¿qué dinosaurio escupe veneno?",
   "o": [
-   "Los gritos de los niños",
-   "Los sueños",
-   "Las lágrimas"
+   "El dilofosaurio",
+   "El velocirraptor",
+   "El compsognathus"
   ]
  },
  {
-  "p": "En «Shrek», ¿de quién se enamora la dragona?",
+  "p": "En «Matrix», ¿a quién le dicen «el Elegido»?",
   "o": [
-   "Del Burro",
-   "De Shrek",
-   "Del Gato con Botas"
+   "A Neo",
+   "A Morfeo",
+   "A Trinity"
   ]
  },
  {
-  "p": "En «Shrek», ¿qué animal es la pareja de Burro?",
+  "p": "En «Mean Girls», ¿cómo le dicen al grupo de Regina George?",
   "o": [
-   "Una dragona",
-   "Una yegua",
-   "Una burra"
+   "Las Plásticas",
+   "Las Divinas",
+   "Las Reinas"
   ]
  },
  {
-  "p": "En «Coco», ¿qué instrumento quiere tocar Miguel?",
+  "p": "¿En qué pueblo pasa «It»?",
   "o": [
-   "La guitarra",
-   "La trompeta",
-   "El violín"
-  ]
- },
- {
-  "p": "En «Los Increíbles», ¿cómo se llama la diseñadora de trajes bajita?",
-  "o": [
-   "Edna Moda",
-   "Mirage",
-   "Helen"
+   "Derry",
+   "Hawkins",
+   "Castle Rock"
   ]
  }
 ]

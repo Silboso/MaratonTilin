@@ -1,93 +1,76 @@
 [
  {
-  "p": "¿Qué significan las siglas USB?",
+  "p": "¿Qué significan las siglas GPU?",
   "o": [
-   "Universal Serial Bus",
-   "Unified System Bridge",
-   "Universal Storage Base"
+   "Graphics Processing Unit",
+   "General Power Unit",
+   "Game Process Utility"
   ]
  },
  {
-  "p": "¿En qué año cambió Twitter su nombre a X?",
+  "p": "¿Qué empresa lanzó el DynaTAC, el primer celular comercial?",
   "o": [
-   "2023",
-   "2021",
-   "2025"
+   "Motorola",
+   "Nokia",
+   "Ericsson"
   ]
  },
  {
-  "deporte": true,
-  "p": "¿Qué tecnología para revisar jugadas debutó en el Mundial de Rusia 2018?",
+  "p": "¿En qué planeta volcánico pelean Obi-Wan y Anakin?",
   "o": [
-   "El VAR",
-   "El Ojo de Halcón",
-   "El balón con chip"
+   "Mustafar",
+   "Geonosis",
+   "Kamino"
   ]
  },
  {
-  "p": "¿En qué película debuta el Spider-Man de Tom Holland?",
+  "p": "¿De qué es el núcleo de la varita de Harry Potter?",
   "o": [
-   "«Capitán América: Civil War»",
-   "«Avengers: Era de Ultrón»",
-   "«Avengers: Infinity War»"
+   "Pluma de fénix",
+   "Pelo de unicornio",
+   "Fibra de corazón de dragón"
   ]
  },
  {
-  "p": "¿Qué empresa compró YouTube en 2006?",
+  "p": "¿Qué Gema del Infinito era el Éter?",
   "o": [
-   "Google",
-   "Microsoft",
-   "Yahoo"
-  ]
- },
- {
-  "p": "¿Qué juego de rol de mesa tiene como símbolo el dado de 20 caras?",
-  "o": [
-   "Dungeons & Dragons",
-   "Warhammer",
-   "Magic: The Gathering"
+   "La de la Realidad",
+   "La del Poder",
+   "La del Alma"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Star Wars: La amenaza fantasma», ¿qué carrera gana Anakin de niño?",
+  "p": "En la Fórmula 1, ¿qué significa DRS?",
   "o": [
-   "Una carrera de vainas",
-   "Una carrera de speeders",
-   "Una carrera de X-wings"
+   "Drag Reduction System",
+   "Dynamic Racing Speed",
+   "Driver Response System"
+  ]
+ },
+ {
+  "p": "En Star Wars, ¿qué orden usó Palpatine para eliminar a los Jedi?",
+  "o": [
+   "La Orden 66",
+   "La Orden 99",
+   "La Orden 101"
+  ]
+ },
+ {
+  "p": "¿En qué año se fundó Apple?",
+  "o": [
+   "1976",
+   "1984",
+   "1971"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Volver al futuro II», ¿en qué escapa Marty de Griff?",
+  "p": "¿Qué número usaba Checo Pérez en la Fórmula 1?",
   "o": [
-   "Una patineta voladora",
-   "Una moto voladora",
-   "Unos patines a reacción"
-  ]
- },
- {
-  "p": "¿Qué superhéroe de DC es Barry Allen?",
-  "o": [
-   "Flash",
-   "Linterna Verde",
-   "Aquaman"
-  ]
- },
- {
-  "p": "¿Qué significan las siglas PDF?",
-  "o": [
-   "Portable Document Format",
-   "Printable Data File",
-   "Public Document Form"
-  ]
- },
- {
-  "p": "En «God of War», ¿de qué dios es hijo Kratos?",
-  "o": [
-   "Zeus",
-   "Ares",
-   "Hades"
+   "11",
+   "33",
+   "15"
   ]
  }
 ]

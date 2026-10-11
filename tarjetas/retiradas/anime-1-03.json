@@ -1,0 +1,198 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Qué actor interpreta a Rocky Balboa?",
+  "o": [
+   "Sylvester Stallone",
+   "Arnold Schwarzenegger",
+   "Jean-Claude Van Damme"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Dragon Ball Z», ¿qué deporte juega Yamcha como profesional?",
+  "o": [
+   "Béisbol",
+   "Fútbol",
+   "Básquetbol"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «¿Qué pasó ayer?», ¿de quién es el tigre que aparece en el baño?",
+  "o": [
+   "De Mike Tyson",
+   "De Floyd Mayweather",
+   "De Manny Pacquiao"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué actor protagoniza «F1: La película» (2025)?",
+  "o": [
+   "Brad Pitt",
+   "Tom Cruise",
+   "Ryan Gosling"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de Dragon Ball es verde y namekiano?",
+  "o": [
+   "Piccolo",
+   "Cell",
+   "Freezer"
+  ]
+ },
+ {
+  "p": "En «Volver al futuro», ¿cómo se apellida el científico Doc?",
+  "o": [
+   "Brown",
+   "Wells",
+   "Miller"
+  ]
+ },
+ {
+  "p": "En «Solo Leveling», ¿qué rango de cazador tiene el protagonista al inicio?",
+  "o": [
+   "Rango E",
+   "Rango S",
+   "Rango B"
+  ]
+ },
+ {
+  "p": "¿Qué Pokémon tortuga es el inicial de tipo Agua en Kanto?",
+  "o": [
+   "Squirtle",
+   "Turtwig",
+   "Totodile"
+  ]
+ },
+ {
+  "p": "¿Qué Pokémon gordo se la pasa durmiendo y bloquea caminos?",
+  "o": [
+   "Snorlax",
+   "Slowpoke",
+   "Munchlax"
+  ]
+ },
+ {
+  "p": "Completa la frase famosa de Serena: «Te castigaré…»",
+  "o": [
+   "…en el nombre de la Luna",
+   "…en el nombre del Sol",
+   "…en el nombre de la justicia"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿cuál es el nombre de pila de Yagami?",
+  "o": [
+   "Light",
+   "Ryuk",
+   "Near"
+  ]
+ },
+ {
+  "p": "En «One Piece», ¿cómo se llama el espadachín que usa tres espadas?",
+  "o": [
+   "Zoro",
+   "Sanji",
+   "Usopp"
+  ]
+ },
+ {
+  "p": "En «Attack on Titan», ¿cómo se llama el capitán al que le dicen el soldado más fuerte?",
+  "o": [
+   "Levi",
+   "Erwin",
+   "Hange"
+  ]
+ },
+ {
+  "p": "En «Demon Slayer», ¿en qué carga Tanjiro a Nezuko en la espalda?",
+  "o": [
+   "En una caja de madera",
+   "En una canasta",
+   "En una mochila"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el protagonista de «Jujutsu Kaisen»?",
+  "o": [
+   "Yuji Itadori",
+   "Megumi Fushiguro",
+   "Satoru Gojo"
+  ]
+ },
+ {
+  "p": "En «Spy x Family», ¿qué botana le encanta a Anya?",
+  "o": [
+   "Los cacahuates",
+   "Las papitas",
+   "Las palomitas"
+  ]
+ },
+ {
+  "p": "En «My Hero Academia», ¿quién es el héroe número uno al inicio?",
+  "o": [
+   "All Might",
+   "Endeavor",
+   "Hawks"
+  ]
+ },
+ {
+  "p": "En «Enredados», ¿qué animal es Pascal, el amigo de Rapunzel?",
+  "o": [
+   "Un camaleón",
+   "Una iguana",
+   "Una rana"
+  ]
+ },
+ {
+  "p": "En «Toy Story 2», ¿cómo se llama la vaquera?",
+  "o": [
+   "Jessie",
+   "Bo Peep",
+   "Sally"
+  ]
+ },
+ {
+  "p": "En «Monsters, Inc.», ¿qué juntan los monstruos para darle energía a su ciudad?",
+  "o": [
+   "Los gritos de los niños",
+   "Los sueños",
+   "Las lágrimas"
+  ]
+ },
+ {
+  "p": "En «Shrek», ¿de quién se enamora la dragona?",
+  "o": [
+   "Del Burro",
+   "De Shrek",
+   "Del Gato con Botas"
+  ]
+ },
+ {
+  "p": "En «Shrek», ¿qué animal es la pareja de Burro?",
+  "o": [
+   "Una dragona",
+   "Una yegua",
+   "Una burra"
+  ]
+ },
+ {
+  "p": "En «Coco», ¿qué instrumento quiere tocar Miguel?",
+  "o": [
+   "La guitarra",
+   "La trompeta",
+   "El violín"
+  ]
+ },
+ {
+  "p": "En «Los Increíbles», ¿cómo se llama la diseñadora de trajes bajita?",
+  "o": [
+   "Edna Moda",
+   "Mirage",
+   "Helen"
+  ]
+ }
+]

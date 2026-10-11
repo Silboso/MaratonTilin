@@ -1,92 +1,75 @@
 [
  {
-  "p": "En «Phineas y Ferb», ¿cuántos días de vacaciones de verano hay?",
+  "p": "En «Friends», ¿cómo se llama el mono de Ross?",
   "o": [
-   "104",
-   "100",
-   "120"
+   "Marcel",
+   "Bobo",
+   "Jorge"
   ]
  },
  {
-  "p": "En «Gravity Falls», ¿cómo se llama la tienda del Tío Stan?",
+  "p": "En «Game of Thrones», ¿cómo se llama el lobo huargo de Jon Snow?",
   "o": [
-   "La Cabaña del Misterio",
-   "El Museo de lo Raro",
-   "La Casa Embrujada"
-  ]
- },
- {
-  "p": "En «Hey Arnold!», ¿quién está enamorada de Arnold en secreto?",
-  "o": [
-   "Helga",
-   "Phoebe",
-   "Lila"
-  ]
- },
- {
-  "p": "En «The Office», ¿cómo se llama la empresa de papel?",
-  "o": [
-   "Dunder Mifflin",
-   "Sabre",
-   "Staples"
-  ]
- },
- {
-  "p": "En «Un show más», ¿quién es el jefe de Mordecai y Rigby?",
-  "o": [
-   "Benson",
-   "Skips",
-   "Papaleta"
-  ]
- },
- {
-  "p": "En «Rick and Morty», ¿en qué se convierte Rick en uno de sus episodios más famosos?",
-  "o": [
-   "En un pepinillo",
-   "En una rata",
-   "En un auto"
-  ]
- },
- {
-  "p": "En «Drake & Josh», ¿cómo se llama su hermana menor?",
-  "o": [
-   "Megan",
-   "Mindy",
-   "Molly"
+   "Fantasma",
+   "Verano",
+   "Viento Gris"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué hace Kim Possible en la escuela además de salvar al mundo?",
+  "p": "En «Ted Lasso», ¿qué deporte entrenaba Ted antes de llegar a Inglaterra?",
   "o": [
-   "Es porrista",
-   "Juega fútbol",
-   "Es capitana de natación"
+   "Fútbol americano",
+   "Básquetbol",
+   "Béisbol"
   ]
  },
  {
-  "p": "En «Suits», ¿cuál es el gran secreto de Mike Ross?",
+  "p": "En «Breaking Bad», ¿cómo se llama el autolavado que compran los White?",
   "o": [
-   "Nunca estudió Derecho",
-   "Es hijo de Harvey",
-   "Trabaja para la policía"
+   "A1A Car Wash",
+   "Lavado Estrella",
+   "Sparkle Wash"
   ]
  },
  {
-  "p": "En «How I Met Your Mother», ¿a qué se dedica Ted Mosby?",
+  "p": "En «Coraje, el perro cobarde», ¿cómo se llaman sus dueños?",
   "o": [
-   "Es arquitecto",
-   "Es abogado",
-   "Es periodista"
+   "Muriel y Justo",
+   "Doris y Pancho",
+   "Marta y Fermín"
   ]
  },
  {
-  "deporte": true,
-  "p": "En «Club de Cuervos», ¿de qué ciudad es el equipo?",
+  "p": "En «Ed, Edd y Eddy», ¿qué dulce siempre quieren comprar?",
   "o": [
-   "Nuevo Toledo",
-   "Monterrey",
-   "Guadalajara"
+   "Rompemuelas",
+   "Paletas de cajeta",
+   "Chicles"
+  ]
+ },
+ {
+  "p": "En «The Office», ¿cómo se llaman los premios que Michael entrega a sus empleados?",
+  "o": [
+   "Los Dundies",
+   "Los Scotties",
+   "Los Mifflins"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿con qué planta envenena Walter a Brock?",
+  "o": [
+   "Lirio de los valles",
+   "Ricina",
+   "Cicuta"
+  ]
+ },
+ {
+  "p": "En «Stranger Things», ¿quién muere protegiendo a Joyce y los niños en la temporada 2?",
+  "o": [
+   "Bob Newby",
+   "Billy Hargrove",
+   "Barb Holland"
   ]
  }
 ]

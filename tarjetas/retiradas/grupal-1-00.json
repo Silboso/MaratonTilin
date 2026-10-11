@@ -1,0 +1,98 @@
+[
+ {
+  "p": "¿Qué villana de Disney dice «Espejito, espejito»?",
+  "o": [
+   "La Reina Malvada",
+   "Maléfica",
+   "Úrsula"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de «Up» grita «¡Ardilla!» cada que se distrae?",
+  "o": [
+   "Dug",
+   "Kevin",
+   "Russell"
+  ]
+ },
+ {
+  "p": "¿Quién dice «¡Se me chispoteó!»?",
+  "o": [
+   "El Chavo",
+   "Quico",
+   "La Chilindrina"
+  ]
+ },
+ {
+  "p": "¿De qué raza es el perro del meme «Doge»?",
+  "o": [
+   "Shiba Inu",
+   "Akita",
+   "Corgi"
+  ]
+ },
+ {
+  "p": "¿Qué institución cobra los impuestos en México?",
+  "o": [
+   "El SAT",
+   "El IMSS",
+   "El Infonavit"
+  ]
+ },
+ {
+  "p": "¿Qué app de videos de 6 segundos cerró en 2017?",
+  "o": [
+   "Vine",
+   "Musical.ly",
+   "Snapchat"
+  ]
+ },
+ {
+  "p": "¿En qué película el protagonista le grita «¡Wilson!» a un balón?",
+  "o": [
+   "Náufrago",
+   "Forrest Gump",
+   "La terminal"
+  ]
+ },
+ {
+  "p": "¿Qué clave de 18 caracteres identifica a cada persona en México?",
+  "o": [
+   "CURP",
+   "RFC",
+   "NSS"
+  ]
+ },
+ {
+  "p": "¿Cuál es la montaña más alta de Japón?",
+  "o": [
+   "Monte Fuji",
+   "Monte Aso",
+   "Monte Takao"
+  ]
+ },
+ {
+  "p": "¿A quién llaman cuando dicen «¿Y ahora quién podrá defendernos?»?",
+  "o": [
+   "Al Chapulín Colorado",
+   "Al Chavo",
+   "Al Doctor Chapatín"
+  ]
+ },
+ {
+  "p": "¿En qué película dicen «Toto, creo que ya no estamos en Kansas»?",
+  "o": [
+   "El mago de Oz",
+   "Alicia en el país de las maravillas",
+   "Twister"
+  ]
+ },
+ {
+  "p": "¿Qué significa «stalkear» a alguien?",
+  "o": [
+   "Revisar su perfil a escondidas",
+   "Bloquearlo",
+   "Etiquetarlo en fotos"
+  ]
+ }
+]

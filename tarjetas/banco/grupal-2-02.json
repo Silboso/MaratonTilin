@@ -1,198 +1,198 @@
 [
  {
   "deporte": true,
-  "p": "¿Qué delantero mexicano le anotó un cabezazo de espaldas a Italia en el Mundial 2002?",
+  "p": "¿Qué luchador apodado «Latino Heat» fue campeón de la WWE en 2004?",
   "o": [
-   "Jared Borgetti",
-   "Cuauhtémoc Blanco",
-   "Francisco Palencia"
+   "Eddie Guerrero",
+   "Rey Mysterio",
+   "Alberto del Río"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué selección eliminó a México en octavos del Mundial 2018?",
+  "p": "¿Quién anotó los dos goles de México en la final olímpica de Londres 2012?",
   "o": [
-   "Brasil",
-   "Holanda",
-   "Argentina"
+   "Oribe Peralta",
+   "Giovani dos Santos",
+   "Javier Aquino"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué equipo de Guadalajara son «los Rojinegros»?",
+  "p": "¿En qué superficie se juega hoy el Abierto Mexicano de Tenis de Acapulco?",
   "o": [
-   "Atlas",
-   "Chivas",
-   "Leones Negros"
+   "Cancha dura",
+   "Arcilla",
+   "Pasto"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué equipo ganó el Super Bowl de 2025?",
+  "p": "¿Qué boxeador mexicano es conocido como «Dinamita»?",
   "o": [
-   "Águilas de Filadelfia",
-   "Jefes de Kansas City",
-   "49ers de San Francisco"
+   "Juan Manuel Márquez",
+   "Érik Morales",
+   "Canelo Álvarez"
   ]
  },
  {
-  "p": "¿Qué es una «gringa»?",
+  "p": "¿De qué estado es el aguachile?",
   "o": [
-   "Taco al pastor con queso en harina",
-   "Una torta de jamón",
-   "Una quesadilla dulce"
+   "Sinaloa",
+   "Yucatán",
+   "Oaxaca"
   ]
  },
  {
-  "p": "¿Qué es un «pambazo»?",
+  "p": "¿Qué antojito poblano son tortillitas fritas bañadas en salsa verde o roja?",
   "o": [
-   "Pan bañado en salsa con papa y chorizo",
-   "Un taco dorado",
-   "Una tostada de pata"
+   "Chalupas",
+   "Molotes",
+   "Cemitas"
   ]
  },
  {
-  "p": "¿Qué supermercado tiene a «Mamá Lucha» como mascota?",
+  "p": "¿Qué hierba se le pone a los frijoles de olla y a los esquites?",
   "o": [
-   "Bodega Aurrerá",
-   "Soriana",
-   "Chedraui"
+   "Epazote",
+   "Hoja santa",
+   "Pápalo"
   ]
  },
  {
-  "p": "¿Qué resina aromática se quema en la ofrenda de Día de Muertos?",
+  "p": "¿Qué empresa estadounidense es dueña de Gamesa?",
   "o": [
-   "Copal",
-   "Mirra",
-   "Sándalo"
+   "PepsiCo",
+   "Nestlé",
+   "Mondelez"
   ]
  },
  {
-  "p": "¿Qué se come el 2 de febrero, Día de la Candelaria?",
+  "p": "¿Cómo se llama el conejo de Nesquik?",
   "o": [
-   "Tamales",
-   "Rosca",
-   "Pozole"
+   "Quicky",
+   "Tambor",
+   "Bugsy"
   ]
  },
  {
-  "p": "¿Qué inversión del banco te paga intereses si no tocas tu dinero un tiempo?",
+  "p": "¿Qué actriz protagonizó la telenovela «Teresa» de 2010?",
   "o": [
-   "Un pagaré",
-   "Una cuenta de cheques",
-   "Una cuenta de nómina"
+   "Angelique Boyer",
+   "Maite Perroni",
+   "Anahí"
   ]
  },
  {
-  "p": "¿Qué refresco usaba el lema «Destapa la felicidad»?",
+  "p": "¿Qué actor interpretaba al Profesor Jirafales?",
   "o": [
-   "Coca-Cola",
-   "Pepsi",
-   "Jarritos"
+   "Rubén Aguirre",
+   "Ramón Valdés",
+   "Horacio Gómez"
   ]
  },
  {
-  "p": "Completa el dicho: «El que es perico…»",
+  "p": "¿Qué juego de Facebook de 2009 era de manejar tu propio negocio de comida?",
   "o": [
-   "…dondequiera es verde",
-   "…siempre habla de más",
-   "…vuela alto"
+   "Restaurant City",
+   "Pet Society",
+   "YoVille"
   ]
  },
  {
-  "p": "Completa el dicho: «Cría cuervos…»",
+  "p": "¿A quiénes se festeja el 3 de mayo, Día de la Santa Cruz?",
   "o": [
-   "…y te sacarán los ojos",
-   "…y tendrás muchos",
-   "…y volarán lejos"
+   "A los albañiles",
+   "A los maestros",
+   "A los carteros"
   ]
  },
  {
-  "p": "¿Qué significa que alguien sea «fijado»?",
+  "p": "Completa el dicho: «Más vale paso que dure…»",
   "o": [
-   "Que se fija en todo y critica",
-   "Que es muy puntual",
-   "Que no cambia de opinión"
+   "…y no trote que canse",
+   "…que carrera corta",
+   "…que caballo flaco"
   ]
  },
  {
-  "p": "¿Qué personajes gritan «¡Cowabunga!»?",
+  "p": "Completa el dicho: «Agua que no has de beber…»",
   "o": [
-   "Las Tortugas Ninja",
-   "Los Thundercats",
-   "Los Power Rangers"
+   "…déjala correr",
+   "…no la sirvas",
+   "…tírala al mar"
   ]
  },
  {
-  "p": "¿Cómo se llama el meme del shiba musculoso contra el shiba chiquito?",
+  "p": "En «Ratatouille», ¿quién decía «Cualquiera puede cocinar»?",
   "o": [
-   "Swole Doge vs. Cheems",
-   "Doge vs. Grumpy Cat",
-   "Walter vs. Doge"
+   "Gusteau",
+   "Remy",
+   "Anton Ego"
   ]
  },
  {
-  "p": "¿En qué red social de 2012 todos contestaban «anónimos» en su perfil?",
+  "p": "¿Qué significan las siglas AFORE?",
   "o": [
-   "Ask.fm",
-   "Tumblr",
-   "Taringa!"
+   "Administradora de Fondos para el Retiro",
+   "Asociación Federal de Retiro",
+   "Ahorro Formal para el Empleo"
   ]
  },
  {
-  "p": "Al comprar a crédito, ¿qué es el «enganche»?",
+  "p": "¿Cómo se llamaba en la vida real la perrita del meme «Doge»?",
   "o": [
-   "El pago inicial",
-   "El último pago",
-   "Los intereses"
+   "Kabosu",
+   "Cheems",
+   "Balltze"
   ]
  },
  {
-  "p": "Al rentar un depa, ¿para qué es el depósito que das al inicio?",
+  "p": "¿Qué marca usaba Telmex para su internet por módem telefónico?",
   "o": [
-   "Cubrir daños o adeudos al salir",
-   "Pagar el primer mes de renta",
-   "La comisión de la inmobiliaria"
+   "Prodigy",
+   "Terra",
+   "Megacable"
   ]
  },
  {
-  "p": "En Año Nuevo, ¿qué se hace con una maleta para viajar el próximo año?",
+  "p": "¿Qué dulce poblano es una galleta con pasta de pepita encima?",
   "o": [
-   "Darle la vuelta a la cuadra",
-   "Guardarle dinero",
-   "Dejarla en la puerta"
+   "Tortitas de Santa Clara",
+   "Muéganos",
+   "Jamoncillos"
   ]
  },
  {
-  "p": "En Año Nuevo, ¿de qué color se usan los calzones para atraer el amor?",
+  "p": "¿Qué es un «gandalla»?",
   "o": [
-   "Rojos",
-   "Amarillos",
-   "Blancos"
+   "Alguien abusivo y aprovechado",
+   "Alguien muy trabajador",
+   "Alguien muy chismoso"
   ]
  },
  {
-  "p": "¿Qué marca de figuras cabezonas en caja con ventanita se volvió moda en los 2010?",
+  "p": "¿Qué imagen tenían en la portada los libros de texto gratuitos clásicos?",
   "o": [
-   "Funko Pop",
-   "Playmobil",
-   "Polly Pocket"
+   "La Patria",
+   "El Ángel de la Independencia",
+   "El escudo nacional"
   ]
  },
  {
-  "p": "¿Qué reto viral de 2018 consistía en bailar junto a un coche en movimiento?",
+  "p": "¿Qué juguete de seis caras dice «toma todo» y «todos ponen»?",
   "o": [
-   "Kiki Challenge",
-   "Harlem Shake",
-   "Bottle Flip"
+   "La pirinola",
+   "El dado",
+   "El trompo"
   ]
  },
  {
-  "p": "¿Qué bebida de maíz con chocolate se toma en invierno?",
+  "p": "¿Qué celulares eran famosos por usarse como radio con un «pip-pip»?",
   "o": [
-   "Champurrado",
-   "Horchata",
-   "Tejuino"
+   "Nextel",
+   "BlackBerry",
+   "Sony Ericsson"
   ]
  }
 ]

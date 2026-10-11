@@ -1,109 +1,84 @@
 [
  {
-  "p": "En «Evangelion», ¿quién pilotea la Unidad 01?",
+  "p": "En «Dragon Ball», ¿qué le pide Oolong a Shenlong la primera vez que lo invocan?",
   "o": [
-   "Shinji Ikari",
-   "Asuka Langley",
-   "Rei Ayanami"
+   "Unos calzones",
+   "La vida eterna",
+   "Un novio perfecto"
   ]
  },
  {
-  "p": "En «Death Note», ¿qué fruta le encanta al shinigami Ryuk?",
+  "p": "En «Naruto», ¿quién acompañaba a Zabuza y peleaba con espejos de hielo?",
   "o": [
-   "Las manzanas",
-   "Las fresas",
-   "Las uvas"
+   "Haku",
+   "Kimimaro",
+   "Kabuto"
   ]
  },
  {
-  "deporte": true,
-  "p": "¿Qué actor interpreta a Muhammad Ali en «Ali» (2001)?",
+  "p": "En DBZ, ¿quién acaba con Freezer (ya Mecha Freezer) cuando llega a la Tierra?",
   "o": [
-   "Will Smith",
-   "Denzel Washington",
-   "Michael B. Jordan"
+   "Trunks del futuro",
+   "Goku",
+   "Vegeta"
   ]
  },
  {
-  "p": "En «Code Geass», ¿qué poder le da el Geass a Lelouch?",
+  "p": "En «Naruto», ¿qué miembro de Akatsuki es inmortal y adora a Jashin?",
   "o": [
-   "Que lo obedezcan",
-   "Leer mentes",
-   "Detener el tiempo"
+   "Hidan",
+   "Kakuzu",
+   "Deidara"
   ]
  },
  {
-  "p": "¿En qué película de terror el villano dice «¿Quieres jugar un juego?»?",
+  "p": "En «Pokémon», ¿qué Pokémon de Ash evolucionó en plena batalla de la Liga Añil?",
   "o": [
-   "Saw",
-   "Scream",
-   "El Conjuro"
-  ]
- },
- {
-  "p": "En «Digimon Adventure», ¿en qué digievoluciona Agumon a nivel campeón?",
-  "o": [
-   "Greymon",
-   "Garurumon",
-   "Birdramon"
-  ]
- },
- {
-  "p": "En «Fullmetal Alchemist», ¿qué perdió Alphonse Elric?",
-  "o": [
-   "Todo su cuerpo",
-   "Un brazo y una pierna",
-   "Sus recuerdos"
+   "Krabby",
+   "Bulbasaur",
+   "Squirtle"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Kuroko no Basket», ¿qué hace especial a Tetsuya Kuroko?",
+  "p": "En «Supercampeones», ¿de quién es el «Tiro del Tigre»?",
   "o": [
-   "Casi nadie lo nota en la cancha",
-   "Encesta desde media cancha",
-   "Salta más alto que nadie"
+   "Steve Hyuga",
+   "Oliver Atom",
+   "Tom Misaki"
+  ]
+ },
+ {
+  "p": "¿Quién dirigió «Amores perros»?",
+  "o": [
+   "Alejandro González Iñárritu",
+   "Alfonso Cuarón",
+   "Guillermo del Toro"
+  ]
+ },
+ {
+  "p": "En «Amores perros», ¿cómo se llama el rottweiler que Octavio mete a pelear?",
+  "o": [
+   "Cofi",
+   "Richie",
+   "Rocco"
+  ]
+ },
+ {
+  "p": "En «Jujutsu Kaisen», ¿cuántos dedos de Sukuna existen?",
+  "o": [
+   "20",
+   "10",
+   "15"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Rápidos y Furiosos 5», ¿en qué país roban la bóveda?",
+  "p": "En «Hajime no Ippo», ¿en qué gimnasio entrena Ippo?",
   "o": [
-   "Brasil",
-   "México",
-   "Colombia"
-  ]
- },
- {
-  "p": "En «Steins;Gate», ¿qué aparato permite mandar mensajes al pasado?",
-  "o": [
-   "Un horno de microondas",
-   "Un reloj de pulsera",
-   "Una televisión vieja"
-  ]
- },
- {
-  "p": "En «Re:Zero», ¿qué le pasa a Subaru cada vez que muere?",
-  "o": [
-   "Regresa a un punto anterior",
-   "Despierta en otro mundo",
-   "Pierde un recuerdo"
-  ]
- },
- {
-  "p": "En «Toradora!», ¿de quién está enamorado Ryuji al inicio?",
-  "o": [
-   "Minori Kushieda",
-   "Ami Kawashima",
-   "Taiga Aisaka"
-  ]
- },
- {
-  "p": "En «Intensa-Mente», ¿cómo se llama el amigo imaginario de Riley?",
-  "o": [
-   "Bing Bong",
-   "Ding Dong",
-   "Pim Pom"
+   "Kamogawa",
+   "Otowa",
+   "Naniwa"
   ]
  }
 ]

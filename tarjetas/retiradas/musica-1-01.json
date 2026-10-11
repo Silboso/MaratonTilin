@@ -1,0 +1,858 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Qué cantante colombiana hizo el show de medio tiempo del Super Bowl 2020 con Jennifer Lopez?",
+  "o": [
+   "Shakira",
+   "Karol G",
+   "Sofía Vergara"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué cantante puertorriqueño hizo el show de medio tiempo del Super Bowl 2026?",
+  "o": [
+   "Bad Bunny",
+   "Daddy Yankee",
+   "Ricky Martin"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué grupo canta «Cotton Eye Joe», que suena en los estadios?",
+  "o": [
+   "Rednex",
+   "Vengaboys",
+   "Aqua"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué cantante se comprometió en 2025 con Travis Kelce, jugador de la NFL?",
+  "o": [
+   "Taylor Swift",
+   "Selena Gomez",
+   "Dua Lipa"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué canción electrónica de Darude suena en los estadios y en los memes?",
+  "o": [
+   "«Sandstorm»",
+   "«Levels»",
+   "«Animals»"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué cantante hizo el medio tiempo del Super Bowl 2023 estando embarazada?",
+  "o": [
+   "Rihanna",
+   "Beyoncé",
+   "Lady Gaga"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué grupo canta «Y.M.C.A.», que se baila en los estadios?",
+  "o": [
+   "Village People",
+   "Bee Gees",
+   "Boney M."
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué cantante tuvo al famoso «tiburón izquierdo» bailando en su medio tiempo del Super Bowl?",
+  "o": [
+   "Katy Perry",
+   "Taylor Swift",
+   "Lady Gaga"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué banda canta «Song 2», la del «woo-hoo» que suena en los estadios?",
+  "o": [
+   "Blur",
+   "Oasis",
+   "The Killers"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llama la canción de entrada de John Cena en la WWE?",
+  "o": [
+   "«The Time Is Now»",
+   "«Booyaka 619»",
+   "«Glass Shatters»"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué país fue el Mundial de la canción «Waka Waka»?",
+  "o": [
+   "Sudáfrica",
+   "Brasil",
+   "Alemania"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué canción dice «Everybody get up, it's time to slam now»?",
+  "o": [
+   "«Space Jam»",
+   "«Jump Around»",
+   "«Whoomp! (There It Is)»"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué luchador de la WWE entraba con el sonido de vidrios rompiéndose?",
+  "o": [
+   "Stone Cold Steve Austin",
+   "The Rock",
+   "Triple H"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué futbolista fue pareja de Shakira por más de diez años?",
+  "o": [
+   "Gerard Piqué",
+   "Sergio Ramos",
+   "Cristiano Ronaldo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué instrumento de plástico sonó sin parar en las gradas del Mundial 2010?",
+  "o": [
+   "La vuvuzela",
+   "La matraca",
+   "El silbato"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿De qué anime de carreras viene la canción del meme «Running in the 90s»?",
+  "o": [
+   "Initial D",
+   "Speed Racer",
+   "Cars"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Basket Case»?",
+  "o": [
+   "Green Day",
+   "Blink-182",
+   "The Offspring"
+  ]
+ },
+ {
+  "p": "¿Quién canta «What a Wonderful World»?",
+  "o": [
+   "Louis Armstrong",
+   "Frank Sinatra",
+   "Ray Charles"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Yellow» y «Viva la Vida»?",
+  "o": [
+   "Coldplay",
+   "Keane",
+   "Muse"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Tik Tok» (2009)?",
+  "o": [
+   "Kesha",
+   "Katy Perry",
+   "Miley Cyrus"
+  ]
+ },
+ {
+  "p": "¿Quién canta «I Will Always Love You» en «El guardaespaldas»?",
+  "o": [
+   "Whitney Houston",
+   "Mariah Carey",
+   "Céline Dion"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Firework»?",
+  "o": [
+   "Katy Perry",
+   "Lady Gaga",
+   "Kesha"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Umbrella»?",
+  "o": [
+   "Rihanna",
+   "Beyoncé",
+   "Ciara"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Uptown Funk» con Mark Ronson?",
+  "o": [
+   "Bruno Mars",
+   "Pharrell",
+   "Justin Timberlake"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Shake It Off»?",
+  "o": [
+   "Taylor Swift",
+   "Selena Gomez",
+   "Miley Cyrus"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Bad Guy»?",
+  "o": [
+   "Billie Eilish",
+   "Olivia Rodrigo",
+   "Lorde"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Blinding Lights»?",
+  "o": [
+   "The Weeknd",
+   "Drake",
+   "Post Malone"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Levitating»?",
+  "o": [
+   "Dua Lipa",
+   "Doja Cat",
+   "Ariana Grande"
+  ]
+ },
+ {
+  "p": "¿Quién canta «drivers license»?",
+  "o": [
+   "Olivia Rodrigo",
+   "Billie Eilish",
+   "Sabrina Carpenter"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Welcome to the Black Parade»?",
+  "o": [
+   "My Chemical Romance",
+   "Fall Out Boy",
+   "Paramore"
+  ]
+ },
+ {
+  "p": "¿Qué grupo canta «La puerta negra»?",
+  "o": [
+   "Los Tigres del Norte",
+   "Los Tucanes de Tijuana",
+   "Bronco"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «American Idiot»?",
+  "o": [
+   "Green Day",
+   "Blink-182",
+   "The Offspring"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Sugar, We're Goin Down»?",
+  "o": [
+   "Fall Out Boy",
+   "Panic! at the Disco",
+   "Good Charlotte"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Radioactive» y «Believer»?",
+  "o": [
+   "Imagine Dragons",
+   "OneRepublic",
+   "Twenty One Pilots"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Do I Wanna Know?»?",
+  "o": [
+   "Arctic Monkeys",
+   "The Strokes",
+   "Franz Ferdinand"
+  ]
+ },
+ {
+  "p": "¿Qué dúo francés canta «Get Lucky»?",
+  "o": [
+   "Daft Punk",
+   "Justice",
+   "Air"
+  ]
+ },
+ {
+  "p": "¿Qué DJ sueco canta «Wake Me Up» y «Levels»?",
+  "o": [
+   "Avicii",
+   "David Guetta",
+   "Calvin Harris"
+  ]
+ },
+ {
+  "p": "¿Qué rapero canta «Lose Yourself»?",
+  "o": [
+   "Eminem",
+   "50 Cent",
+   "Dr. Dre"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Enter Sandman»?",
+  "o": [
+   "Metallica",
+   "Iron Maiden",
+   "Megadeth"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Sweet Child O' Mine»?",
+  "o": [
+   "Guns N' Roses",
+   "Bon Jovi",
+   "Aerosmith"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Wonderwall»?",
+  "o": [
+   "Oasis",
+   "Blur",
+   "Radiohead"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Zombie»?",
+  "o": [
+   "The Cranberries",
+   "No Doubt",
+   "The Corrs"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «All Star», la canción de Shrek?",
+  "o": [
+   "Smash Mouth",
+   "Sugar Ray",
+   "Weezer"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Take On Me»?",
+  "o": [
+   "a-ha",
+   "Toto",
+   "Duran Duran"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Livin' on a Prayer»?",
+  "o": [
+   "Bon Jovi",
+   "Def Leppard",
+   "Journey"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Chop Suey!»?",
+  "o": [
+   "System of a Down",
+   "Slipknot",
+   "Korn"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Bring Me to Life»?",
+  "o": [
+   "Evanescence",
+   "Paramore",
+   "Within Temptation"
+  ]
+ },
+ {
+  "p": "¿Qué grupo canta «I Want It That Way»?",
+  "o": [
+   "Backstreet Boys",
+   "NSYNC",
+   "Westlife"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Call Me Maybe»?",
+  "o": [
+   "Carly Rae Jepsen",
+   "Katy Perry",
+   "Selena Gomez"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Chandelier»?",
+  "o": [
+   "Sia",
+   "Adele",
+   "Lorde"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Hotel California»?",
+  "o": [
+   "Eagles",
+   "The Doors",
+   "Fleetwood Mac"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Pumped Up Kicks»?",
+  "o": [
+   "Foster the People",
+   "MGMT",
+   "Two Door Cinema Club"
+  ]
+ },
+ {
+  "p": "¿Qué cantante de K-pop sacó «Gentleman» después de su gran éxito viral?",
+  "o": [
+   "PSY",
+   "G-Dragon",
+   "Rain"
+  ]
+ },
+ {
+  "p": "¿Qué grupo de K-pop canta «How You Like That»?",
+  "o": [
+   "Blackpink",
+   "Twice",
+   "Red Velvet"
+  ]
+ },
+ {
+  "p": "¿Cuántos integrantes tiene BTS?",
+  "o": [
+   "7",
+   "5",
+   "9"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Despacito» con Daddy Yankee?",
+  "o": [
+   "Luis Fonsi",
+   "Ozuna",
+   "Nicky Jam"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Gasolina»?",
+  "o": [
+   "Daddy Yankee",
+   "Don Omar",
+   "Tego Calderón"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Tití Me Preguntó»?",
+  "o": [
+   "Bad Bunny",
+   "J Balvin",
+   "Anuel AA"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Tusa» con Nicki Minaj?",
+  "o": [
+   "Karol G",
+   "Becky G",
+   "Natti Natasha"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Danza Kuduro»?",
+  "o": [
+   "Don Omar",
+   "Daddy Yankee",
+   "Pitbull"
+  ]
+ },
+ {
+  "p": "¿Qué dúo canta «Rakata»?",
+  "o": [
+   "Wisin & Yandel",
+   "Zion & Lennox",
+   "Plan B"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Suavemente»?",
+  "o": [
+   "Elvis Crespo",
+   "Marc Anthony",
+   "Ricky Martin"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Ai se eu te pego»?",
+  "o": [
+   "Michel Teló",
+   "Gusttavo Lima",
+   "Anitta"
+  ]
+ },
+ {
+  "p": "¿Quién canta «La Camisa Negra»?",
+  "o": [
+   "Juanes",
+   "Carlos Vives",
+   "Fonseca"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Livin' la Vida Loca»?",
+  "o": [
+   "Ricky Martin",
+   "Enrique Iglesias",
+   "Chayanne"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Ahora te puedes marchar» y «La Incondicional»?",
+  "o": [
+   "Luis Miguel",
+   "Cristian Castro",
+   "Alejandro Fernández"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Matador»?",
+  "o": [
+   "Los Fabulosos Cadillacs",
+   "Maldita Vecindad",
+   "Los Prisioneros"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Lamento Boliviano»?",
+  "o": [
+   "Enanitos Verdes",
+   "Soda Stereo",
+   "Hombres G"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «De música ligera»?",
+  "o": [
+   "Soda Stereo",
+   "Los Prisioneros",
+   "Héroes del Silencio"
+  ]
+ },
+ {
+  "p": "¿Quiénes cantan «Macarena»?",
+  "o": [
+   "Los del Río",
+   "Gipsy Kings",
+   "Café Quijano"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «La Célula que Explota»?",
+  "o": [
+   "Caifanes",
+   "Jaguares",
+   "Zoé"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Frijolero»?",
+  "o": [
+   "Molotov",
+   "Control Machete",
+   "Café Tacvba"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Bella Traición»?",
+  "o": [
+   "Belinda",
+   "Paulina Rubio",
+   "Thalía"
+  ]
+ },
+ {
+  "p": "¿Qué dúo canta «Espacio Sideral» y «¡Corre!»?",
+  "o": [
+   "Jesse & Joy",
+   "Sin Bandera",
+   "Ha*Ash"
+  ]
+ },
+ {
+  "p": "¿Qué grupo canta «Tu cárcel»?",
+  "o": [
+   "Los Bukis",
+   "Los Temerarios",
+   "Bronco"
+  ]
+ },
+ {
+  "p": "¿Qué grupo canta «Todo cambió» y «Mientes»?",
+  "o": [
+   "Camila",
+   "Reik",
+   "La 5ª Estación"
+  ]
+ },
+ {
+  "p": "¿Qué dúo canta «Entra en mi vida»?",
+  "o": [
+   "Sin Bandera",
+   "Jesse & Joy",
+   "Río Roma"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Hasta la raíz»?",
+  "o": [
+   "Natalia Lafourcade",
+   "Carla Morrison",
+   "Julieta Venegas"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Payaso de rodeo»?",
+  "o": [
+   "Caballo Dorado",
+   "Los Tigres del Norte",
+   "Los Tucanes de Tijuana"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Bidi Bidi Bom Bom»?",
+  "o": [
+   "Selena",
+   "Thalía",
+   "Gloria Trevi"
+  ]
+ },
+ {
+  "p": "¿Quién canta «El triste»?",
+  "o": [
+   "José José",
+   "Juan Gabriel",
+   "Emmanuel"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Volver, volver»?",
+  "o": [
+   "Vicente Fernández",
+   "Pedro Infante",
+   "Javier Solís"
+  ]
+ },
+ {
+  "p": "¿Quién canta «17 años»?",
+  "o": [
+   "Los Ángeles Azules",
+   "Bronco",
+   "Los Bukis"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Rata de dos patas»?",
+  "o": [
+   "Paquita la del Barrio",
+   "Jenni Rivera",
+   "Ana Gabriel"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Ella baila sola» con Eslabon Armado?",
+  "o": [
+   "Peso Pluma",
+   "Grupo Frontera",
+   "Christian Nodal"
+  ]
+ },
+ {
+  "p": "¿Qué grupo canta «Un x100to» con Bad Bunny?",
+  "o": [
+   "Grupo Frontera",
+   "Banda MS",
+   "Calibre 50"
+  ]
+ },
+ {
+  "p": "¿De qué anime es el opening «The Day»?",
+  "o": [
+   "My Hero Academia",
+   "Haikyuu!!",
+   "Black Clover"
+  ]
+ },
+ {
+  "p": "¿De qué anime es el opening «Pegasus Fantasy»?",
+  "o": [
+   "Los Caballeros del Zodiaco",
+   "Sailor Moon",
+   "Dragon Ball"
+  ]
+ },
+ {
+  "p": "¿De qué anime es el opening «We Are!»?",
+  "o": [
+   "One Piece",
+   "Naruto",
+   "Bleach"
+  ]
+ },
+ {
+  "p": "¿De qué anime es el opening «Unravel»?",
+  "o": [
+   "Tokyo Ghoul",
+   "Death Note",
+   "Parasyte"
+  ]
+ },
+ {
+  "p": "¿De qué anime es el opening «Guren no Yumiya»?",
+  "o": [
+   "Attack on Titan",
+   "Demon Slayer",
+   "Fullmetal Alchemist"
+  ]
+ },
+ {
+  "p": "¿De qué anime es el opening «Kaikai Kitan»?",
+  "o": [
+   "Jujutsu Kaisen",
+   "Chainsaw Man",
+   "Demon Slayer"
+  ]
+ },
+ {
+  "p": "¿De qué anime es el opening «KICK BACK»?",
+  "o": [
+   "Chainsaw Man",
+   "Jujutsu Kaisen",
+   "Mob Psycho 100"
+  ]
+ },
+ {
+  "p": "¿De qué anime es el opening «Again» de YUI?",
+  "o": [
+   "Fullmetal Alchemist: Brotherhood",
+   "Naruto",
+   "Bleach"
+  ]
+ },
+ {
+  "p": "¿De qué videojuego es la canción «Megalovania»?",
+  "o": [
+   "Undertale",
+   "Cuphead",
+   "Hollow Knight"
+  ]
+ },
+ {
+  "p": "¿De qué videojuego es la música de «Green Hill Zone»?",
+  "o": [
+   "Sonic the Hedgehog",
+   "Super Mario Bros.",
+   "Mega Man"
+  ]
+ },
+ {
+  "p": "¿Cuántos integrantes tenían The Beatles?",
+  "o": [
+   "4",
+   "5",
+   "3"
+  ]
+ },
+ {
+  "p": "¿Qué Beatle canta «Imagine» como solista?",
+  "o": [
+   "John Lennon",
+   "Paul McCartney",
+   "George Harrison"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Hips Don't Lie»?",
+  "o": [
+   "Shakira",
+   "Jennifer Lopez",
+   "Thalía"
+  ]
+ },
+ {
+  "p": "¿De qué anime es el opening «The World» de Nightmare?",
+  "o": [
+   "Death Note",
+   "Code Geass",
+   "Monster"
+  ]
+ },
+ {
+  "p": "¿Qué grupo de K-pop canta «TT» y «Fancy»?",
+  "o": [
+   "Twice",
+   "Blackpink",
+   "Itzy"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Hey Jude»?",
+  "o": [
+   "The Beatles",
+   "The Rolling Stones",
+   "Queen"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Single Ladies»?",
+  "o": [
+   "Beyoncé",
+   "Rihanna",
+   "Alicia Keys"
+  ]
+ },
+ {
+  "p": "¿Quién canta «As It Was»?",
+  "o": [
+   "Harry Styles",
+   "Niall Horan",
+   "Shawn Mendes"
+  ]
+ },
+ {
+  "p": "¿Quién canta «7 rings»?",
+  "o": [
+   "Ariana Grande",
+   "Dua Lipa",
+   "Doja Cat"
+  ]
+ }
+]

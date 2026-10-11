@@ -816,5 +816,85 @@
    "Living Things",
    "The Hunting Party"
   ]
+ },
+ {
+  "p": "¿Qué bajista de Queen compuso «Another One Bites the Dust»?",
+  "o": [
+   "John Deacon",
+   "Brian May",
+   "Roger Taylor"
+  ]
+ },
+ {
+  "p": "¿En qué año murió Freddie Mercury?",
+  "o": [
+   "1991",
+   "1985",
+   "1997"
+  ]
+ },
+ {
+  "p": "¿En qué año murió Michael Jackson?",
+  "o": [
+   "2009",
+   "2006",
+   "2012"
+  ]
+ },
+ {
+  "p": "¿En qué año murió Chester Bennington?",
+  "o": [
+   "2017",
+   "2014",
+   "2020"
+  ]
+ },
+ {
+  "p": "¿Cuál es la canción de The Beatles con más versiones de otros artistas?",
+  "o": [
+   "«Yesterday»",
+   "«Let It Be»",
+   "«Hey Jude»"
+  ]
+ },
+ {
+  "p": "¿Qué Beatle fue asesinado en 1980?",
+  "o": [
+   "John Lennon",
+   "George Harrison",
+   "Ringo Starr"
+  ]
+ },
+ {
+  "p": "¿Qué grupo canta «Moonlight Densetsu», opening de Sailor Moon?",
+  "o": [
+   "DALI",
+   "MAKE-UP",
+   "AiM"
+  ]
+ },
+ {
+  "p": "¿Cuál es el disco más vendido de la historia, de Michael Jackson?",
+  "o": [
+   "Thriller",
+   "Bad",
+   "Off the Wall"
+  ]
+ },
+ {
+  "p": "¿En qué año salió «Hybrid Theory» de Linkin Park?",
+  "o": [
+   "2000",
+   "2003",
+   "1998"
+  ]
+ },
+ {
+  "p": "¿Qué disco de My Chemical Romance salió en 2010?",
+  "o": [
+   "Danger Days",
+   "The Black Parade",
+   "May Death Never Stop You"
+  ]
  }
 ]

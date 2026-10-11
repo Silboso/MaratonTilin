@@ -66,6 +66,7 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
 ## 2. Geek y Tecnología
 
 - **Sagas, todas bien conocidas:** Marvel (UCM), DC, Star Wars, Harry Potter, El Señor de los Anillos.
+- **Juegos de mesa y cartas:** Yu-Gi-Oh!, Pokémon TCG, Magic, UNO, Jenga, Twister, Lotería, Turista, Serpientes y escaleras, Monopoly. **Fuera:** Catan, Clue, Risk.
 - **Otras cosas geek, de medio a básico:** juegos de cartas, juegos de mesa y rol, ciencia ficción, ciencia y espacio. Pokémon se vale un poco más avanzado.
 - **Tecnología, entre cultura general y algo técnica:** empresas y fundadores, celulares y gadgets, redes sociales y apps, historia de internet e IA. Nada de programación.
 
@@ -146,9 +147,11 @@ Siempre canciones y artistas **muy conocidos**.
 
 Mezcla de subtemas, sin preguntas sobre el grupo mismo.
 
-- **Puro México:** comida, dulces y marcas; TV y telenovelas; tradiciones y lucha libre; frases y modismos.
+- **Puro México:** TV y telenovelas; tradiciones y lucha libre; frases y modismos.
+  - **Comida y marcas:** dulces y pan (Gansito, Pingüinos, Pulparindo, Duvalín, Carlos V, Bubulubu), botanas y bebidas (Sabritas, Takis, Boing, Jarritos, Frutsi), comida callejera y por región, cadenas (Oxxo, McDonald's, Domino's, Little Caesars, Starbucks, Vips)
+  - **Comerciales:** mascotas de marca (el Osito Bimbo, el Tigre Toño, Chester Cheetos), jingles y frases, comerciales de juguetes (Max Steel, Beyblade, Tazos, Hot Wheels), promos de Cartoon, Disney y Nick
 - **¿Quién lo dijo?:** frases de anime, películas, series y videojuegos. *(Que salga más.)*
-- **Memes e internet:** sin streamers. *(Que salga más.)*
+- **Memes e internet:** sin streamers. *(Que salga más.)* Incluye el internet viejito: MSN Messenger y Hotmail, Hi5, Metroflog, Fotolog, MySpace, Ares, LimeWire, Taringa, BlackBerry Messenger, Nokia y Snake.
 - **Vida adulta:** SAT, CURP, aguinaldo, trabajo. *(Que salga más.)*
 - **Japón:** comida, palabras y costumbres. *(Que salga menos.)*
 

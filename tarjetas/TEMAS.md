@@ -180,12 +180,9 @@ Mezcla de subtemas, sin preguntas sobre el grupo mismo.
 
 ## Cómo agregar preguntas
 
-En `preguntas.json`, cada pregunta lleva `cat`, `nivel`, `p` (la pregunta) y `o`
-(tres opciones, con la correcta primero). Si es de deportes, también lleva `"deporte": true`.
-El generador revuelve las opciones y arma las tarjetas solo. Para completar una tarjeta
-hacen falta 2 preguntas nuevas de cada categoría del mismo nivel. Lo que esté en `reserva`
-no se imprime.
+Las preguntas viven en `banco/<categoría>-<nivel>-<parte>.json`; por ejemplo, `banco/anime-2-01.json` son preguntas de Anime y Películas ★★.
+Cada pregunta lleva `p` (la pregunta) y `o` (tres opciones, con la correcta primero). Si es de deportes, también lleva `"deporte": true`.
 
-```
-node tarjetas/generar.mjs
-```
+- **Revisar:** `python3 tarjetas/revisar.py [hojas]` dice cuántas faltan por categoría y nivel, y avisa de preguntas repetidas, opciones duplicadas o textos demasiado largos para la tarjeta.
+- **Generar:** `node tarjetas/generar.mjs` arma las hojas. Revuelve las preguntas para mezclar temas y pone 3 tarjetas de cada nivel por hoja y una pregunta de deportes por cara.
+- **Cuántas hacen falta:** cada hoja necesita 18 preguntas por categoría (6 por nivel), y de cada 6, una de deportes.

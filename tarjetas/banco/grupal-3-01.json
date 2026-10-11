@@ -1,0 +1,909 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Quién fue la primera mexicana en ganar una medalla de oro olímpica?",
+  "o": [
+   "Soraya Jiménez",
+   "Ana Gabriela Guevara",
+   "María del Rosario Espinoza"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué clavadista mexicana ganó medallas olímpicas en 2008 y 2012?",
+  "o": [
+   "Paola Espinosa",
+   "Alejandra Orozco",
+   "Laura Sánchez"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "Además de México 86, ¿en qué Mundial llegó México a cuartos de final?",
+  "o": [
+   "México 70",
+   "Estados Unidos 94",
+   "Brasil 2014"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quién anotó el gol de México contra Alemania en el Mundial 2018?",
+  "o": [
+   "Hirving «Chucky» Lozano",
+   "Javier «Chicharito» Hernández",
+   "Carlos Vela"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llamaba la mascota del Mundial México 70?",
+  "o": [
+   "Juanito",
+   "Pique",
+   "Footix"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué estadio es el primero en tener tres inauguraciones de Mundial?",
+  "o": [
+   "El Estadio Azteca",
+   "El Maracaná",
+   "Wembley"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quién era el técnico de México en el Mundial 2014, famoso por sus festejos?",
+  "o": [
+   "Miguel «el Piojo» Herrera",
+   "Juan Carlos Osorio",
+   "Javier Aguirre"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Contra quién perdió Canelo su primera pelea profesional?",
+  "o": [
+   "Floyd Mayweather",
+   "Dmitry Bivol",
+   "Gennady Golovkin"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué portero mexicano fue el primer jugador en ir a cinco Mundiales?",
+  "o": [
+   "Antonio «la Tota» Carbajal",
+   "Jorge Campos",
+   "Guillermo Ochoa"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué equipo ganó el primer torneo de la Liga MX Femenil?",
+  "o": [
+   "Chivas",
+   "Tigres",
+   "América"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué equipo de la Liga MX son «los Rayados»?",
+  "o": [
+   "Monterrey",
+   "Tigres",
+   "Santos"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué equipo de la Liga MX son «los Tuzos»?",
+  "o": [
+   "Pachuca",
+   "Querétaro",
+   "León"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué equipo de la Liga MX son «los Diablos Rojos»?",
+  "o": [
+   "Toluca",
+   "Necaxa",
+   "Tijuana"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué beisbolista japonés es estrella de los Dodgers?",
+  "o": [
+   "Shohei Ohtani",
+   "Ichiro Suzuki",
+   "Yu Darvish"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llama el rango más alto del sumo?",
+  "o": [
+   "Yokozuna",
+   "Sensei",
+   "Shogun"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué deporte de pelota se juega en el Frontón México?",
+  "o": [
+   "Jai alai",
+   "Squash",
+   "Pádel"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llama la arena de lucha libre del CMLL en la Ciudad de México?",
+  "o": [
+   "Arena México",
+   "Arena Coliseo",
+   "Arena Monterrey"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué deporte ganó oro olímpico María del Rosario Espinoza?",
+  "o": [
+   "Taekwondo",
+   "Judo",
+   "Halterofilia"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué narrador de TV Azteca es famoso por sus frases y apodos burlones?",
+  "o": [
+   "Christian Martinoli",
+   "Enrique Bermúdez",
+   "Raúl Orvañanos"
+  ]
+ },
+ {
+  "p": "¿De qué estado es el mole negro?",
+  "o": [
+   "Oaxaca",
+   "Puebla",
+   "Tlaxcala"
+  ]
+ },
+ {
+  "p": "¿Qué es el huitlacoche?",
+  "o": [
+   "Un hongo del maíz",
+   "Un chile seco",
+   "Un tipo de nopal"
+  ]
+ },
+ {
+  "p": "¿Qué insectos tostados se comen en Oaxaca?",
+  "o": [
+   "Chapulines",
+   "Escamoles",
+   "Jumiles"
+  ]
+ },
+ {
+  "p": "¿Qué bebida prehispánica se hace de maguey fermentado?",
+  "o": [
+   "Pulque",
+   "Tepache",
+   "Tejuino"
+  ]
+ },
+ {
+  "p": "¿Qué bebida fermentada se hace con cáscara de piña?",
+  "o": [
+   "Tepache",
+   "Pulque",
+   "Tuba"
+  ]
+ },
+ {
+  "p": "¿Qué marca hace el Gansito y los Pingüinos?",
+  "o": [
+   "Marinela",
+   "Gamesa",
+   "Wonder"
+  ]
+ },
+ {
+  "p": "¿De qué ciudad de Nuevo León son las glorias?",
+  "o": [
+   "Linares",
+   "Monterrey",
+   "Saltillo"
+  ]
+ },
+ {
+  "p": "¿Qué dulce se hace con calabaza cocida en piloncillo?",
+  "o": [
+   "Calabaza en tacha",
+   "Cajeta",
+   "Ate"
+  ]
+ },
+ {
+  "p": "¿Qué actriz interpretó a Soraya Montenegro?",
+  "o": [
+   "Itatí Cantoral",
+   "Thalía",
+   "Laura León"
+  ]
+ },
+ {
+  "p": "¿Qué actriz interpretó a Catalina Creel en «Cuna de lobos»?",
+  "o": [
+   "María Rubio",
+   "Silvia Pinal",
+   "Ofelia Guilmáin"
+  ]
+ },
+ {
+  "p": "¿Cuántos años estuvo al aire «En Familia con Chabelo»?",
+  "o": [
+   "48",
+   "30",
+   "25"
+  ]
+ },
+ {
+  "p": "¿Cuál de estas telenovelas NO es de la «trilogía de las Marías» de Thalía?",
+  "o": [
+   "María Isabel",
+   "Marimar",
+   "María Mercedes"
+  ]
+ },
+ {
+  "p": "¿Cuál era el nombre real de Chespirito?",
+  "o": [
+   "Roberto Gómez Bolaños",
+   "Ramón Valdés",
+   "Carlos Villagrán"
+  ]
+ },
+ {
+  "p": "¿Qué figura se quema el Sábado de Gloria?",
+  "o": [
+   "Un Judas",
+   "Una piñata",
+   "Un Diablo"
+  ]
+ },
+ {
+  "p": "En la tradición del Día de Muertos, ¿qué día se recuerda a los niños?",
+  "o": [
+   "El 1 de noviembre",
+   "El 2 de noviembre",
+   "El 31 de octubre"
+  ]
+ },
+ {
+  "p": "¿Qué perro guía a las almas en la tradición mexicana?",
+  "o": [
+   "El xoloitzcuintle",
+   "El chihuahua",
+   "El coyote"
+  ]
+ },
+ {
+  "p": "¿Qué artista creó la Catrina?",
+  "o": [
+   "José Guadalupe Posada",
+   "Diego Rivera",
+   "Frida Kahlo"
+  ]
+ },
+ {
+  "p": "¿Qué significa que algo esté «de pelos»?",
+  "o": [
+   "Que está muy bien",
+   "Que está sucio",
+   "Que está difícil"
+  ]
+ },
+ {
+  "p": "¿Qué es la «cruda moral»?",
+  "o": [
+   "Arrepentirte de lo que hiciste",
+   "Una resaca muy fuerte",
+   "Un desayuno de recalentado"
+  ]
+ },
+ {
+  "p": "¿Qué significa «sacar de onda»?",
+  "o": [
+   "Desconcertar a alguien",
+   "Correr a alguien",
+   "Ponerse a bailar"
+  ]
+ },
+ {
+  "p": "Completa el dicho: «No hay mal que…»",
+  "o": [
+   "…por bien no venga",
+   "…dure cien años",
+   "…no tenga remedio"
+  ]
+ },
+ {
+  "p": "Completa el dicho: «Dime con quién andas…»",
+  "o": [
+   "…y te diré quién eres",
+   "…y te diré a dónde vas",
+   "…y te diré qué comes"
+  ]
+ },
+ {
+  "p": "¿En qué película dicen «La vida es como una caja de chocolates»?",
+  "o": [
+   "Forrest Gump",
+   "Titanic",
+   "Charlie y la fábrica de chocolate"
+  ]
+ },
+ {
+  "p": "¿Quién le dice a Harry «Eres un mago, Harry»?",
+  "o": [
+   "Hagrid",
+   "Dumbledore",
+   "Ron"
+  ]
+ },
+ {
+  "p": "¿En qué película preguntan «¿Hablas conmigo?» frente al espejo?",
+  "o": [
+   "Taxi Driver",
+   "El Padrino",
+   "Scarface"
+  ]
+ },
+ {
+  "p": "¿En qué película dicen «Le haré una oferta que no podrá rechazar»?",
+  "o": [
+   "El Padrino",
+   "Scarface",
+   "Goodfellas"
+  ]
+ },
+ {
+  "p": "¿Qué Vengador dice «Puedo hacer esto todo el día»?",
+  "o": [
+   "Capitán América",
+   "Thor",
+   "Spider-Man"
+  ]
+ },
+ {
+  "p": "¿Quién le dice «Te amo 3000» a Tony Stark?",
+  "o": [
+   "Su hija Morgan",
+   "Pepper Potts",
+   "Peter Parker"
+  ]
+ },
+ {
+  "p": "¿Quién grita «¡Por el poder de Grayskull!»?",
+  "o": [
+   "He-Man",
+   "Thundercats",
+   "Voltron"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de Los Simpson se esconde retrocediendo en los arbustos en el meme?",
+  "o": [
+   "Homero",
+   "Bart",
+   "Ned Flanders"
+  ]
+ },
+ {
+  "p": "¿Qué rapero sale en el meme de rechazar una cosa y aprobar otra?",
+  "o": [
+   "Drake",
+   "Kanye West",
+   "Eminem"
+  ]
+ },
+ {
+  "p": "¿De qué película es el meme de Leonardo DiCaprio brindando con una copa?",
+  "o": [
+   "El Gran Gatsby",
+   "Titanic",
+   "El lobo de Wall Street"
+  ]
+ },
+ {
+  "p": "¿De qué película es el meme de Leonardo DiCaprio señalando la tele?",
+  "o": [
+   "Érase una vez en Hollywood",
+   "El renacido",
+   "Django sin cadenas"
+  ]
+ },
+ {
+  "p": "¿De qué empresa era Hotmail?",
+  "o": [
+   "Microsoft",
+   "Yahoo",
+   "Google"
+  ]
+ },
+ {
+  "p": "¿Qué juego de Facebook consistía en cuidar una granja?",
+  "o": [
+   "FarmVille",
+   "Mafia Wars",
+   "Pet Society"
+  ]
+ },
+ {
+  "p": "¿Qué programa para bajar música era el rival de Ares?",
+  "o": [
+   "LimeWire",
+   "Winamp",
+   "iTunes"
+  ]
+ },
+ {
+  "p": "¿Cuántos caracteres tiene el RFC de una persona física?",
+  "o": [
+   "13",
+   "18",
+   "10"
+  ]
+ },
+ {
+  "p": "¿Qué institución atiende tus quejas contra los bancos?",
+  "o": [
+   "La CONDUSEF",
+   "La PROFECO",
+   "El SAT"
+  ]
+ },
+ {
+  "p": "¿Qué institución atiende tus quejas como consumidor?",
+  "o": [
+   "La PROFECO",
+   "La CONDUSEF",
+   "La COFEPRIS"
+  ]
+ },
+ {
+  "p": "En un crédito, ¿qué significa «CAT»?",
+  "o": [
+   "Costo Anual Total",
+   "Cargo Adicional por Tarjeta",
+   "Crédito Anual Total"
+  ]
+ },
+ {
+  "p": "¿Qué significan las siglas UMA?",
+  "o": [
+   "Unidad de Medida y Actualización",
+   "Unidad Monetaria Anual",
+   "Unión de Mexicanos Asalariados"
+  ]
+ },
+ {
+  "p": "¿Por cuántos años como máximo se puede sacar el pasaporte mexicano?",
+  "o": [
+   "10",
+   "6",
+   "15"
+  ]
+ },
+ {
+  "p": "¿Qué institución asigna la CURP?",
+  "o": [
+   "El RENAPO",
+   "El SAT",
+   "El INE"
+  ]
+ },
+ {
+  "p": "¿Cuántas semanas de incapacidad por maternidad da la ley en México?",
+  "o": [
+   "12",
+   "6",
+   "24"
+  ]
+ },
+ {
+  "p": "¿Qué es el «papel china»?",
+  "o": [
+   "Papel delgadito de colores",
+   "Papel para envolver regalos",
+   "Papel cuadriculado"
+  ]
+ },
+ {
+  "p": "¿Qué marca de juguetes creó el Tamagotchi?",
+  "o": [
+   "Bandai",
+   "Mattel",
+   "Hasbro"
+  ]
+ },
+ {
+  "p": "¿Qué juguete de 2017 se giraba en un dedo?",
+  "o": [
+   "El fidget spinner",
+   "El tamagotchi",
+   "El yo-yo"
+  ]
+ },
+ {
+  "p": "¿Quién canta «PPAP (Pen-Pineapple-Apple-Pen)»?",
+  "o": [
+   "Pikotaro",
+   "PSY",
+   "Kyary Pamyu Pamyu"
+  ]
+ },
+ {
+  "p": "¿Qué reto viral de 2016 consistía en lanzar una botella para que cayera parada?",
+  "o": [
+   "Bottle flip",
+   "Bottle cap challenge",
+   "Kiki challenge"
+  ]
+ },
+ {
+  "p": "¿Quién interpretaba a Doña Florinda?",
+  "o": [
+   "Florinda Meza",
+   "María Antonieta de las Nieves",
+   "Angelines Fernández"
+  ]
+ },
+ {
+  "p": "¿Quién interpretaba a la Chilindrina?",
+  "o": [
+   "María Antonieta de las Nieves",
+   "Florinda Meza",
+   "Angelines Fernández"
+  ]
+ },
+ {
+  "p": "¿Quién interpretaba a Quico?",
+  "o": [
+   "Carlos Villagrán",
+   "Edgar Vivar",
+   "Rubén Aguirre"
+  ]
+ },
+ {
+  "p": "¿Qué platillo yucateco es de tortillas en salsa de pepita con huevo?",
+  "o": [
+   "Papadzules",
+   "Panuchos",
+   "Salbutes"
+  ]
+ },
+ {
+  "p": "¿Qué son los escamoles?",
+  "o": [
+   "Larvas de hormiga",
+   "Chapulines",
+   "Gusanos de maguey"
+  ]
+ },
+ {
+  "p": "¿Qué pintora mexicana es famosa por sus autorretratos y su uniceja?",
+  "o": [
+   "Frida Kahlo",
+   "María Izquierdo",
+   "Remedios Varo"
+  ]
+ },
+ {
+  "p": "¿Qué muralista pintó en el Palacio Nacional la historia de México?",
+  "o": [
+   "Diego Rivera",
+   "José Clemente Orozco",
+   "David Alfaro Siqueiros"
+  ]
+ },
+ {
+  "p": "¿Qué escritor mexicano ganó el Premio Nobel de Literatura?",
+  "o": [
+   "Octavio Paz",
+   "Carlos Fuentes",
+   "Juan Rulfo"
+  ]
+ },
+ {
+  "p": "¿Quién escribió «Pedro Páramo»?",
+  "o": [
+   "Juan Rulfo",
+   "Octavio Paz",
+   "Carlos Fuentes"
+  ]
+ },
+ {
+  "p": "¿Qué cerveza mexicana tiene «Extra» en su etiqueta y es la más exportada?",
+  "o": [
+   "Corona",
+   "Modelo",
+   "Tecate"
+  ]
+ },
+ {
+  "p": "¿Qué lema tiene la tienda Liverpool?",
+  "o": [
+   "«Es parte de mi vida»",
+   "«Precios bajos siempre»",
+   "«Todo para tu hogar»"
+  ]
+ },
+ {
+  "p": "¿Qué platillo es tradicional de Guadalajara en caldo de chivo o res?",
+  "o": [
+   "Birria",
+   "Pozole",
+   "Menudo"
+  ]
+ },
+ {
+  "p": "¿Qué estado es famoso por el cabrito?",
+  "o": [
+   "Nuevo León",
+   "Sonora",
+   "Jalisco"
+  ]
+ },
+ {
+  "p": "¿Qué estado es famoso por sus tortillas de harina y su carne asada?",
+  "o": [
+   "Sonora",
+   "Yucatán",
+   "Oaxaca"
+  ]
+ },
+ {
+  "p": "¿Qué sopa se come para curar la cruda?",
+  "o": [
+   "Menudo",
+   "Sopa de fideo",
+   "Crema de elote"
+  ]
+ },
+ {
+  "p": "¿Cuál es el estado más grande de México?",
+  "o": [
+   "Chihuahua",
+   "Sonora",
+   "Coahuila"
+  ]
+ },
+ {
+  "p": "¿Cuál es el estado más pequeño de México?",
+  "o": [
+   "Tlaxcala",
+   "Morelos",
+   "Colima"
+  ]
+ },
+ {
+  "p": "¿Cuántas entidades federativas tiene México, contando la CDMX?",
+  "o": [
+   "32",
+   "31",
+   "30"
+  ]
+ },
+ {
+  "p": "¿Cuál es el volcán más alto de México?",
+  "o": [
+   "El Pico de Orizaba",
+   "El Popocatépetl",
+   "El Iztaccíhuatl"
+  ]
+ },
+ {
+  "p": "¿Qué zona arqueológica tiene «El Castillo» de Kukulcán?",
+  "o": [
+   "Chichén Itzá",
+   "Teotihuacán",
+   "Tulum"
+  ]
+ },
+ {
+  "p": "¿En qué zona arqueológica están las pirámides del Sol y la Luna?",
+  "o": [
+   "Teotihuacán",
+   "Chichén Itzá",
+   "Monte Albán"
+  ]
+ },
+ {
+  "p": "¿Qué ave aparece en el escudo de la bandera de México?",
+  "o": [
+   "Un águila",
+   "Un halcón",
+   "Un quetzal"
+  ]
+ },
+ {
+  "p": "¿Qué día es el Día de la Bandera?",
+  "o": [
+   "24 de febrero",
+   "16 de septiembre",
+   "5 de febrero"
+  ]
+ },
+ {
+  "p": "¿Qué se celebra el 5 de febrero?",
+  "o": [
+   "La Constitución",
+   "La Bandera",
+   "La Revolución"
+  ]
+ },
+ {
+  "p": "¿Qué presidente de México tiene la frase «El respeto al derecho ajeno es la paz»?",
+  "o": [
+   "Benito Juárez",
+   "Lázaro Cárdenas",
+   "Francisco I. Madero"
+  ]
+ },
+ {
+  "p": "¿Qué personaje sale en el billete de 500 pesos actual?",
+  "o": [
+   "Benito Juárez",
+   "Diego Rivera",
+   "Miguel Hidalgo"
+  ]
+ },
+ {
+  "p": "¿Qué animal sale en el billete de 50 pesos actual?",
+  "o": [
+   "El ajolote",
+   "El jaguar",
+   "La mariposa monarca"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba la capital de los mexicas?",
+  "o": [
+   "Tenochtitlan",
+   "Tula",
+   "Teotihuacán"
+  ]
+ },
+ {
+  "p": "¿Qué gobernante mexica recibió a Hernán Cortés?",
+  "o": [
+   "Moctezuma",
+   "Cuauhtémoc",
+   "Nezahualcóyotl"
+  ]
+ },
+ {
+  "p": "¿Quién dio el Grito de Dolores?",
+  "o": [
+   "Miguel Hidalgo",
+   "José María Morelos",
+   "Vicente Guerrero"
+  ]
+ },
+ {
+  "p": "¿Qué ciudad es «la Sultana del Norte»?",
+  "o": [
+   "Monterrey",
+   "Saltillo",
+   "Chihuahua"
+  ]
+ },
+ {
+  "p": "¿Qué ciudad es «la Perla Tapatía»?",
+  "o": [
+   "Guadalajara",
+   "Veracruz",
+   "Mazatlán"
+  ]
+ },
+ {
+  "p": "¿Qué ciudad es «la Angelópolis»?",
+  "o": [
+   "Puebla",
+   "Querétaro",
+   "Morelia"
+  ]
+ },
+ {
+  "p": "¿Qué ciudad es «la Bella Airosa», por sus vientos?",
+  "o": [
+   "Pachuca",
+   "Zacatecas",
+   "Toluca"
+  ]
+ },
+ {
+  "p": "¿En qué año eliminó México el horario de verano en casi todo el país?",
+  "o": [
+   "2022",
+   "2018",
+   "2020"
+  ]
+ },
+ {
+  "p": "¿Qué día es el Día del Niño en México?",
+  "o": [
+   "30 de abril",
+   "1 de junio",
+   "6 de enero"
+  ]
+ },
+ {
+  "p": "¿Qué día se celebra a las mamás en México?",
+  "o": [
+   "10 de mayo",
+   "El segundo domingo de mayo",
+   "15 de mayo"
+  ]
+ },
+ {
+  "p": "¿Qué día es el Día del Maestro en México?",
+  "o": [
+   "15 de mayo",
+   "10 de mayo",
+   "12 de octubre"
+  ]
+ },
+ {
+  "p": "¿Qué se festeja el 28 de diciembre con bromas?",
+  "o": [
+   "El Día de los Santos Inocentes",
+   "El Día del Bromista",
+   "La Nochevieja"
+  ]
+ },
+ {
+  "p": "¿Cuál es la cadena de cines mexicana más grande?",
+  "o": [
+   "Cinépolis",
+   "Cinemex",
+   "Cinemark"
+  ]
+ },
+ {
+  "p": "¿Qué es un «Godínez»?",
+  "o": [
+   "Un oficinista",
+   "Un vendedor ambulante",
+   "Un estudiante"
+  ]
+ },
+ {
+  "p": "¿Cuál es la lengua indígena más hablada en México?",
+  "o": [
+   "Náhuatl",
+   "Maya",
+   "Zapoteco"
+  ]
+ },
+ {
+  "p": "¿Cuál de estas palabras viene del náhuatl?",
+  "o": [
+   "Tomate",
+   "Papa",
+   "Maíz"
+  ]
+ }
+]

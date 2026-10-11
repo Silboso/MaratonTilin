@@ -1,182 +1,1575 @@
 {
   "categorias": [
-    { "id": "anime",  "nombre": "Anime y Películas",    "color": "#D9480F" },
-    { "id": "geek",   "nombre": "Geek y Tecnología",    "color": "#1C6DD0" },
-    { "id": "gaming", "nombre": "Gaming y eSports",     "color": "#7B2CBF" },
-    { "id": "series", "nombre": "Series y Caricaturas", "color": "#D18A00" },
-    { "id": "musica", "nombre": "Música",               "color": "#138A5A" },
-    { "id": "grupal", "nombre": "Conocimiento grupal",  "color": "#C2255C" }
+    {
+      "id": "anime",
+      "nombre": "Anime y Películas",
+      "color": "#D9480F"
+    },
+    {
+      "id": "geek",
+      "nombre": "Geek y Tecnología",
+      "color": "#1C6DD0"
+    },
+    {
+      "id": "gaming",
+      "nombre": "Gaming y eSports",
+      "color": "#7B2CBF"
+    },
+    {
+      "id": "series",
+      "nombre": "Series y Caricaturas",
+      "color": "#D18A00"
+    },
+    {
+      "id": "musica",
+      "nombre": "Música",
+      "color": "#138A5A"
+    },
+    {
+      "id": "grupal",
+      "nombre": "Conocimiento grupal",
+      "color": "#C2255C"
+    }
   ],
   "_nota": "nivel: 1 = ★ fácil, 2 = ★★ media, 3 = ★★★ difícil. En «o» la primera opción es la correcta; el generador las revuelve. Cada tarjeta lleva 2 preguntas de cada categoría (una por cara), todas del mismo nivel. «reserva» no se imprime.",
   "preguntas": [
-    { "cat": "anime", "nivel": 1, "deporte": true, "p": "En «Supercampeones», ¿cómo se llama el protagonista?", "o": ["Oliver Atom", "Benji Price", "Steve Hyuga"] },
-    { "cat": "anime", "nivel": 1, "p": "¿Qué estudio de animación hizo «El viaje de Chihiro»?", "o": ["Studio Ghibli", "Toei Animation", "Madhouse"] },
-    { "cat": "anime", "nivel": 1, "p": "En «Coco» de Pixar, ¿cómo se llama el xoloitzcuintle de Miguel?", "o": ["Dante", "Pepita", "Chicharrón"] },
-    { "cat": "anime", "nivel": 1, "p": "En «One Piece», ¿qué sueña ser Monkey D. Luffy?", "o": ["El Rey de los Piratas", "Almirante de la Marina", "El mejor espadachín del mundo"] },
-    { "cat": "anime", "nivel": 1, "p": "En «Pokémon», ¿a qué equipo villano pertenecen Jessie y James?", "o": ["Equipo Rocket", "Equipo Magma", "Equipo Galaxia"] },
-    { "cat": "anime", "nivel": 1, "p": "¿En qué película Eugenio Derbez cría a una niña en Los Ángeles?", "o": ["No se aceptan devoluciones", "Nosotros los Nobles", "¿Qué culpa tiene el niño?"] },
-
-    { "cat": "anime", "nivel": 2, "p": "En «Evangelion», ¿quién pilotea la Unidad 01?", "o": ["Shinji Ikari", "Asuka Langley", "Rei Ayanami"] },
-    { "cat": "anime", "nivel": 2, "p": "En «Death Note», ¿qué fruta le encanta al shinigami Ryuk?", "o": ["Las manzanas", "Las fresas", "Las uvas"] },
-    { "cat": "anime", "nivel": 2, "deporte": true, "p": "En «Haikyuu!!», ¿en qué preparatoria juega Shoyo Hinata?", "o": ["Karasuno", "Aoba Johsai", "Nekoma"] },
-    { "cat": "anime", "nivel": 2, "p": "En «Code Geass», ¿qué poder le da el Geass a Lelouch?", "o": ["Que lo obedezcan", "Leer mentes", "Detener el tiempo"] },
-    { "cat": "anime", "nivel": 2, "p": "¿En qué película de terror el villano dice «¿Quieres jugar un juego?»?", "o": ["Saw", "Scream", "El Conjuro"] },
-    { "cat": "anime", "nivel": 2, "p": "En «Digimon Adventure», ¿en qué digievoluciona Agumon a nivel campeón?", "o": ["Greymon", "Garurumon", "Birdramon"] },
-
-    { "cat": "anime", "nivel": 3, "p": "En «Mirai Nikki», ¿qué número de portadora de diario es Yuno Gasai?", "o": ["La Segunda", "La Primera", "La Novena"] },
-    { "cat": "anime", "nivel": 3, "p": "En «Steins;Gate», ¿cómo se hace llamar Okabe?", "o": ["Hououin Kyouma", "Kira", "Zero"] },
-    { "cat": "anime", "nivel": 3, "p": "En DBZ, ¿quién acaba con Freezer (ya Mecha Freezer) cuando llega a la Tierra?", "o": ["Trunks del futuro", "Goku", "Vegeta"] },
-    { "cat": "anime", "nivel": 3, "p": "En «Naruto», ¿qué miembro de Akatsuki es inmortal y adora a Jashin?", "o": ["Hidan", "Kakuzu", "Deidara"] },
-    { "cat": "anime", "nivel": 3, "p": "¿Cuál fue el primer Pokémon que Ash atrapó con una Pokébola?", "o": ["Caterpie", "Pidgeotto", "Bulbasaur"] },
-    { "cat": "anime", "nivel": 3, "deporte": true, "p": "En «Supercampeones», ¿de quién es el «Tiro del Tigre»?", "o": ["Steve Hyuga", "Oliver Atom", "Tom Misaki"] },
-
-    { "cat": "geek", "nivel": 1, "p": "¿Qué actor interpretó a Iron Man en las películas de Marvel?", "o": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo"] },
-    { "cat": "geek", "nivel": 1, "deporte": true, "p": "En el Quidditch, ¿qué pelota termina el partido al atraparla?", "o": ["La Snitch Dorada", "La Quaffle", "La Bludger"] },
-    { "cat": "geek", "nivel": 1, "p": "¿Quién fundó Microsoft junto con Paul Allen?", "o": ["Bill Gates", "Steve Jobs", "Steve Wozniak"] },
-    { "cat": "geek", "nivel": 1, "p": "En «El Imperio contraataca», ¿qué revelación le hace Darth Vader a Luke?", "o": ["Que es su padre", "Que Leia es su hermana", "Que él mató a su padre"] },
-    { "cat": "geek", "nivel": 1, "p": "¿Cómo se llama el martillo de Thor?", "o": ["Mjolnir", "Stormbreaker", "Gungnir"] },
-    { "cat": "geek", "nivel": 1, "p": "¿Cómo se llama la empresa dueña de Facebook desde 2021?", "o": ["Meta", "Alphabet", "Horizon"] },
-
-    { "cat": "geek", "nivel": 2, "p": "¿Qué significan las siglas USB?", "o": ["Universal Serial Bus", "Unified System Bridge", "Universal Storage Base"] },
-    { "cat": "geek", "nivel": 2, "p": "¿En qué año salió el primer iPhone?", "o": ["2007", "2005", "2009"] },
-    { "cat": "geek", "nivel": 2, "deporte": true, "p": "¿Qué tecnología para revisar jugadas debutó en el Mundial de Rusia 2018?", "o": ["El VAR", "El Ojo de Halcón", "El balón con chip"] },
-    { "cat": "geek", "nivel": 2, "p": "¿Cómo se llama la inteligencia artificial de Iron Man en sus primeras películas?", "o": ["J.A.R.V.I.S.", "F.R.I.D.A.Y.", "Ultron"] },
-    { "cat": "geek", "nivel": 2, "p": "¿Qué empresa compró YouTube en 2006?", "o": ["Google", "Microsoft", "Yahoo"] },
-    { "cat": "geek", "nivel": 2, "p": "¿Qué juego de rol de mesa tiene como símbolo el dado de 20 caras?", "o": ["Dungeons & Dragons", "Warhammer", "Magic: The Gathering"] },
-
-    { "cat": "geek", "nivel": 3, "p": "¿Qué significan las siglas GPU?", "o": ["Graphics Processing Unit", "General Power Unit", "Game Process Utility"] },
-    { "cat": "geek", "nivel": 3, "p": "¿Cómo se llamaba Google cuando empezó en 1996?", "o": ["BackRub", "Googol", "PageRank"] },
-    { "cat": "geek", "nivel": 3, "p": "¿Cuántos años tenía Yoda cuando murió?", "o": ["900", "700", "1,000"] },
-    { "cat": "geek", "nivel": 3, "p": "¿De qué es el núcleo de la varita de Harry Potter?", "o": ["Pluma de fénix", "Pelo de unicornio", "Fibra de corazón de dragón"] },
-    { "cat": "geek", "nivel": 3, "p": "¿Qué Gema del Infinito llevaba Visión en la frente?", "o": ["La Gema de la Mente", "La Gema del Alma", "La Gema del Poder"] },
-    { "cat": "geek", "nivel": 3, "deporte": true, "p": "En la Fórmula 1, ¿qué significa DRS?", "o": ["Drag Reduction System", "Dynamic Racing Speed", "Driver Response System"] },
-
-    { "cat": "gaming", "nivel": 1, "p": "¿Qué jugador de T1 es conocido como «The Unkillable Demon King»?", "o": ["Faker", "Uzi", "Caps"] },
-    { "cat": "gaming", "nivel": 1, "p": "¿Qué heroína de Overwatch es mexicana?", "o": ["Sombra", "Mercy", "Tracer"] },
-    { "cat": "gaming", "nivel": 1, "p": "En Valorant, ¿qué objeto debe plantar el equipo atacante?", "o": ["El Spike", "La bomba C4", "El Núcleo"] },
-    { "cat": "gaming", "nivel": 1, "p": "¿Cómo se llama el protagonista de GTA San Andreas?", "o": ["Carl «CJ» Johnson", "Tommy Vercetti", "Niko Bellic"] },
-    { "cat": "gaming", "nivel": 1, "deporte": true, "p": "¿Qué empresa hacía los FIFA antes de que la saga se llamara «EA Sports FC»?", "o": ["EA Sports", "Konami", "2K"] },
-    { "cat": "gaming", "nivel": 1, "p": "En Minecraft, ¿qué criatura verde explota cuando se te acerca?", "o": ["El Creeper", "El Enderman", "El Zombie"] },
-
-    { "cat": "gaming", "nivel": 2, "deporte": true, "p": "¿Cuántos deportes trae el «Wii Sports» original?", "o": ["5", "4", "7"] },
-    { "cat": "gaming", "nivel": 2, "deporte": true, "p": "En «Punch-Out!!» de Nintendo, ¿cómo se llama el boxeador protagonista?", "o": ["Little Mac", "Glass Joe", "King Hippo"] },
-    { "cat": "gaming", "nivel": 2, "p": "En Clash Royale, ¿cuánto elixir cuesta el Gigante?", "o": ["5", "4", "6"] },
-    { "cat": "gaming", "nivel": 2, "p": "¿Qué agente de Valorant es de México?", "o": ["Reyna", "Sage", "Jett"] },
-    { "cat": "gaming", "nivel": 2, "p": "En Super Smash Bros., ¿qué objeto te permite hacer el Smash Final?", "o": ["La Bola Smash", "La Superestrella", "El Martillo"] },
-    { "cat": "gaming", "nivel": 2, "p": "En LoL, ¿cómo se llama la definitiva de Jinx?", "o": ["¡Súper Mega Cohete Mortal!", "¡Zap!", "¡Masticallamas!"] },
-
-    { "cat": "gaming", "nivel": 3, "p": "¿Qué equipo ganó la primera temporada de la Overwatch League (2018)?", "o": ["London Spitfire", "Philadelphia Fusion", "San Francisco Shock"] },
-    { "cat": "gaming", "nivel": 3, "p": "¿Qué equipo ganó el primer Mundial de League of Legends (2011)?", "o": ["Fnatic", "SK Telecom T1", "Taipei Assassins"] },
-    { "cat": "gaming", "nivel": 3, "p": "En Overwatch, ¿cuál es el nombre real de Soldado: 76?", "o": ["Jack Morrison", "Gabriel Reyes", "Jesse McCree"] },
-    { "cat": "gaming", "nivel": 3, "p": "En Smash, ¿de qué saga de videojuegos viene Ness?", "o": ["EarthBound", "Fire Emblem", "Kid Icarus"] },
-    { "cat": "gaming", "nivel": 3, "p": "¿Qué campeón de LoL dice «La muerte es como el viento, siempre a mi lado»?", "o": ["Yasuo", "Yone", "Zed"] },
-    { "cat": "gaming", "nivel": 3, "deporte": true, "p": "En el boliche de «Wii Sports», ¿cuál es la puntuación perfecta?", "o": ["300", "250", "500"] },
-
-    { "cat": "series", "nivel": 1, "p": "En «Los Padrinos Mágicos», ¿cómo se llaman los padrinos de Timmy?", "o": ["Cosmo y Wanda", "Jorgen y Poof", "Juandissimo y Trixie"] },
-    { "cat": "series", "nivel": 1, "p": "¿Cómo se llama el ornitorrinco de Phineas y Ferb?", "o": ["Perry", "Pinky", "Rufus"] },
-    { "cat": "series", "nivel": 1, "deporte": true, "p": "En «High School Musical», ¿qué deporte juega Troy Bolton?", "o": ["Básquetbol", "Fútbol americano", "Béisbol"] },
-    { "cat": "series", "nivel": 1, "p": "En «Bob Esponja», ¿dónde trabaja Bob?", "o": ["El Crustáceo Cascarudo", "El Balde de Carnada", "La Fonda de Fondo de Bikini"] },
-    { "cat": "series", "nivel": 1, "p": "¿Qué niño genio tiene un laboratorio secreto y una hermana llamada Dee Dee?", "o": ["Dexter", "Jimmy Neutrón", "Johnny Bravo"] },
-    { "cat": "series", "nivel": 1, "p": "En «Stranger Things», ¿cómo se llama la niña con poderes?", "o": ["Once", "Max", "Nancy"] },
-
-    { "cat": "series", "nivel": 2, "p": "En «Zack y Cody: Gemelos en acción», ¿en qué hotel viven?", "o": ["El Tipton", "El Plaza", "El Transylvania"] },
-    { "cat": "series", "nivel": 2, "p": "¿Cómo se llama el perro robot de Jimmy Neutrón?", "o": ["Goddard", "K-9", "Rufus"] },
-    { "cat": "series", "nivel": 2, "p": "En «Hey Arnold!», ¿quién está enamorada de Arnold en secreto?", "o": ["Helga", "Phoebe", "Lila"] },
-    { "cat": "series", "nivel": 2, "p": "En «The Office», ¿cómo se llama la empresa de papel?", "o": ["Dunder Mifflin", "Sabre", "Staples"] },
-    { "cat": "series", "nivel": 2, "p": "En «Breaking Bad», ¿qué alias usa Walter White?", "o": ["Heisenberg", "Pinkman", "Saul"] },
-    { "cat": "series", "nivel": 2, "p": "En «Rick and Morty», ¿en qué se convierte Rick en uno de sus episodios más famosos?", "o": ["En un pepinillo", "En una rata", "En un auto"] },
-
-    { "cat": "series", "nivel": 3, "p": "En «Friends», ¿cómo se llama el mono de Ross?", "o": ["Marcel", "Bobo", "Jorge"] },
-    { "cat": "series", "nivel": 3, "p": "En «Game of Thrones», ¿cómo se llama el lobo huargo de Jon Snow?", "o": ["Fantasma", "Verano", "Viento Gris"] },
-    { "cat": "series", "nivel": 3, "deporte": true, "p": "En «Ted Lasso», ¿qué deporte entrenaba Ted antes de llegar a Inglaterra?", "o": ["Fútbol americano", "Básquetbol", "Béisbol"] },
-    { "cat": "series", "nivel": 3, "p": "En «La Casa de Papel», ¿de quién es la cara de las máscaras?", "o": ["Salvador Dalí", "Pablo Picasso", "Joan Miró"] },
-    { "cat": "series", "nivel": 3, "p": "En «Coraje, el perro cobarde», ¿cómo se llaman sus dueños?", "o": ["Muriel y Justo", "Doris y Pancho", "Marta y Fermín"] },
-    { "cat": "series", "nivel": 3, "p": "En «Ed, Edd y Eddy», ¿qué dulce siempre quieren comprar?", "o": ["Rompemuelas", "Paletas de cajeta", "Chicles"] },
-
-    { "cat": "musica", "nivel": 1, "p": "¿Qué grupo musical nació de la telenovela «Rebelde»?", "o": ["RBD", "Kabah", "OV7"] },
-    { "cat": "musica", "nivel": 1, "p": "¿Qué banda canta «In the End» y «Numb»?", "o": ["Linkin Park", "Evanescence", "Green Day"] },
-    { "cat": "musica", "nivel": 1, "deporte": true, "p": "¿Quién canta «Waka Waka», la canción del Mundial 2010?", "o": ["Shakira", "Jennifer Lopez", "Pitbull"] },
-    { "cat": "musica", "nivel": 1, "p": "¿Qué grupo de K-pop canta «Dynamite»?", "o": ["BTS", "EXO", "Stray Kids"] },
-    { "cat": "musica", "nivel": 1, "p": "¿De qué anime es opening «Blue Bird» de Ikimonogakari?", "o": ["Naruto Shippuden", "Bleach", "Fullmetal Alchemist"] },
-    { "cat": "musica", "nivel": 1, "deporte": true, "p": "¿Quién cantó «La Copa de la Vida» para el Mundial de Francia 98?", "o": ["Ricky Martin", "Enrique Iglesias", "Chayanne"] },
-
-    { "cat": "musica", "nivel": 2, "p": "¿Quién canta «Gurenge», el primer opening de Demon Slayer?", "o": ["LiSA", "Aimer", "YOASOBI"] },
-    { "cat": "musica", "nivel": 2, "p": "¿Quién canta «Idol», opening de «Oshi no Ko»?", "o": ["YOASOBI", "ONE OK ROCK", "Ado"] },
-    { "cat": "musica", "nivel": 2, "deporte": true, "p": "¿Quién canta «Seven Nation Army», el riff que se corea en los estadios?", "o": ["The White Stripes", "The Black Keys", "Arctic Monkeys"] },
-    { "cat": "musica", "nivel": 2, "p": "¿Quién canta «Enemy», la canción de Arcane?", "o": ["Imagine Dragons", "K/DA", "Twenty One Pilots"] },
-    { "cat": "musica", "nivel": 2, "p": "¿Qué banda mexicana canta «Eres» y «Las flores»?", "o": ["Café Tacvba", "Caifanes", "Molotov"] },
-    { "cat": "musica", "nivel": 2, "p": "¿Qué banda virtual canta «Feel Good Inc.»?", "o": ["Gorillaz", "K/DA", "Daft Punk"] },
-
-    { "cat": "musica", "nivel": 3, "p": "¿Qué banda canta «The Rumbling», opening final de Attack on Titan?", "o": ["SiM", "Linked Horizon", "ONE OK ROCK"] },
-    { "cat": "musica", "nivel": 3, "p": "¿Qué banda de Monterrey canta «Narcisista por excelencia»?", "o": ["Panda", "Zoé", "Allison"] },
-    { "cat": "musica", "nivel": 3, "p": "¿Quién canta «Legends Never Die», el himno de Worlds 2017?", "o": ["Against The Current", "Imagine Dragons", "K/DA"] },
-    { "cat": "musica", "nivel": 3, "deporte": true, "p": "¿Cómo se llama la canción del Mundial 2014 de Pitbull, J.Lo y Claudia Leitte?", "o": ["We Are One (Ole Ola)", "La La La (Brazil 2014)", "Dar um Jeito"] },
-    { "cat": "musica", "nivel": 3, "p": "¿Cómo se llama el opening de Evangelion?", "o": ["A Cruel Angel's Thesis", "Fly Me to the Moon", "Komm, süsser Tod"] },
-    { "cat": "musica", "nivel": 3, "p": "¿Quién canta «Unravel», opening de Tokyo Ghoul?", "o": ["TK de Ling Tosite Sigure", "ONE OK ROCK", "Aimer"] },
-
-    { "cat": "grupal", "nivel": 1, "p": "¿Qué pan se come el 6 de enero?", "o": ["Rosca de Reyes", "Pan de muerto", "Concha"] },
-    { "cat": "grupal", "nivel": 1, "p": "¿Quién dice «¡Al infinito y más allá!»?", "o": ["Buzz Lightyear", "Woody", "Rayo McQueen"] },
-    { "cat": "grupal", "nivel": 1, "p": "¿Quién dice «¡No contaban con mi astucia!»?", "o": ["El Chapulín Colorado", "El Chavo", "Don Ramón"] },
-    { "cat": "grupal", "nivel": 1, "p": "¿De qué raza es el perro del meme «Doge»?", "o": ["Shiba Inu", "Akita", "Corgi"] },
-    { "cat": "grupal", "nivel": 1, "p": "¿Qué institución cobra los impuestos en México?", "o": ["El SAT", "El IMSS", "El Infonavit"] },
-    { "cat": "grupal", "nivel": 1, "p": "¿Qué app de videos de 6 segundos cerró en 2017?", "o": ["Vine", "Musical.ly", "Snapchat"] },
-
-    { "cat": "grupal", "nivel": 2, "p": "¿De qué estado es la cochinita pibil?", "o": ["Yucatán", "Oaxaca", "Puebla"] },
-    { "cat": "grupal", "nivel": 2, "p": "En «La Rosa de Guadalupe», ¿qué se siente cuando llega el milagro?", "o": ["Un airecito", "Unas campanas", "Un coro de ángeles"] },
-    { "cat": "grupal", "nivel": 2, "p": "¿Cómo se llama la rana verde del meme «Feels good man»?", "o": ["Pepe", "Kermit", "Freddy"] },
-    { "cat": "grupal", "nivel": 2, "p": "Por ley, ¿cuánto es lo mínimo de aguinaldo?", "o": ["15 días de salario", "10 días de salario", "30 días de salario"] },
-    { "cat": "grupal", "nivel": 2, "deporte": true, "p": "¿Qué luchador es «El Enmascarado de Plata»?", "o": ["El Santo", "Blue Demon", "Mil Máscaras"] },
-    { "cat": "grupal", "nivel": 2, "p": "¿Qué personaje grita «It's over 9000!» en el famoso meme?", "o": ["Vegeta", "Goku", "Freezer"] },
-
-    { "cat": "grupal", "nivel": 3, "p": "Por ley, ¿cuántos días de vacaciones te tocan en tu primer año de trabajo?", "o": ["12", "6", "10"] },
-    { "cat": "grupal", "nivel": 3, "p": "¿Qué significan las siglas RFC?", "o": ["Registro Federal de Contribuyentes", "Registro Fiscal de Ciudadanos", "Red Federal de Cobranza"] },
-    { "cat": "grupal", "nivel": 3, "p": "¿Qué personaje de Star Wars grita «¡Es una trampa!»?", "o": ["El Almirante Ackbar", "Lando Calrissian", "C-3PO"] },
-    { "cat": "grupal", "nivel": 3, "p": "¿De qué anime viene la frase «Omae wa mou shindeiru» (ya estás muerto)?", "o": ["El Puño de la Estrella del Norte", "Dragon Ball Z", "JoJo's Bizarre Adventure"] },
-    { "cat": "grupal", "nivel": 3, "deporte": true, "p": "¿Cómo se llamaba la mascota del Mundial México 86?", "o": ["Pique", "Juanito", "Zakumi"] },
-    { "cat": "grupal", "nivel": 3, "p": "¿Qué red social de fotos fue famosa en México por los «floggers»?", "o": ["Metroflog", "Hi5", "MySpace"] }
+    {
+      "cat": "anime",
+      "nivel": 1,
+      "deporte": true,
+      "p": "En «Supercampeones», ¿cómo se llama el protagonista?",
+      "o": [
+        "Oliver Atom",
+        "Benji Price",
+        "Steve Hyuga"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 1,
+      "p": "¿Qué estudio de animación hizo «El viaje de Chihiro»?",
+      "o": [
+        "Studio Ghibli",
+        "Toei Animation",
+        "Madhouse"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 1,
+      "p": "En «Coco» de Pixar, ¿cómo se llama el xoloitzcuintle de Miguel?",
+      "o": [
+        "Dante",
+        "Pepita",
+        "Chicharrón"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 1,
+      "p": "En «One Piece», ¿qué sueña ser Monkey D. Luffy?",
+      "o": [
+        "El Rey de los Piratas",
+        "Almirante de la Marina",
+        "El mejor espadachín del mundo"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 1,
+      "p": "En «Pokémon», ¿a qué equipo villano pertenecen Jessie y James?",
+      "o": [
+        "Equipo Rocket",
+        "Equipo Magma",
+        "Equipo Galaxia"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 1,
+      "p": "¿En qué película Eugenio Derbez cría a una niña en Los Ángeles?",
+      "o": [
+        "No se aceptan devoluciones",
+        "Nosotros los Nobles",
+        "¿Qué culpa tiene el niño?"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 2,
+      "p": "En «Evangelion», ¿quién pilotea la Unidad 01?",
+      "o": [
+        "Shinji Ikari",
+        "Asuka Langley",
+        "Rei Ayanami"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 2,
+      "p": "En «Death Note», ¿qué fruta le encanta al shinigami Ryuk?",
+      "o": [
+        "Las manzanas",
+        "Las fresas",
+        "Las uvas"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 2,
+      "deporte": true,
+      "p": "En «Haikyuu!!», ¿en qué preparatoria juega Shoyo Hinata?",
+      "o": [
+        "Karasuno",
+        "Aoba Johsai",
+        "Nekoma"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 2,
+      "p": "En «Code Geass», ¿qué poder le da el Geass a Lelouch?",
+      "o": [
+        "Que lo obedezcan",
+        "Leer mentes",
+        "Detener el tiempo"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 2,
+      "p": "¿En qué película de terror el villano dice «¿Quieres jugar un juego?»?",
+      "o": [
+        "Saw",
+        "Scream",
+        "El Conjuro"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 2,
+      "p": "En «Digimon Adventure», ¿en qué digievoluciona Agumon a nivel campeón?",
+      "o": [
+        "Greymon",
+        "Garurumon",
+        "Birdramon"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 3,
+      "p": "En «Mirai Nikki», ¿qué número de portadora de diario es Yuno Gasai?",
+      "o": [
+        "La Segunda",
+        "La Primera",
+        "La Novena"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 3,
+      "p": "En «Steins;Gate», ¿cómo se hace llamar Okabe?",
+      "o": [
+        "Hououin Kyouma",
+        "Kira",
+        "Zero"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 3,
+      "p": "En DBZ, ¿quién acaba con Freezer (ya Mecha Freezer) cuando llega a la Tierra?",
+      "o": [
+        "Trunks del futuro",
+        "Goku",
+        "Vegeta"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 3,
+      "p": "En «Naruto», ¿qué miembro de Akatsuki es inmortal y adora a Jashin?",
+      "o": [
+        "Hidan",
+        "Kakuzu",
+        "Deidara"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 3,
+      "p": "¿Cuál fue el primer Pokémon que Ash atrapó con una Pokébola?",
+      "o": [
+        "Caterpie",
+        "Pidgeotto",
+        "Bulbasaur"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 3,
+      "deporte": true,
+      "p": "En «Supercampeones», ¿de quién es el «Tiro del Tigre»?",
+      "o": [
+        "Steve Hyuga",
+        "Oliver Atom",
+        "Tom Misaki"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 1,
+      "p": "¿Qué actor interpretó a Iron Man en las películas de Marvel?",
+      "o": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 1,
+      "deporte": true,
+      "p": "En el Quidditch, ¿qué pelota termina el partido al atraparla?",
+      "o": [
+        "La Snitch Dorada",
+        "La Quaffle",
+        "La Bludger"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 1,
+      "p": "¿Quién fundó Microsoft junto con Paul Allen?",
+      "o": [
+        "Bill Gates",
+        "Steve Jobs",
+        "Steve Wozniak"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 1,
+      "p": "En «El Imperio contraataca», ¿qué revelación le hace Darth Vader a Luke?",
+      "o": [
+        "Que es su padre",
+        "Que Leia es su hermana",
+        "Que él mató a su padre"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 1,
+      "p": "¿Cómo se llama el martillo de Thor?",
+      "o": [
+        "Mjolnir",
+        "Stormbreaker",
+        "Gungnir"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 1,
+      "p": "¿Cómo se llama la empresa dueña de Facebook desde 2021?",
+      "o": [
+        "Meta",
+        "Alphabet",
+        "Horizon"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 2,
+      "p": "¿Qué significan las siglas USB?",
+      "o": [
+        "Universal Serial Bus",
+        "Unified System Bridge",
+        "Universal Storage Base"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 2,
+      "p": "¿En qué año salió el primer iPhone?",
+      "o": [
+        "2007",
+        "2005",
+        "2009"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 2,
+      "deporte": true,
+      "p": "¿Qué tecnología para revisar jugadas debutó en el Mundial de Rusia 2018?",
+      "o": [
+        "El VAR",
+        "El Ojo de Halcón",
+        "El balón con chip"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 2,
+      "p": "¿Cómo se llama la inteligencia artificial de Iron Man en sus primeras películas?",
+      "o": [
+        "J.A.R.V.I.S.",
+        "F.R.I.D.A.Y.",
+        "Ultron"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 2,
+      "p": "¿Qué empresa compró YouTube en 2006?",
+      "o": [
+        "Google",
+        "Microsoft",
+        "Yahoo"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 2,
+      "p": "¿Qué juego de rol de mesa tiene como símbolo el dado de 20 caras?",
+      "o": [
+        "Dungeons & Dragons",
+        "Warhammer",
+        "Magic: The Gathering"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 3,
+      "p": "¿Qué significan las siglas GPU?",
+      "o": [
+        "Graphics Processing Unit",
+        "General Power Unit",
+        "Game Process Utility"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 3,
+      "p": "¿Cómo se llamaba Google cuando empezó en 1996?",
+      "o": [
+        "BackRub",
+        "Googol",
+        "PageRank"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 3,
+      "p": "¿Cuántos años tenía Yoda cuando murió?",
+      "o": [
+        "900",
+        "700",
+        "1,000"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 3,
+      "p": "¿De qué es el núcleo de la varita de Harry Potter?",
+      "o": [
+        "Pluma de fénix",
+        "Pelo de unicornio",
+        "Fibra de corazón de dragón"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 3,
+      "p": "¿Qué Gema del Infinito llevaba Visión en la frente?",
+      "o": [
+        "La Gema de la Mente",
+        "La Gema del Alma",
+        "La Gema del Poder"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 3,
+      "deporte": true,
+      "p": "En la Fórmula 1, ¿qué significa DRS?",
+      "o": [
+        "Drag Reduction System",
+        "Dynamic Racing Speed",
+        "Driver Response System"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 1,
+      "p": "¿Qué jugador de T1 es conocido como «The Unkillable Demon King»?",
+      "o": [
+        "Faker",
+        "Uzi",
+        "Caps"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 1,
+      "p": "¿Qué heroína de Overwatch es mexicana?",
+      "o": [
+        "Sombra",
+        "Mercy",
+        "Tracer"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 1,
+      "p": "En Valorant, ¿qué objeto debe plantar el equipo atacante?",
+      "o": [
+        "El Spike",
+        "La bomba C4",
+        "El Núcleo"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 1,
+      "p": "¿Cómo se llama el protagonista de GTA San Andreas?",
+      "o": [
+        "Carl «CJ» Johnson",
+        "Tommy Vercetti",
+        "Niko Bellic"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 1,
+      "deporte": true,
+      "p": "¿Qué empresa hacía los FIFA antes de que la saga se llamara «EA Sports FC»?",
+      "o": [
+        "EA Sports",
+        "Konami",
+        "2K"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 1,
+      "p": "En Minecraft, ¿qué criatura verde explota cuando se te acerca?",
+      "o": [
+        "El Creeper",
+        "El Enderman",
+        "El Zombie"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 2,
+      "deporte": true,
+      "p": "¿Cuántos deportes trae el «Wii Sports» original?",
+      "o": [
+        "5",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 2,
+      "deporte": true,
+      "p": "En «Punch-Out!!» de Nintendo, ¿cómo se llama el boxeador protagonista?",
+      "o": [
+        "Little Mac",
+        "Glass Joe",
+        "King Hippo"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 2,
+      "p": "En Clash Royale, ¿cuánto elixir cuesta el Gigante?",
+      "o": [
+        "5",
+        "4",
+        "6"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 2,
+      "p": "¿Qué agente de Valorant es de México?",
+      "o": [
+        "Reyna",
+        "Sage",
+        "Jett"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 2,
+      "p": "En Super Smash Bros., ¿qué objeto te permite hacer el Smash Final?",
+      "o": [
+        "La Bola Smash",
+        "La Superestrella",
+        "El Martillo"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 2,
+      "p": "En LoL, ¿cómo se llama la definitiva de Jinx?",
+      "o": [
+        "¡Súper Mega Cohete Mortal!",
+        "¡Zap!",
+        "¡Masticallamas!"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 3,
+      "p": "¿Qué equipo ganó la primera temporada de la Overwatch League (2018)?",
+      "o": [
+        "London Spitfire",
+        "Philadelphia Fusion",
+        "San Francisco Shock"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 3,
+      "p": "¿Qué equipo ganó el primer Mundial de League of Legends (2011)?",
+      "o": [
+        "Fnatic",
+        "SK Telecom T1",
+        "Taipei Assassins"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 3,
+      "p": "En Overwatch, ¿cuál es el nombre real de Soldado: 76?",
+      "o": [
+        "Jack Morrison",
+        "Gabriel Reyes",
+        "Jesse McCree"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 3,
+      "p": "En Smash, ¿de qué saga de videojuegos viene Ness?",
+      "o": [
+        "EarthBound",
+        "Fire Emblem",
+        "Kid Icarus"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 3,
+      "p": "¿Qué campeón de LoL dice «La muerte es como el viento, siempre a mi lado»?",
+      "o": [
+        "Yasuo",
+        "Yone",
+        "Zed"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 3,
+      "deporte": true,
+      "p": "En el boliche de «Wii Sports», ¿cuál es la puntuación perfecta?",
+      "o": [
+        "300",
+        "250",
+        "500"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 1,
+      "p": "En «Los Padrinos Mágicos», ¿cómo se llaman los padrinos de Timmy?",
+      "o": [
+        "Cosmo y Wanda",
+        "Jorgen y Poof",
+        "Juandissimo y Trixie"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 1,
+      "p": "¿Cómo se llama el ornitorrinco de Phineas y Ferb?",
+      "o": [
+        "Perry",
+        "Pinky",
+        "Rufus"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 1,
+      "deporte": true,
+      "p": "En «High School Musical», ¿qué deporte juega Troy Bolton?",
+      "o": [
+        "Básquetbol",
+        "Fútbol americano",
+        "Béisbol"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 1,
+      "p": "En «Bob Esponja», ¿dónde trabaja Bob?",
+      "o": [
+        "El Crustáceo Cascarudo",
+        "El Balde de Carnada",
+        "La Fonda de Fondo de Bikini"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 1,
+      "p": "¿Qué niño genio tiene un laboratorio secreto y una hermana llamada Dee Dee?",
+      "o": [
+        "Dexter",
+        "Jimmy Neutrón",
+        "Johnny Bravo"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 1,
+      "p": "En «Stranger Things», ¿cómo se llama la niña con poderes?",
+      "o": [
+        "Once",
+        "Max",
+        "Nancy"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 2,
+      "p": "En «Zack y Cody: Gemelos en acción», ¿en qué hotel viven?",
+      "o": [
+        "El Tipton",
+        "El Plaza",
+        "El Transylvania"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 2,
+      "p": "¿Cómo se llama el perro robot de Jimmy Neutrón?",
+      "o": [
+        "Goddard",
+        "K-9",
+        "Rufus"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 2,
+      "p": "En «Hey Arnold!», ¿quién está enamorada de Arnold en secreto?",
+      "o": [
+        "Helga",
+        "Phoebe",
+        "Lila"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 2,
+      "p": "En «The Office», ¿cómo se llama la empresa de papel?",
+      "o": [
+        "Dunder Mifflin",
+        "Sabre",
+        "Staples"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 2,
+      "p": "En «Breaking Bad», ¿qué alias usa Walter White?",
+      "o": [
+        "Heisenberg",
+        "Pinkman",
+        "Saul"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 2,
+      "p": "En «Rick and Morty», ¿en qué se convierte Rick en uno de sus episodios más famosos?",
+      "o": [
+        "En un pepinillo",
+        "En una rata",
+        "En un auto"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 3,
+      "p": "En «Friends», ¿cómo se llama el mono de Ross?",
+      "o": [
+        "Marcel",
+        "Bobo",
+        "Jorge"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 3,
+      "p": "En «Game of Thrones», ¿cómo se llama el lobo huargo de Jon Snow?",
+      "o": [
+        "Fantasma",
+        "Verano",
+        "Viento Gris"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 3,
+      "deporte": true,
+      "p": "En «Ted Lasso», ¿qué deporte entrenaba Ted antes de llegar a Inglaterra?",
+      "o": [
+        "Fútbol americano",
+        "Básquetbol",
+        "Béisbol"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 3,
+      "p": "En «La Casa de Papel», ¿de quién es la cara de las máscaras?",
+      "o": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Joan Miró"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 3,
+      "p": "En «Coraje, el perro cobarde», ¿cómo se llaman sus dueños?",
+      "o": [
+        "Muriel y Justo",
+        "Doris y Pancho",
+        "Marta y Fermín"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 3,
+      "p": "En «Ed, Edd y Eddy», ¿qué dulce siempre quieren comprar?",
+      "o": [
+        "Rompemuelas",
+        "Paletas de cajeta",
+        "Chicles"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 1,
+      "p": "¿Qué grupo musical nació de la telenovela «Rebelde»?",
+      "o": [
+        "RBD",
+        "Kabah",
+        "OV7"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 1,
+      "p": "¿Qué banda canta «In the End» y «Numb»?",
+      "o": [
+        "Linkin Park",
+        "Evanescence",
+        "Green Day"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 1,
+      "deporte": true,
+      "p": "¿Quién canta «Waka Waka», la canción del Mundial 2010?",
+      "o": [
+        "Shakira",
+        "Jennifer Lopez",
+        "Pitbull"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 1,
+      "p": "¿Qué grupo de K-pop canta «Dynamite»?",
+      "o": [
+        "BTS",
+        "EXO",
+        "Stray Kids"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 1,
+      "p": "¿De qué anime es opening «Blue Bird» de Ikimonogakari?",
+      "o": [
+        "Naruto Shippuden",
+        "Bleach",
+        "Fullmetal Alchemist"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 1,
+      "deporte": true,
+      "p": "¿Quién cantó «La Copa de la Vida» para el Mundial de Francia 98?",
+      "o": [
+        "Ricky Martin",
+        "Enrique Iglesias",
+        "Chayanne"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 2,
+      "p": "¿Quién canta «Gurenge», el primer opening de Demon Slayer?",
+      "o": [
+        "LiSA",
+        "Aimer",
+        "YOASOBI"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 2,
+      "p": "¿Quién canta «Idol», opening de «Oshi no Ko»?",
+      "o": [
+        "YOASOBI",
+        "ONE OK ROCK",
+        "Ado"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 2,
+      "deporte": true,
+      "p": "¿Quién canta «Seven Nation Army», el riff que se corea en los estadios?",
+      "o": [
+        "The White Stripes",
+        "The Black Keys",
+        "Arctic Monkeys"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 2,
+      "p": "¿Quién canta «Enemy», la canción de Arcane?",
+      "o": [
+        "Imagine Dragons",
+        "K/DA",
+        "Twenty One Pilots"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 2,
+      "p": "¿Qué banda mexicana canta «Eres» y «Las flores»?",
+      "o": [
+        "Café Tacvba",
+        "Caifanes",
+        "Molotov"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 2,
+      "p": "¿Qué banda virtual canta «Feel Good Inc.»?",
+      "o": [
+        "Gorillaz",
+        "K/DA",
+        "Daft Punk"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 3,
+      "p": "¿Qué banda canta «The Rumbling», opening final de Attack on Titan?",
+      "o": [
+        "SiM",
+        "Linked Horizon",
+        "ONE OK ROCK"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 3,
+      "p": "¿Qué banda de Monterrey canta «Narcisista por excelencia»?",
+      "o": [
+        "Panda",
+        "Zoé",
+        "Allison"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 3,
+      "p": "¿Quién canta «Legends Never Die», el himno de Worlds 2017?",
+      "o": [
+        "Against The Current",
+        "Imagine Dragons",
+        "K/DA"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 3,
+      "deporte": true,
+      "p": "¿Cómo se llama la canción del Mundial 2014 de Pitbull, J.Lo y Claudia Leitte?",
+      "o": [
+        "We Are One (Ole Ola)",
+        "La La La (Brazil 2014)",
+        "Dar um Jeito"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 3,
+      "p": "¿Cómo se llama el opening de Evangelion?",
+      "o": [
+        "A Cruel Angel's Thesis",
+        "Fly Me to the Moon",
+        "Komm, süsser Tod"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 3,
+      "p": "¿Quién canta «Unravel», opening de Tokyo Ghoul?",
+      "o": [
+        "TK de Ling Tosite Sigure",
+        "ONE OK ROCK",
+        "Aimer"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 1,
+      "p": "¿Qué pan se come el 6 de enero?",
+      "o": [
+        "Rosca de Reyes",
+        "Pan de muerto",
+        "Concha"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 1,
+      "p": "¿Quién dice «¡Al infinito y más allá!»?",
+      "o": [
+        "Buzz Lightyear",
+        "Woody",
+        "Rayo McQueen"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 1,
+      "p": "¿Quién dice «¡No contaban con mi astucia!»?",
+      "o": [
+        "El Chapulín Colorado",
+        "El Chavo",
+        "Don Ramón"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 1,
+      "p": "¿De qué raza es el perro del meme «Doge»?",
+      "o": [
+        "Shiba Inu",
+        "Akita",
+        "Corgi"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 1,
+      "p": "¿Qué institución cobra los impuestos en México?",
+      "o": [
+        "El SAT",
+        "El IMSS",
+        "El Infonavit"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 1,
+      "p": "¿Qué app de videos de 6 segundos cerró en 2017?",
+      "o": [
+        "Vine",
+        "Musical.ly",
+        "Snapchat"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 2,
+      "p": "¿De qué estado es la cochinita pibil?",
+      "o": [
+        "Yucatán",
+        "Oaxaca",
+        "Puebla"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 2,
+      "p": "En «La Rosa de Guadalupe», ¿qué se siente cuando llega el milagro?",
+      "o": [
+        "Un airecito",
+        "Unas campanas",
+        "Un coro de ángeles"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 2,
+      "p": "¿Cómo se llama la rana verde del meme «Feels good man»?",
+      "o": [
+        "Pepe",
+        "Kermit",
+        "Freddy"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 2,
+      "p": "Por ley, ¿cuánto es lo mínimo de aguinaldo?",
+      "o": [
+        "15 días de salario",
+        "10 días de salario",
+        "30 días de salario"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 2,
+      "deporte": true,
+      "p": "¿Qué luchador es «El Enmascarado de Plata»?",
+      "o": [
+        "El Santo",
+        "Blue Demon",
+        "Mil Máscaras"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 2,
+      "p": "¿Qué personaje grita «It's over 9000!» en el famoso meme?",
+      "o": [
+        "Vegeta",
+        "Goku",
+        "Freezer"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 3,
+      "p": "Por ley, ¿cuántos días de vacaciones te tocan en tu primer año de trabajo?",
+      "o": [
+        "12",
+        "6",
+        "10"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 3,
+      "p": "¿Qué significan las siglas RFC?",
+      "o": [
+        "Registro Federal de Contribuyentes",
+        "Registro Fiscal de Ciudadanos",
+        "Red Federal de Cobranza"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 3,
+      "p": "¿Qué personaje de Star Wars grita «¡Es una trampa!»?",
+      "o": [
+        "El Almirante Ackbar",
+        "Lando Calrissian",
+        "C-3PO"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 3,
+      "p": "¿De qué anime viene la frase «Omae wa mou shindeiru» (ya estás muerto)?",
+      "o": [
+        "El Puño de la Estrella del Norte",
+        "Dragon Ball Z",
+        "JoJo's Bizarre Adventure"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 3,
+      "deporte": true,
+      "p": "¿Cómo se llamaba la mascota del Mundial México 86?",
+      "o": [
+        "Pique",
+        "Juanito",
+        "Zakumi"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 3,
+      "p": "¿Qué red social de fotos fue famosa en México por los «floggers»?",
+      "o": [
+        "Metroflog",
+        "Hi5",
+        "MySpace"
+      ]
+    }
   ],
   "reserva": [
-    { "cat": "anime", "nivel": 1, "p": "¿Qué película de 1997 con Jack y Rose ganó 11 premios Óscar?", "o": ["Titanic", "Armageddon", "Pearl Harbor"] },
-    { "cat": "anime", "nivel": 1, "p": "En «Attack on Titan», ¿cuál es el apellido de Eren?", "o": ["Jaeger", "Ackerman", "Arlert"] },
-    { "cat": "anime", "nivel": 1, "p": "En «Naruto», ¿qué bestia con cola está sellada dentro de Naruto?", "o": ["El Kyubi (nueve colas)", "Shukaku (una cola)", "El Hachibi (ocho colas)"] },
-    { "cat": "anime", "nivel": 1, "p": "En «Dragon Ball Z», ¿quién es el príncipe de los Saiyajin?", "o": ["Vegeta", "Goku", "Raditz"] },
-    { "cat": "anime", "nivel": 2, "p": "En «Fullmetal Alchemist», ¿qué perdió Alphonse Elric?", "o": ["Todo su cuerpo", "Un brazo y una pierna", "Sus recuerdos"] },
-    { "cat": "anime", "nivel": 2, "deporte": true, "p": "En «Kuroko no Basket», ¿qué hace especial a Tetsuya Kuroko?", "o": ["Casi nadie lo nota en la cancha", "Encesta desde media cancha", "Salta más alto que nadie"] },
-    { "cat": "anime", "nivel": 2, "deporte": true, "p": "En la película «Rocky», ¿en qué ciudad vive el boxeador Rocky Balboa?", "o": ["Filadelfia", "Nueva York", "Chicago"] },
-    { "cat": "anime", "nivel": 2, "p": "En «Steins;Gate», ¿qué aparato permite mandar mensajes al pasado?", "o": ["Un horno de microondas", "Un reloj de pulsera", "Una televisión vieja"] },
-    { "cat": "anime", "nivel": 3, "p": "¿Quién dirigió «Amores perros»?", "o": ["Alejandro González Iñárritu", "Alfonso Cuarón", "Guillermo del Toro"] },
-    { "cat": "geek", "nivel": 1, "p": "¿Cuál es el planeta natal de Superman?", "o": ["Kriptón", "Marte", "Oa"] },
-    { "cat": "geek", "nivel": 1, "p": "En Star Wars, ¿cómo se llama el droide pequeño azul con blanco?", "o": ["R2-D2", "C-3PO", "BB-8"] },
-    { "cat": "geek", "nivel": 1, "p": "En «El Señor de los Anillos», ¿dónde hay que destruir el Anillo Único?", "o": ["En el Monte del Destino", "En Rivendel", "En Minas Tirith"] },
-    { "cat": "geek", "nivel": 2, "deporte": true, "p": "En «Star Wars: La amenaza fantasma», ¿qué carrera gana Anakin de niño?", "o": ["Una carrera de vainas", "Una carrera de speeders", "Una carrera de X-wings"] },
-    { "cat": "geek", "nivel": 2, "deporte": true, "p": "En «Volver al futuro II», ¿en qué escapa Marty de Griff?", "o": ["Una patineta voladora", "Una moto voladora", "Unos patines a reacción"] },
-    { "cat": "gaming", "nivel": 1, "p": "¿Qué heroína de Overwatch pilotea un MEKA rosa?", "o": ["D.Va", "Echo", "Brigitte"] },
-    { "cat": "gaming", "nivel": 1, "p": "¿Cómo se llama el gorila científico de Overwatch?", "o": ["Winston", "Doomfist", "Reinhardt"] },
-    { "cat": "gaming", "nivel": 1, "p": "En Clash Royale, ¿cuántas torres tiene cada jugador al empezar la partida?", "o": ["3", "2", "4"] },
-    { "cat": "gaming", "nivel": 1, "p": "¿Qué campeón de LoL es un mono que pelea con un bastón?", "o": ["Wukong", "Rammus", "Teemo"] },
-    { "cat": "gaming", "nivel": 1, "p": "En «Crash Bandicoot», ¿qué fruta colecciona Crash?", "o": ["La fruta Wumpa", "La mora Cortex", "La manzana Aku"] },
-    { "cat": "series", "nivel": 1, "p": "¿En qué ciudad viven Las Chicas Superpoderosas?", "o": ["Saltadilla", "Ciudad Gótica", "Springfield"] },
-    { "cat": "series", "nivel": 1, "deporte": true, "p": "¿Qué arte marcial practican Bob Esponja y Arenita?", "o": ["Karate", "Kung fu", "Judo"] },
-    { "cat": "series", "nivel": 1, "p": "En «Hora de Aventura», ¿cómo se llama el perro mágico amigo de Finn?", "o": ["Jake", "BMO", "Gunter"] },
-    { "cat": "series", "nivel": 1, "p": "En «Hannah Montana», ¿cuál es el nombre real de Hannah?", "o": ["Miley Stewart", "Lilly Truscott", "Lola Luftnagle"] },
-    { "cat": "series", "nivel": 1, "p": "En la serie original de «Ben 10», ¿cómo se llama el reloj alienígena?", "o": ["Omnitrix", "Alientrix", "Megatrix"] },
-    { "cat": "series", "nivel": 1, "p": "En «Los Simpson», ¿cómo se llama el bar al que va Homero?", "o": ["La taberna de Moe", "El Kwik-E-Mart", "El Krusty Burger"] },
-    { "cat": "series", "nivel": 1, "p": "En «Pinky y Cerebro», ¿qué intentan hacer cada noche?", "o": ["Conquistar el mundo", "Escapar del laboratorio", "Robar todo el queso"] },
-    { "cat": "series", "nivel": 2, "p": "En «Drake & Josh», ¿cómo se llama su hermana menor?", "o": ["Megan", "Mindy", "Molly"] },
-    { "cat": "series", "nivel": 2, "deporte": true, "p": "¿Qué hace Kim Possible en la escuela además de salvar al mundo?", "o": ["Es porrista", "Juega fútbol", "Es capitana de natación"] },
-    { "cat": "musica", "nivel": 1, "p": "¿Quién canta «Thriller»?", "o": ["Michael Jackson", "Prince", "Lionel Richie"] },
-    { "cat": "musica", "nivel": 1, "p": "¿Quién canta «Bad Romance» y «Poker Face»?", "o": ["Lady Gaga", "Katy Perry", "Rihanna"] },
-    { "cat": "musica", "nivel": 1, "p": "¿Qué banda mexicana canta «Rayando el sol» y «Labios compartidos»?", "o": ["Maná", "Reik", "Sin Bandera"] },
-    { "cat": "musica", "nivel": 1, "p": "¿Qué banda canta «Smells Like Teen Spirit»?", "o": ["Nirvana", "Pearl Jam", "Foo Fighters"] },
-    { "cat": "musica", "nivel": 1, "p": "¿Cómo se llama la cantante Vocaloid de coletas color turquesa?", "o": ["Hatsune Miku", "Kagamine Rin", "Megurine Luka"] },
-    { "cat": "musica", "nivel": 1, "deporte": true, "p": "¿Qué canción de Queen se corea en los estadios con el «pum, pum, clap»?", "o": ["We Will Rock You", "We Are the Champions", "Don't Stop Me Now"] },
-    { "cat": "musica", "nivel": 2, "p": "¿Quién canta «Rolling in the Deep» y «Hello»?", "o": ["Adele", "Lady Gaga", "Amy Winehouse"] },
-    { "cat": "musica", "nivel": 2, "p": "¿Qué banda canta «Mr. Brightside»?", "o": ["The Killers", "Arctic Monkeys", "The Strokes"] },
-    { "cat": "grupal", "nivel": 1, "p": "¿Qué villano dice «Yo soy inevitable»?", "o": ["Thanos", "Ultron", "Loki"] },
-    { "cat": "grupal", "nivel": 1, "p": "¿Qué clave de 18 caracteres identifica a cada persona en México?", "o": ["CURP", "RFC", "NSS"] },
-    { "cat": "grupal", "nivel": 1, "p": "¿Cuál es la montaña más alta de Japón?", "o": ["Monte Fuji", "Monte Aso", "Monte Takao"] },
-    { "cat": "grupal", "nivel": 2, "p": "En Japón, ¿cuándo se dice «itadakimasu»?", "o": ["Antes de comer", "Al llegar a casa", "Al despedirse"] },
-    { "cat": "grupal", "nivel": 2, "p": "En japonés, ¿qué es un «senpai»?", "o": ["Alguien con más antigüedad que tú", "Un maestro", "Un hermano menor"] },
-    { "cat": "grupal", "nivel": 2, "p": "¿Qué comida japonesa son bolitas rellenas de pulpo?", "o": ["Takoyaki", "Onigiri", "Gyozas"] }
+    {
+      "cat": "anime",
+      "nivel": 1,
+      "p": "¿Qué película de 1997 con Jack y Rose ganó 11 premios Óscar?",
+      "o": [
+        "Titanic",
+        "Armageddon",
+        "Pearl Harbor"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 1,
+      "p": "En «Attack on Titan», ¿cuál es el apellido de Eren?",
+      "o": [
+        "Jaeger",
+        "Ackerman",
+        "Arlert"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 1,
+      "p": "En «Naruto», ¿qué bestia con cola está sellada dentro de Naruto?",
+      "o": [
+        "El Kyubi (nueve colas)",
+        "Shukaku (una cola)",
+        "El Hachibi (ocho colas)"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 1,
+      "p": "En «Dragon Ball Z», ¿quién es el príncipe de los Saiyajin?",
+      "o": [
+        "Vegeta",
+        "Goku",
+        "Raditz"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 2,
+      "p": "En «Fullmetal Alchemist», ¿qué perdió Alphonse Elric?",
+      "o": [
+        "Todo su cuerpo",
+        "Un brazo y una pierna",
+        "Sus recuerdos"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 2,
+      "deporte": true,
+      "p": "En «Kuroko no Basket», ¿qué hace especial a Tetsuya Kuroko?",
+      "o": [
+        "Casi nadie lo nota en la cancha",
+        "Encesta desde media cancha",
+        "Salta más alto que nadie"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 2,
+      "deporte": true,
+      "p": "En la película «Rocky», ¿en qué ciudad vive el boxeador Rocky Balboa?",
+      "o": [
+        "Filadelfia",
+        "Nueva York",
+        "Chicago"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 2,
+      "p": "En «Steins;Gate», ¿qué aparato permite mandar mensajes al pasado?",
+      "o": [
+        "Un horno de microondas",
+        "Un reloj de pulsera",
+        "Una televisión vieja"
+      ]
+    },
+    {
+      "cat": "anime",
+      "nivel": 3,
+      "p": "¿Quién dirigió «Amores perros»?",
+      "o": [
+        "Alejandro González Iñárritu",
+        "Alfonso Cuarón",
+        "Guillermo del Toro"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 1,
+      "p": "¿Cuál es el planeta natal de Superman?",
+      "o": [
+        "Kriptón",
+        "Marte",
+        "Oa"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 1,
+      "p": "En Star Wars, ¿cómo se llama el droide pequeño azul con blanco?",
+      "o": [
+        "R2-D2",
+        "C-3PO",
+        "BB-8"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 1,
+      "p": "En «El Señor de los Anillos», ¿dónde hay que destruir el Anillo Único?",
+      "o": [
+        "En el Monte del Destino",
+        "En Rivendel",
+        "En Minas Tirith"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 2,
+      "deporte": true,
+      "p": "En «Star Wars: La amenaza fantasma», ¿qué carrera gana Anakin de niño?",
+      "o": [
+        "Una carrera de vainas",
+        "Una carrera de speeders",
+        "Una carrera de X-wings"
+      ]
+    },
+    {
+      "cat": "geek",
+      "nivel": 2,
+      "deporte": true,
+      "p": "En «Volver al futuro II», ¿en qué escapa Marty de Griff?",
+      "o": [
+        "Una patineta voladora",
+        "Una moto voladora",
+        "Unos patines a reacción"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 1,
+      "p": "¿Qué heroína de Overwatch pilotea un MEKA rosa?",
+      "o": [
+        "D.Va",
+        "Echo",
+        "Brigitte"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 1,
+      "p": "¿Cómo se llama el gorila científico de Overwatch?",
+      "o": [
+        "Winston",
+        "Doomfist",
+        "Reinhardt"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 1,
+      "p": "En Clash Royale, ¿cuántas torres tiene cada jugador al empezar la partida?",
+      "o": [
+        "3",
+        "2",
+        "4"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 1,
+      "p": "¿Qué campeón de LoL es un mono que pelea con un bastón?",
+      "o": [
+        "Wukong",
+        "Rammus",
+        "Teemo"
+      ]
+    },
+    {
+      "cat": "gaming",
+      "nivel": 1,
+      "p": "En «Crash Bandicoot», ¿qué fruta colecciona Crash?",
+      "o": [
+        "La fruta Wumpa",
+        "La mora Cortex",
+        "La manzana Aku"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 1,
+      "p": "¿En qué ciudad viven Las Chicas Superpoderosas?",
+      "o": [
+        "Saltadilla",
+        "Ciudad Gótica",
+        "Springfield"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 1,
+      "deporte": true,
+      "p": "¿Qué arte marcial practican Bob Esponja y Arenita?",
+      "o": [
+        "Karate",
+        "Kung fu",
+        "Judo"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 1,
+      "p": "En «Hora de Aventura», ¿cómo se llama el perro mágico amigo de Finn?",
+      "o": [
+        "Jake",
+        "BMO",
+        "Gunter"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 1,
+      "p": "En «Hannah Montana», ¿cuál es el nombre real de Hannah?",
+      "o": [
+        "Miley Stewart",
+        "Lilly Truscott",
+        "Lola Luftnagle"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 1,
+      "p": "En la serie original de «Ben 10», ¿cómo se llama el reloj alienígena?",
+      "o": [
+        "Omnitrix",
+        "Alientrix",
+        "Megatrix"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 1,
+      "p": "En «Los Simpson», ¿cómo se llama el bar al que va Homero?",
+      "o": [
+        "La taberna de Moe",
+        "El Kwik-E-Mart",
+        "El Krusty Burger"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 1,
+      "p": "En «Pinky y Cerebro», ¿qué intentan hacer cada noche?",
+      "o": [
+        "Conquistar el mundo",
+        "Escapar del laboratorio",
+        "Robar todo el queso"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 2,
+      "p": "En «Drake & Josh», ¿cómo se llama su hermana menor?",
+      "o": [
+        "Megan",
+        "Mindy",
+        "Molly"
+      ]
+    },
+    {
+      "cat": "series",
+      "nivel": 2,
+      "deporte": true,
+      "p": "¿Qué hace Kim Possible en la escuela además de salvar al mundo?",
+      "o": [
+        "Es porrista",
+        "Juega fútbol",
+        "Es capitana de natación"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 1,
+      "p": "¿Quién canta «Thriller»?",
+      "o": [
+        "Michael Jackson",
+        "Prince",
+        "Lionel Richie"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 1,
+      "p": "¿Quién canta «Bad Romance» y «Poker Face»?",
+      "o": [
+        "Lady Gaga",
+        "Katy Perry",
+        "Rihanna"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 1,
+      "p": "¿Qué banda mexicana canta «Rayando el sol» y «Labios compartidos»?",
+      "o": [
+        "Maná",
+        "Reik",
+        "Sin Bandera"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 1,
+      "p": "¿Qué banda canta «Smells Like Teen Spirit»?",
+      "o": [
+        "Nirvana",
+        "Pearl Jam",
+        "Foo Fighters"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 1,
+      "p": "¿Cómo se llama la cantante Vocaloid de coletas color turquesa?",
+      "o": [
+        "Hatsune Miku",
+        "Kagamine Rin",
+        "Megurine Luka"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 1,
+      "deporte": true,
+      "p": "¿Qué canción de Queen se corea en los estadios con el «pum, pum, clap»?",
+      "o": [
+        "We Will Rock You",
+        "We Are the Champions",
+        "Don't Stop Me Now"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 2,
+      "p": "¿Quién canta «Rolling in the Deep» y «Hello»?",
+      "o": [
+        "Adele",
+        "Lady Gaga",
+        "Amy Winehouse"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 2,
+      "p": "¿Qué banda canta «Mr. Brightside»?",
+      "o": [
+        "The Killers",
+        "Arctic Monkeys",
+        "The Strokes"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 1,
+      "p": "¿Qué villano dice «Yo soy inevitable»?",
+      "o": [
+        "Thanos",
+        "Ultron",
+        "Loki"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 1,
+      "p": "¿Qué clave de 18 caracteres identifica a cada persona en México?",
+      "o": [
+        "CURP",
+        "RFC",
+        "NSS"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 1,
+      "p": "¿Cuál es la montaña más alta de Japón?",
+      "o": [
+        "Monte Fuji",
+        "Monte Aso",
+        "Monte Takao"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 2,
+      "p": "En Japón, ¿cuándo se dice «itadakimasu»?",
+      "o": [
+        "Antes de comer",
+        "Al llegar a casa",
+        "Al despedirse"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 2,
+      "p": "En japonés, ¿qué es un «senpai»?",
+      "o": [
+        "Alguien con más antigüedad que tú",
+        "Un maestro",
+        "Un hermano menor"
+      ]
+    },
+    {
+      "cat": "grupal",
+      "nivel": 2,
+      "p": "¿Qué comida japonesa son bolitas rellenas de pulpo?",
+      "o": [
+        "Takoyaki",
+        "Onigiri",
+        "Gyozas"
+      ]
+    },
+    {
+      "cat": "musica",
+      "nivel": 3,
+      "deporte": true,
+      "p": "¿Qué Vocaloid canta «Setsuna Drive», canción ligada a las carreras de Super GT?",
+      "o": [
+        "IA",
+        "Hatsune Miku",
+        "GUMI"
+      ]
+    }
   ]
 }

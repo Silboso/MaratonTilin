@@ -46,9 +46,17 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
 - **Seinen y de culto:** JoJo's Bizarre Adventure, Vinland Saga, Berserk, Parasyte, Akame ga Kill, Samurai Champloo, Trigun
 - **Terror y misterio:** Elfen Lied, Another, The Promised Neverland, Higurashi, Made in Abyss
 - **Recientes:** Dandadan, Kaiju No. 8, Sakamoto Days, Bocchi the Rock!, Cyberpunk Edgerunners
+- **Más de los 2000 y 2010:** Gintama, Haruhi Suzumiya, Angel Beats!, Charlotte, Darling in the FranXX, Kill la Kill, Noragami, Durarara!!
+- **Otros:** Log Horizon, .hack, Food Wars, Assassination Classroom, Violet Evergarden, A Silent Voice, Your Name, Dr. Stone, Dorohedoro. **Beastars** puede llegar a ★★.
 - **Fuera:** Erased
 
-**Películas:** Pixar y Disney; taquilleras de los 90 y 2000; cine mexicano; terror y suspenso.
+**Películas** (las conocen todas):
+
+- **Animadas:** Toy Story, Monsters Inc., Cars, Ratatouille, Up, Wall-E, Intensa-Mente, Shrek, Madagascar, Kung Fu Panda, Frozen, Enredados, Moana, Encanto
+- **Sagas taquilleras:** Piratas del Caribe, Jurassic Park, Matrix, Volver al futuro, Terminator, Rápidos y Furiosos, Misión Imposible, Crepúsculo, Los Juegos del Hambre
+- **Terror:** El Conjuro, Annabelle, La Monja, It, Chucky, Freddy, Jason, Destino final, Scream, Saw, El Exorcista, Paranormal Activity
+- **Cine mexicano:** comedias (Nosotros los Nobles, No se aceptan devoluciones, ¿Qué culpa tiene el niño?), cine de autor (Amores perros, Y tu mamá también, El laberinto del fauno, Roma), La Leyenda de… y El Chavo animado
+- **De culto de los 2000:** Mean Girls, Supercool, Scott Pilgrim, Kill Bill
 
 ## 2. Geek y Tecnología
 
@@ -58,7 +66,16 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
 
 ## 3. Gaming y eSports
 
-- **Clásicos:** Nintendo, PlayStation, Xbox, PC y celular.
+- **Clásicos:** Nintendo, PlayStation, Xbox, PC y celular. Sagas que conocen:
+  - **Nintendo:** Zelda, Mario y Mario Kart, Kirby, Metroid, Donkey Kong, Animal Crossing, Splatoon
+  - **PlayStation:** Kingdom Hearts, God of War, Resident Evil, Silent Hill, Uncharted, The Last of Us
+  - **Xbox y PC:** Halo, Gears of War, Los Sims, Half-Life, Portal
+  - **Indies y modernos:** Hollow Knight, Celeste, Undertale, Cuphead, Among Us, Fall Guys, Elden Ring, Dark Souls
+  - **Peleas:** Street Fighter, Mortal Kombat, Tekken, King of Fighters, Budokai Tenkaichi, Naruto Ultimate Ninja
+  - **Shooters:** Call of Duty, Fortnite, Apex, PUBG, Warzone, Team Fortress 2, Left 4 Dead
+  - **Celular:** Angry Birds, Plants vs Zombies, Subway Surfers, Temple Run, Candy Crush, Flappy Bird, Pokémon GO
+  - **RPG y mundo abierto:** Skyrim, The Witcher 3, Red Dead Redemption 2, Final Fantasy, Persona, Dragon Quest
+  - **HoYoverse (Genshin Impact y similares):** solo preguntas muy básicas
 - **League of Legends:** avanzado del juego (campeones, habilidades, objetos, lore) y de todo lo que lo rodea (Arcane, K/DA, himnos de Worlds). La escena de eSports, de medio a básico.
 - **Overwatch:** nivel medio (héroes, habilidades, mapas, un poco de la Overwatch League).
 - **Smash Bros. y Clash Royale:** se conocen a fondo.
@@ -81,19 +98,21 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
 - **Latinas y mexicanas:** Club de Cuervos, La familia P. Luche, Una familia de diez, Luis Miguel: la serie, La Reina del Sur, Rebelde, Casi ángeles
 - **Animadas:** Avatar (Aang y Korra), Gravity Falls, Steven Universe, Un show más, Family Guy, South Park, Bojack Horseman
 - **Disney y Nick live action:** iCarly, Victorious, Los Hechiceros de Waverly Place, Big Time Rush, Jonas, Jessie, Buena suerte Charlie
+- **Más recientes:** The Boys, Invincible, Merlina, Bridgerton, You, Chernobyl, True Detective, Westworld, Marvel de Disney+ (WandaVision, Loki, Moon Knight, Daredevil)
+
+**Series para preguntar a fondo** (se valen ★★★): Los Simpson, Futurama, Chespirito (El Chavo, El Chapulín, Los Caquitos), doblaje latino (actores de voz y frases), reality y concursos (La Academia, Big Brother, MasterChef, 100 mexicanos dijeron).
 
 ## 5. Música
 
 Siempre canciones y artistas **muy conocidos**.
 
-- Anime, J-pop y J-rock
-- Pop y rock en inglés
-- Rock y pop en español y mexicano
-- Música de videojuegos, sobre todo la de LoL
-- Clásicos de siempre
-- K-pop
-- Pop latino
-- Reguetón y urbano
+- **Anime, J-pop y J-rock:** los **openings clásicos** (Cha-La Head-Cha-La, Pegasus Fantasy, Butter-Fly…) se valen a fondo. YOASOBI, Ado, LiSA, ONE OK ROCK, Linked Horizon, SiM, Kenshi Yonezu, Aimer y Eve, solo básico. **Vocaloid**, muy básico; la excepción es «Setsuna Drive» (IA), que el grupo pidió y está en la reserva como ★★★.
+- **Pop y rock en inglés:** emo y pop punk de los 2000 (MCR, Paramore, Green Day, Fall Out Boy), pop de los 2000 y 2010, rock alternativo, pop actual (Billie Eilish, The Weeknd, Dua Lipa)
+- **En español:** rock mexicano, pop mexicano de los 2000 (RBD, Belinda, Jesse & Joy, Reik, Camila), pop latino, regional y corridos (Peso Pluma, Grupo Frontera, Juan Gabriel)
+- **Música de videojuegos:** la de LoL (K/DA, Pentakill, True Damage, HEARTSTEEL, himnos de Worlds) y bandas sonoras (Zelda, Mario, Minecraft, Undertale, Halo)
+- **Clásicos de siempre:** Queen, Michael Jackson, The Beatles, Nirvana
+- **K-pop:** BTS, Blackpink, Twice, Stray Kids, PSY
+- **Reguetón y urbano:** Daddy Yankee, Don Omar, Wisin & Yandel, Bad Bunny, Karol G
 
 ## 6. Conocimiento grupal
 

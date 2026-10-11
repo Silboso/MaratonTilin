@@ -1,0 +1,891 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Cuántos jugadores tiene un equipo de Quidditch?",
+  "o": [
+   "7",
+   "11",
+   "5"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En Harry Potter, ¿qué pelotas intentan tirar a los jugadores de sus escobas?",
+  "o": [
+   "Las Bludgers",
+   "Las Quaffles",
+   "Las Snitches"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué deporte jugó un astronauta en la Luna en 1971?",
+  "o": [
+   "Golf",
+   "Béisbol",
+   "Fútbol"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué tecnología avisa al árbitro si el balón cruzó completamente la línea de gol?",
+  "o": [
+   "La tecnología de línea de gol",
+   "El VAR",
+   "El Ojo de Halcón"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué deporte se usa el «Ojo de Halcón» para ver si la pelota entró?",
+  "o": [
+   "Tenis",
+   "Fútbol",
+   "Béisbol"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué piloto británico tiene 7 campeonatos de Fórmula 1?",
+  "o": [
+   "Lewis Hamilton",
+   "Jenson Button",
+   "Lando Norris"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué piloto alemán ganó 7 campeonatos de F1 con Benetton y Ferrari?",
+  "o": [
+   "Michael Schumacher",
+   "Sebastian Vettel",
+   "Nico Rosberg"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué autódromo se corre el Gran Premio de México?",
+  "o": [
+   "Autódromo Hermanos Rodríguez",
+   "Autódromo de Monterrey",
+   "Autódromo Miguel E. Abed"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En ajedrez, ¿cómo se llama el movimiento en que el rey y la torre cambian de lugar?",
+  "o": [
+   "Enroque",
+   "Gambito",
+   "Jaque"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llamaba la computadora de IBM que le ganó a Kasparov en ajedrez?",
+  "o": [
+   "Deep Blue",
+   "Watson",
+   "HAL 9000"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué marca de cámaras pequeñas usan los deportistas extremos?",
+  "o": [
+   "GoPro",
+   "Polaroid",
+   "Kodak"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En Harry Potter, ¿quién es el buscador del equipo de Slytherin?",
+  "o": [
+   "Draco Malfoy",
+   "Cedric Diggory",
+   "Viktor Krum"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué escoba recibe Harry en su primer año?",
+  "o": [
+   "Nimbus 2000",
+   "Saeta de Fuego",
+   "Barredora 7"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué famoso jugador de Quidditch búlgaro compite en el Torneo de los Tres Magos?",
+  "o": [
+   "Viktor Krum",
+   "Cedric Diggory",
+   "Fleur Delacour"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Spider-Man» (2002), ¿cómo gana dinero Peter al principio con sus poderes?",
+  "o": [
+   "En una pelea de lucha libre",
+   "En una carrera",
+   "En un concurso de baile"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué juego de mesa de piedras blancas y negras es muy popular en Japón y China?",
+  "o": [
+   "Go",
+   "Damas",
+   "Mahjong"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Black Panther», ¿cómo se decide quién es el rey de Wakanda?",
+  "o": [
+   "Con un combate ritual",
+   "Con una votación",
+   "Con una carrera"
+  ]
+ },
+ {
+  "p": "¿Cuántas Gemas del Infinito hay?",
+  "o": [
+   "6",
+   "7",
+   "5"
+  ]
+ },
+ {
+  "p": "¿Qué Gema del Infinito protegía el Doctor Strange?",
+  "o": [
+   "La del Tiempo",
+   "La del Espacio",
+   "La de la Realidad"
+  ]
+ },
+ {
+  "p": "¿Quién le corta la cabeza a Thanos al principio de «Endgame»?",
+  "o": [
+   "Thor",
+   "Iron Man",
+   "Capitana Marvel"
+  ]
+ },
+ {
+  "p": "¿Qué dice Tony Stark justo antes de chasquear los dedos en «Endgame»?",
+  "o": [
+   "«Yo soy Iron Man»",
+   "«Yo soy inevitable»",
+   "«Vengadores, reúnanse»"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la inteligencia artificial que crea Tony y se vuelve villana?",
+  "o": [
+   "Ultron",
+   "Visión",
+   "J.A.R.V.I.S."
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre real de Black Widow?",
+  "o": [
+   "Natasha Romanoff",
+   "Wanda Maximoff",
+   "Carol Danvers"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre real de la Capitana Marvel?",
+  "o": [
+   "Carol Danvers",
+   "Natasha Romanoff",
+   "Hope van Dyne"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la empresa de Tony Stark?",
+  "o": [
+   "Stark Industries",
+   "Oscorp",
+   "Wayne Enterprises"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el Spider-Man protagonista de «Spider-Verse»?",
+  "o": [
+   "Miles Morales",
+   "Peter B. Parker",
+   "Miguel O'Hara"
+  ]
+ },
+ {
+  "p": "¿Quién es el líder de los X-Men que usa silla de ruedas?",
+  "o": [
+   "El Profesor X",
+   "Magneto",
+   "Cíclope"
+  ]
+ },
+ {
+  "p": "¿Qué antihéroe de Marvel habla con el público y rompe la cuarta pared?",
+  "o": [
+   "Deadpool",
+   "Venom",
+   "Punisher"
+  ]
+ },
+ {
+  "p": "¿Qué villano calvo es el enemigo de Superman?",
+  "o": [
+   "Lex Luthor",
+   "Darkseid",
+   "Brainiac"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el equipo de superhéroes de DC?",
+  "o": [
+   "La Liga de la Justicia",
+   "Los Vengadores",
+   "Los Jóvenes Titanes"
+  ]
+ },
+ {
+  "p": "¿Qué superhéroe de DC usa un anillo de poder verde?",
+  "o": [
+   "Linterna Verde",
+   "Flecha Verde",
+   "Detective Marciano"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la periodista novia de Superman?",
+  "o": [
+   "Lois Lane",
+   "Lana Lang",
+   "Vicki Vale"
+  ]
+ },
+ {
+  "p": "¿Qué villana de Batman es la novia del Guasón?",
+  "o": [
+   "Harley Quinn",
+   "Gatúbela",
+   "Hiedra Venenosa"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el comisionado de la policía de Ciudad Gótica?",
+  "o": [
+   "James Gordon",
+   "Harvey Dent",
+   "Harvey Bullock"
+  ]
+ },
+ {
+  "p": "¿Qué superhéroe es Oliver Queen en «Arrow»?",
+  "o": [
+   "Flecha Verde",
+   "Linterna Verde",
+   "Halcón Negro"
+  ]
+ },
+ {
+  "p": "¿Quién es el papá de Kylo Ren?",
+  "o": [
+   "Han Solo",
+   "Luke Skywalker",
+   "Lando Calrissian"
+  ]
+ },
+ {
+  "p": "¿Qué personaje dice «Este es el camino»?",
+  "o": [
+   "El Mandaloriano",
+   "Boba Fett",
+   "Obi-Wan Kenobi"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el Sith de cara roja y negra con sable doble?",
+  "o": [
+   "Darth Maul",
+   "Darth Sidious",
+   "Conde Dooku"
+  ]
+ },
+ {
+  "p": "¿Qué ositos ayudan a los rebeldes en la luna de Endor?",
+  "o": [
+   "Los ewoks",
+   "Los jawas",
+   "Los wookiees"
+  ]
+ },
+ {
+  "p": "¿A quién congelan en carbonita en «El Imperio contraataca»?",
+  "o": [
+   "Han Solo",
+   "Luke Skywalker",
+   "Lando Calrissian"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre real de Voldemort?",
+  "o": [
+   "Tom Riddle",
+   "Gellert Grindelwald",
+   "Regulus Black"
+  ]
+ },
+ {
+  "p": "¿Qué profesor enseña Pociones en los primeros libros de Harry Potter?",
+  "o": [
+   "Severus Snape",
+   "Remus Lupin",
+   "Gilderoy Lockhart"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el banco de los magos?",
+  "o": [
+   "Gringotts",
+   "Ollivanders",
+   "Honeydukes"
+  ]
+ },
+ {
+  "p": "¿Qué objeto de Hogwarts decide a qué casa va cada alumno?",
+  "o": [
+   "El Sombrero Seleccionador",
+   "El Espejo de Oesed",
+   "El Cáliz de Fuego"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el padrino de Harry Potter?",
+  "o": [
+   "Sirius Black",
+   "Remus Lupin",
+   "Arthur Weasley"
+  ]
+ },
+ {
+  "p": "En Harry Potter, ¿qué es un «muggle»?",
+  "o": [
+   "Una persona sin magia",
+   "Un mago malvado",
+   "Una criatura mágica"
+  ]
+ },
+ {
+  "p": "¿Cómo se llaman los guardias de Azkaban que te roban la felicidad?",
+  "o": [
+   "Dementores",
+   "Inferi",
+   "Mortífagos"
+  ]
+ },
+ {
+  "p": "¿Qué hechizo hace flotar objetos en Harry Potter?",
+  "o": [
+   "Wingardium Leviosa",
+   "Accio",
+   "Alohomora"
+  ]
+ },
+ {
+  "p": "En «El Señor de los Anillos», ¿quién encontró el Anillo antes que Frodo?",
+  "o": [
+   "Bilbo",
+   "Sam",
+   "Merry"
+  ]
+ },
+ {
+  "p": "¿Qué elfo arquero forma parte de la Comunidad del Anillo?",
+  "o": [
+   "Legolas",
+   "Elrond",
+   "Haldir"
+  ]
+ },
+ {
+  "p": "¿Qué enano forma parte de la Comunidad del Anillo?",
+  "o": [
+   "Gimli",
+   "Thorin",
+   "Balin"
+  ]
+ },
+ {
+  "p": "¿Qué villano de «El Señor de los Anillos» es un gran ojo de fuego?",
+  "o": [
+   "Sauron",
+   "Saruman",
+   "El Rey Brujo"
+  ]
+ },
+ {
+  "p": "¿Quién es el heredero al trono de Gondor?",
+  "o": [
+   "Aragorn",
+   "Boromir",
+   "Faramir"
+  ]
+ },
+ {
+  "p": "En «Yu-Gi-Oh!», ¿cuántas piezas de Exodia hay que juntar para ganar?",
+  "o": [
+   "5",
+   "4",
+   "7"
+  ]
+ },
+ {
+  "p": "En la Lotería mexicana, ¿qué carta es «el que le cantó a San Pedro»?",
+  "o": [
+   "El Gallo",
+   "El Pájaro",
+   "El Pescado"
+  ]
+ },
+ {
+  "p": "¿Cuántas cartas tiene un juego de Lotería mexicana?",
+  "o": [
+   "54",
+   "40",
+   "52"
+  ]
+ },
+ {
+  "p": "En UNO, ¿cuántas cartas recibe cada jugador al empezar?",
+  "o": [
+   "7",
+   "5",
+   "10"
+  ]
+ },
+ {
+  "p": "¿Cuál es el planeta más caliente del sistema solar?",
+  "o": [
+   "Venus",
+   "Mercurio",
+   "Marte"
+  ]
+ },
+ {
+  "p": "¿Cuántos huesos tiene el cuerpo de un adulto?",
+  "o": [
+   "206",
+   "180",
+   "250"
+  ]
+ },
+ {
+  "p": "¿Cuál es el hueso más largo del cuerpo?",
+  "o": [
+   "El fémur",
+   "La tibia",
+   "El húmero"
+  ]
+ },
+ {
+  "p": "¿Qué metal es líquido a temperatura ambiente?",
+  "o": [
+   "Mercurio",
+   "Plomo",
+   "Aluminio"
+  ]
+ },
+ {
+  "p": "¿Qué científico propuso la teoría de la relatividad?",
+  "o": [
+   "Albert Einstein",
+   "Isaac Newton",
+   "Stephen Hawking"
+  ]
+ },
+ {
+  "p": "¿Cuál es el planeta más lejano del Sol?",
+  "o": [
+   "Neptuno",
+   "Urano",
+   "Plutón"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama nuestra galaxia?",
+  "o": [
+   "La Vía Láctea",
+   "Andrómeda",
+   "La Nube de Magallanes"
+  ]
+ },
+ {
+  "p": "¿Cuál es el animal terrestre más rápido?",
+  "o": [
+   "El guepardo",
+   "El león",
+   "El caballo"
+  ]
+ },
+ {
+  "p": "¿Qué dinosaurio tenía tres cuernos en la cabeza?",
+  "o": [
+   "Triceratops",
+   "Estegosaurio",
+   "Anquilosaurio"
+  ]
+ },
+ {
+  "p": "¿Quién fue el primer ser humano en ir al espacio?",
+  "o": [
+   "Yuri Gagarin",
+   "Neil Armstrong",
+   "John Glenn"
+  ]
+ },
+ {
+  "p": "¿Qué significan las siglas CPU?",
+  "o": [
+   "Central Processing Unit",
+   "Computer Power Unit",
+   "Central Program Utility"
+  ]
+ },
+ {
+  "p": "¿Qué significan las siglas RAM?",
+  "o": [
+   "Random Access Memory",
+   "Read And Modify",
+   "Rapid Action Memory"
+  ]
+ },
+ {
+  "p": "¿Qué significan las siglas HTML?",
+  "o": [
+   "HyperText Markup Language",
+   "High Tech Modern Language",
+   "Home Tool Markup Language"
+  ]
+ },
+ {
+  "p": "¿Cuántos megabytes tiene aproximadamente un gigabyte?",
+  "o": [
+   "1,024",
+   "100",
+   "10,000"
+  ]
+ },
+ {
+  "p": "¿Qué empresa compró Instagram en 2012?",
+  "o": [
+   "Facebook",
+   "Google",
+   "Twitter"
+  ]
+ },
+ {
+  "p": "¿Qué empresa hace los procesadores Ryzen?",
+  "o": [
+   "AMD",
+   "Intel",
+   "Nvidia"
+  ]
+ },
+ {
+  "p": "¿Qué empresa hace las tarjetas gráficas GeForce?",
+  "o": [
+   "Nvidia",
+   "AMD",
+   "Intel"
+  ]
+ },
+ {
+  "p": "¿Qué marca finlandesa hizo el famoso celular 3310?",
+  "o": [
+   "Nokia",
+   "Motorola",
+   "Ericsson"
+  ]
+ },
+ {
+  "p": "¿Quién quedó como director de Apple después de Steve Jobs?",
+  "o": [
+   "Tim Cook",
+   "Steve Wozniak",
+   "Jony Ive"
+  ]
+ },
+ {
+  "p": "¿Quién fundó Amazon?",
+  "o": [
+   "Jeff Bezos",
+   "Elon Musk",
+   "Larry Page"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la inteligencia artificial de Google?",
+  "o": [
+   "Gemini",
+   "Copilot",
+   "Siri"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el asistente de inteligencia artificial de Microsoft?",
+  "o": [
+   "Copilot",
+   "Gemini",
+   "Alexa"
+  ]
+ },
+ {
+  "p": "¿En qué universidad nació Facebook?",
+  "o": [
+   "Harvard",
+   "Stanford",
+   "MIT"
+  ]
+ },
+ {
+  "p": "¿Qué significan las siglas PC?",
+  "o": [
+   "Personal Computer",
+   "Power Center",
+   "Program Control"
+  ]
+ },
+ {
+  "p": "¿Qué app de videollamadas se volvió famosa en la pandemia para clases y juntas?",
+  "o": [
+   "Zoom",
+   "Skype",
+   "FaceTime"
+  ]
+ },
+ {
+  "p": "¿Para qué sirve un «captcha» en internet?",
+  "o": [
+   "Para comprobar que eres humano",
+   "Para guardar contraseñas",
+   "Para bloquear anuncios"
+  ]
+ },
+ {
+  "p": "¿Qué significan las siglas GPS?",
+  "o": [
+   "Global Positioning System",
+   "General Path Service",
+   "Geo Point Satellite"
+  ]
+ },
+ {
+  "p": "¿Qué conexión inalámbrica usan casi todos los audífonos sin cable?",
+  "o": [
+   "Bluetooth",
+   "Infrarrojo",
+   "NFC"
+  ]
+ },
+ {
+  "p": "En «God of War» (2018), ¿cómo se llama el hijo de Kratos?",
+  "o": [
+   "Atreus",
+   "Baldur",
+   "Mimir"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el hacha de Kratos en «God of War» (2018)?",
+  "o": [
+   "Leviatán",
+   "Mjolnir",
+   "Gungnir"
+  ]
+ },
+ {
+  "p": "¿Quién es el dios griego de la guerra?",
+  "o": [
+   "Ares",
+   "Apolo",
+   "Hefesto"
+  ]
+ },
+ {
+  "p": "En la mitología nórdica de Marvel y «God of War», ¿qué es el Ragnarök?",
+  "o": [
+   "El fin del mundo",
+   "El palacio de Odín",
+   "El martillo de Thor"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el protagonista del videojuego «Hades»?",
+  "o": [
+   "Zagreus",
+   "Hermes",
+   "Thanatos"
+  ]
+ },
+ {
+  "p": "¿Qué dios egipcio tiene cabeza de chacal?",
+  "o": [
+   "Anubis",
+   "Ra",
+   "Horus"
+  ]
+ },
+ {
+  "p": "¿Qué dios griego es el mensajero con sandalias aladas?",
+  "o": [
+   "Hermes",
+   "Apolo",
+   "Dionisio"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el espíritu zorro de la mitología japonesa que sale en muchos animes?",
+  "o": [
+   "Kitsune",
+   "Tanuki",
+   "Kappa"
+  ]
+ },
+ {
+  "p": "¿Cuál es el dios griego del mar?",
+  "o": [
+   "Poseidón",
+   "Hades",
+   "Hermes"
+  ]
+ },
+ {
+  "p": "¿Qué superhéroe de Marvel es hechicero y protege el Sanctum Sanctorum?",
+  "o": [
+   "Doctor Strange",
+   "Wong",
+   "Doctor Doom"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre real de Scarlet Witch?",
+  "o": [
+   "Wanda Maximoff",
+   "Jean Grey",
+   "Natasha Romanoff"
+  ]
+ },
+ {
+  "p": "¿Qué empresa hace las consolas Xbox?",
+  "o": [
+   "Microsoft",
+   "Sony",
+   "Sega"
+  ]
+ },
+ {
+  "p": "¿Qué empresa japonesa fabrica las cámaras Alpha y los audífonos WH?",
+  "o": [
+   "Sony",
+   "Canon",
+   "Panasonic"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el robot de Star Wars naranja con blanco que rueda?",
+  "o": [
+   "BB-8",
+   "R2-D2",
+   "K-2SO"
+  ]
+ },
+ {
+  "p": "¿Qué maestro Jedi entrenó a Anakin Skywalker?",
+  "o": [
+   "Obi-Wan Kenobi",
+   "Yoda",
+   "Qui-Gon Jinn"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el hechizo que mata en Harry Potter?",
+  "o": [
+   "Avada Kedavra",
+   "Crucio",
+   "Imperio"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la mejor amiga de Harry que es hija de muggles?",
+  "o": [
+   "Hermione Granger",
+   "Ginny Weasley",
+   "Luna Lovegood"
+  ]
+ },
+ {
+  "p": "¿Qué empresa es la dueña de la marca Galaxy de celulares?",
+  "o": [
+   "Samsung",
+   "Motorola",
+   "Huawei"
+  ]
+ },
+ {
+  "p": "¿Qué marca de computadoras hace la línea ThinkPad?",
+  "o": [
+   "Lenovo",
+   "Dell",
+   "HP"
+  ]
+ },
+ {
+  "p": "¿Qué empresa creó el iPod?",
+  "o": [
+   "Apple",
+   "Sony",
+   "Microsoft"
+  ]
+ },
+ {
+  "p": "¿Qué extensión de archivo es de imagen?",
+  "o": [
+   ".jpg",
+   ".mp3",
+   ".docx"
+  ]
+ },
+ {
+  "p": "¿Qué formato de archivo es de música?",
+  "o": [
+   "MP3",
+   "PDF",
+   "PNG"
+  ]
+ },
+ {
+  "p": "En «Guardianes de la Galaxia», ¿cómo se llama la hermana de Gamora?",
+  "o": [
+   "Nebula",
+   "Mantis",
+   "Ayesha"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre real de Falcon en Marvel?",
+  "o": [
+   "Sam Wilson",
+   "Bucky Barnes",
+   "James Rhodes"
+  ]
+ }
+]

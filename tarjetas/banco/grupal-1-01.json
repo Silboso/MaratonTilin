@@ -1,0 +1,886 @@
+[
+ {
+  "deporte": true,
+  "p": "¿En qué deporte hay máscaras, rudos, técnicos y «dos de tres caídas»?",
+  "o": [
+   "Lucha libre",
+   "Box",
+   "Sumo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cuál es el nombre real del boxeador «Canelo»?",
+  "o": [
+   "Saúl Álvarez",
+   "Julio César Chávez Jr.",
+   "Juan Manuel Márquez"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué futbolista mexicano es «Chicharito»?",
+  "o": [
+   "Javier Hernández",
+   "Andrés Guardado",
+   "Hirving Lozano"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué portero mexicano se volvió famoso por sus atajadas en los Mundiales?",
+  "o": [
+   "Guillermo Ochoa",
+   "Jorge Campos",
+   "Oswaldo Sánchez"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué frase se volvió meme después del México vs Holanda del Mundial 2014?",
+  "o": [
+   "«¡No era penal!»",
+   "«¡Fue mano!»",
+   "«¡Era fuera de lugar!»"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué verbo se inventó por perder finales de forma dramática?",
+  "o": [
+   "Cruzazulear",
+   "Americanear",
+   "Chivear"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué grita Cristiano Ronaldo al festejar sus goles?",
+  "o": [
+   "«¡Siuuu!»",
+   "«¡Vamos!»",
+   "«¡Golazo!»"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Con qué países organiza México el Mundial 2026?",
+  "o": [
+   "Estados Unidos y Canadá",
+   "Estados Unidos y Guatemala",
+   "Canadá y Costa Rica"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué equipo de la Liga MX son «las Águilas»?",
+  "o": [
+   "América",
+   "Pumas",
+   "Atlas"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué equipo de la Liga MX juega solo con mexicanos?",
+  "o": [
+   "Chivas",
+   "América",
+   "Cruz Azul"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cuál es el estadio más famoso de México?",
+  "o": [
+   "El Estadio Azteca",
+   "El Estadio Jalisco",
+   "El Estadio Universitario"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué deporte japonés es de luchadores muy grandes que se empujan?",
+  "o": [
+   "Sumo",
+   "Judo",
+   "Kendo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué arte marcial nació en Okinawa, Japón?",
+  "o": [
+   "Karate",
+   "Taekwondo",
+   "Kung fu"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué equipo de la NFL es el favorito de muchísimos mexicanos?",
+  "o": [
+   "Los Vaqueros de Dallas",
+   "Los Patriotas",
+   "Los Raiders"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué clase de la escuela jugabas fútbol, básquet o quemados?",
+  "o": [
+   "Educación Física",
+   "Artísticas",
+   "Tecnología"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llama el juego del recreo donde te «queman» con el balón?",
+  "o": [
+   "Quemados",
+   "Encantados",
+   "Stop"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué futbolista brasileño de sonrisa famosa es un meme eterno?",
+  "o": [
+   "Ronaldinho",
+   "Neymar",
+   "Kaká"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cada cuántos años hay Mundial de fútbol?",
+  "o": [
+   "Cada 4 años",
+   "Cada 2 años",
+   "Cada 5 años"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo le dicen a la Selección Mexicana?",
+  "o": [
+   "El Tri",
+   "La Verde Amarela",
+   "La Roja"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se le dice al partidito de fútbol en la calle con porterías chiquitas?",
+  "o": [
+   "Cascarita",
+   "Tochito",
+   "Reta"
+  ]
+ },
+ {
+  "p": "¿Qué pan se come en Día de Muertos?",
+  "o": [
+   "Pan de muerto",
+   "Rosca de Reyes",
+   "Concha"
+  ]
+ },
+ {
+  "p": "¿Qué tacos llevan carne de cerdo cocinada en trompo con piña?",
+  "o": [
+   "Al pastor",
+   "De suadero",
+   "De carnitas"
+  ]
+ },
+ {
+  "p": "¿Qué refresco mexicano viene en sabores como tamarindo y mandarina?",
+  "o": [
+   "Jarritos",
+   "Boing",
+   "Sidral Mundet"
+  ]
+ },
+ {
+  "p": "¿Qué jugo mexicano viene en cajita triangular?",
+  "o": [
+   "Boing",
+   "Jumex",
+   "Del Valle"
+  ]
+ },
+ {
+  "p": "¿Qué marca de pan tiene un osito de mascota?",
+  "o": [
+   "Bimbo",
+   "Marinela",
+   "Tía Rosa"
+  ]
+ },
+ {
+  "p": "¿Qué pastelito relleno de fresa tiene de mascota a un ganso?",
+  "o": [
+   "Gansito",
+   "Pingüinos",
+   "Submarinos"
+  ]
+ },
+ {
+  "p": "¿Qué dulce de tamarindo sale por la tapa como si fueran «pelitos»?",
+  "o": [
+   "Pelón Pelo Rico",
+   "Pulparindo",
+   "Rockaleta"
+  ]
+ },
+ {
+  "p": "¿Qué dulce de cacahuate se desmorona en cuanto lo abres?",
+  "o": [
+   "Mazapán",
+   "Duvalín",
+   "Glorias"
+  ]
+ },
+ {
+  "p": "¿Qué botana de tortilla enrollada viene en bolsa morada y pica mucho?",
+  "o": [
+   "Takis Fuego",
+   "Doritos",
+   "Tostitos"
+  ]
+ },
+ {
+  "p": "¿Qué botana tiene de mascota a Chester, el chita?",
+  "o": [
+   "Cheetos",
+   "Ruffles",
+   "Doritos"
+  ]
+ },
+ {
+  "p": "¿Qué se celebra el 16 de septiembre en México?",
+  "o": [
+   "La Independencia",
+   "La Revolución",
+   "La Batalla de Puebla"
+  ]
+ },
+ {
+  "p": "¿Qué flor naranja se usa en Día de Muertos?",
+  "o": [
+   "Cempasúchil",
+   "Nochebuena",
+   "Bugambilia"
+  ]
+ },
+ {
+  "p": "¿Qué se rompe en las posadas?",
+  "o": [
+   "La piñata",
+   "La rosca",
+   "Los cascarones"
+  ]
+ },
+ {
+  "p": "¿Qué bebida caliente se toma con los tamales?",
+  "o": [
+   "Atole",
+   "Horchata",
+   "Tejuino"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama lo que se arma en Día de Muertos con fotos, comida y velas?",
+  "o": [
+   "Ofrenda",
+   "Nacimiento",
+   "Calaverita"
+  ]
+ },
+ {
+  "p": "¿Qué cadena de pizzas vende la «Hot-N-Ready»?",
+  "o": [
+   "Little Caesars",
+   "Domino's",
+   "Pizza Hut"
+  ]
+ },
+ {
+  "p": "¿Qué conductor fue «el amigo de todos los niños» por décadas?",
+  "o": [
+   "Chabelo",
+   "Xavier López «Pedrito»",
+   "Andrés Bustamante"
+  ]
+ },
+ {
+  "p": "¿Qué villana de telenovela grita «¡Maldita lisiada!»?",
+  "o": [
+   "Soraya Montenegro",
+   "Catalina Creel",
+   "Teresa"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el programa matutino de Televisa?",
+  "o": [
+   "Hoy",
+   "Venga la Alegría",
+   "Ventaneando"
+  ]
+ },
+ {
+  "p": "¿Qué día se celebra a la Virgen de Guadalupe?",
+  "o": [
+   "12 de diciembre",
+   "2 de noviembre",
+   "6 de enero"
+  ]
+ },
+ {
+  "p": "¿Qué noche se da el Grito de Independencia?",
+  "o": [
+   "La del 15 de septiembre",
+   "La del 16 de septiembre",
+   "La del 20 de noviembre"
+  ]
+ },
+ {
+  "p": "¿Qué viene escondido dentro de la Rosca de Reyes?",
+  "o": [
+   "Muñequitos del Niño Dios",
+   "Monedas",
+   "Una almendra"
+  ]
+ },
+ {
+  "p": "Si te sale el muñequito en la rosca, ¿qué te toca el 2 de febrero?",
+  "o": [
+   "Invitar los tamales",
+   "Comprar la rosca",
+   "Organizar la posada"
+  ]
+ },
+ {
+  "p": "¿Qué es una «chamba»?",
+  "o": [
+   "Un trabajo",
+   "Una fiesta",
+   "Una cerveza"
+  ]
+ },
+ {
+  "p": "¿Qué significa estar «crudo»?",
+  "o": [
+   "Tener resaca",
+   "Tener hambre",
+   "Estar enojado"
+  ]
+ },
+ {
+  "p": "¿Qué significa «¡Aguas!»?",
+  "o": [
+   "¡Cuidado!",
+   "¡Tengo sed!",
+   "¡Ya llegué!"
+  ]
+ },
+ {
+  "p": "¿Qué es una «chela»?",
+  "o": [
+   "Una cerveza",
+   "Una novia",
+   "Una torta"
+  ]
+ },
+ {
+  "p": "¿Qué significa que algo esté «chido»?",
+  "o": [
+   "Que está padre",
+   "Que está caro",
+   "Que está roto"
+  ]
+ },
+ {
+  "p": "Completa el dicho: «Camarón que se duerme…»",
+  "o": [
+   "…se lo lleva la corriente",
+   "…no come",
+   "…amanece frito"
+  ]
+ },
+ {
+  "p": "Completa el dicho: «Al que madruga…»",
+  "o": [
+   "…Dios lo ayuda",
+   "…le da sueño",
+   "…le toca café"
+  ]
+ },
+ {
+  "p": "¿Quién dice «¡Eso, eso, eso!»?",
+  "o": [
+   "El Chavo",
+   "Quico",
+   "El Chapulín Colorado"
+  ]
+ },
+ {
+  "p": "¿Quién dice «¡Cállate, cállate, que me desesperas!»?",
+  "o": [
+   "Quico",
+   "La Chilindrina",
+   "Don Ramón"
+  ]
+ },
+ {
+  "p": "¿Quién dice «¡Pikachu, te elijo a ti!»?",
+  "o": [
+   "Ash",
+   "Brock",
+   "Gary"
+  ]
+ },
+ {
+  "p": "¿Quién dice «Hasta la vista, baby»?",
+  "o": [
+   "Terminator",
+   "Robocop",
+   "Rambo"
+  ]
+ },
+ {
+  "p": "¿Qué personaje dice «Ohana significa familia»?",
+  "o": [
+   "Stitch",
+   "Moana",
+   "Simba"
+  ]
+ },
+ {
+  "p": "¿Qué personaje dice «¡Ay, caramba!»?",
+  "o": [
+   "Bart Simpson",
+   "Homero Simpson",
+   "El Chavo"
+  ]
+ },
+ {
+  "p": "¿Quién termina sus frases con «¡Dattebayo!»?",
+  "o": [
+   "Naruto",
+   "Goku",
+   "Luffy"
+  ]
+ },
+ {
+  "p": "¿Qué personaje dice «It's-a me!»?",
+  "o": [
+   "Mario",
+   "Luigi",
+   "Wario"
+  ]
+ },
+ {
+  "p": "¿Qué caricatura empieza con «¿Están listos, chicos?»?",
+  "o": [
+   "Bob Esponja",
+   "Los Padrinos Mágicos",
+   "Hora de Aventura"
+  ]
+ },
+ {
+  "p": "¿Qué gato con cara de enojado fue un meme famosísimo?",
+  "o": [
+   "Grumpy Cat",
+   "Nyan Cat",
+   "Garfield"
+  ]
+ },
+ {
+  "p": "¿Qué dice el perrito del meme sentado en un cuarto en llamas?",
+  "o": [
+   "«This is fine»",
+   "«Help me»",
+   "«I'm hot»"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el meme del novio que voltea a ver a otra chica?",
+  "o": [
+   "El novio distraído",
+   "El novio celoso",
+   "El novio confundido"
+  ]
+ },
+ {
+  "p": "En los memes de videojuegos, ¿qué se presiona para «pagar respetos»?",
+  "o": [
+   "F",
+   "X",
+   "R"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba el messenger de Microsoft que todos usaban en los 2000?",
+  "o": [
+   "MSN Messenger",
+   "Yahoo! Messenger",
+   "ICQ"
+  ]
+ },
+ {
+  "p": "¿Qué juego venía en los celulares Nokia?",
+  "o": [
+   "La viborita (Snake)",
+   "Tetris",
+   "Buscaminas"
+  ]
+ },
+ {
+  "p": "¿Qué celular tenía teclado completo y «PIN» para chatear?",
+  "o": [
+   "BlackBerry",
+   "Motorola V3",
+   "Nokia 1100"
+  ]
+ },
+ {
+  "p": "¿Con qué programa se bajaba música (y virus) en los 2000?",
+  "o": [
+   "Ares",
+   "Spotify",
+   "iTunes"
+  ]
+ },
+ {
+  "p": "¿Qué credencial se usa para votar en México?",
+  "o": [
+   "La INE",
+   "La CURP",
+   "El pasaporte"
+  ]
+ },
+ {
+  "p": "¿Qué empresa manda el recibo de la luz?",
+  "o": [
+   "CFE",
+   "Telmex",
+   "Pemex"
+  ]
+ },
+ {
+  "p": "¿Qué institución te da servicio médico si trabajas formalmente?",
+  "o": [
+   "El IMSS",
+   "El SAT",
+   "La SEP"
+  ]
+ },
+ {
+  "p": "¿Cuál es el número de emergencias en México?",
+  "o": [
+   "911",
+   "066",
+   "112"
+  ]
+ },
+ {
+  "p": "¿Cada cuánto se paga la quincena?",
+  "o": [
+   "Cada 15 días",
+   "Cada semana",
+   "Cada mes"
+  ]
+ },
+ {
+  "p": "¿Cuál es la capital de Japón?",
+  "o": [
+   "Tokio",
+   "Kioto",
+   "Osaka"
+  ]
+ },
+ {
+  "p": "¿Qué comida japonesa es de arroz con pescado crudo?",
+  "o": [
+   "Sushi",
+   "Ramen",
+   "Tempura"
+  ]
+ },
+ {
+  "p": "¿Qué significa «arigato» en japonés?",
+  "o": [
+   "Gracias",
+   "Hola",
+   "Adiós"
+  ]
+ },
+ {
+  "p": "¿De qué color es el círculo de la bandera de Japón?",
+  "o": [
+   "Rojo",
+   "Blanco",
+   "Negro"
+  ]
+ },
+ {
+  "p": "¿Qué institución entrega los libros de texto gratuitos?",
+  "o": [
+   "La SEP",
+   "El IMSS",
+   "La UNAM"
+  ]
+ },
+ {
+  "p": "¿Qué pegamento blanco pedían en todas las escuelas?",
+  "o": [
+   "Resistol 850",
+   "Kola Loka",
+   "Pritt"
+  ]
+ },
+ {
+  "p": "¿Qué marca de colores pedían en la escuela?",
+  "o": [
+   "Prismacolor",
+   "Faber-Castell",
+   "Crayola"
+  ]
+ },
+ {
+  "p": "¿Qué se coleccionaba dentro de las bolsas de Sabritas?",
+  "o": [
+   "Tazos",
+   "Estampas",
+   "Canicas"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba la mascota virtual de bolsillo que había que alimentar?",
+  "o": [
+   "Tamagotchi",
+   "Furby",
+   "Neopet"
+  ]
+ },
+ {
+  "p": "¿Qué peluche robot hablaba solo y daba un poco de miedo?",
+  "o": [
+   "Furby",
+   "Teddy Ruxpin",
+   "Tamagotchi"
+  ]
+ },
+ {
+  "p": "¿Qué juguete con cuerda sube y baja?",
+  "o": [
+   "El yo-yo",
+   "El trompo",
+   "El balero"
+  ]
+ },
+ {
+  "p": "¿Qué juguete de madera se lanza con una cuerda para que gire?",
+  "o": [
+   "El trompo",
+   "El balero",
+   "El yo-yo"
+  ]
+ },
+ {
+  "p": "¿Qué zapatos de plástico con hoyitos se pusieron de moda?",
+  "o": [
+   "Crocs",
+   "Vans",
+   "Converse"
+  ]
+ },
+ {
+  "p": "¿Qué marca de tenis de lona tiene una estrella?",
+  "o": [
+   "Converse",
+   "Vans",
+   "Nike"
+  ]
+ },
+ {
+  "p": "¿Qué reto viral consistía en echarte una cubeta de agua helada?",
+  "o": [
+   "Ice Bucket Challenge",
+   "Harlem Shake",
+   "Mannequin Challenge"
+  ]
+ },
+ {
+  "p": "¿Qué reto viral consistía en quedarse congelado como maniquí?",
+  "o": [
+   "Mannequin Challenge",
+   "Planking",
+   "Harlem Shake"
+  ]
+ },
+ {
+  "p": "¿Qué cadena de comida rápida tiene a un payaso como mascota?",
+  "o": [
+   "McDonald's",
+   "Burger King",
+   "Carl's Jr."
+  ]
+ },
+ {
+  "p": "¿Qué significa «¿Qué onda?»?",
+  "o": [
+   "¿Qué tal?",
+   "¿Qué hora es?",
+   "¿Qué comemos?"
+  ]
+ },
+ {
+  "p": "¿Qué significa «¡No manches!»?",
+  "o": [
+   "¡No puede ser!",
+   "¡No te ensucies!",
+   "¡No te vayas!"
+  ]
+ },
+ {
+  "p": "¿Qué significa que alguien sea «fresa»?",
+  "o": [
+   "Que es presumido o de dinero",
+   "Que es muy dulce",
+   "Que es pelirrojo"
+  ]
+ },
+ {
+  "p": "¿Qué bebida caliente con frutas se toma en las posadas?",
+  "o": [
+   "Ponche",
+   "Atole",
+   "Champurrado"
+  ]
+ },
+ {
+  "p": "¿Qué se le pone tradicionalmente a un elote preparado?",
+  "o": [
+   "Mayonesa, queso y chile",
+   "Cajeta y nuez",
+   "Crema y azúcar"
+  ]
+ },
+ {
+  "p": "¿Qué platillo de Puebla lleva chiles y chocolate?",
+  "o": [
+   "Mole poblano",
+   "Chiles en nogada",
+   "Cochinita pibil"
+  ]
+ },
+ {
+  "p": "¿Qué platillo patrio lleva chile poblano, nogada y granada?",
+  "o": [
+   "Chiles en nogada",
+   "Mole poblano",
+   "Pozole"
+  ]
+ },
+ {
+  "p": "¿Qué caldo de maíz se come mucho en fiestas patrias?",
+  "o": [
+   "Pozole",
+   "Menudo",
+   "Birria"
+  ]
+ },
+ {
+  "p": "¿Qué galleta de Gamesa es de chocolate con malvavisco?",
+  "o": [
+   "Mamut",
+   "Emperador",
+   "Marías"
+  ]
+ },
+ {
+  "p": "¿Qué paleta clásica es de mango con chile?",
+  "o": [
+   "Vero Mango",
+   "Tutsi Pop",
+   "Rockaleta"
+  ]
+ },
+ {
+  "p": "¿Qué es «El Buen Fin»?",
+  "o": [
+   "Un fin de semana de ofertas",
+   "Un puente vacacional",
+   "Una feria de comida"
+  ]
+ },
+ {
+  "p": "¿Qué app de pagos es de Mercado Libre?",
+  "o": [
+   "Mercado Pago",
+   "Nu",
+   "Clip"
+  ]
+ },
+ {
+  "p": "Cuando no escuchas bien, ¿qué dices en México?",
+  "o": [
+   "«¿Mande?»",
+   "«¿Cómo dijo?»",
+   "«¿Qué?»"
+  ]
+ },
+ {
+  "p": "¿Qué es un «cuate»?",
+  "o": [
+   "Un amigo",
+   "Un primo",
+   "Un jefe"
+  ]
+ },
+ {
+  "p": "¿De qué ciudad es la torta ahogada?",
+  "o": [
+   "Guadalajara",
+   "Monterrey",
+   "Puebla"
+  ]
+ },
+ {
+  "p": "¿Qué dice Goku en el doblaje latino al empezar cada capítulo?",
+  "o": [
+   "«¡Hola, soy Goku!»",
+   "«¡Kamehameha!»",
+   "«¡Vamos a pelear!»"
+  ]
+ },
+ {
+  "p": "¿Qué juguete tiene una bolita amarrada a un palito para encajarla?",
+  "o": [
+   "El balero",
+   "El yo-yo",
+   "El trompo"
+  ]
+ },
+ {
+  "p": "¿Qué reproductor de música de Apple tenía una rueda para navegar?",
+  "o": [
+   "El iPod",
+   "El Walkman",
+   "El Zune"
+  ]
+ },
+ {
+  "p": "¿Qué se usaba en la muñeca en los 2000, de silicón y de colores?",
+  "o": [
+   "Pulseras de silicón",
+   "Relojes de plástico",
+   "Ligas para el pelo"
+  ]
+ }
+]

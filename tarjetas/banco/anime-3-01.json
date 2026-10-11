@@ -1,23 +1,171 @@
 [
-  {"deporte": true, "p": "En «Supercampeones», ¿qué arte marcial practica Ed Warner, el portero?", "o": ["Karate", "Judo", "Kung fu"]},
-  {"p": "En DBZ, ¿qué número de androide es en realidad el Dr. Gero?", "o": ["El 20", "El 19", "El 16"]},
-  {"p": "En «Dragon Ball», ¿cuántas estrellas tiene la esfera que Goku guardaba de su abuelo?", "o": ["Cuatro", "Una", "Siete"]},
-  {"p": "En «Dragon Ball Z», ¿qué Kaiō entrena a Goku cuando muere peleando con Raditz?", "o": ["El Kaiō del Norte", "El Kaiō del Sur", "El Gran Kaiō"]},
-  {"p": "En «Naruto», ¿quién fue el maestro de Kakashi?", "o": ["Minato Namikaze", "Jiraiya", "Hiruzen Sarutobi"]},
-  {"p": "En «Naruto», ¿cómo se llama la bestia de ocho colas de Killer Bee?", "o": ["Gyūki", "Matatabi", "Kokuō"]},
-  {"p": "En «Naruto», ¿qué miembro de Akatsuki tiene cinco corazones?", "o": ["Kakuzu", "Hidan", "Sasori"]},
-  {"p": "En «Pokémon», ¿cuál es la primera liga que gana Ash?", "o": ["La Liga Naranja", "La Liga Añil", "La Liga Johto"]},
-  {"p": "En «Pokémon», ¿qué Pokémon de Ash se quedó a proteger a una parvada de su especie?", "o": ["Pidgeot", "Butterfree", "Lapras"]},
-  {"p": "En la primera temporada de «Digimon Adventure», ¿cuántos niños elegidos hay contando a Kari?", "o": ["8", "7", "9"]},
-  {"p": "En «Digimon Adventure», ¿qué villano controla a los Digimon con engranes negros?", "o": ["Devimon", "Etemon", "Myotismon"]},
-  {"p": "En «Death Note», ¿de qué shinigami era en realidad el cuaderno que tiró Ryuk?", "o": ["Sidoh", "Rem", "Gelus"]},
-  {"p": "En «Code Geass», ¿qué apellido usa Lelouch para esconderse en la academia?", "o": ["Lamperouge", "vi Britannia", "Kururugi"]},
-  {"p": "En «Code Geass», ¿cómo se llama el Knightmare que pilotea Kallen?", "o": ["Guren", "Gawain", "Lancelot"]},
-  {"p": "En «Jujutsu Kaisen», ¿qué grado de hechicero tiene Nanami?", "o": ["Grado 1", "Grado especial", "Grado 2"]},
-  {"p": "En «Jujutsu Kaisen», ¿cómo se llama la expansión de dominio de Sukuna?", "o": ["Santuario Malévolo", "Vacío Infinito", "Jardín de Sombras"]},
-  {"p": "En «Demon Slayer», ¿de qué respiración salen todas las demás?", "o": ["La del Sol", "La del Agua", "La de la Luna"]},
-  {"p": "En «Demon Slayer», ¿de qué color se volvió la espada de Tanjiro?", "o": ["Negro", "Azul", "Rojo"]},
-  {"p": "En «Jurassic Park», ¿cómo se llama la isla del parque?", "o": ["Isla Nublar", "Isla Sorna", "Isla Calavera"]},
-  {"p": "En «Kill Bill», ¿cuál es el nombre real de la Novia?", "o": ["Beatrix Kiddo", "O-Ren Ishii", "Elle Driver"]},
-  {"p": "¿En qué año se ambienta «El laberinto del fauno»?", "o": ["1944", "1936", "1950"]}
+ {
+  "deporte": true,
+  "p": "En «Supercampeones», ¿qué arte marcial practica Ed Warner, el portero?",
+  "o": [
+   "Karate",
+   "Judo",
+   "Kung fu"
+  ]
+ },
+ {
+  "p": "En DBZ, ¿qué número de androide es en realidad el Dr. Gero?",
+  "o": [
+   "El 20",
+   "El 19",
+   "El 16"
+  ]
+ },
+ {
+  "p": "En «Dragon Ball», ¿cuántas estrellas tiene la esfera que Goku guardaba de su abuelo?",
+  "o": [
+   "Cuatro",
+   "Una",
+   "Siete"
+  ]
+ },
+ {
+  "p": "En «Dragon Ball», ¿qué personaje cambia de personalidad cada vez que estornuda?",
+  "o": [
+   "Lunch",
+   "Bulma",
+   "Chi-Chi"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿quién fue el maestro de Kakashi?",
+  "o": [
+   "Minato Namikaze",
+   "Jiraiya",
+   "Hiruzen Sarutobi"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿cómo se llama la bestia de ocho colas de Killer Bee?",
+  "o": [
+   "Gyūki",
+   "Matatabi",
+   "Kokuō"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿qué miembro de Akatsuki tiene cinco corazones?",
+  "o": [
+   "Kakuzu",
+   "Hidan",
+   "Sasori"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿cuál es la primera liga que gana Ash?",
+  "o": [
+   "La Liga Naranja",
+   "La Liga Añil",
+   "La Liga Johto"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿qué Pokémon de Ash se quedó a proteger a una parvada de su especie?",
+  "o": [
+   "Pidgeot",
+   "Primeape",
+   "Lapras"
+  ]
+ },
+ {
+  "p": "En la primera temporada de «Digimon Adventure», ¿cuántos niños elegidos hay contando a Kari?",
+  "o": [
+   "8",
+   "7",
+   "9"
+  ]
+ },
+ {
+  "p": "En «Digimon Adventure», ¿qué villano controla a los Digimon con engranes negros?",
+  "o": [
+   "Devimon",
+   "Etemon",
+   "Myotismon"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿de qué shinigami era en realidad el cuaderno que tiró Ryuk?",
+  "o": [
+   "Sidoh",
+   "Rem",
+   "Gelus"
+  ]
+ },
+ {
+  "p": "En «Code Geass», ¿qué apellido usa Lelouch para esconderse en la academia?",
+  "o": [
+   "Lamperouge",
+   "vi Britannia",
+   "Kururugi"
+  ]
+ },
+ {
+  "p": "En «Code Geass», ¿cómo se llama el Knightmare que pilotea Kallen?",
+  "o": [
+   "Guren",
+   "Gawain",
+   "Lancelot"
+  ]
+ },
+ {
+  "p": "En «Jujutsu Kaisen», ¿qué grado de hechicero tiene Nanami?",
+  "o": [
+   "Grado 1",
+   "Grado especial",
+   "Grado 2"
+  ]
+ },
+ {
+  "p": "En «Jujutsu Kaisen 0», ¿cómo se llama el espíritu maldito que sigue a Yuta?",
+  "o": [
+   "Rika",
+   "Mai",
+   "Miwa"
+  ]
+ },
+ {
+  "p": "En «Demon Slayer», ¿de qué respiración salen todas las demás?",
+  "o": [
+   "La del Sol",
+   "La del Agua",
+   "La de la Luna"
+  ]
+ },
+ {
+  "p": "En «Demon Slayer», ¿de qué color se volvió la espada de Tanjiro?",
+  "o": [
+   "Negro",
+   "Azul",
+   "Rojo"
+  ]
+ },
+ {
+  "p": "En «Jurassic Park», ¿cómo se llama la isla del parque?",
+  "o": [
+   "Isla Nublar",
+   "Isla Sorna",
+   "Isla Calavera"
+  ]
+ },
+ {
+  "p": "En «Kill Bill», ¿cuál es el nombre real de la Novia?",
+  "o": [
+   "Beatrix Kiddo",
+   "O-Ren Ishii",
+   "Elle Driver"
+  ]
+ },
+ {
+  "p": "¿En qué año se ambienta «El laberinto del fauno»?",
+  "o": [
+   "1944",
+   "1936",
+   "1950"
+  ]
+ }
 ]

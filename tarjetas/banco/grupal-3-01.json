@@ -1,11 +1,11 @@
 [
  {
   "deporte": true,
-  "p": "¿Quién fue la primera mexicana en ganar una medalla de oro olímpica?",
+  "p": "¿Qué mexicano ganó oro en taekwondo en Pekín 2008, además de María Espinoza?",
   "o": [
-   "Soraya Jiménez",
-   "Ana Gabriela Guevara",
-   "María del Rosario Espinoza"
+   "Guillermo Pérez",
+   "Rommel Pacheco",
+   "Iván García"
   ]
  },
  {
@@ -37,11 +37,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Cómo se llamaba la mascota del Mundial México 70?",
+  "p": "¿Qué animal era Zakumi, la mascota del Mundial de Sudáfrica 2010?",
   "o": [
-   "Juanito",
-   "Pique",
-   "Footix"
+   "Un leopardo",
+   "Un león",
+   "Un guepardo"
   ]
  },
  {
@@ -73,20 +73,20 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué portero mexicano fue el primer jugador en ir a cinco Mundiales?",
+  "p": "¿Quién anotó dos goles en la final de la Confederaciones 1999 ante Brasil?",
   "o": [
-   "Antonio «la Tota» Carbajal",
-   "Jorge Campos",
-   "Guillermo Ochoa"
+   "Miguel Zepeda",
+   "José Manuel Abundis",
+   "Cuauhtémoc Blanco"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué equipo ganó el primer torneo de la Liga MX Femenil?",
+  "p": "¿Contra quién peleó Julio César Chávez ante 132 mil personas en el Estadio Azteca?",
   "o": [
-   "Chivas",
-   "Tigres",
-   "América"
+   "Greg Haugen",
+   "Meldrick Taylor",
+   "Héctor «Macho» Camacho"
   ]
  },
  {
@@ -127,11 +127,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Cómo se llama el rango más alto del sumo?",
+  "p": "¿Qué boxeador mexicano era apodado «el Terrible»?",
   "o": [
-   "Yokozuna",
-   "Sensei",
-   "Shogun"
+   "Érik Morales",
+   "Marco Antonio Barrera",
+   "Rafael Márquez"
   ]
  },
  {
@@ -145,11 +145,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Cómo se llama la arena de lucha libre del CMLL en la Ciudad de México?",
+  "p": "¿Qué empresa de lucha libre fundó Antonio Peña en 1992?",
   "o": [
-   "Arena México",
-   "Arena Coliseo",
-   "Arena Monterrey"
+   "La AAA",
+   "El CMLL",
+   "Lucha Underground"
   ]
  },
  {
@@ -203,11 +203,11 @@
   ]
  },
  {
-  "p": "¿Qué bebida fermentada se hace con cáscara de piña?",
+  "p": "¿Qué tamal michoacano tiene forma de triángulo y casi siempre va sin relleno?",
   "o": [
-   "Tepache",
-   "Pulque",
-   "Tuba"
+   "Corunda",
+   "Uchepo",
+   "Zacahuil"
   ]
  },
  {
@@ -299,11 +299,11 @@
   ]
  },
  {
-  "p": "¿Qué artista creó la Catrina?",
+  "p": "¿Qué significa «hacer una vaca»?",
   "o": [
-   "José Guadalupe Posada",
-   "Diego Rivera",
-   "Frida Kahlo"
+   "Juntar dinero entre todos",
+   "Faltar a clases",
+   "Comer de más"
   ]
  },
  {
@@ -323,19 +323,19 @@
   ]
  },
  {
-  "p": "¿Qué significa «sacar de onda»?",
+  "p": "¿Qué significa «darle el avión» a alguien?",
   "o": [
-   "Desconcertar a alguien",
-   "Correr a alguien",
-   "Ponerse a bailar"
+   "Fingir que le haces caso",
+   "Invitarlo a viajar",
+   "Despedirte de prisa"
   ]
  },
  {
-  "p": "Completa el dicho: «No hay mal que…»",
+  "p": "Completa el refrán: «Al nopal nomás se le arriman…»",
   "o": [
-   "…por bien no venga",
-   "…dure cien años",
-   "…no tenga remedio"
+   "…cuando tiene tunas",
+   "…cuando está en flor",
+   "…los que tienen sed"
   ]
  },
  {
@@ -355,11 +355,11 @@
   ]
  },
  {
-  "p": "¿Quién le dice a Harry «Eres un mago, Harry»?",
+  "p": "En «Game of Thrones», ¿quién le repite a Jon Snow que no sabe nada?",
   "o": [
-   "Hagrid",
-   "Dumbledore",
-   "Ron"
+   "Ygritte",
+   "Melisandre",
+   "Daenerys"
   ]
  },
  {
@@ -371,11 +371,11 @@
   ]
  },
  {
-  "p": "¿En qué película dicen «Le haré una oferta que no podrá rechazar»?",
+  "p": "En «Matrix», ¿quién le dice a Neo «No hay cuchara»?",
   "o": [
-   "El Padrino",
-   "Scarface",
-   "Goodfellas"
+   "Un niño en casa del Oráculo",
+   "Morfeo en el entrenamiento",
+   "El Oráculo en su cocina"
   ]
  },
  {
@@ -403,11 +403,11 @@
   ]
  },
  {
-  "p": "¿Qué personaje de Los Simpson se esconde retrocediendo en los arbustos en el meme?",
+  "p": "¿Cómo se llama el señor del meme que sonríe mientras oculta su dolor?",
   "o": [
-   "Homero",
-   "Bart",
-   "Ned Flanders"
+   "Harold",
+   "Brian",
+   "Gordon"
   ]
  },
  {
@@ -443,11 +443,11 @@
   ]
  },
  {
-  "p": "¿Qué juego de Facebook consistía en cuidar una granja?",
+  "p": "¿Qué messenger tenía una florecita verde de logo y sonaba «uh-oh»?",
   "o": [
-   "FarmVille",
-   "Mafia Wars",
-   "Pet Society"
+   "ICQ",
+   "AIM",
+   "Yahoo! Messenger"
   ]
  },
  {
@@ -539,43 +539,43 @@
   ]
  },
  {
-  "p": "¿Qué juguete de 2017 se giraba en un dedo?",
+  "p": "¿Qué marca de ropa tiene un alce en su logo?",
   "o": [
-   "El fidget spinner",
-   "El tamagotchi",
-   "El yo-yo"
+   "Abercrombie & Fitch",
+   "Hollister",
+   "Aéropostale"
   ]
  },
  {
-  "p": "¿Quién canta «PPAP (Pen-Pineapple-Apple-Pen)»?",
+  "p": "¿De qué país eran los que bailaban cargando un ataúd en el meme de 2020?",
   "o": [
-   "Pikotaro",
-   "PSY",
-   "Kyary Pamyu Pamyu"
+   "Ghana",
+   "Nigeria",
+   "Kenia"
   ]
  },
  {
-  "p": "¿Qué reto viral de 2016 consistía en lanzar una botella para que cayera parada?",
+  "p": "¿De qué colores veían algunos el vestido viral que otros veían azul y negro?",
   "o": [
-   "Bottle flip",
-   "Bottle cap challenge",
-   "Kiki challenge"
+   "Blanco y dorado",
+   "Rosa y gris",
+   "Verde y café"
   ]
  },
  {
-  "p": "¿Quién interpretaba a Doña Florinda?",
+  "p": "¿Cuál es el nombre completo del Señor Barriga en «El Chavo del 8»?",
   "o": [
-   "Florinda Meza",
-   "María Antonieta de las Nieves",
-   "Angelines Fernández"
+   "Zenón Barriga y Pesado",
+   "Abelardo Barriga y Gordillo",
+   "Federico Barriga y Lozano"
   ]
  },
  {
-  "p": "¿Quién interpretaba a la Chilindrina?",
+  "p": "¿De qué país es la conductora Laura Bozzo?",
   "o": [
-   "María Antonieta de las Nieves",
-   "Florinda Meza",
-   "Angelines Fernández"
+   "Perú",
+   "Argentina",
+   "Venezuela"
   ]
  },
  {
@@ -595,51 +595,51 @@
   ]
  },
  {
-  "p": "¿Qué son los escamoles?",
+  "p": "¿Qué chile seco es un jalapeño ahumado?",
   "o": [
-   "Larvas de hormiga",
-   "Chapulines",
-   "Gusanos de maguey"
+   "Chipotle",
+   "Guajillo",
+   "Pasilla"
   ]
  },
  {
-  "p": "¿Qué pintora mexicana es famosa por sus autorretratos y su uniceja?",
+  "p": "¿Cómo se llamaba el perro de Marimar?",
   "o": [
-   "Frida Kahlo",
-   "María Izquierdo",
-   "Remedios Varo"
+   "Pulgoso",
+   "Firulais",
+   "Chato"
   ]
  },
  {
-  "p": "¿Qué muralista pintó en el Palacio Nacional la historia de México?",
+  "p": "¿Qué porcentaje de tu salario aporta el patrón a tu subcuenta de vivienda del Infonavit?",
   "o": [
-   "Diego Rivera",
-   "José Clemente Orozco",
-   "David Alfaro Siqueiros"
+   "5%",
+   "3%",
+   "10%"
   ]
  },
  {
-  "p": "¿Qué escritor mexicano ganó el Premio Nobel de Literatura?",
+  "p": "¿Cuántos años de vigencia tiene la credencial del INE?",
   "o": [
-   "Octavio Paz",
-   "Carlos Fuentes",
-   "Juan Rulfo"
+   "10",
+   "6",
+   "15"
   ]
  },
  {
-  "p": "¿Quién escribió «Pedro Páramo»?",
+  "p": "En «Kung Fu Panda», ¿quién insiste en que los accidentes no existen?",
   "o": [
-   "Juan Rulfo",
-   "Octavio Paz",
-   "Carlos Fuentes"
+   "El Maestro Oogway",
+   "El Maestro Shifu",
+   "Tigresa"
   ]
  },
  {
-  "p": "¿Qué cerveza mexicana tiene «Extra» en su etiqueta y es la más exportada?",
+  "p": "¿Qué cadena de súper creó la promoción «Julio Regalado»?",
   "o": [
-   "Corona",
-   "Modelo",
-   "Tecate"
+   "Comercial Mexicana",
+   "Gigante",
+   "Chedraui"
   ]
  },
  {
@@ -683,83 +683,83 @@
   ]
  },
  {
-  "p": "¿Cuál es el estado más grande de México?",
+  "p": "¿Cómo se llama el elefante de los Choco Krispis?",
   "o": [
-   "Chihuahua",
-   "Sonora",
-   "Coahuila"
+   "Melvin",
+   "Elmer",
+   "Trompis"
   ]
  },
  {
-  "p": "¿Cuál es el estado más pequeño de México?",
+  "p": "Entre 2006 y 2010, ¿cuántos minutos podía durar como máximo un video de YouTube?",
   "o": [
-   "Tlaxcala",
-   "Morelos",
-   "Colima"
+   "10",
+   "5",
+   "20"
   ]
  },
  {
-  "p": "¿Cuántas entidades federativas tiene México, contando la CDMX?",
+  "p": "¿Qué régimen del SAT para personas físicas reemplazó al RIF en 2022?",
   "o": [
-   "32",
-   "31",
-   "30"
+   "RESICO",
+   "REPECO",
+   "RESIF"
   ]
  },
  {
-  "p": "¿Cuál es el volcán más alto de México?",
+  "p": "En «Ocarina of Time», ¿quién te pregunta si quieres oír otra vez lo que te dijo?",
   "o": [
-   "El Pico de Orizaba",
-   "El Popocatépetl",
-   "El Iztaccíhuatl"
+   "Kaepora Gaebora",
+   "Navi",
+   "El Gran Árbol Deku"
   ]
  },
  {
-  "p": "¿Qué zona arqueológica tiene «El Castillo» de Kukulcán?",
+  "p": "¿Cómo se les decía en México a las personas exhibidas en videos virales de los 2010?",
   "o": [
-   "Chichén Itzá",
-   "Teotihuacán",
-   "Tulum"
+   "Lords y ladies",
+   "Fresas y nacos",
+   "Chairos y fifís"
   ]
  },
  {
-  "p": "¿En qué zona arqueológica están las pirámides del Sol y la Luna?",
+  "p": "Si te despiden sin causa justificada, ¿de cuántos meses de salario es la indemnización?",
   "o": [
-   "Teotihuacán",
-   "Chichén Itzá",
-   "Monte Albán"
+   "3 meses",
+   "1 mes",
+   "6 meses"
   ]
  },
  {
-  "p": "¿Qué ave aparece en el escudo de la bandera de México?",
+  "p": "¿Qué bloque de Cartoon Network pasaba anime como «Dragon Ball Z» en los 2000?",
   "o": [
-   "Un águila",
-   "Un halcón",
-   "Un quetzal"
+   "Toonami",
+   "Adult Swim",
+   "Cartoon Cartoons"
   ]
  },
  {
-  "p": "¿Qué día es el Día de la Bandera?",
+  "p": "En «Beyblade», ¿cómo se llama el beyblade de Tyson?",
   "o": [
-   "24 de febrero",
-   "16 de septiembre",
-   "5 de febrero"
+   "Dragoon",
+   "Dranzer",
+   "Driger"
   ]
  },
  {
-  "p": "¿Qué se celebra el 5 de febrero?",
+  "p": "¿Qué personaje de Smash Bros. grita «Show me your moves!»?",
   "o": [
-   "La Constitución",
-   "La Bandera",
-   "La Revolución"
+   "Captain Falcon",
+   "Fox",
+   "Ness"
   ]
  },
  {
-  "p": "¿Qué presidente de México tiene la frase «El respeto al derecho ajeno es la paz»?",
+  "p": "¿Hasta cuánto garantiza el IPAB tus ahorros por persona en cada banco?",
   "o": [
-   "Benito Juárez",
-   "Lázaro Cárdenas",
-   "Francisco I. Madero"
+   "400 mil UDIS",
+   "100 mil UDIS",
+   "1 millón de UDIS"
   ]
  },
  {
@@ -779,27 +779,27 @@
   ]
  },
  {
-  "p": "¿Cómo se llamaba la capital de los mexicas?",
+  "p": "¿Qué es un «chafirete»?",
   "o": [
-   "Tenochtitlan",
-   "Tula",
-   "Teotihuacán"
+   "Un mal conductor",
+   "Un borracho",
+   "Un policía"
   ]
  },
  {
-  "p": "¿Qué gobernante mexica recibió a Hernán Cortés?",
+  "p": "¿En qué juego los sacerdotes convierten unidades enemigas diciendo «Wololo»?",
   "o": [
-   "Moctezuma",
-   "Cuauhtémoc",
-   "Nezahualcóyotl"
+   "Age of Empires",
+   "Warcraft",
+   "StarCraft"
   ]
  },
  {
-  "p": "¿Quién dio el Grito de Dolores?",
+  "p": "En MSN Messenger, ¿qué emoticón salía al escribir (L)?",
   "o": [
-   "Miguel Hidalgo",
-   "José María Morelos",
-   "Vicente Guerrero"
+   "Un corazón",
+   "Un foco",
+   "Un pulgar arriba"
   ]
  },
  {
@@ -843,35 +843,35 @@
   ]
  },
  {
-  "p": "¿Qué día es el Día del Niño en México?",
+  "p": "¿Cada cuántos años hay que renovar la e.firma del SAT?",
   "o": [
-   "30 de abril",
-   "1 de junio",
-   "6 de enero"
+   "4",
+   "2",
+   "10"
   ]
  },
  {
-  "p": "¿Qué día se celebra a las mamás en México?",
+  "p": "¿En qué canal se convirtió Fox Kids en Latinoamérica?",
   "o": [
-   "10 de mayo",
-   "El segundo domingo de mayo",
-   "15 de mayo"
+   "Jetix",
+   "Boomerang",
+   "Discovery Kids"
   ]
  },
  {
-  "p": "¿Qué día es el Día del Maestro en México?",
+  "p": "En «Buscando a Nemo», ¿quién dirige el grupo de tiburones que no comen peces?",
   "o": [
-   "15 de mayo",
-   "10 de mayo",
-   "12 de octubre"
+   "Bruce",
+   "Gill",
+   "Crush"
   ]
  },
  {
-  "p": "¿Qué se festeja el 28 de diciembre con bromas?",
+  "p": "¿Qué significa «estar en la baba»?",
   "o": [
-   "El Día de los Santos Inocentes",
-   "El Día del Bromista",
-   "La Nochevieja"
+   "Estar distraído",
+   "Estar enamorado",
+   "Estar dormido"
   ]
  },
  {
@@ -883,19 +883,19 @@
   ]
  },
  {
-  "p": "¿Qué es un «Godínez»?",
+  "p": "¿Qué documento del SAT empezaron a pedir las empresas para timbrar tu nómina en 2022?",
   "o": [
-   "Un oficinista",
-   "Un vendedor ambulante",
-   "Un estudiante"
+   "Constancia de Situación Fiscal",
+   "Acuse de la e.firma",
+   "Opinión de cumplimiento"
   ]
  },
  {
-  "p": "¿Cuál es la lengua indígena más hablada en México?",
+  "p": "¿Cuál es el nombre completo de Barbie?",
   "o": [
-   "Náhuatl",
-   "Maya",
-   "Zapoteco"
+   "Barbara Millicent Roberts",
+   "Barbara Ann Carson",
+   "Barbara Jean Miller"
   ]
  },
  {

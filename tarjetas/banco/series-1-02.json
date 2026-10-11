@@ -36,11 +36,11 @@
   ]
  },
  {
-  "p": "¿Qué comida le encanta a Scooby-Doo?",
+  "p": "¿Cómo se llama la camioneta de Scooby-Doo y sus amigos?",
   "o": [
-   "Las Scooby galletas",
-   "Las hamburguesas",
-   "La pizza"
+   "La Máquina del Misterio",
+   "El Autobús Mágico",
+   "La Van Fantasma"
   ]
  },
  {
@@ -52,11 +52,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama la bebé de los Simpson?",
+  "p": "En «Stranger Things», ¿qué le pasa a Once cuando usa sus poderes?",
   "o": [
-   "Maggie",
-   "Lisa",
-   "Ling"
+   "Le sangra la nariz",
+   "Se le ponen blancos los ojos",
+   "Le sale humo de la boca"
   ]
  },
  {
@@ -84,11 +84,11 @@
   ]
  },
  {
-  "p": "En «Phineas y Ferb», ¿qué es Perry en secreto?",
+  "p": "En «Tom y Jerry», ¿qué animal es Jerry?",
   "o": [
-   "Un agente secreto",
-   "Un villano",
-   "Un robot"
+   "Un ratón",
+   "Un hámster",
+   "Una ardilla"
   ]
  },
  {
@@ -180,19 +180,19 @@
   ]
  },
  {
-  "p": "En «Supernatural», ¿qué cazan Sam y Dean?",
+  "p": "¿Qué actriz interpreta a Merlina en la serie de Netflix?",
   "o": [
-   "Monstruos y demonios",
-   "Narcos",
-   "Extraterrestres"
+   "Jenna Ortega",
+   "Millie Bobby Brown",
+   "Emma Myers"
   ]
  },
  {
-  "p": "En «The Walking Dead», ¿cómo les dicen a los zombis?",
+  "p": "En «Breaking Bad», ¿dónde cocinan Walter y Jesse al principio?",
   "o": [
-   "Caminantes",
-   "Infectados",
-   "Muertos vivientes"
+   "En una casa rodante",
+   "En una bodega",
+   "En un sótano"
   ]
  }
 ]

@@ -17,11 +17,11 @@
  },
  {
   "deporte": true,
-  "p": "En «Haikyuu!!», ¿en qué preparatoria juega Shoyo Hinata?",
+  "p": "¿Qué actor interpreta a Muhammad Ali en «Ali» (2001)?",
   "o": [
-   "Karasuno",
-   "Aoba Johsai",
-   "Nekoma"
+   "Will Smith",
+   "Denzel Washington",
+   "Michael B. Jordan"
   ]
  },
  {
@@ -67,11 +67,11 @@
  },
  {
   "deporte": true,
-  "p": "En la película «Rocky», ¿en qué ciudad vive el boxeador Rocky Balboa?",
+  "p": "En «Rápidos y Furiosos 5», ¿en qué país roban la bóveda?",
   "o": [
-   "Filadelfia",
-   "Nueva York",
-   "Chicago"
+   "Brasil",
+   "México",
+   "Colombia"
   ]
  },
  {
@@ -91,11 +91,11 @@
   ]
  },
  {
-  "p": "En «Toradora!», ¿qué apodo tiene Taiga Aisaka?",
+  "p": "En «Toradora!», ¿de quién está enamorado Ryuji al inicio?",
   "o": [
-   "Palmtop Tiger",
-   "La Dragona",
-   "La Princesa de Hielo"
+   "Minori Kushieda",
+   "Ami Kawashima",
+   "Taiga Aisaka"
   ]
  },
  {

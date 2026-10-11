@@ -19,11 +19,11 @@
  },
  {
   "deporte": true,
-  "p": "En «Glee», ¿cómo se llama la entrenadora de fútbol americano?",
+  "p": "En «Friends», ¿qué le pasa a Ross en el partido de hockey?",
   "o": [
-   "Shannon Beiste",
-   "Sue Sylvester",
-   "Emma Pillsbury"
+   "Le pegan con el disco en la cara",
+   "Se pelea con un jugador",
+   "Lo corren del estadio"
   ]
  },
  {
@@ -52,11 +52,11 @@
   ]
  },
  {
-  "p": "En «Breaking Bad», ¿cómo se llama el abogado de Walter?",
+  "p": "En «Breaking Bad», ¿qué colecciona Hank Schrader?",
   "o": [
-   "Saul Goodman",
-   "Howard Hamlin",
-   "Chuck McGill"
+   "Minerales",
+   "Monedas",
+   "Armas antiguas"
   ]
  },
  {
@@ -108,11 +108,11 @@
   ]
  },
  {
-  "p": "En «Friends», ¿qué número de departamento es el de Monica?",
+  "p": "En «Friends», ¿qué número tiene el departamento de Monica?",
   "o": [
    "20",
    "19",
-   "5"
+   "4"
   ]
  },
  {
@@ -148,19 +148,19 @@
   ]
  },
  {
-  "p": "En «Futurama», ¿cómo se llama la mascota de tres ojos de Leela?",
+  "p": "En «Ben 10», ¿cómo se llama el villano payaso de circo?",
   "o": [
-   "Nibbler",
-   "Seymour",
-   "Scruffy"
+   "Zombozo",
+   "Dr. Animo",
+   "Hex"
   ]
  },
  {
-  "p": "En «El Chavo del 8», ¿cómo le dicen a Doña Clotilde?",
+  "p": "¿Quién ganó el primer «Big Brother México», en 2002?",
   "o": [
-   "La Bruja del 71",
-   "La Chimoltrufia",
-   "La Popis"
+   "Rocío Cárdenas",
+   "Azalia Ojeda",
+   "Gabriel Pontones"
   ]
  },
  {

@@ -1,18 +1,18 @@
 [
  {
-  "p": "En «Mirai Nikki», ¿qué número de portadora de diario es Yuno Gasai?",
+  "p": "En «Dragon Ball», ¿qué le pide Oolong a Shenlong la primera vez que lo invocan?",
   "o": [
-   "La Segunda",
-   "La Primera",
-   "La Novena"
+   "Unos calzones",
+   "La vida eterna",
+   "Un novio perfecto"
   ]
  },
  {
-  "p": "En «Steins;Gate», ¿cómo se hace llamar Okabe?",
+  "p": "En «Naruto», ¿quién acompañaba a Zabuza y peleaba con espejos de hielo?",
   "o": [
-   "Hououin Kyouma",
-   "Kira",
-   "Zero"
+   "Haku",
+   "Kimimaro",
+   "Kabuto"
   ]
  },
  {
@@ -32,11 +32,11 @@
   ]
  },
  {
-  "p": "¿Cuál fue el primer Pokémon que Ash atrapó con una Pokébola?",
+  "p": "En «Pokémon», ¿qué Pokémon de Ash evolucionó en plena batalla de la Liga Añil?",
   "o": [
-   "Caterpie",
-   "Pidgeotto",
-   "Bulbasaur"
+   "Krabby",
+   "Bulbasaur",
+   "Squirtle"
   ]
  },
  {
@@ -57,11 +57,11 @@
   ]
  },
  {
-  "p": "En «Death Note», ¿cuál es el nombre real de L?",
+  "p": "En «Amores perros», ¿cómo se llama el rottweiler que Octavio mete a pelear?",
   "o": [
-   "L Lawliet",
-   "Ryuga Hideki",
-   "Nate River"
+   "Cofi",
+   "Richie",
+   "Rocco"
   ]
  },
  {

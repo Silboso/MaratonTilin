@@ -10,11 +10,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Cuál es el nombre real del boxeador «Canelo»?",
+  "p": "¿Qué corneta ruidosa sonó en todos los partidos del Mundial de Sudáfrica 2010?",
   "o": [
-   "Saúl Álvarez",
-   "Julio César Chávez Jr.",
-   "Juan Manuel Márquez"
+   "La vuvuzela",
+   "La matraca",
+   "El silbato"
   ]
  },
  {
@@ -28,11 +28,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué portero mexicano se volvió famoso por sus atajadas en los Mundiales?",
+  "p": "¿Qué portero mexicano se volvió meme por sus atajadas en el Mundial 2014?",
   "o": [
    "Guillermo Ochoa",
-   "Jorge Campos",
-   "Oswaldo Sánchez"
+   "Jesús Corona",
+   "Alfredo Talavera"
   ]
  },
  {
@@ -73,11 +73,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué equipo de la Liga MX son «las Águilas»?",
+  "p": "¿Qué actor fue luchador de la WWE con el nombre de «La Roca»?",
   "o": [
-   "América",
-   "Pumas",
-   "Atlas"
+   "Dwayne Johnson",
+   "John Cena",
+   "Dave Bautista"
   ]
  },
  {
@@ -109,20 +109,20 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué arte marcial nació en Okinawa, Japón?",
+  "p": "¿Qué ciudad tuvo los Juegos Olímpicos que se pospusieron un año por la pandemia?",
   "o": [
-   "Karate",
-   "Taekwondo",
-   "Kung fu"
+   "Tokio",
+   "París",
+   "Río de Janeiro"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué equipo de la NFL es el favorito de muchísimos mexicanos?",
+  "p": "¿En qué deporte es leyenda olímpica Michael Phelps?",
   "o": [
-   "Los Vaqueros de Dallas",
-   "Los Patriotas",
-   "Los Raiders"
+   "Natación",
+   "Atletismo",
+   "Gimnasia"
   ]
  },
  {
@@ -136,11 +136,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Cómo se llama el juego del recreo donde te «queman» con el balón?",
+  "p": "¿Cómo se llama la apuesta de la oficina para adivinar los resultados de la jornada?",
   "o": [
-   "Quemados",
-   "Encantados",
-   "Stop"
+   "La quiniela",
+   "La tanda",
+   "La rifa"
   ]
  },
  {
@@ -154,11 +154,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Cada cuántos años hay Mundial de fútbol?",
+  "p": "¿Qué futbolista brasileño se volvió meme por rodar en el pasto en Rusia 2018?",
   "o": [
-   "Cada 4 años",
-   "Cada 2 años",
-   "Cada 5 años"
+   "Neymar",
+   "Coutinho",
+   "Marcelo"
   ]
  },
  {
@@ -172,19 +172,19 @@
  },
  {
   "deporte": true,
-  "p": "¿Cómo se le dice al partidito de fútbol en la calle con porterías chiquitas?",
+  "p": "¿Cómo se le dice al partido de fútbol callejero con porterías chiquitas?",
   "o": [
    "Cascarita",
    "Tochito",
-   "Reta"
+   "Bote pateado"
   ]
  },
  {
-  "p": "¿Qué pan se come en Día de Muertos?",
+  "p": "Completa la canción de la piñata: «Dale, dale, dale, no pierdas el…»",
   "o": [
-   "Pan de muerto",
-   "Rosca de Reyes",
-   "Concha"
+   "…tino",
+   "…ritmo",
+   "…paso"
   ]
  },
  {
@@ -204,11 +204,11 @@
   ]
  },
  {
-  "p": "¿Qué jugo mexicano viene en cajita triangular?",
+  "p": "¿Qué marca de botanas hace los Takis?",
   "o": [
-   "Boing",
-   "Jumex",
-   "Del Valle"
+   "Barcel",
+   "Sabritas",
+   "Totis"
   ]
  },
  {
@@ -220,7 +220,7 @@
   ]
  },
  {
-  "p": "¿Qué pastelito relleno de fresa tiene de mascota a un ganso?",
+  "p": "¿Qué pastelito tiene el lema «¡Recuérdame!»?",
   "o": [
    "Gansito",
    "Pingüinos",
@@ -228,11 +228,11 @@
   ]
  },
  {
-  "p": "¿Qué dulce de tamarindo sale por la tapa como si fueran «pelitos»?",
+  "p": "¿Qué marca de mazapán es la más famosa de México?",
   "o": [
-   "Pelón Pelo Rico",
-   "Pulparindo",
-   "Rockaleta"
+   "De la Rosa",
+   "Coronado",
+   "Vero"
   ]
  },
  {
@@ -252,19 +252,19 @@
   ]
  },
  {
-  "p": "¿Qué botana tiene de mascota a Chester, el chita?",
+  "p": "¿Qué cereal tiene de mascota al Tigre Toño?",
   "o": [
-   "Cheetos",
-   "Ruffles",
-   "Doritos"
+   "Zucaritas",
+   "Choco Krispis",
+   "Froot Loops"
   ]
  },
  {
-  "p": "¿Qué se celebra el 16 de septiembre en México?",
+  "p": "¿Qué planta de hojas rojas se regala mucho en Navidad en México?",
   "o": [
-   "La Independencia",
-   "La Revolución",
-   "La Batalla de Puebla"
+   "Nochebuena",
+   "Cempasúchil",
+   "Bugambilia"
   ]
  },
  {
@@ -436,11 +436,11 @@
   ]
  },
  {
-  "p": "¿Quién dice «¡Pikachu, te elijo a ti!»?",
+  "p": "¿Quién repite «Sigue nadando, sigue nadando»?",
   "o": [
-   "Ash",
-   "Brock",
-   "Gary"
+   "Dory",
+   "Nemo",
+   "Marlin"
   ]
  },
  {
@@ -476,11 +476,11 @@
   ]
  },
  {
-  "p": "¿Qué personaje dice «It's-a me!»?",
+  "p": "¿Qué personaje dice «You're too slow!» al rebasar a sus rivales?",
   "o": [
-   "Mario",
-   "Luigi",
-   "Wario"
+   "Sonic",
+   "Shadow",
+   "Tails"
   ]
  },
  {
@@ -492,11 +492,11 @@
   ]
  },
  {
-  "p": "¿Qué gato con cara de enojado fue un meme famosísimo?",
+  "p": "¿Qué rana toma té en el meme «Pero eso no es asunto mío»?",
   "o": [
-   "Grumpy Cat",
-   "Nyan Cat",
-   "Garfield"
+   "La rana René",
+   "Pepe the Frog",
+   "Keroro"
   ]
  },
  {
@@ -524,11 +524,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llamaba el messenger de Microsoft que todos usaban en los 2000?",
+  "p": "En Google Chrome, ¿qué juego aparece cuando no tienes internet?",
   "o": [
-   "MSN Messenger",
-   "Yahoo! Messenger",
-   "ICQ"
+   "Un dinosaurio que salta",
+   "Una viborita",
+   "Un pajarito que vuela"
   ]
  },
  {
@@ -588,11 +588,11 @@
   ]
  },
  {
-  "p": "¿Cada cuánto se paga la quincena?",
+  "p": "¿Qué documento te piden en casi todo trámite para probar dónde vives?",
   "o": [
-   "Cada 15 días",
-   "Cada semana",
-   "Cada mes"
+   "Comprobante de domicilio",
+   "Acta de nacimiento",
+   "Constancia de estudios"
   ]
  },
  {
@@ -604,19 +604,19 @@
   ]
  },
  {
-  "p": "¿Qué comida japonesa es de arroz con pescado crudo?",
+  "p": "¿Qué son los onigiri?",
   "o": [
-   "Sushi",
-   "Ramen",
-   "Tempura"
+   "Bolas o triángulos de arroz",
+   "Fideos en caldo",
+   "Brochetas de pollo"
   ]
  },
  {
-  "p": "¿Qué significa «arigato» en japonés?",
+  "p": "¿Qué es una «tanda»?",
   "o": [
-   "Gracias",
-   "Hola",
-   "Adiós"
+   "Ahorro por turnos entre amigos",
+   "Préstamo del banco",
+   "Fila para pagar en el banco"
   ]
  },
  {
@@ -644,11 +644,11 @@
   ]
  },
  {
-  "p": "¿Qué marca de colores pedían en la escuela?",
+  "p": "¿Qué instrumento del juego de geometría sirve para medir ángulos?",
   "o": [
-   "Prismacolor",
-   "Faber-Castell",
-   "Crayola"
+   "El transportador",
+   "El compás",
+   "La escuadra"
   ]
  },
  {
@@ -668,11 +668,11 @@
   ]
  },
  {
-  "p": "¿Qué peluche robot hablaba solo y daba un poco de miedo?",
+  "p": "¿Qué muñecas de los 2000, de labios gruesos y mucho maquillaje, rivalizaban con Barbie?",
   "o": [
-   "Furby",
-   "Teddy Ruxpin",
-   "Tamagotchi"
+   "Bratz",
+   "Polly Pocket",
+   "My Scene"
   ]
  },
  {
@@ -708,19 +708,19 @@
   ]
  },
  {
-  "p": "¿Qué reto viral consistía en echarte una cubeta de agua helada?",
+  "p": "¿Qué pose viral era esconder la cara en el codo con los brazos estirados?",
   "o": [
-   "Ice Bucket Challenge",
-   "Harlem Shake",
-   "Mannequin Challenge"
+   "El dab",
+   "El planking",
+   "El floss"
   ]
  },
  {
-  "p": "¿Qué reto viral consistía en quedarse congelado como maniquí?",
+  "p": "¿Qué filtro de Snapchat te ponía orejas, nariz y lengua de animal?",
   "o": [
-   "Mannequin Challenge",
-   "Planking",
-   "Harlem Shake"
+   "El de perrito",
+   "El de gatito",
+   "El de conejito"
   ]
  },
  {
@@ -772,19 +772,19 @@
   ]
  },
  {
-  "p": "¿Qué platillo de Puebla lleva chiles y chocolate?",
+  "p": "¿Qué pan dulce es redondo y tiene una costra de azúcar blanca o de chocolate?",
   "o": [
-   "Mole poblano",
-   "Chiles en nogada",
-   "Cochinita pibil"
+   "Concha",
+   "Oreja",
+   "Cuerno"
   ]
  },
  {
-  "p": "¿Qué platillo patrio lleva chile poblano, nogada y granada?",
+  "p": "¿Qué antojito es una tortilla gruesa con borde pellizcado, frijoles y salsa encima?",
   "o": [
-   "Chiles en nogada",
-   "Mole poblano",
-   "Pozole"
+   "Sope",
+   "Tlacoyo",
+   "Gordita"
   ]
  },
  {
@@ -804,11 +804,11 @@
   ]
  },
  {
-  "p": "¿Qué paleta clásica es de mango con chile?",
+  "p": "¿Qué paleta es de malvavisco cubierto de chocolate con carita de gomitas?",
   "o": [
-   "Vero Mango",
-   "Tutsi Pop",
-   "Rockaleta"
+   "Paleta Payaso",
+   "Rockaleta",
+   "Tutsi Pop"
   ]
  },
  {
@@ -820,11 +820,11 @@
   ]
  },
  {
-  "p": "¿Qué app de pagos es de Mercado Libre?",
+  "p": "¿Qué tipo de tarjeta usa dinero que ya es tuyo y no prestado?",
   "o": [
-   "Mercado Pago",
-   "Nu",
-   "Clip"
+   "De débito",
+   "De crédito",
+   "Departamental"
   ]
  },
  {
@@ -836,19 +836,19 @@
   ]
  },
  {
-  "p": "¿Qué es un «cuate»?",
+  "p": "¿Qué significa que algo esté «bien chafa»?",
   "o": [
-   "Un amigo",
-   "Un primo",
-   "Un jefe"
+   "Que es de mala calidad",
+   "Que está muy caro",
+   "Que está muy padre"
   ]
  },
  {
-  "p": "¿De qué ciudad es la torta ahogada?",
+  "p": "¿Qué queso se deshebra en tiras y es el clásico de las quesadillas?",
   "o": [
-   "Guadalajara",
-   "Monterrey",
-   "Puebla"
+   "Queso Oaxaca",
+   "Queso panela",
+   "Queso cotija"
   ]
  },
  {
@@ -876,11 +876,11 @@
   ]
  },
  {
-  "p": "¿Qué se usaba en la muñeca en los 2000, de silicón y de colores?",
+  "p": "¿Qué marca de tenis se puso de moda con su estampado de cuadros blancos y negros?",
   "o": [
-   "Pulseras de silicón",
-   "Relojes de plástico",
-   "Ligas para el pelo"
+   "Vans",
+   "Converse",
+   "Etnies"
   ]
  }
 ]

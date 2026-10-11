@@ -10,11 +10,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Cuántos tiempos tiene un partido de fútbol?",
+  "p": "¿Qué bebida para deportistas tiene un rayo en su logo?",
   "o": [
-   "2",
-   "3",
-   "4"
+   "Gatorade",
+   "Powerade",
+   "Electrolit"
   ]
  },
  {
@@ -44,11 +44,11 @@
   ]
  },
  {
-  "p": "¿Qué marca de refresco tiene osos polares en sus comerciales navideños?",
+  "p": "¿Qué cadena de pollo frito tiene la cara de un señor de barba blanca?",
   "o": [
-   "Coca-Cola",
-   "Pepsi",
-   "Sprite"
+   "KFC",
+   "Popeyes",
+   "Church's"
   ]
  },
  {
@@ -68,11 +68,11 @@
   ]
  },
  {
-  "p": "¿Quiénes cantan «Hakuna Matata» con Simba?",
+  "p": "¿Qué pingüino de «Madagascar» dice «Kowalski, análisis»?",
   "o": [
-   "Timón y Pumba",
-   "Rafiki y Zazú",
-   "Nala y Sarabi"
+   "Skipper",
+   "Rico",
+   "Cabo"
   ]
  },
  {

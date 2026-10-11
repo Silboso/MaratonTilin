@@ -1,11 +1,11 @@
 [
  {
   "deporte": true,
-  "p": "¿Qué vehículos se agregaron en Mario Kart Wii?",
+  "p": "¿Qué Mario Kart estrenó el ala delta y las partes bajo el agua?",
   "o": [
-   "Motos",
-   "Aviones",
-   "Lanchas"
+   "Mario Kart 7",
+   "Mario Kart 8",
+   "Mario Kart Wii"
   ]
  },
  {
@@ -52,35 +52,35 @@
   ]
  },
  {
-  "p": "¿Qué tirador de T1 ganó los Mundiales de LoL 2023 y 2024 junto a Faker?",
+  "p": "¿Qué objeto de LoL multiplica tu poder de habilidad total?",
   "o": [
-   "Gumayusi",
-   "Bang",
-   "Teddy"
+   "Sombrero de Rabadon",
+   "Bastón del Vacío",
+   "Bastón del Arcángel"
   ]
  },
  {
-  "p": "¿Qué equipo coreano ganó el Mundial de LoL 2022?",
+  "p": "¿Qué personajes de Xenoblade 2 llegaron como DLC a Smash Ultimate?",
   "o": [
-   "DRX",
-   "T1",
-   "Gen.G"
+   "Pyra y Mythra",
+   "Rex y Nia",
+   "Noah y Mio"
   ]
  },
  {
-  "p": "En Overwatch, ¿cuál es el nombre real de Mercy?",
+  "p": "En Wind Waker, ¿qué pirata resulta ser la princesa Zelda?",
   "o": [
-   "Angela Ziegler",
-   "Lena Oxton",
-   "Amélie Lacroix"
+   "Tetra",
+   "Midna",
+   "Impa"
   ]
  },
  {
-  "p": "¿En qué año salió el primer Overwatch?",
+  "p": "En Minecraft, ¿qué nombre le pones a una criatura para voltearla de cabeza?",
   "o": [
-   "2016",
-   "2014",
-   "2018"
+   "Dinnerbone",
+   "jeb_",
+   "Toast"
   ]
  },
  {
@@ -116,27 +116,27 @@
   ]
  },
  {
-  "p": "¿Qué Pokémon es el número 150 de la Pokédex?",
+  "p": "En Ocarina of Time, ¿quién le enseña a Link la «Nana de Zelda»?",
   "o": [
-   "Mewtwo",
-   "Mew",
-   "Dragonite"
+   "Impa",
+   "Saria",
+   "Malon"
   ]
  },
  {
-  "p": "¿En qué juego de Zelda se convierte Link en lobo?",
+  "p": "¿Qué criatura ciega de Minecraft vive en la Oscuridad Profunda?",
   "o": [
-   "Twilight Princess",
-   "Majora's Mask",
-   "Wind Waker"
+   "El Warden",
+   "El Wither",
+   "El Ravager"
   ]
  },
  {
-  "p": "¿En qué juego aparece Luigi por primera vez?",
+  "p": "¿Cómo se llama el villano del Emisario Subespacial de Smash Brawl?",
   "o": [
-   "Mario Bros. (1983)",
-   "Super Mario Bros.",
-   "Donkey Kong"
+   "Tabuu",
+   "Galeem",
+   "Dharkon"
   ]
  },
  {
@@ -180,19 +180,19 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el reino caído de Hollow Knight?",
+  "p": "En Breath of the Wild, ¿cuántos años estuvo dormido Link?",
   "o": [
-   "Hallownest",
-   "Pharloom",
-   "Lordran"
+   "100",
+   "50",
+   "1,000"
   ]
  },
  {
-  "p": "¿Cómo se llama la pizzería de Five Nights at Freddy's?",
+  "p": "En Pokémon Oro y Plata, ¿qué Pokémon shiny rojo te espera en el Lago de la Furia?",
   "o": [
-   "Freddy Fazbear's Pizza",
-   "Chuck E. Cheese",
-   "Fazbear Burgers"
+   "Gyarados",
+   "Magikarp",
+   "Dragonair"
   ]
  }
 ]

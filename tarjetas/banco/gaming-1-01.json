@@ -28,11 +28,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué saga de patinetas lleva el nombre de un skater famoso?",
+  "p": "¿Qué skater famoso tiene su propia saga de videojuegos desde 1999?",
   "o": [
-   "Tony Hawk's Pro Skater",
-   "Skate",
-   "SSX"
+   "Tony Hawk",
+   "Rodney Mullen",
+   "Ryan Sheckler"
   ]
  },
  {
@@ -73,11 +73,11 @@
  },
  {
   "deporte": true,
-  "p": "¿En qué juego compiten Mario y Sonic en pruebas olímpicas?",
+  "p": "¿Qué rival de Mario en los 90 compite con él en juegos olímpicos?",
   "o": [
-   "Mario & Sonic en los Juegos Olímpicos",
-   "Super Smash Bros.",
-   "Mario Party"
+   "Sonic",
+   "Crash",
+   "Mega Man"
   ]
  },
  {
@@ -109,11 +109,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué juego de PlayStation tenía a Crash Bandicoot en carreras de karts?",
+  "p": "¿Qué juego de karts de Crash salió en el primer PlayStation?",
   "o": [
    "Crash Team Racing",
    "Crash Bash",
-   "Crash Nitro Kart Racing"
+   "Crash Twinsanity"
   ]
  },
  {
@@ -136,29 +136,29 @@
  },
  {
   "deporte": true,
-  "p": "¿En qué juego de Nintendo juegas tenis con Mario y sus amigos?",
+  "p": "¿Qué piloto mexicano salió en todos los juegos oficiales de F1 de 2011 a 2024?",
   "o": [
-   "Mario Tennis",
-   "Mario Strikers",
-   "Mario Golf"
+   "Checo Pérez",
+   "Esteban Gutiérrez",
+   "Pato O'Ward"
   ]
  },
  {
   "deporte": true,
-  "p": "¿En qué juego de Nintendo juega Mario al golf?",
+  "p": "En Mario Kart, ¿qué caparazón persigue solito al corredor de enfrente?",
   "o": [
-   "Mario Golf",
-   "Mario Party",
-   "Mario Tennis"
+   "El rojo",
+   "El verde",
+   "El de picos"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Para qué consola era el volante blanco de Mario Kart Wii?",
+  "p": "En Mario Kart, ¿quién te rescata en su nube cuando te caes de la pista?",
   "o": [
-   "Wii",
-   "GameCube",
-   "Nintendo DS"
+   "Lakitu",
+   "Boo",
+   "Toad"
   ]
  },
  {
@@ -179,11 +179,11 @@
   ]
  },
  {
-  "p": "En League of Legends, ¿qué hay que destruir para ganar?",
+  "p": "En Clash of Clans, ¿qué tropa rubia con espada es la más básica?",
   "o": [
-   "El Nexo",
-   "El trono",
-   "El castillo"
+   "El bárbaro",
+   "El gigante",
+   "La arquera"
   ]
  },
  {
@@ -203,11 +203,11 @@
   ]
  },
  {
-  "p": "¿Qué campeón de LoL es un yordle explorador que pone hongos venenosos?",
+  "p": "En Minecraft, ¿qué mineral azul celeste buscan todos al minar?",
   "o": [
-   "Teemo",
-   "Tristana",
-   "Heimerdinger"
+   "El diamante",
+   "La esmeralda",
+   "El lapislázuli"
   ]
  },
  {
@@ -251,27 +251,27 @@
   ]
  },
  {
-  "p": "¿Cómo se les dice a los personajes jugables de Valorant?",
+  "p": "¿Qué Pokémon inicial de tipo Fuego es una lagartija naranja?",
   "o": [
-   "Agentes",
-   "Héroes",
-   "Campeones"
+   "Charmander",
+   "Cyndaquil",
+   "Torchic"
   ]
  },
  {
-  "p": "¿Qué Pokémon ha estado en todos los Super Smash Bros.?",
+  "p": "¿Qué Pokémon ha salido como peleador en todos los Super Smash Bros.?",
   "o": [
    "Pikachu",
-   "Jigglypuff",
-   "Lucario"
+   "Lucario",
+   "Charizard"
   ]
  },
  {
-  "p": "¿Para qué consola salió Super Smash Bros. Ultimate?",
+  "p": "En Among Us, ¿por dónde se mueven a escondidas los impostores?",
   "o": [
-   "Nintendo Switch",
-   "Wii U",
-   "GameCube"
+   "Por las ventilas",
+   "Por los túneles",
+   "Por los elevadores"
   ]
  },
  {
@@ -307,11 +307,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el hermano de Mario?",
+  "p": "En el Donkey Kong original, ¿qué le avienta el gorila a Mario?",
   "o": [
-   "Luigi",
-   "Wario",
-   "Toad"
+   "Barriles",
+   "Cocos",
+   "Rocas"
   ]
  },
  {
@@ -323,11 +323,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el villano principal de Zelda?",
+  "p": "En los juegos de Zelda, ¿con qué se marca la vida de Link?",
   "o": [
-   "Ganondorf",
-   "Vaati",
-   "Majora"
+   "Corazones",
+   "Estrellas",
+   "Una barra verde"
   ]
  },
  {
@@ -363,11 +363,11 @@
   ]
  },
  {
-  "p": "¿Qué animal es Crash?",
+  "p": "En los juegos de Crash Bandicoot, ¿qué rompes para juntar fruta y vidas?",
   "o": [
-   "Un bandicoot",
-   "Un zorro",
-   "Un mapache"
+   "Cajas",
+   "Barriles",
+   "Jarrones"
   ]
  },
  {
@@ -387,11 +387,11 @@
   ]
  },
  {
-  "p": "¿Qué personajes de Disney acompañan a Sora en Kingdom Hearts?",
+  "p": "¿En qué país pasa la historia de Ghost of Tsushima?",
   "o": [
-   "Donald y Goofy",
-   "Mickey y Minnie",
-   "Timón y Pumba"
+   "Japón",
+   "China",
+   "Corea"
   ]
  },
  {
@@ -443,11 +443,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el idioma que hablan los Sims?",
+  "p": "En Los Sims, ¿qué figura verde flota sobre la cabeza del Sim que controlas?",
   "o": [
-   "Simlish",
-   "Sindarin",
-   "Klingon"
+   "Un diamante",
+   "Una estrella",
+   "Una flecha"
   ]
  },
  {
@@ -459,19 +459,19 @@
   ]
  },
  {
-  "p": "¿Qué arma icónica usa Gordon Freeman en Half-Life?",
+  "p": "¿De qué color es la armadura del Jefe Maestro de Halo?",
   "o": [
-   "Una palanca",
-   "Una motosierra",
-   "Un martillo"
+   "Verde",
+   "Azul",
+   "Gris"
   ]
  },
  {
-  "p": "¿Qué es el protagonista de Hollow Knight?",
+  "p": "En Cuphead, ¿con quién apuestan su alma los protagonistas?",
   "o": [
-   "Un caballero insecto",
-   "Un esqueleto",
-   "Un robot"
+   "Con el Diablo",
+   "Con King Dice",
+   "Con la Muerte"
   ]
  },
  {
@@ -491,11 +491,11 @@
   ]
  },
  {
-  "p": "¿En qué juego unos frijolitos compiten en pistas de obstáculos?",
+  "p": "¿En qué juego un matrimonio a punto de divorciarse queda convertido en muñecos?",
   "o": [
-   "Fall Guys",
-   "Among Us",
-   "Stumble Guys"
+   "It Takes Two",
+   "Overcooked",
+   "A Way Out"
   ]
  },
  {
@@ -515,11 +515,11 @@
   ]
  },
  {
-  "p": "¿Qué personaje de Mortal Kombat grita «Get over here!»?",
+  "p": "En Mario Party, ¿qué tienes que juntar más que nadie para ganar?",
   "o": [
-   "Scorpion",
-   "Sub-Zero",
-   "Raiden"
+   "Estrellas",
+   "Llaves",
+   "Corazones"
   ]
  },
  {
@@ -531,11 +531,11 @@
   ]
  },
  {
-  "p": "En Fortnite, ¿en qué se lanzan los jugadores al empezar la partida?",
+  "p": "¿Qué battle royale es famoso por la frase «Winner winner chicken dinner»?",
   "o": [
-   "En el autobús de batalla",
-   "En un avión",
-   "En un helicóptero"
+   "PUBG",
+   "Fortnite",
+   "Apex Legends"
   ]
  },
  {
@@ -555,11 +555,11 @@
   ]
  },
  {
-  "p": "En Plants vs Zombies, ¿cómo se llama el vecino que te vende cosas?",
+  "p": "En Temple Run, ¿qué te persigue después de tomar el ídolo?",
   "o": [
-   "Dave el Loco",
-   "El Doctor Zomboss",
-   "El Jardinero Pepe"
+   "Unos monos demonio",
+   "Una serpiente gigante",
+   "Un jaguar"
   ]
  },
  {
@@ -571,11 +571,11 @@
   ]
  },
  {
-  "p": "¿En qué juego combinas dulces de tres en tres?",
+  "p": "En Pokémon GO, ¿qué tienes que hacer para que un huevo eclosione?",
   "o": [
-   "Candy Crush",
-   "Bejeweled",
-   "Tetris"
+   "Caminar",
+   "Dormir",
+   "Darle bayas"
   ]
  },
  {
@@ -603,11 +603,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el brujo protagonista de The Witcher?",
+  "p": "¿Qué grito de Skyrim se volvió meme por mandar a volar a todos?",
   "o": [
-   "Geralt de Rivia",
-   "Ciri",
-   "Jaskier"
+   "«Fus Ro Dah»",
+   "«Yol Toor Shul»",
+   "«Fo Krah Diin»"
   ]
  },
  {
@@ -627,11 +627,11 @@
   ]
  },
  {
-  "p": "¿Qué criatura azul en forma de gota es el emblema de Dragon Quest?",
+  "p": "¿Qué junta Spyro por montones en sus niveles?",
   "o": [
-   "El slime",
-   "El chocobo",
-   "El moogle"
+   "Gemas",
+   "Anillos",
+   "Monedas"
   ]
  },
  {
@@ -651,11 +651,11 @@
   ]
  },
  {
-  "p": "¿De qué empresa es Sonic?",
+  "p": "¿Qué consola de Sony salió en noviembre de 2020?",
   "o": [
-   "Sega",
-   "Nintendo",
-   "Sony"
+   "PlayStation 5",
+   "PlayStation 4 Pro",
+   "PS Vita"
   ]
  },
  {
@@ -667,11 +667,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el robot compañero de Ratchet?",
+  "p": "¿De qué color es el traje de Mega Man?",
   "o": [
-   "Clank",
-   "Daxter",
-   "Sparx"
+   "Azul",
+   "Rojo",
+   "Verde"
   ]
  },
  {
@@ -683,19 +683,19 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el villano de Mega Man?",
+  "p": "¿Qué familia caza vampiros en la saga Castlevania?",
   "o": [
-   "Dr. Wily",
-   "Dr. Eggman",
-   "Dr. Light"
+   "Los Belmont",
+   "Los Van Helsing",
+   "Los Redfield"
   ]
  },
  {
-  "p": "En Five Nights at Freddy's, ¿qué animatrónico es un zorro pirata?",
+  "p": "¿Qué cubre casi siempre al pueblo de Silent Hill?",
   "o": [
-   "Foxy",
-   "Bonnie",
-   "Chica"
+   "La niebla",
+   "La nieve",
+   "La lluvia"
   ]
  },
  {
@@ -707,11 +707,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el dinero de Roblox?",
+  "p": "¿Qué sonido hacía un personaje de Roblox al morir, que se volvió meme?",
   "o": [
-   "Robux",
-   "V-Bucks",
-   "Gemas"
+   "«Oof»",
+   "«Ouch»",
+   "«Bonk»"
   ]
  },
  {
@@ -779,11 +779,11 @@
   ]
  },
  {
-  "p": "¿Qué tipo de Pokémon es súper efectivo contra el tipo Fuego?",
+  "p": "¿Qué Pokémon es una masa morada que se transforma en cualquier otro?",
   "o": [
-   "Agua",
-   "Planta",
-   "Hielo"
+   "Ditto",
+   "Muk",
+   "Grimer"
   ]
  },
  {
@@ -835,11 +835,11 @@
   ]
  },
  {
-  "p": "¿Qué empresa creó a Mario?",
+  "p": "¿Cómo se llama la suscripción de Xbox con un catálogo de cientos de juegos?",
   "o": [
-   "Nintendo",
-   "Sega",
-   "Sony"
+   "Game Pass",
+   "Xbox Live Gold",
+   "Xbox Live Arcade"
   ]
  },
  {
@@ -851,19 +851,19 @@
   ]
  },
  {
-  "p": "¿En qué juego de baile copias los movimientos que salen en pantalla?",
+  "p": "¿En qué juego de arcade disparas a filas de marcianos que van bajando?",
   "o": [
-   "Just Dance",
-   "Guitar Hero",
-   "Rock Band"
+   "Space Invaders",
+   "Asteroids",
+   "Pong"
   ]
  },
  {
-  "p": "¿Qué saga de Rockstar es de vaqueros en el viejo oeste?",
+  "p": "¿Cuántos protagonistas jugables tiene la historia de GTA V?",
   "o": [
-   "Red Dead Redemption",
-   "GTA",
-   "Bully"
+   "3",
+   "2",
+   "5"
   ]
  }
 ]

@@ -8,27 +8,27 @@
   ]
  },
  {
-  "p": "¿Qué significan las siglas RFC?",
+  "p": "¿Qué significa la «CLABE» de tu cuenta bancaria?",
   "o": [
-   "Registro Federal de Contribuyentes",
-   "Registro Fiscal de Ciudadanos",
-   "Red Federal de Cobranza"
+   "Clave Bancaria Estandarizada",
+   "Cuenta Libre de Abono Bancario",
+   "Clave Local de Banca Electrónica"
   ]
  },
  {
-  "p": "¿Qué personaje de Star Wars grita «¡Es una trampa!»?",
+  "p": "En «Friends», ¿qué exnovia de Chandler es famosa por su «Oh… my… God!»?",
   "o": [
-   "El Almirante Ackbar",
-   "Lando Calrissian",
-   "C-3PO"
+   "Janice",
+   "Kathy",
+   "Aurora"
   ]
  },
  {
-  "p": "¿De qué anime viene la frase «Omae wa mou shindeiru» (ya estás muerto)?",
+  "p": "En «Futurama», ¿quién llega siempre diciendo «Good news, everyone!»?",
   "o": [
-   "El Puño de la Estrella del Norte",
-   "Dragon Ball Z",
-   "JoJo's Bizarre Adventure"
+   "El Profesor Farnsworth",
+   "El Dr. Zoidberg",
+   "Hermes Conrad"
   ]
  },
  {
@@ -41,11 +41,11 @@
   ]
  },
  {
-  "p": "¿Qué red social de fotos fue famosa en México por los «floggers»?",
+  "p": "Con cuenta gratis, ¿cuántas fotos al día dejaba subir Fotolog?",
   "o": [
-   "Metroflog",
-   "Hi5",
-   "MySpace"
+   "1",
+   "5",
+   "10"
   ]
  },
  {
@@ -65,11 +65,11 @@
   ]
  },
  {
-  "p": "¿Quién es la voz de Goku adulto en el doblaje latino?",
+  "p": "En «Jurassic Park», ¿quién advierte que la vida siempre se abre camino?",
   "o": [
-   "Mario Castañeda",
-   "René García",
-   "Ricardo Silva"
+   "Ian Malcolm",
+   "Alan Grant",
+   "John Hammond"
   ]
  }
 ]

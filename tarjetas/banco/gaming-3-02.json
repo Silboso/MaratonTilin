@@ -28,11 +28,11 @@
  },
  {
   "deporte": true,
-  "p": "En Mario Kart: Double Dash, ¿cuántos personajes van en cada kart?",
+  "p": "En Mario Kart: Double Dash!!, ¿cuál es el objeto especial de Mario y Luigi?",
   "o": [
-   "2",
-   "1",
-   "3"
+   "Bolas de fuego",
+   "Chomp cadenas",
+   "Bob-ombs"
   ]
  },
  {
@@ -100,11 +100,11 @@
  },
  {
   "deporte": true,
-  "p": "En el box de Wii Sports, ¿qué controles usas?",
+  "p": "En «Inazuma Eleven», ¿cómo se llama la escuela de Mark Evans?",
   "o": [
-   "Wiimote y Nunchuk",
-   "Solo el Wiimote",
-   "El control clásico"
+   "Instituto Raimon",
+   "Royal Academy",
+   "Instituto Zeus"
   ]
  },
  {
@@ -127,11 +127,11 @@
  },
  {
   "deporte": true,
-  "p": "En el Punch-Out!! clásico del NES, ¿quién es el último rival?",
+  "p": "En el Punch-Out!! de NES de 1990, ¿quién reemplazó a Mike Tyson como último rival?",
   "o": [
-   "Mike Tyson",
-   "Muhammad Ali",
-   "King Hippo"
+   "Mr. Dream",
+   "Super Macho Man",
+   "Mr. Sandman"
   ]
  },
  {
@@ -162,11 +162,11 @@
   ]
  },
  {
-  "p": "En LoL, ¿quién es la hermana de Garen?",
+  "p": "¿Qué campeón yordle de LoL se transforma en una bestia gigante al enojarse?",
   "o": [
-   "Lux",
-   "Quinn",
-   "Fiora"
+   "Gnar",
+   "Kled",
+   "Rumble"
   ]
  },
  {
@@ -266,75 +266,75 @@
   ]
  },
  {
-  "p": "¿Qué equipo ganó el Mundial de LoL en 2023 y en 2024?",
+  "p": "¿De qué región de Runaterra es Thresh?",
   "o": [
-   "T1",
-   "Gen.G",
-   "JD Gaming"
+   "Islas de la Sombra",
+   "Shurima",
+   "Bilgewater"
   ]
  },
  {
-  "p": "¿En qué año ganó Faker su primer Mundial de LoL?",
+  "p": "¿En qué Smash debutaron Sonic y Solid Snake?",
   "o": [
-   "2013",
-   "2011",
-   "2015"
+   "Brawl",
+   "Melee",
+   "Smash 4"
   ]
  },
  {
-  "p": "¿Qué equipo europeo de LoL es famoso por sus memes y por dominar la LEC?",
+  "p": "¿Qué campeón de LoL es el emperador ascendido de Shurima?",
   "o": [
-   "G2 Esports",
-   "Fnatic",
-   "Team Vitality"
+   "Azir",
+   "Xerath",
+   "Nasus"
   ]
  },
  {
-  "p": "¿Qué equipo chino ganó el Mundial de LoL en 2018?",
+  "p": "En Arcane, ¿qué científico fabrica el Brillo para Silco?",
   "o": [
-   "Invictus Gaming",
-   "EDward Gaming",
-   "FunPlus Phoenix"
+   "Singed",
+   "Viktor",
+   "Heimerdinger"
   ]
  },
  {
-  "p": "¿En qué ciudad se jugó la final del Mundial de LoL 2024?",
+  "p": "¿Cómo se llama la definitiva de Ashe en LoL?",
   "o": [
-   "Londres",
-   "Seúl",
-   "París"
+   "Flecha de Cristal Encantada",
+   "Disparo Místico",
+   "Lluvia de Balas"
   ]
  },
  {
-  "p": "En Overwatch, ¿cuál es el nombre real de Reaper?",
+  "p": "¿Qué Pokémon puede aprender casi cualquier movimiento copiándolo para siempre?",
   "o": [
-   "Gabriel Reyes",
-   "Jack Morrison",
-   "Akande Ogundimu"
+   "Smeargle",
+   "Ditto",
+   "Mew"
   ]
  },
  {
-  "p": "¿Qué equipo ganó la última temporada de la Overwatch League, en 2023?",
+  "p": "¿Cómo se llaman los siete jefes de Super Mario Bros. 3, como Larry y Ludwig?",
   "o": [
-   "Florida Mayhem",
-   "Dallas Fuel",
-   "Atlanta Reign"
+   "Los Koopalings",
+   "Los Koopa Troopa",
+   "Los Boom Boom"
   ]
  },
  {
-  "p": "¿Qué equipo ganó la Overwatch League en 2019 y 2020?",
+  "p": "En Clash Royale, ¿cuánto elixir cuesta la Princesa?",
   "o": [
-   "San Francisco Shock",
-   "Shanghai Dragons",
-   "Vancouver Titans"
+   "3",
+   "4",
+   "2"
   ]
  },
  {
-  "p": "En Overwatch, ¿cómo se llama la hija de Torbjörn?",
+  "p": "En Pokémon Oro y Plata, ¿quién es el campeón de la Liga?",
   "o": [
-   "Brigitte",
-   "Ingrid",
-   "Ashe"
+   "Lance",
+   "Red",
+   "Azul"
   ]
  },
  {
@@ -346,11 +346,11 @@
   ]
  },
  {
-  "p": "En Overwatch, ¿cuál es el nombre real de Tracer?",
+  "p": "¿Qué raza de Zelda está formada casi solo por mujeres?",
   "o": [
-   "Lena Oxton",
-   "Amélie Lacroix",
-   "Hana Song"
+   "Los Gerudo",
+   "Los Sheikah",
+   "Los Rito"
   ]
  },
  {
@@ -362,11 +362,11 @@
   ]
  },
  {
-  "p": "¿Quién creó Super Smash Bros.?",
+  "p": "¿Cuántos personajes jugables tenía el primer Super Smash Bros. de N64?",
   "o": [
-   "Masahiro Sakurai",
-   "Shigeru Miyamoto",
-   "Satoru Iwata"
+   "12",
+   "8",
+   "16"
   ]
  },
  {
@@ -410,19 +410,19 @@
   ]
  },
  {
-  "p": "¿Cómo se llama la mano gigante que es jefe en Smash?",
+  "p": "¿Quién es el jefe final del modo para un jugador del primer Smash (N64)?",
   "o": [
    "Master Hand",
-   "Crazy Hand",
+   "Giga Bowser",
    "Tabuu"
   ]
  },
  {
-  "p": "¿Cómo se llama el villano del modo Mundo de Luz de Smash Ultimate?",
+  "p": "¿Qué personaje es el único que escapa del ataque de Galeem al inicio de Ultimate?",
   "o": [
-   "Galeem",
-   "Tabuu",
-   "Dharkon"
+   "Kirby",
+   "Pikachu",
+   "Mario"
   ]
  },
  {
@@ -442,19 +442,19 @@
   ]
  },
  {
-  "p": "¿Qué carta legendaria de Clash Royale es un tronco que rueda?",
+  "p": "En Clash Royale, ¿cuánto elixir cuesta el Sabueso de Lava?",
   "o": [
-   "El Tronco",
-   "La Bola de Nieve",
-   "El Barril de Duendes"
+   "7",
+   "8",
+   "6"
   ]
  },
  {
-  "p": "En Clash Royale, ¿qué carta suelta un hechizo de furia al morir?",
+  "p": "En Clash Royale, ¿qué carta se divide en dos más pequeñas al morir?",
   "o": [
-   "El Leñador",
-   "El Príncipe",
-   "El Montapuercos"
+   "El Gólem",
+   "El Gigante",
+   "El P.E.K.K.A."
   ]
  },
  {
@@ -474,11 +474,11 @@
   ]
  },
  {
-  "p": "¿Qué Pokémon es el número 1 de la Pokédex?",
+  "p": "¿Qué tipo de Pokémon se agregó en Pokémon X y Y?",
   "o": [
-   "Bulbasaur",
-   "Pikachu",
-   "Arceus"
+   "Hada",
+   "Acero",
+   "Siniestro"
   ]
  },
  {
@@ -498,11 +498,11 @@
   ]
  },
  {
-  "p": "¿Cuántas medallas de gimnasio necesitas para entrar a la Liga Pokémon?",
+  "p": "En Pokémon Rojo y Azul, ¿qué Pokémon te regalan en Silph S.A.?",
   "o": [
-   "8",
-   "10",
-   "6"
+   "Lapras",
+   "Eevee",
+   "Snorlax"
   ]
  },
  {
@@ -562,11 +562,11 @@
   ]
  },
  {
-  "p": "En Zelda, ¿qué raza de seres de roca come piedras?",
+  "p": "En Minecraft, ¿qué pones en el portal para activarlo hacia el End?",
   "o": [
-   "Los Goron",
-   "Los Zora",
-   "Los Kokiri"
+   "Ojos de Ender",
+   "Perlas de Ender",
+   "Polvo de blaze"
   ]
  },
  {
@@ -594,27 +594,27 @@
   ]
  },
  {
-  "p": "En Zelda, ¿qué raza vive en el agua y parece pez?",
+  "p": "En Minecraft, ¿qué criatura suelta lágrimas que sirven para pociones de regeneración?",
   "o": [
-   "Los Zora",
-   "Los Rito",
-   "Los Gerudo"
+   "El ghast",
+   "El blaze",
+   "El piglin"
   ]
  },
  {
-  "p": "¿Cómo se llamaba Mario en su primer juego, Donkey Kong?",
+  "p": "¿Cómo se llama el villano de Super Mario Land, de Game Boy?",
   "o": [
-   "Jumpman",
-   "Mr. Video",
-   "Plumber"
+   "Tatanga",
+   "Wart",
+   "Smithy"
   ]
  },
  {
-  "p": "En los juegos de Mario, ¿qué hongo te da una vida extra?",
+  "p": "¿En qué juego debutó Yoshi?",
   "o": [
-   "El verde",
-   "El rojo",
-   "El morado"
+   "Super Mario World",
+   "Super Mario Bros. 3",
+   "Yoshi's Island"
   ]
  },
  {
@@ -626,11 +626,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el sombrero viviente de Super Mario Odyssey?",
+  "p": "En Majora's Mask, ¿quién trae puesta la máscara y hace que caiga la luna?",
   "o": [
-   "Cappy",
-   "Tiara",
-   "Bonneter"
+   "Skull Kid",
+   "Tingle",
+   "Kafei"
   ]
  },
  {
@@ -730,11 +730,11 @@
   ]
  },
  {
-  "p": "¿Quién creó Five Nights at Freddy's?",
+  "p": "En Mario Kart 8, ¿qué objeto puede destruir el caparazón azul antes de que te pegue?",
   "o": [
-   "Scott Cawthon",
-   "Toby Fox",
-   "Notch"
+   "La Superbocina",
+   "El Rayo",
+   "La Moneda"
   ]
  },
  {
@@ -754,11 +754,11 @@
   ]
  },
  {
-  "p": "¿De qué país es Blanka en Street Fighter?",
+  "p": "¿Qué peleador fue el primer DLC de Smash Ultimate, regalado por comprarlo pronto?",
   "o": [
-   "Brasil",
-   "México",
-   "India"
+   "La Planta Piraña",
+   "Joker",
+   "Héroe"
   ]
  },
  {
@@ -770,19 +770,19 @@
   ]
  },
  {
-  "p": "¿De qué país es el Tetris original?",
+  "p": "En Super Mario 64, ¿cómo entras a los niveles del castillo?",
   "o": [
-   "La Unión Soviética",
-   "Japón",
-   "Estados Unidos"
+   "Saltando a los cuadros",
+   "Por tuberías",
+   "Por puertas de colores"
   ]
  },
  {
-  "p": "¿Qué empresa creó Pac-Man?",
+  "p": "¿Cómo se llama la isla donde pasa Super Mario Sunshine?",
   "o": [
-   "Namco",
-   "Atari",
-   "Taito"
+   "Isla Delfino",
+   "Isla Yoshi",
+   "Isla Sarasa"
   ]
  },
  {
@@ -810,11 +810,11 @@
   ]
  },
  {
-  "p": "En Overwatch, ¿cuál es el nombre real de Sombra?",
+  "p": "En Arcane, ¿qué agente de la ley se vuelve pareja de Vi?",
   "o": [
-   "Olivia Colomar",
-   "Ana Amari",
-   "Valentina Reyes"
+   "Caitlyn",
+   "Mel",
+   "Sevika"
   ]
  },
  {

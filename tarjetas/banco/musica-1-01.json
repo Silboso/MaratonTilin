@@ -28,11 +28,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué canción de AC/DC suena en los estadios con el grito de «Thunder!»?",
+  "p": "¿Qué cantante se comprometió en 2025 con Travis Kelce, jugador de la NFL?",
   "o": [
-   "«Thunderstruck»",
-   "«Highway to Hell»",
-   "«Back in Black»"
+   "Taylor Swift",
+   "Selena Gomez",
+   "Dua Lipa"
   ]
  },
  {
@@ -55,11 +55,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué canción de Europe suena en los estadios: «It's the final…»?",
+  "p": "¿Qué canción se baila en los estadios formando letras con los brazos?",
   "o": [
-   "«The Final Countdown»",
-   "«Eye of the Tiger»",
-   "«We Are the Champions»"
+   "«Y.M.C.A.»",
+   "«Cotton Eye Joe»",
+   "«Saturday Night»"
   ]
  },
  {
@@ -91,11 +91,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué canción de «High School Musical» cantan en pleno juego de básquetbol?",
+  "p": "¿En qué país fue el Mundial de la canción «Waka Waka»?",
   "o": [
-   "«Get'cha Head in the Game»",
-   "«Breaking Free»",
-   "«We're All in This Together»"
+   "Sudáfrica",
+   "Brasil",
+   "Alemania"
   ]
  },
  {
@@ -109,29 +109,29 @@
  },
  {
   "deporte": true,
-  "p": "¿Cómo se llama el tema de Rocky que suena cuando sube las escaleras?",
+  "p": "¿Qué luchador de la WWE entraba con el sonido de vidrios rompiéndose?",
   "o": [
-   "«Gonna Fly Now»",
-   "«Eye of the Tiger»",
-   "«Burning Heart»"
+   "Stone Cold Steve Austin",
+   "The Rock",
+   "Triple H"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué canción canta la afición del Liverpool antes de cada partido?",
+  "p": "¿Qué futbolista fue pareja de Shakira por más de diez años?",
   "o": [
-   "«You'll Never Walk Alone»",
-   "«Hey Jude»",
-   "«Sweet Caroline»"
+   "Gerard Piqué",
+   "Sergio Ramos",
+   "Cristiano Ronaldo"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Quién canta «Wavin' Flag», himno del Mundial 2010?",
+  "p": "¿Qué instrumento de plástico sonó sin parar en las gradas del Mundial 2010?",
   "o": [
-   "K'naan",
-   "Akon",
-   "Pitbull"
+   "La vuvuzela",
+   "La matraca",
+   "El silbato"
   ]
  },
  {
@@ -152,11 +152,11 @@
   ]
  },
  {
-  "p": "¿A quién le dicen «el Rey del Pop»?",
+  "p": "¿Quién canta «What a Wonderful World»?",
   "o": [
-   "Michael Jackson",
-   "Elvis Presley",
-   "Prince"
+   "Louis Armstrong",
+   "Frank Sinatra",
+   "Ray Charles"
   ]
  },
  {
@@ -168,19 +168,19 @@
   ]
  },
  {
-  "p": "¿Quién canta «Baby» (2010)?",
+  "p": "¿Quién canta «Tik Tok» (2009)?",
   "o": [
-   "Justin Bieber",
-   "Justin Timberlake",
-   "Shawn Mendes"
+   "Kesha",
+   "Katy Perry",
+   "Miley Cyrus"
   ]
  },
  {
-  "p": "¿Quién canta «Toxic»?",
+  "p": "¿Quién canta «I Will Always Love You» en «El guardaespaldas»?",
   "o": [
-   "Britney Spears",
-   "Christina Aguilera",
-   "Avril Lavigne"
+   "Whitney Houston",
+   "Mariah Carey",
+   "Céline Dion"
   ]
  },
  {
@@ -256,11 +256,11 @@
   ]
  },
  {
-  "p": "¿Qué banda canta «Misery Business»?",
+  "p": "¿Qué grupo canta «La puerta negra»?",
   "o": [
-   "Paramore",
-   "Evanescence",
-   "Avril Lavigne"
+   "Los Tigres del Norte",
+   "Los Tucanes de Tijuana",
+   "Bronco"
   ]
  },
  {
@@ -400,11 +400,11 @@
   ]
  },
  {
-  "p": "¿Qué grupo canta «What Makes You Beautiful»?",
+  "p": "¿Quién canta «Call Me Maybe»?",
   "o": [
-   "One Direction",
-   "The Wanted",
-   "Jonas Brothers"
+   "Carly Rae Jepsen",
+   "Katy Perry",
+   "Selena Gomez"
   ]
  },
  {
@@ -416,11 +416,11 @@
   ]
  },
  {
-  "p": "¿Qué dúo canta «Stressed Out»?",
+  "p": "¿Qué banda canta «Hotel California»?",
   "o": [
-   "Twenty One Pilots",
-   "The Chainsmokers",
-   "MGMT"
+   "Eagles",
+   "The Doors",
+   "Fleetwood Mac"
   ]
  },
  {
@@ -504,19 +504,19 @@
   ]
  },
  {
-  "p": "¿Quién canta «Mi Gente»?",
+  "p": "¿Quién canta «Suavemente»?",
   "o": [
-   "J Balvin",
-   "Maluma",
-   "Ozuna"
+   "Elvis Crespo",
+   "Marc Anthony",
+   "Ricky Martin"
   ]
  },
  {
-  "p": "¿Quién canta «Bailando» con Gente de Zona?",
+  "p": "¿Quién canta «Ai se eu te pego»?",
   "o": [
-   "Enrique Iglesias",
-   "Ricky Martin",
-   "Marc Anthony"
+   "Michel Teló",
+   "Gusttavo Lima",
+   "Anitta"
   ]
  },
  {
@@ -568,11 +568,11 @@
   ]
  },
  {
-  "p": "¿Qué banda canta «Entre dos tierras»?",
+  "p": "¿Quiénes cantan «Macarena»?",
   "o": [
-   "Héroes del Silencio",
-   "Mecano",
-   "El Canto del Loco"
+   "Los del Río",
+   "Gipsy Kings",
+   "Café Quijano"
   ]
  },
  {
@@ -608,11 +608,11 @@
   ]
  },
  {
-  "p": "¿Qué grupo canta «Yo quisiera»?",
+  "p": "¿Qué grupo canta «Tu cárcel»?",
   "o": [
-   "Reik",
-   "Camila",
-   "Sin Bandera"
+   "Los Bukis",
+   "Los Temerarios",
+   "Bronco"
   ]
  },
  {
@@ -640,19 +640,19 @@
   ]
  },
  {
-  "p": "¿Quién canta «Tu falta de querer»?",
+  "p": "¿Quién canta «Payaso de rodeo»?",
   "o": [
-   "Mon Laferte",
-   "Carla Morrison",
-   "Natalia Lafourcade"
+   "Caballo Dorado",
+   "Los Tigres del Norte",
+   "Los Tucanes de Tijuana"
   ]
  },
  {
-  "p": "¿Quién canta «Querida» y «Hasta que te conocí»?",
+  "p": "¿Quién canta «Bidi Bidi Bom Bom»?",
   "o": [
-   "Juan Gabriel",
-   "José José",
-   "Marco Antonio Solís"
+   "Selena",
+   "Thalía",
+   "Gloria Trevi"
   ]
  },
  {
@@ -720,11 +720,11 @@
   ]
  },
  {
-  "p": "¿De qué anime es el opening «Butter-Fly»?",
+  "p": "¿De qué anime es el opening «We Are!»?",
   "o": [
-   "Digimon Adventure",
-   "Pokémon",
-   "Yu-Gi-Oh!"
+   "One Piece",
+   "Naruto",
+   "Bleach"
   ]
  },
  {
@@ -776,11 +776,11 @@
   ]
  },
  {
-  "p": "¿De qué videojuego es la canción «Sweden» de C418?",
+  "p": "¿De qué videojuego es la música de «Green Hill Zone»?",
   "o": [
-   "Minecraft",
-   "Terraria",
-   "Stardew Valley"
+   "Sonic the Hedgehog",
+   "Super Mario Bros.",
+   "Mega Man"
   ]
  },
  {

@@ -52,11 +52,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el brazo robot torpe del taller de Tony Stark?",
+  "p": "¿Qué robot le entrega a Tony el reactor viejo al final de «Iron Man» (2008)?",
   "o": [
    "Dum-E",
-   "Jarvis",
-   "Friday"
+   "J.A.R.V.I.S.",
+   "F.R.I.D.A.Y."
   ]
  },
  {
@@ -84,19 +84,19 @@
   ]
  },
  {
-  "p": "¿De quién resulta ser nieta Rey en la última trilogía de Star Wars?",
+  "p": "¿En qué planeta encuentra Rey a Luke Skywalker escondido?",
   "o": [
-   "De Palpatine",
-   "De Obi-Wan",
-   "De Luke"
+   "Ahch-To",
+   "Jakku",
+   "Exegol"
   ]
  },
  {
-  "p": "¿En qué planeta pantanoso vive Yoda escondido?",
+  "p": "¿Qué droide imperial reprogramado acompaña a Cassian Andor en «Rogue One»?",
   "o": [
-   "Dagobah",
-   "Endor",
-   "Mustafar"
+   "K-2SO",
+   "IG-88",
+   "Chopper"
   ]
  },
  {
@@ -124,19 +124,19 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el elfo doméstico de la familia Black?",
+  "p": "¿Cuál era el apellido de soltera de la mamá de Harry Potter?",
   "o": [
-   "Kreacher",
-   "Dobby",
-   "Winky"
+   "Evans",
+   "Prince",
+   "Black"
   ]
  },
  {
-  "p": "¿Cómo se llama el caballo de Gandalf?",
+  "p": "En Magic: The Gathering, ¿de qué color es el maná que dan los pantanos?",
   "o": [
-   "Sombragrís",
-   "Brego",
-   "Bill"
+   "Negro",
+   "Verde",
+   "Rojo"
   ]
  },
  {
@@ -148,19 +148,19 @@
   ]
  },
  {
-  "p": "¿Qué lenguaje de programación tiene una serpiente de logo?",
+  "p": "¿Qué IA de imágenes, con un velero de logo, empezó funcionando en Discord?",
   "o": [
-   "Python",
-   "Java",
-   "Ruby"
+   "Midjourney",
+   "Stable Diffusion",
+   "DALL·E"
   ]
  },
  {
-  "p": "¿De qué está hecho el código binario?",
+  "p": "En el anime de «Yu-Gi-Oh!», ¿quién creó el juego de Duelo de Monstruos?",
   "o": [
-   "De ceros y unos",
-   "De letras",
-   "De colores"
+   "Maximillion Pegasus",
+   "Seto Kaiba",
+   "Ishizu Ishtar"
   ]
  },
  {

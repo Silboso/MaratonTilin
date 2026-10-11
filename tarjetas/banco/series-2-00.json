@@ -1,18 +1,18 @@
 [
  {
-  "p": "En «Zack y Cody: Gemelos en acción», ¿en qué hotel viven?",
+  "p": "En «Phineas y Ferb», ¿cuántos días de vacaciones de verano hay?",
   "o": [
-   "El Tipton",
-   "El Plaza",
-   "El Transylvania"
+   "104",
+   "100",
+   "120"
   ]
  },
  {
-  "p": "¿Cómo se llama el perro robot de Jimmy Neutrón?",
+  "p": "En «Gravity Falls», ¿cómo se llama la tienda del Tío Stan?",
   "o": [
-   "Goddard",
-   "K-9",
-   "Rufus"
+   "La Cabaña del Misterio",
+   "El Museo de lo Raro",
+   "La Casa Embrujada"
   ]
  },
  {
@@ -32,11 +32,11 @@
   ]
  },
  {
-  "p": "En «Breaking Bad», ¿qué alias usa Walter White?",
+  "p": "En «Un show más», ¿quién es el jefe de Mordecai y Rigby?",
   "o": [
-   "Heisenberg",
-   "Pinkman",
-   "Saul"
+   "Benson",
+   "Skips",
+   "Papaleta"
   ]
  },
  {
@@ -73,11 +73,11 @@
   ]
  },
  {
-  "p": "En «Dr. House», ¿qué frase repite House sobre los pacientes?",
+  "p": "En «How I Met Your Mother», ¿a qué se dedica Ted Mosby?",
   "o": [
-   "«Todos mienten»",
-   "«Nadie se cura»",
-   "«Siempre es lupus»"
+   "Es arquitecto",
+   "Es abogado",
+   "Es periodista"
   ]
  },
  {

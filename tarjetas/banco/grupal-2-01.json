@@ -19,38 +19,38 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué luchador de máscara azul era el gran rival de El Santo?",
+  "p": "En la lucha libre, ¿qué apuesta un luchador sin máscara en una lucha de apuestas?",
   "o": [
-   "Blue Demon",
-   "Mil Máscaras",
-   "Huracán Ramírez"
+   "La cabellera",
+   "El cinturón",
+   "La bolsa"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué boxeador mexicano es conocido como «el César del Boxeo»?",
+  "p": "¿De qué organización de box es el famoso cinturón verde?",
   "o": [
-   "Julio César Chávez",
-   "Érik Morales",
-   "Marco Antonio Barrera"
+   "El CMB",
+   "La AMB",
+   "La FIB"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué futbolista mexicano brilló en el Real Madrid con sus chilenas?",
+  "p": "¿Qué técnico argentino dirigió a México en el Mundial de Qatar 2022?",
   "o": [
-   "Hugo Sánchez",
-   "Cuauhtémoc Blanco",
-   "Luis García"
+   "Gerardo «Tata» Martino",
+   "Ricardo La Volpe",
+   "Marcelo Bielsa"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué portero mexicano usaba uniformes de colores y a veces jugaba de delantero?",
+  "p": "¿En qué equipo de la NBA ha jugado toda su carrera Stephen Curry?",
   "o": [
-   "Jorge Campos",
-   "Oswaldo Sánchez",
-   "Óscar Pérez"
+   "Golden State Warriors",
+   "Los Angeles Lakers",
+   "Boston Celtics"
   ]
  },
  {
@@ -73,11 +73,11 @@
  },
  {
   "deporte": true,
-  "p": "¿En qué año fue México sede de los Juegos Olímpicos?",
+  "p": "¿Qué número usó Michael Jordan casi toda su carrera con los Bulls?",
   "o": [
-   "1968",
-   "1970",
-   "1986"
+   "23",
+   "24",
+   "33"
   ]
  },
  {
@@ -118,11 +118,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué pitcher mexicano provocó la «Fernandomanía» en los Dodgers?",
+  "p": "¿Qué basquetbolista gritas al lanzar una bola de papel al bote de basura?",
   "o": [
-   "Fernando Valenzuela",
-   "Julio Urías",
-   "Teodoro Higuera"
+   "¡Kobe!",
+   "¡Jordan!",
+   "¡LeBron!"
   ]
  },
  {
@@ -136,29 +136,29 @@
  },
  {
   "deporte": true,
-  "p": "¿Cómo se llama el gran juego final de la NFL que se juega en febrero?",
+  "p": "¿Con qué equipo ganó Tom Brady su último Super Bowl?",
   "o": [
-   "El Super Bowl",
-   "La Serie Mundial",
-   "El Pro Bowl"
+   "Bucaneros de Tampa Bay",
+   "Patriotas de Nueva Inglaterra",
+   "Jefes de Kansas City"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué arte marcial japonés significa «el camino suave»?",
+  "p": "En la NFL, ¿cuántos puntos vale un gol de campo?",
   "o": [
-   "Judo",
-   "Karate",
-   "Aikido"
+   "3",
+   "2",
+   "6"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué jugador anotó «la Mano de Dios» en el Mundial México 86?",
+  "p": "¿Qué selección le metió 7 goles a Brasil en su propio Mundial de 2014?",
   "o": [
-   "Diego Maradona",
-   "Pelé",
-   "Gary Lineker"
+   "Alemania",
+   "Holanda",
+   "Argentina"
   ]
  },
  {
@@ -218,11 +218,11 @@
   ]
  },
  {
-  "p": "¿Qué chocolate es conocido como «el rey de los chocolates»?",
+  "p": "¿Qué chocolate en barrita tiene malvavisco y gomita de fresa adentro?",
   "o": [
-   "Carlos V",
-   "Snickers",
-   "Milky Way"
+   "Bubulubu",
+   "Kranky",
+   "Carlos V"
   ]
  },
  {
@@ -234,11 +234,11 @@
   ]
  },
  {
-  "p": "¿Qué refresco mexicano es de manzana?",
+  "p": "¿Qué agua mineral de Monterrey se volvió famosa en Estados Unidos?",
   "o": [
-   "Sidral Mundet",
-   "Jarritos",
-   "Peñafiel"
+   "Topo Chico",
+   "Peñafiel",
+   "Tehuacán"
   ]
  },
  {
@@ -314,11 +314,11 @@
   ]
  },
  {
-  "p": "¿Qué es una «calaverita literaria»?",
+  "p": "En las posadas, ¿cómo se le dice a la bolsita de dulces que te regalan?",
   "o": [
-   "Un verso burlón sobre la muerte de alguien",
-   "Un dulce de azúcar",
-   "Un disfraz de catrina"
+   "El aguinaldo",
+   "La calaverita",
+   "La colecta"
   ]
  },
  {
@@ -362,19 +362,19 @@
   ]
  },
  {
-  "p": "Completa el dicho: «A caballo regalado…»",
+  "p": "Completa el dicho: «Perro que ladra…»",
   "o": [
-   "…no se le ve el colmillo",
-   "…no se le pone silla",
-   "…se le da de comer"
+   "…no muerde",
+   "…no come",
+   "…no duerme"
   ]
  },
  {
-  "p": "Completa el dicho: «El que con lobos anda…»",
+  "p": "Completa el dicho: «En casa del herrero…»",
   "o": [
-   "…a aullar se enseña",
-   "…termina mordido",
-   "…nunca anda solo"
+   "…cuchillo de palo",
+   "…martillo de oro",
+   "…fuego sin leña"
   ]
  },
  {
@@ -418,19 +418,19 @@
   ]
  },
  {
-  "p": "¿Quién dijo «Vine, vi, vencí»?",
+  "p": "¿De qué videojuego es la frase «Do a barrel roll!»?",
   "o": [
-   "Julio César",
-   "Napoleón",
-   "Alejandro Magno"
+   "Star Fox",
+   "F-Zero",
+   "Kid Icarus"
   ]
  },
  {
-  "p": "¿Qué filósofo dijo «Pienso, luego existo»?",
+  "p": "En «Toy Story», ¿qué juguete dice «¡Hay una serpiente en mi bota!»?",
   "o": [
-   "Descartes",
-   "Sócrates",
-   "Platón"
+   "Woody",
+   "Jessie",
+   "Buzz Lightyear"
   ]
  },
  {
@@ -498,11 +498,11 @@
   ]
  },
  {
-  "p": "¿Qué significan las siglas SAT?",
+  "p": "¿Qué número de 11 dígitos te asigna el IMSS?",
   "o": [
-   "Servicio de Administración Tributaria",
-   "Sistema de Atención al Trabajador",
-   "Secretaría de Administración y Tesorería"
+   "El NSS",
+   "El RFC",
+   "La CURP"
   ]
  },
  {
@@ -554,11 +554,11 @@
   ]
  },
  {
-  "p": "¿Cada cuánto llega normalmente el recibo de luz de CFE a las casas?",
+  "p": "¿Cómo se llama la cuota mensual que pagas en un edificio por las áreas comunes?",
   "o": [
-   "Cada dos meses",
-   "Cada mes",
-   "Cada tres meses"
+   "Mantenimiento",
+   "Predial",
+   "Tenencia"
   ]
  },
  {
@@ -594,11 +594,11 @@
   ]
  },
  {
-  "p": "¿Qué te quitas al entrar a una casa en Japón?",
+  "p": "¿Qué se hace en Japón para saludar con respeto?",
   "o": [
-   "Los zapatos",
-   "El sombrero",
-   "Los lentes"
+   "Una reverencia",
+   "Un beso en la mejilla",
+   "Chocar los puños"
   ]
  },
  {
@@ -642,27 +642,27 @@
   ]
  },
  {
-  "p": "¿Qué carritos de metal de Mattel coleccionaban todos?",
+  "p": "¿Qué carritos de metal de Mattel coleccionaban todos de niños?",
   "o": [
    "Hot Wheels",
-   "Matchbox",
-   "Tamiya"
+   "Tamiya",
+   "Majorette"
   ]
  },
  {
-  "p": "¿Qué muñeca diminuta venía con su casita de bolsillo?",
+  "p": "¿Qué maquinita china prometía «9999 juegos en 1» y casi todos eran Tetris?",
   "o": [
-   "Polly Pocket",
-   "Barbie",
-   "Bratz"
+   "Brick Game",
+   "Game Boy",
+   "Tamagotchi"
   ]
  },
  {
-  "p": "¿Qué esferas se abrían y se convertían en monstruos?",
+  "p": "¿Qué chocolate traía un juguete para armar dentro de una cápsula amarilla?",
   "o": [
-   "Bakugan",
-   "Beyblade",
-   "Pokébolas"
+   "Kinder Sorpresa",
+   "Ferrero Rocher",
+   "Huevo de Pascua"
   ]
  },
  {
@@ -730,11 +730,11 @@
   ]
  },
  {
-  "p": "¿Qué se ponía en el cuaderno para que no se maltratara?",
+  "p": "Además de «Español Actividades», ¿qué otro libro de Español daba la SEP en primaria?",
   "o": [
-   "Forro de plástico",
-   "Papel aluminio",
-   "Cinta canela"
+   "Español Lecturas",
+   "Español Ejercicios",
+   "Español Ortografía"
   ]
  },
  {
@@ -858,11 +858,11 @@
   ]
  },
  {
-  "p": "¿Qué antojito es una masa ovalada rellena de frijol o requesón?",
+  "p": "¿Qué carne de borrego se cocina en un hoyo envuelta en pencas de maguey?",
   "o": [
-   "Tlacoyo",
-   "Sope",
-   "Gordita"
+   "Barbacoa",
+   "Birria",
+   "Cochinita"
   ]
  },
  {
@@ -874,11 +874,11 @@
   ]
  },
  {
-  "p": "¿En qué programa infantil de Canal 11 salía Bizbirije?",
+  "p": "¿Qué actriz protagonizó la telenovela «Rubí» de 2004?",
   "o": [
-   "Once Niños",
-   "Plaza Sésamo",
-   "Chiquilladas"
+   "Bárbara Mori",
+   "Gabriela Spanic",
+   "Angelique Boyer"
   ]
  }
 ]

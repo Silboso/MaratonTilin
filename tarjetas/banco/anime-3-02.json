@@ -1,119 +1,119 @@
 [
  {
   "deporte": true,
-  "p": "En «Supercampeones», ¿qué jugador no podía jugar mucho por un problema del corazón?",
+  "p": "En «Supercampeones», ¿a qué se dedica el papá de Tom Misaki?",
   "o": [
-   "Julian Ross",
-   "Tom Misaki",
-   "Benji Price"
+   "Es pintor",
+   "Es capitán de barco",
+   "Es entrenador de fútbol"
   ]
  },
  {
   "deporte": true,
-  "p": "Al final de «Supercampeones», ¿a qué país se va Oliver a jugar?",
+  "p": "En «Hajime no Ippo», ¿contra quién es el primer sparring de Ippo en el gimnasio?",
   "o": [
-   "Brasil",
-   "Italia",
-   "Alemania"
+   "Ichiro Miyata",
+   "Masaru Aoki",
+   "Tatsuya Kimura"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Hajime no Ippo», ¿qué combo de Ippo mueve la cabeza en forma de ocho?",
+  "p": "En «Hajime no Ippo», ¿de qué país es Ricardo Martínez, el campeón mundial pluma?",
   "o": [
-   "Dempsey Roll",
-   "Gazelle Punch",
-   "Liver Blow"
+   "México",
+   "Venezuela",
+   "Tailandia"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Hajime no Ippo», ¿qué compañero de gimnasio de Ippo llega a campeón mundial?",
+  "p": "En «Rocky», ¿cómo se llama el viejo entrenador de Rocky?",
   "o": [
-   "Mamoru Takamura",
-   "Masahiko Kimura",
-   "Masaru Aoki"
+   "Mickey",
+   "Duke",
+   "Paulie"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Haikyuu!!», ¿a qué jugador admiraba Hinata de niño?",
+  "p": "En «Supercampeones», ¿quién es el goleador estrella de Alemania?",
   "o": [
-   "Al Pequeño Gigante",
-   "Al Rey de la Cancha",
-   "Al Gran Rey"
+   "Karl Heinz Schneider",
+   "Franz Schester",
+   "Hermann Kaltz"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Kuroko no Basket», ¿quién es la «luz» de Kuroko en Seirin?",
+  "p": "En «Hajime no Ippo», ¿cuál es el golpe especial de Masaru Aoki?",
   "o": [
-   "Taiga Kagami",
-   "Daiki Aomine",
-   "Ryota Kise"
+   "Frog Punch",
+   "Dragon Fish Blow",
+   "Smash"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Blue Lock», ¿quién creó el proyecto Blue Lock?",
+  "p": "En «Dragon Ball Super», ¿quién se luce en el partido de béisbol contra el equipo de Champa?",
   "o": [
-   "Jinpachi Ego",
-   "Anri Teieri",
-   "Noel Noa"
+   "Yamcha",
+   "Krilin",
+   "Gohan"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Dragon Ball», ¿quién gana el 21° Torneo de Artes Marciales?",
+  "p": "En «Space Jam» (1996), ¿a qué jugador de la NBA le roban su talento los aliens?",
   "o": [
-   "Jackie Chun",
-   "Goku",
-   "Krilin"
+   "Charles Barkley",
+   "Shaquille O'Neal",
+   "Dennis Rodman"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Initial D», ¿en qué montaña corre Takumi?",
+  "p": "En «Hajime no Ippo», ¿a quién vence Ippo en la final del Rookie King de Japón Este?",
   "o": [
-   "Monte Akina",
-   "Monte Akagi",
-   "Monte Fuji"
+   "Ryo Mashiba",
+   "Takeshi Sendo",
+   "Ichiro Miyata"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Yuri!!! on Ice», ¿cómo se llama el patinador ruso que entrena a Yuri?",
+  "p": "En «Supercampeones», ¿quién es famoso por detener tiros con la cara?",
   "o": [
-   "Victor Nikiforov",
-   "Yuri Plisetsky",
-   "Christophe Giacometti"
+   "Bruce Harper",
+   "Ed Warner",
+   "Tom Misaki"
   ]
  },
  {
   "deporte": true,
-  "p": "En la final de «Megalo Box», ¿qué hace especial a Joe?",
+  "p": "En «Creed» (2015), ¿contra qué campeón británico pelea Adonis al final?",
   "o": [
-   "Pelea sin exoesqueleto",
-   "Pelea con los ojos vendados",
-   "Pelea con una sola mano"
+   "Ricky Conlan",
+   "Viktor Drago",
+   "Damian Anderson"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Cómo se llama la protagonista de la primera temporada de «Uma Musume»?",
+  "p": "En «Hajime no Ippo», ¿qué campeón le gana a Ippo en su primera pelea por el título de Japón?",
   "o": [
-   "Special Week",
-   "Silence Suzuka",
-   "Tokai Teio"
+   "Eiji Date",
+   "Takeshi Sendo",
+   "Ryo Mashiba"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Rocky», ¿qué escalinata sube Rocky al entrenar?",
+  "p": "En «Rocky» (1976), ¿cómo termina la pelea de Rocky contra Apollo?",
   "o": [
-   "La del Museo de Arte de Filadelfia",
-   "La del Capitolio",
-   "La del Lincoln Memorial"
+   "Gana Apollo por decisión",
+   "Gana Rocky por nocaut",
+   "Termina en empate"
   ]
  },
  {
@@ -127,20 +127,20 @@
  },
  {
   "deporte": true,
-  "p": "En «Cars», ¿qué número lleva El Rey, el campeón veterano?",
+  "p": "En «Cars», ¿qué trofeo disputan Rayo, El Rey y Chick Hicks?",
   "o": [
-   "43",
-   "86",
-   "95"
+   "La Copa Pistón",
+   "La Copa Dinoco",
+   "La Copa Turbo"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Karate Kid» (1984), ¿con qué técnica gana Daniel el torneo?",
+  "p": "En «Karate Kid» (2010), ¿cómo se llama el maestro que interpreta Jackie Chan?",
   "o": [
-   "La patada de la grulla",
-   "El puño del dragón",
-   "La patada giratoria"
+   "El señor Han",
+   "El maestro Li",
+   "El señor Wong"
   ]
  },
  {
@@ -232,11 +232,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el hijo de Naruto?",
+  "p": "En «Naruto», ¿qué Hokage era el abuelo de Tsunade?",
   "o": [
-   "Boruto",
-   "Kawaki",
-   "Mitsuki"
+   "El Primero",
+   "El Segundo",
+   "El Tercero"
   ]
  },
  {
@@ -248,11 +248,11 @@
   ]
  },
  {
-  "p": "En «Naruto Shippuden», ¿quién estaba detrás de la máscara de Tobi?",
+  "p": "En «Naruto Shippuden», ¿cuál es el verdadero nombre de Pain?",
   "o": [
-   "Obito Uchiha",
-   "Madara Uchiha",
-   "Shisui Uchiha"
+   "Nagato",
+   "Zetsu",
+   "Sasori"
   ]
  },
  {
@@ -272,11 +272,11 @@
   ]
  },
  {
-  "p": "¿Qué Pokémon fue creado en un laboratorio en la primera película de Pokémon?",
+  "p": "En «Pokémon», ¿contra quién pierde Ash en la Liga Añil?",
   "o": [
-   "Mewtwo",
-   "Mew",
-   "Deoxys"
+   "Ritchie",
+   "Gary",
+   "Paul"
   ]
  },
  {
@@ -408,11 +408,11 @@
   ]
  },
  {
-  "p": "En «Jujutsu Kaisen», ¿con qué pelea Nobara Kugisaki?",
+  "p": "En «Jujutsu Kaisen», ¿qué usa Nobara Kugisaki para pelear?",
   "o": [
-   "Martillo y clavos",
+   "Un martillo y clavos",
    "Una katana",
-   "Muñecos de paja malditos"
+   "Un bastón de tres secciones"
   ]
  },
  {
@@ -440,11 +440,11 @@
   ]
  },
  {
-  "p": "En «Demon Slayer», ¿qué lleva Inosuke en la cabeza?",
+  "p": "En «Demon Slayer», ¿qué respiración usa Inosuke?",
   "o": [
-   "Una cabeza de jabalí",
-   "Una máscara de zorro",
-   "Una máscara de tengu"
+   "La de la Bestia",
+   "La del Trueno",
+   "La de la Niebla"
   ]
  },
  {
@@ -504,91 +504,91 @@
   ]
  },
  {
-  "p": "En «Evangelion», ¿cómo se llama el papá de Shinji?",
+  "p": "En «Dragon Ball Super», ¿de qué universo son Caulifla y Kale?",
   "o": [
-   "Gendo Ikari",
-   "Ryoji Kaji",
-   "Kozo Fuyutsuki"
+   "Del Universo 6",
+   "Del Universo 11",
+   "Del Universo 7"
   ]
  },
  {
-  "p": "En «Attack on Titan», ¿qué titán hereda Eren?",
+  "p": "En «Digimon Adventure», ¿en qué digievoluciona Tentomon a nivel campeón?",
   "o": [
-   "El Titán de Ataque",
-   "El Titán Colosal",
-   "El Titán Acorazado"
+   "Kabuterimon",
+   "Ikkakumon",
+   "Togemon"
   ]
  },
  {
-  "p": "En «Attack on Titan», ¿quién es «el soldado más fuerte de la humanidad»?",
+  "p": "En DBZ, ¿cómo se llama el grillo que Goku debe golpear en el planeta de Kaiō?",
   "o": [
-   "Levi Ackerman",
-   "Erwin Smith",
-   "Mikasa Ackerman"
+   "Gregory",
+   "Bubbles",
+   "Popo"
   ]
  },
  {
-  "p": "En «Fullmetal Alchemist», ¿cuál es la ley básica de la alquimia?",
+  "p": "En «Jujutsu Kaisen», ¿qué puede hacer Mahito con solo tocar a alguien?",
   "o": [
-   "El intercambio equivalente",
-   "La piedra filosofal",
-   "La transmutación humana"
+   "Cambiar la forma de su alma",
+   "Robarle su energía maldita",
+   "Leerle la mente"
   ]
  },
  {
-  "p": "En «Fullmetal Alchemist», ¿qué homúnculo puede cambiar de forma?",
+  "p": "En «Madagascar», ¿cómo se llama el lémur consejero del rey Julien?",
   "o": [
-   "Envy",
-   "Lust",
-   "Gluttony"
+   "Maurice",
+   "Mort",
+   "Marlon"
   ]
  },
  {
-  "p": "En «Los Caballeros del Zodiaco», ¿cuántos Caballeros Dorados hay?",
+  "p": "En «Los Juegos del Hambre», ¿quién es el mentor de Katniss y Peeta?",
   "o": [
-   "12",
-   "7",
-   "88"
+   "Haymitch",
+   "Cinna",
+   "Effie"
   ]
  },
  {
-  "p": "En «Steins;Gate», ¿qué organización persigue a Okabe?",
+  "p": "En «Code Geass», ¿qué orden le da Lelouch por accidente a Euphemia?",
   "o": [
-   "SERN",
-   "NERV",
-   "SEELE"
+   "Matar a los japoneses",
+   "Rendirse ante Zero",
+   "Olvidar quién es él"
   ]
  },
  {
-  "p": "En «Mirai Nikki», ¿cuántos portadores de diario hay?",
+  "p": "En «Death Note», ¿cómo se llama el papá de Light?",
   "o": [
-   "12",
-   "7",
-   "10"
+   "Soichiro",
+   "Shuichi",
+   "Touta"
   ]
  },
  {
-  "p": "En «To Aru Majutsu no Index», ¿quién es el esper número 1 de Ciudad Academia?",
+  "p": "En «Demon Slayer», ¿qué demonio de la montaña Natagumo quiere formar una «familia»?",
   "o": [
-   "Accelerator",
-   "Misaka Mikoto",
-   "Kakine Teitoku"
+   "Rui",
+   "Enmu",
+   "Kyogai"
   ]
  },
  {
-  "p": "En «Tokyo Ghoul», ¿cómo se llama el órgano con el que pelean los ghouls?",
+  "p": "En «Naruto», ¿qué hermano de Gaara pelea con marionetas?",
   "o": [
-   "Kagune",
-   "Quinque",
-   "Kakugan"
+   "Kankuro",
+   "Sasori",
+   "Temari"
   ]
  },
  {
-  "p": "En «JoJo's: Stardust Crusaders», ¿cómo se llama el Stand de Jotaro?",
+  "p": "En «Pokémon», ¿qué líder de gimnasio vence a Pikachu con su Raichu?",
   "o": [
-   "Star Platinum",
-   "The World",
-   "Crazy Diamond"
+   "Teniente Surge",
+   "Erika",
+   "Sabrina"
   ]
  },
  {
@@ -648,11 +648,11 @@
   ]
  },
  {
-  "p": "En «Monsters, Inc.», ¿cómo se llama el villano camaleón?",
+  "p": "En «Intensa-Mente», ¿de qué estado se muda Riley a San Francisco?",
   "o": [
-   "Randall",
-   "Waternoose",
-   "Fungus"
+   "Minnesota",
+   "Wisconsin",
+   "Michigan"
   ]
  },
  {
@@ -704,19 +704,19 @@
   ]
  },
  {
-  "p": "En «Re:Zero», ¿cómo se llama la habilidad de Subaru de volver al morir?",
+  "p": "En DBZ, ¿a cuántas veces la gravedad de la Tierra entrena Goku en la nave rumbo a Namek?",
   "o": [
-   "Return by Death",
-   "Time Leap",
-   "Second Chance"
+   "100 veces",
+   "10 veces",
+   "500 veces"
   ]
  },
  {
-  "p": "En «Re:Zero», ¿cuál de las gemelas sirvientas tiene el pelo azul?",
+  "p": "En «Digimon 02», ¿cuál es el Digimon compañero de Davis?",
   "o": [
-   "Rem",
-   "Ram",
-   "Emilia"
+   "Veemon",
+   "Hawkmon",
+   "Armadillomon"
   ]
  },
  {

@@ -1,26 +1,26 @@
 [
  {
-  "p": "¿Qué equipo ganó la primera temporada de la Overwatch League (2018)?",
+  "p": "¿Qué canción de Ocarina of Time te enseña el hombre del molino?",
   "o": [
-   "London Spitfire",
-   "Philadelphia Fusion",
-   "San Francisco Shock"
+   "Canción de la Tormenta",
+   "Canción del Sol",
+   "Canción de Epona"
   ]
  },
  {
-  "p": "¿Qué equipo ganó el primer Mundial de League of Legends (2011)?",
+  "p": "¿Qué campeona de LoL forma K/DA junto a Ahri, Akali y Evelynn?",
   "o": [
-   "Fnatic",
-   "SK Telecom T1",
-   "Taipei Assassins"
+   "Kai'Sa",
+   "Miss Fortune",
+   "Lux"
   ]
  },
  {
-  "p": "En Overwatch, ¿cuál es el nombre real de Soldado: 76?",
+  "p": "¿En qué Pokémon de Johto evoluciona Onix?",
   "o": [
-   "Jack Morrison",
-   "Gabriel Reyes",
-   "Jesse McCree"
+   "Steelix",
+   "Golem",
+   "Rhydon"
   ]
  },
  {
@@ -41,19 +41,19 @@
  },
  {
   "deporte": true,
-  "p": "En el boliche de «Wii Sports», ¿cuál es la puntuación perfecta?",
+  "p": "En Tony Hawk's Pro Skater 2, ¿qué superhéroe era personaje secreto?",
   "o": [
-   "300",
-   "250",
-   "500"
+   "Spider-Man",
+   "Batman",
+   "Superman"
   ]
  },
  {
-  "p": "¿Qué número tiene Pikachu en la Pokédex nacional?",
+  "p": "¿Qué Pokémon legendario sale en la portada de Pokémon Esmeralda?",
   "o": [
-   "25",
-   "1",
-   "151"
+   "Rayquaza",
+   "Groudon",
+   "Latios"
   ]
  },
  {

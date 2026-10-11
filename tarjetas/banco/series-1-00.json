@@ -66,11 +66,11 @@
   ]
  },
  {
-  "p": "En «Hora de Aventura», ¿cómo se llama el perro mágico amigo de Finn?",
+  "p": "En «Los Simpson», ¿de qué color es el pelo de Marge?",
   "o": [
-   "Jake",
-   "BMO",
-   "Gunter"
+   "Azul",
+   "Morado",
+   "Verde"
   ]
  },
  {
@@ -106,11 +106,11 @@
   ]
  },
  {
-  "p": "En «Ben 10», ¿cómo se llama la prima de Ben?",
+  "p": "En «Los Picapiedra», ¿cómo se llama la mascota dinosaurio de Pedro?",
   "o": [
-   "Gwen",
-   "Julie",
-   "Kai"
+   "Dino",
+   "Rex",
+   "Bronto"
   ]
  },
  {

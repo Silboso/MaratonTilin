@@ -1,74 +1,74 @@
 [
  {
   "deporte": true,
-  "p": "En «Initial D», ¿qué reparte Takumi en las mañanas con su auto?",
+  "p": "En «Cars», ¿qué fue Doc Hudson antes de ser juez del pueblo?",
   "o": [
-   "Tofu",
-   "Periódicos",
-   "Leche"
+   "Un campeón de carreras",
+   "Un policía de caminos",
+   "Un piloto de avión"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Initial D», ¿qué auto maneja Takumi?",
+  "p": "¿Qué película de 2023 cuenta la historia real de un gamer que se volvió piloto?",
   "o": [
-   "Toyota AE86",
-   "Mazda RX-7",
-   "Nissan GT-R"
+   "«Gran Turismo»",
+   "«Need for Speed»",
+   "«Días de trueno»"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué deporte se pelea con exoesqueletos en «Megalo Box»?",
+  "p": "En «Megalo Box», ¿qué apodo usa Joe en las peleas clandestinas del inicio?",
   "o": [
-   "Box",
-   "Lucha libre",
-   "Karate"
+   "Junk Dog",
+   "Mad Dog",
+   "Iron Wolf"
   ]
  },
  {
   "deporte": true,
-  "p": "¿En qué están inspiradas las chicas de «Uma Musume»?",
+  "p": "En «Uma Musume», ¿qué hacen las ganadoras al terminar cada carrera?",
   "o": [
-   "En caballos de carreras reales",
-   "En autos de carreras",
-   "En galgos de carreras"
+   "Dan un concierto",
+   "Reciben una herradura dorada",
+   "Hacen una carrera de exhibición"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Kuroko no Basket», ¿cómo se le dice al grupo de cinco prodigios?",
+  "p": "En «Kuroko no Basket», ¿qué habilidad tiene Ryota Kise?",
   "o": [
-   "La Generación de los Milagros",
-   "Los Cinco Reyes",
-   "Los Prodigios de Teiko"
+   "Copia las jugadas de otros",
+   "Ve el futuro de las jugadas",
+   "Salta más alto que nadie"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Cómo se llama el protagonista de «Blue Lock»?",
+  "p": "En «Blue Lock», ¿cuántos jugadores entran al proyecto al inicio?",
   "o": [
-   "Yoichi Isagi",
-   "Meguru Bachira",
-   "Rin Itoshi"
+   "300",
+   "100",
+   "50"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Supercampeones», ¿qué número usa Oliver Atom?",
+  "p": "En «Supercampeones», ¿qué prenda nunca se quita Benji Price?",
   "o": [
-   "10",
-   "9",
-   "7"
+   "Una gorra",
+   "Una bandana",
+   "Una muñequera"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Supercampeones», ¿qué dice siempre Oliver del balón?",
+  "p": "¿Con qué nombre se transmitió «Hajime no Ippo» en Latinoamérica?",
   "o": [
-   "«El balón es mi amigo»",
-   "«El balón es mi vida»",
-   "«El balón es mi hermano»"
+   "Espíritu de lucha",
+   "Puños de campeón",
+   "Golpe ganador"
   ]
  },
  {
@@ -82,20 +82,20 @@
  },
  {
   "deporte": true,
-  "p": "En «Rocky IV», ¿contra quién pelea Rocky?",
+  "p": "¿Qué rivalidad de la Fórmula 1 cuenta la película «Rush» (2013)?",
   "o": [
-   "Iván Drago",
-   "Apollo Creed",
-   "Clubber Lang"
+   "Hunt contra Lauda",
+   "Senna contra Prost",
+   "Schumacher contra Hill"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Creed», ¿de quién es hijo Adonis?",
+  "p": "En «Karate Kid» (2010), ¿a qué país se muda Dre con su mamá?",
   "o": [
-   "De Apollo Creed",
-   "De Rocky Balboa",
-   "De Iván Drago"
+   "China",
+   "Japón",
+   "Corea del Sur"
   ]
  },
  {
@@ -118,29 +118,29 @@
  },
  {
   "deporte": true,
-  "p": "En «Rudo y Cursi», ¿a qué deporte se dedican los hermanos?",
+  "p": "¿Qué actor es el cocinero luchador de «Nacho Libre»?",
   "o": [
-   "Fútbol",
-   "Box",
-   "Béisbol"
+   "Jack Black",
+   "Will Ferrell",
+   "Adam Sandler"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Space Jam», ¿cómo se llama el equipo de los aliens?",
+  "p": "En «Volver al futuro II», ¿qué usa Biff para hacerse rico apostando?",
   "o": [
-   "Los Monstars",
-   "Los Tune Squad",
-   "Los Martianos"
+   "Un almanaque deportivo",
+   "Un periódico del futuro",
+   "Una computadora del futuro"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Cars 3», ¿quién entrena a Rayo McQueen para volver a correr?",
+  "p": "En «Luca», ¿para qué quieren ganar la carrera Luca y Alberto?",
   "o": [
-   "Cruz Ramírez",
-   "Sally",
-   "Jackson Storm"
+   "Para comprar una Vespa",
+   "Para ganar una beca",
+   "Para conocer el mar"
   ]
  },
  {
@@ -288,11 +288,11 @@
   ]
  },
  {
-  "p": "¿Qué pueblo protagoniza «Vinland Saga»?",
+  "p": "¿Cómo se llama el protagonista de «Vinland Saga»?",
   "o": [
-   "Los vikingos",
-   "Los samuráis",
-   "Los romanos"
+   "Thorfinn",
+   "Askeladd",
+   "Canute"
   ]
  },
  {
@@ -312,11 +312,11 @@
   ]
  },
  {
-  "p": "En «Kaiju No. 8», ¿en qué se convierte Kafka?",
+  "p": "En «Kaiju No. 8», ¿en qué trabaja Kafka al inicio?",
   "o": [
-   "En un kaiju",
-   "En un robot",
-   "En un fantasma"
+   "Limpia restos de kaijus",
+   "Es soldado de élite",
+   "Es reportero de kaijus"
   ]
  },
  {
@@ -344,11 +344,11 @@
   ]
  },
  {
-  "p": "En «Angel Beats!», ¿dónde están los personajes?",
+  "p": "En «Charlotte», ¿qué poder tiene Yuu Otosaka al inicio?",
   "o": [
-   "En el más allá",
-   "En el futuro",
-   "Dentro de un videojuego"
+   "Meterse en el cuerpo de otros",
+   "Leer la mente",
+   "Detener el tiempo"
   ]
  },
  {
@@ -360,19 +360,19 @@
   ]
  },
  {
-  "p": "¿De qué tratan los duelos en «Food Wars»?",
+  "p": "En «Food Wars», ¿qué les pasa a quienes prueban un platillo increíble?",
   "o": [
-   "De cocina",
-   "De peleas callejeras",
-   "De carreras"
+   "Se les rompe la ropa",
+   "Se quedan dormidos",
+   "Se les cae el pelo"
   ]
  },
  {
-  "p": "En «Assassination Classroom», ¿qué tienen que hacer los alumnos con Koro-sensei?",
+  "p": "En «Assassination Classroom», ¿qué destruyó Koro-sensei antes de ser maestro?",
   "o": [
-   "Asesinarlo antes de fin de año",
-   "Protegerlo",
-   "Atraparlo vivo"
+   "Gran parte de la Luna",
+   "La Torre de Tokio",
+   "Medio Japón"
   ]
  },
  {
@@ -384,19 +384,19 @@
   ]
  },
  {
-  "p": "En «A Silent Voice», ¿qué discapacidad tiene Shoko?",
+  "p": "En «A Silent Voice», ¿qué le hacía Shoya a Shoko en la primaria?",
   "o": [
-   "Es sorda",
-   "Es ciega",
-   "No puede caminar"
+   "La molestaba",
+   "La protegía",
+   "Le copiaba la tarea"
   ]
  },
  {
-  "p": "En «Dr. Stone», ¿qué le pasa a toda la humanidad?",
+  "p": "¿Cómo se llama el genio científico protagonista de «Dr. Stone»?",
   "o": [
-   "Se vuelve de piedra",
-   "Se vuelve zombie",
-   "Desaparece"
+   "Senku",
+   "Taiju",
+   "Tsukasa"
   ]
  },
  {
@@ -408,11 +408,11 @@
   ]
  },
  {
-  "p": "En «Komi-san», ¿qué problema tiene Komi?",
+  "p": "En «Your Name», ¿qué cae sobre el pueblo de Mitsuha?",
   "o": [
-   "Le cuesta mucho hablar",
-   "No puede ver bien",
-   "No puede dormir"
+   "Un pedazo de cometa",
+   "Un satélite viejo",
+   "Un avión"
   ]
  },
  {
@@ -448,11 +448,11 @@
   ]
  },
  {
-  "p": "En «Hellsing», ¿qué es Alucard?",
+  "p": "En «Black Lagoon», ¿cómo se llama la pistolera de dos armas?",
   "o": [
-   "Un vampiro",
-   "Un hombre lobo",
-   "Un sacerdote"
+   "Revy",
+   "Balalaika",
+   "Roberta"
   ]
  },
  {
@@ -496,11 +496,11 @@
   ]
  },
  {
-  "p": "En «Fullmetal Alchemist», ¿qué perdió Edward Elric?",
+  "p": "En «Rurouni Kenshin», ¿qué tiene de especial la espada de Kenshin?",
   "o": [
-   "Un brazo y una pierna",
-   "Los ojos",
-   "La voz"
+   "Tiene el filo al revés",
+   "Es de madera",
+   "Está maldita"
   ]
  },
  {
@@ -552,11 +552,11 @@
   ]
  },
  {
-  "p": "En «Hunter x Hunter», ¿qué examen presenta Gon al inicio?",
+  "p": "En «Hunter x Hunter», ¿qué les pasa a los ojos de Kurapika al enojarse?",
   "o": [
-   "El examen de Cazador",
-   "El examen Chunin",
-   "El examen de Héroe"
+   "Se ponen rojos",
+   "Se ponen dorados",
+   "Se ponen blancos"
   ]
  },
  {
@@ -624,19 +624,19 @@
   ]
  },
  {
-  "p": "En «Los Caballeros del Zodiaco», ¿a qué diosa protegen?",
+  "p": "En «Attack on Titan», ¿cómo se llama el muro más exterior?",
   "o": [
-   "Atenea",
-   "Afrodita",
-   "Hera"
+   "María",
+   "Rose",
+   "Sina"
   ]
  },
  {
-  "p": "En «Sailor Moon», ¿quién es Tuxedo Mask en el doblaje latino?",
+  "p": "En «Chainsaw Man», ¿cómo se llama la demonio de sangre con cuernos?",
   "o": [
-   "Darien",
-   "Andrew",
-   "Diamante"
+   "Power",
+   "Makima",
+   "Himeno"
   ]
  },
  {
@@ -736,11 +736,11 @@
   ]
  },
  {
-  "p": "En la primera «Destino final», ¿de qué se salvan al inicio?",
+  "p": "En «El Exorcista», ¿cómo se llama la niña poseída?",
   "o": [
-   "De un avión que explota",
-   "De un choque en carretera",
-   "De una montaña rusa"
+   "Regan",
+   "Chris",
+   "Lucy"
   ]
  },
  {
@@ -768,11 +768,11 @@
   ]
  },
  {
-  "p": "¿Quién dirigió «Y tu mamá también»?",
+  "p": "¿Qué película mexicana de 2018, en blanco y negro, sigue a Cleo, trabajadora del hogar?",
   "o": [
-   "Alfonso Cuarón",
-   "Guillermo del Toro",
-   "Alejandro González Iñárritu"
+   "«Roma»",
+   "«Ya no estoy aquí»",
+   "«Amores perros»"
   ]
  },
  {
@@ -809,11 +809,11 @@
  },
  {
   "deporte": true,
-  "p": "En «Dragon Ball», ¿quién gana el 23° Torneo, donde Goku pelea contra Piccolo?",
+  "p": "En «Yuri!!! on Ice», ¿qué platillo le encanta al protagonista?",
   "o": [
-   "Goku",
-   "Piccolo",
-   "Ten Shin Han"
+   "Katsudon",
+   "Ramen",
+   "Takoyaki"
   ]
  }
 ]

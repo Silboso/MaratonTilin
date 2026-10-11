@@ -19,7 +19,7 @@
  },
  {
   "deporte": true,
-  "p": "¿Cómo se llama la pista de colores que suele cerrar Mario Kart?",
+  "p": "¿Qué pista de Mario Kart flota en el espacio y suele ser la última?",
   "o": [
    "La Senda Arcoíris",
    "El Castillo de Bowser",
@@ -145,11 +145,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué saga de patinetas de EA competía contra Tony Hawk?",
+  "p": "En FIFA 20, ¿qué modo nuevo era de fútbol callejero?",
   "o": [
-   "Skate",
-   "SSX",
-   "Shaun White Skateboarding"
+   "Volta",
+   "Ultimate Team",
+   "Clubes Pro"
   ]
  },
  {
@@ -162,19 +162,19 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el mapa principal de League of Legends?",
+  "p": "¿Qué escritor de «Game of Thrones» colaboró en Elden Ring?",
   "o": [
-   "La Grieta del Invocador",
-   "El Abismo de los Lamentos",
-   "El Bosque Retorcido"
+   "George R. R. Martin",
+   "Stephen King",
+   "Neil Gaiman"
   ]
  },
  {
-  "p": "En LoL, ¿qué monstruo épico da un poderoso buff morado?",
+  "p": "En Persona 5, ¿qué gato acompaña al protagonista?",
   "o": [
-   "El Barón Nashor",
-   "El Dragón Ancestral",
-   "El Heraldo de la Grieta"
+   "Morgana",
+   "Ryuji",
+   "Futaba"
   ]
  },
  {
@@ -218,11 +218,11 @@
   ]
  },
  {
-  "p": "En Arcane, ¿cómo se llama la ciudad de arriba, la de los ricos?",
+  "p": "En Uncharted, ¿cómo le dicen al mentor y amigo de Nathan Drake?",
   "o": [
-   "Piltover",
-   "Zaun",
-   "Noxus"
+   "Sully",
+   "Sam",
+   "Rafe"
   ]
  },
  {
@@ -250,11 +250,11 @@
   ]
  },
  {
-  "p": "En LoL, ¿qué objeto te revive una vez después de morir?",
+  "p": "En Resident Evil 4, ¿a quién tiene que rescatar Leon?",
   "o": [
-   "El Ángel de la Guarda",
-   "La Égida",
-   "El Reloj de Zhonya"
+   "Ashley Graham",
+   "Sherry Birkin",
+   "Claire Redfield"
   ]
  },
  {
@@ -274,19 +274,19 @@
   ]
  },
  {
-  "p": "¿Qué hermanos de Overwatch son del clan Shimada?",
+  "p": "¿Cómo se llama el protagonista de Gears of War?",
   "o": [
-   "Hanzo y Genji",
-   "Jack y Gabriel",
-   "Torbjörn y Brigitte"
+   "Marcus Fenix",
+   "Dom Santiago",
+   "Cole Train"
   ]
  },
  {
-  "p": "¿Qué héroe de Overwatch es un hámster dentro de una bola?",
+  "p": "¿Qué heroína de Overwatch dispara un dardo que duerme a los enemigos?",
   "o": [
-   "Wrecking Ball",
-   "Junkrat",
-   "Roadhog"
+   "Ana",
+   "Kiriko",
+   "Moira"
   ]
  },
  {
@@ -306,11 +306,11 @@
   ]
  },
  {
-  "p": "¿Qué héroe brasileño de Overwatch es DJ?",
+  "p": "¿Qué estudio hizo el Spider-Man de PS4?",
   "o": [
-   "Lúcio",
-   "Baptiste",
-   "Sombra"
+   "Insomniac Games",
+   "Naughty Dog",
+   "Sucker Punch"
   ]
  },
  {
@@ -354,19 +354,19 @@
   ]
  },
  {
-  "p": "¿Qué personaje de Minecraft está en Smash Ultimate?",
+  "p": "¿De qué saga viene Marth en Smash?",
   "o": [
-   "Steve",
-   "Creeper",
-   "Herobrine"
+   "Fire Emblem",
+   "Xenoblade",
+   "Kid Icarus"
   ]
  },
  {
-  "p": "¿Quién fue el último personaje descargable de Smash Ultimate?",
+  "p": "¿Qué princesa cuida el Observatorio Cometa en Super Mario Galaxy?",
   "o": [
-   "Sora",
-   "Sephiroth",
-   "Steve"
+   "Estela",
+   "Daisy",
+   "Pauline"
   ]
  },
  {
@@ -426,11 +426,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el rey pingüino rival de Kirby?",
+  "p": "¿En qué evoluciona Eevee con una Piedra Agua?",
   "o": [
-   "El Rey Dedede",
-   "Meta Knight",
-   "Magolor"
+   "Vaporeon",
+   "Jolteon",
+   "Flareon"
   ]
  },
  {
@@ -490,11 +490,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el monstruo de casco puntiagudo de Silent Hill?",
+  "p": "En God of War (2018), ¿qué cabeza parlante acompaña a Kratos?",
   "o": [
-   "Pyramid Head",
-   "Némesis",
-   "Slenderman"
+   "Mimir",
+   "Brok",
+   "Odín"
   ]
  },
  {
@@ -594,11 +594,11 @@
   ]
  },
  {
-  "p": "¿Qué ninja de Mortal Kombat congela a sus rivales?",
+  "p": "¿Qué ninja de Mortal Kombat viste de azul y es rival de Scorpion?",
   "o": [
    "Sub-Zero",
-   "Scorpion",
-   "Smoke"
+   "Smoke",
+   "Noob Saibot"
   ]
  },
  {
@@ -610,19 +610,19 @@
   ]
  },
  {
-  "p": "En Warzone, ¿qué es el Gulag?",
+  "p": "¿Qué soldado de Call of Duty usa una máscara de calavera?",
   "o": [
-   "Un duelo para volver a la partida",
-   "La zona segura",
-   "La tienda de armas"
+   "Ghost",
+   "Soap",
+   "Price"
   ]
  },
  {
-  "p": "¿Cómo se les dice a los personajes de Apex Legends?",
+  "p": "¿Qué estudio creó Apex Legends?",
   "o": [
-   "Leyendas",
-   "Agentes",
-   "Héroes"
+   "Respawn Entertainment",
+   "Epic Games",
+   "Bungie"
   ]
  },
  {
@@ -634,11 +634,11 @@
   ]
  },
  {
-  "p": "En Plants vs Zombies, ¿qué planta te da soles?",
+  "p": "En Angry Birds, ¿qué pájaro se divide en tres?",
   "o": [
-   "El girasol",
-   "El lanzaguisantes",
-   "La nuez"
+   "El azul",
+   "El amarillo",
+   "El blanco"
   ]
  },
  {
@@ -682,11 +682,11 @@
   ]
  },
  {
-  "p": "En The Witcher, ¿cómo se llama la hija adoptiva de Geralt?",
+  "p": "En Stardew Valley, ¿qué súper corporativo compite con la tienda de Pierre?",
   "o": [
-   "Ciri",
-   "Yennefer",
-   "Triss"
+   "JojaMart",
+   "Zuzu Mart",
+   "Pelican Mart"
   ]
  },
  {
@@ -714,11 +714,11 @@
   ]
  },
  {
-  "p": "En Metal Slug, ¿qué grita el juego al agarrar la ametralladora?",
+  "p": "En Metal Slug, ¿qué es el «Metal Slug» del título?",
   "o": [
-   "«Heavy Machine Gun!»",
-   "«Rocket Launcher!»",
-   "«Mission Complete!»"
+   "Un tanque",
+   "Un avión",
+   "Un robot"
   ]
  },
  {
@@ -738,27 +738,27 @@
   ]
  },
  {
-  "p": "¿Qué tipo de ataque es súper efectivo contra el tipo Dragón?",
+  "p": "En Minecraft, ¿quiénes te intercambian cosas por esmeraldas?",
   "o": [
-   "Hielo",
-   "Fuego",
-   "Eléctrico"
+   "Los aldeanos",
+   "Los piglins",
+   "Los endermen"
   ]
  },
  {
-  "p": "¿Cómo se llama el jefe final de Minecraft?",
+  "p": "¿Quién es el villano principal de Batman: Arkham Asylum?",
   "o": [
-   "El Ender Dragon",
-   "El Wither",
-   "El Guardián"
+   "El Guasón",
+   "El Espantapájaros",
+   "Bane"
   ]
  },
  {
-  "p": "En Minecraft, ¿qué le das a un lobo para domesticarlo?",
+  "p": "En Sly Cooper, ¿cómo se llama la tortuga genio de la banda?",
   "o": [
-   "Huesos",
-   "Carne",
-   "Trigo"
+   "Bentley",
+   "Murray",
+   "Carmelita"
   ]
  },
  {
@@ -834,27 +834,27 @@
   ]
  },
  {
-  "p": "¿Qué actor interpreta a Johnny Silverhand en Cyberpunk 2077?",
+  "p": "¿Qué canción de DragonForce era la más difícil de Guitar Hero III?",
   "o": [
-   "Keanu Reeves",
-   "Tom Hardy",
-   "Ryan Gosling"
+   "«Through the Fire and Flames»",
+   "«Cult of Personality»",
+   "«Raining Blood»"
   ]
  },
  {
-  "p": "En Baldur's Gate 3, ¿qué compañero es un vampiro?",
+  "p": "¿Qué campeón yordle de LoL es un inventor que pone torretas?",
   "o": [
-   "Astarion",
-   "Gale",
-   "Wyll"
+   "Heimerdinger",
+   "Rumble",
+   "Ziggs"
   ]
  },
  {
-  "p": "En Fallout, ¿dónde vive el protagonista al empezar?",
+  "p": "¿Qué peleador de Street Fighter estira las extremidades y escupe fuego?",
   "o": [
-   "En un refugio nuclear",
-   "En una nave",
-   "En un castillo"
+   "Dhalsim",
+   "Blanka",
+   "Zangief"
   ]
  },
  {
@@ -898,11 +898,11 @@
   ]
  },
  {
-  "p": "En Among Us, ¿cómo se les dice a los jugadores que no son impostores?",
+  "p": "En Clash Royale, ¿cuántas coronas ganas al tirar la torre del rey?",
   "o": [
-   "Tripulantes",
-   "Inocentes",
-   "Civiles"
+   "3",
+   "1",
+   "2"
   ]
  }
 ]

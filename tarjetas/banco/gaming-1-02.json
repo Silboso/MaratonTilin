@@ -1,11 +1,11 @@
 [
  {
   "deporte": true,
-  "p": "¿En qué juego de Nintendo se corren carreras de karts con Mario?",
+  "p": "En Need for Speed: Most Wanted, ¿quién te persigue en las carreras?",
   "o": [
-   "Mario Kart",
-   "Mario Party",
-   "Mario Golf"
+   "La policía",
+   "Los zombis",
+   "El ejército"
   ]
  },
  {
@@ -140,11 +140,11 @@
   ]
  },
  {
-  "p": "¿En qué juego plantas defienden tu jardín de zombis?",
+  "p": "¿Qué juego de celular quitó su creador de las tiendas en 2014, en pleno éxito?",
   "o": [
-   "Plants vs Zombies",
-   "Left 4 Dead",
-   "Minecraft"
+   "Flappy Bird",
+   "Doodle Jump",
+   "Fruit Ninja"
   ]
  },
  {
@@ -156,11 +156,11 @@
   ]
  },
  {
-  "p": "¿Qué saga de Rockstar es de crímenes en ciudades?",
+  "p": "En Assassin's Creed, ¿cómo se llama el salto desde lo alto a un montón de paja?",
   "o": [
-   "GTA",
-   "Red Dead Redemption",
-   "Max Payne"
+   "El salto de fe",
+   "El salto del águila",
+   "El vuelo del halcón"
   ]
  },
  {

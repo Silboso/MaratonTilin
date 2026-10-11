@@ -44,19 +44,19 @@
   ]
  },
  {
-  "p": "¿De qué color es Hulk?",
+  "p": "¿Qué planeta es el tercero más cercano al Sol?",
   "o": [
-   "Verde",
-   "Rojo",
-   "Gris"
+   "La Tierra",
+   "Marte",
+   "Venus"
   ]
  },
  {
-  "p": "¿Qué le dio sus poderes a Peter Parker?",
+  "p": "¿Qué villana de Batman es una ladrona con traje de gato?",
   "o": [
-   "Una araña radiactiva",
-   "Un rayo gamma",
-   "Un suero"
+   "Gatúbela",
+   "Hiedra Venenosa",
+   "Harley Quinn"
   ]
  },
  {
@@ -76,11 +76,11 @@
   ]
  },
  {
-  "p": "¿Qué villano de Star Wars usa máscara negra y respira fuerte?",
+  "p": "¿Cuántas caras tiene un dado normal de juegos de mesa?",
   "o": [
-   "Darth Vader",
-   "Darth Maul",
-   "Kylo Ren"
+   "6",
+   "8",
+   "12"
   ]
  },
  {
@@ -116,31 +116,31 @@
   ]
  },
  {
-  "p": "¿Qué fuerza hace que las cosas caigan al suelo?",
+  "p": "¿A qué temperatura hierve el agua al nivel del mar?",
   "o": [
-   "La gravedad",
-   "El magnetismo",
-   "La fricción"
+   "100 °C",
+   "90 °C",
+   "120 °C"
   ]
  },
  {
-  "p": "¿Qué red social de fotos con filtros es de Meta?",
+  "p": "¿Qué plataforma de streaming tiene las películas de Mickey, Marvel y Pixar?",
   "o": [
-   "Instagram",
-   "Pinterest",
-   "Snapchat"
+   "Disney+",
+   "Prime Video",
+   "Max"
   ]
  },
  {
-  "p": "¿Qué app de mensajes tiene un avioncito de papel de logo?",
+  "p": "¿Qué app de Microsoft se usa para juntas y clases en línea?",
   "o": [
-   "Telegram",
-   "Signal",
-   "Messenger"
+   "Teams",
+   "Meet",
+   "Webex"
   ]
  },
  {
-  "p": "¿Qué marca china de celulares empieza con X?",
+  "p": "¿Qué marca china de celulares tiene la línea Redmi?",
   "o": [
    "Xiaomi",
    "Huawei",
@@ -188,11 +188,11 @@
   ]
  },
  {
-  "p": "¿Qué juego de mesa tiene propiedades, casitas y billetes de papel?",
+  "p": "¿Qué juego de mesa se juega con fichas rectangulares marcadas con puntos?",
   "o": [
-   "Monopoly",
-   "Clue",
-   "Risk"
+   "Dominó",
+   "Damas",
+   "Bingo"
   ]
  }
 ]

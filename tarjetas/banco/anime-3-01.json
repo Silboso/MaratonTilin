@@ -1,27 +1,27 @@
 [
  {
   "deporte": true,
-  "p": "En «Supercampeones», ¿qué arte marcial practica Ed Warner, el portero?",
+  "p": "En «Supercampeones», ¿cómo se llama el exjugador que fue el mentor de Oliver de niño?",
   "o": [
-   "Karate",
-   "Judo",
-   "Kung fu"
+   "Roberto Hongo",
+   "Carlos Santana",
+   "Freddy Marshall"
   ]
  },
  {
-  "p": "En DBZ, ¿qué número de androide es en realidad el Dr. Gero?",
+  "p": "En DBZ, ¿en el cuerpo de qué termina atrapado el Capitán Ginyu?",
   "o": [
-   "El 20",
-   "El 19",
-   "El 16"
+   "De una rana",
+   "De un gato",
+   "De un pez"
   ]
  },
  {
-  "p": "En «Dragon Ball», ¿cuántas estrellas tiene la esfera que Goku guardaba de su abuelo?",
+  "p": "En «Digimon Adventure», ¿qué emblema tiene Izzy?",
   "o": [
-   "Cuatro",
-   "Una",
-   "Siete"
+   "El Conocimiento",
+   "La Amistad",
+   "El Amor"
   ]
  },
  {
@@ -33,11 +33,11 @@
   ]
  },
  {
-  "p": "En «Naruto», ¿quién fue el maestro de Kakashi?",
+  "p": "En «Toy Story 2», ¿quién se roba a Woody para venderlo a un museo de Japón?",
   "o": [
-   "Minato Namikaze",
-   "Jiraiya",
-   "Hiruzen Sarutobi"
+   "Al",
+   "Sid",
+   "Pete"
   ]
  },
  {
@@ -57,11 +57,11 @@
   ]
  },
  {
-  "p": "En «Pokémon», ¿cuál es la primera liga que gana Ash?",
+  "p": "En «Kill Bill», ¿quién forja la espada de la Novia?",
   "o": [
-   "La Liga Naranja",
-   "La Liga Añil",
-   "La Liga Johto"
+   "Hattori Hanzo",
+   "Pai Mei",
+   "Johnny Mo"
   ]
  },
  {
@@ -81,19 +81,19 @@
   ]
  },
  {
-  "p": "En «Digimon Adventure», ¿qué villano controla a los Digimon con engranes negros?",
+  "p": "En «Wall-E», ¿qué musical ve Wall-E una y otra vez?",
   "o": [
-   "Devimon",
-   "Etemon",
-   "Myotismon"
+   "«Hello, Dolly!»",
+   "«Cantando bajo la lluvia»",
+   "«La novicia rebelde»"
   ]
  },
  {
-  "p": "En «Death Note», ¿de qué shinigami era en realidad el cuaderno que tiró Ryuk?",
+  "p": "En «Jujutsu Kaisen», ¿qué palabras usa Toge Inumaki para hablar?",
   "o": [
-   "Sidoh",
-   "Rem",
-   "Gelus"
+   "Ingredientes de onigiri",
+   "Nombres de animales",
+   "Números en inglés"
   ]
  },
  {
@@ -153,11 +153,11 @@
   ]
  },
  {
-  "p": "En «Kill Bill», ¿cuál es el nombre real de la Novia?",
+  "p": "En «Scott Pilgrim», ¿cómo se llama la banda de Scott?",
   "o": [
-   "Beatrix Kiddo",
-   "O-Ren Ishii",
-   "Elle Driver"
+   "Sex Bob-Omb",
+   "Crash and the Boys",
+   "The Clash at Demonhead"
   ]
  },
  {

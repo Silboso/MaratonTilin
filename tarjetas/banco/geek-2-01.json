@@ -28,20 +28,20 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué tecnología avisa al árbitro si el balón cruzó completamente la línea de gol?",
+  "p": "En la F1, ¿qué barra protege la cabeza del piloto desde 2018?",
   "o": [
-   "La tecnología de línea de gol",
-   "El VAR",
-   "El Ojo de Halcón"
+   "El halo",
+   "El alerón",
+   "El difusor"
   ]
  },
  {
   "deporte": true,
-  "p": "¿En qué deporte se usa el «Ojo de Halcón» para ver si la pelota entró?",
+  "p": "En ajedrez, ¿qué pasa cuando un peón llega a la última fila?",
   "o": [
-   "Tenis",
-   "Fútbol",
-   "Béisbol"
+   "Se corona en otra pieza",
+   "Sale del tablero",
+   "Regresa a su lugar"
   ]
  },
  {
@@ -185,11 +185,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama la inteligencia artificial que crea Tony y se vuelve villana?",
+  "p": "¿Qué superhéroe de Marvel es un abogado ciego?",
   "o": [
-   "Ultron",
-   "Visión",
-   "J.A.R.V.I.S."
+   "Daredevil",
+   "Punisher",
+   "Moon Knight"
   ]
  },
  {
@@ -209,11 +209,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama la empresa de Tony Stark?",
+  "p": "¿Qué agencia de espías dirige Nick Fury?",
   "o": [
-   "Stark Industries",
-   "Oscorp",
-   "Wayne Enterprises"
+   "S.H.I.E.L.D.",
+   "HYDRA",
+   "S.W.O.R.D."
   ]
  },
  {
@@ -241,19 +241,19 @@
   ]
  },
  {
-  "p": "¿Qué villano calvo es el enemigo de Superman?",
+  "p": "¿Qué villano de Batman usa una toxina que provoca miedo?",
   "o": [
-   "Lex Luthor",
-   "Darkseid",
-   "Brainiac"
+   "El Espantapájaros",
+   "El Pingüino",
+   "Bane"
   ]
  },
  {
-  "p": "¿Cómo se llama el equipo de superhéroes de DC?",
+  "p": "¿Cómo se llama el equipo de DC de Batman, Superman y la Mujer Maravilla?",
   "o": [
    "La Liga de la Justicia",
-   "Los Vengadores",
-   "Los Jóvenes Titanes"
+   "Los Jóvenes Titanes",
+   "El Escuadrón Suicida"
   ]
  },
  {
@@ -265,11 +265,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama la periodista novia de Superman?",
+  "p": "¿Cuál es el nombre real de la Mujer Maravilla?",
   "o": [
-   "Lois Lane",
-   "Lana Lang",
-   "Vicki Vale"
+   "Diana Prince",
+   "Selina Kyle",
+   "Kara Danvers"
   ]
  },
  {
@@ -289,7 +289,7 @@
   ]
  },
  {
-  "p": "¿Qué superhéroe es Oliver Queen en «Arrow»?",
+  "p": "¿Qué superhéroe de DC es Oliver Queen?",
   "o": [
    "Flecha Verde",
    "Linterna Verde",
@@ -305,11 +305,11 @@
   ]
  },
  {
-  "p": "¿Qué personaje dice «Este es el camino»?",
+  "p": "¿En qué planeta desértico creció Luke Skywalker?",
   "o": [
-   "El Mandaloriano",
-   "Boba Fett",
-   "Obi-Wan Kenobi"
+   "Tatooine",
+   "Jakku",
+   "Naboo"
   ]
  },
  {
@@ -321,11 +321,11 @@
   ]
  },
  {
-  "p": "¿Qué ositos ayudan a los rebeldes en la luna de Endor?",
+  "p": "¿Cómo se llama la mamá de Luke y Leia?",
   "o": [
-   "Los ewoks",
-   "Los jawas",
-   "Los wookiees"
+   "Padmé Amidala",
+   "Mon Mothma",
+   "Shmi Skywalker"
   ]
  },
  {
@@ -353,19 +353,19 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el banco de los magos?",
+  "p": "En Harry Potter, ¿cómo se llama la calle de tiendas mágicas en Londres?",
   "o": [
-   "Gringotts",
-   "Ollivanders",
-   "Honeydukes"
+   "El Callejón Diagon",
+   "El Callejón Knockturn",
+   "Hogsmeade"
   ]
  },
  {
-  "p": "¿Qué objeto de Hogwarts decide a qué casa va cada alumno?",
+  "p": "¿Qué profesora de Hogwarts puede convertirse en gata?",
   "o": [
-   "El Sombrero Seleccionador",
-   "El Espejo de Oesed",
-   "El Cáliz de Fuego"
+   "Minerva McGonagall",
+   "Dolores Umbridge",
+   "Sybill Trelawney"
   ]
  },
  {
@@ -393,11 +393,11 @@
   ]
  },
  {
-  "p": "¿Qué hechizo hace flotar objetos en Harry Potter?",
+  "p": "¿Qué hechizo de Harry Potter abre cerraduras?",
   "o": [
-   "Wingardium Leviosa",
+   "Alohomora",
    "Accio",
-   "Alohomora"
+   "Expecto Patronum"
   ]
  },
  {
@@ -537,11 +537,11 @@
   ]
  },
  {
-  "p": "¿Qué dinosaurio tenía tres cuernos en la cabeza?",
+  "p": "¿Qué dinosaurio tenía placas en la espalda y púas en la cola?",
   "o": [
-   "Triceratops",
    "Estegosaurio",
-   "Anquilosaurio"
+   "Velociraptor",
+   "Braquiosaurio"
   ]
  },
  {
@@ -553,11 +553,11 @@
   ]
  },
  {
-  "p": "¿Qué significan las siglas CPU?",
+  "p": "¿Qué significa la «e» de «e-mail»?",
   "o": [
-   "Central Processing Unit",
-   "Computer Power Unit",
-   "Central Program Utility"
+   "Electrónico",
+   "Exprés",
+   "Externo"
   ]
  },
  {
@@ -569,19 +569,19 @@
   ]
  },
  {
-  "p": "¿Qué significan las siglas HTML?",
+  "p": "¿Qué significan las siglas SMS de los mensajes de texto?",
   "o": [
-   "HyperText Markup Language",
-   "High Tech Modern Language",
-   "Home Tool Markup Language"
+   "Short Message Service",
+   "Simple Mobile System",
+   "Send My Signal"
   ]
  },
  {
-  "p": "¿Cuántos megabytes tiene aproximadamente un gigabyte?",
+  "p": "¿Qué tecnología te deja pagar acercando el celular a la terminal?",
   "o": [
-   "1,024",
-   "100",
-   "10,000"
+   "NFC",
+   "Bluetooth",
+   "Infrarrojo"
   ]
  },
  {
@@ -617,11 +617,11 @@
   ]
  },
  {
-  "p": "¿Quién quedó como director de Apple después de Steve Jobs?",
+  "p": "¿Quién es el director de OpenAI?",
   "o": [
-   "Tim Cook",
-   "Steve Wozniak",
-   "Jony Ive"
+   "Sam Altman",
+   "Sundar Pichai",
+   "Satya Nadella"
   ]
  },
  {
@@ -665,11 +665,11 @@
   ]
  },
  {
-  "p": "¿Qué app de videollamadas se volvió famosa en la pandemia para clases y juntas?",
+  "p": "¿Qué app identifica la canción que está sonando con solo escucharla?",
   "o": [
-   "Zoom",
-   "Skype",
-   "FaceTime"
+   "Shazam",
+   "SoundCloud",
+   "Deezer"
   ]
  },
  {
@@ -737,11 +737,11 @@
   ]
  },
  {
-  "p": "¿Qué dios egipcio tiene cabeza de chacal?",
+  "p": "¿Qué dios griego gobierna el inframundo?",
   "o": [
-   "Anubis",
-   "Ra",
-   "Horus"
+   "Hades",
+   "Ares",
+   "Cronos"
   ]
  },
  {
@@ -769,10 +769,10 @@
   ]
  },
  {
-  "p": "¿Qué superhéroe de Marvel es hechicero y protege el Sanctum Sanctorum?",
+  "p": "¿Qué hechicero de Marvel protege el Sanctum Sanctorum de Nueva York?",
   "o": [
    "Doctor Strange",
-   "Wong",
+   "Scarlet Witch",
    "Doctor Doom"
   ]
  },
@@ -785,11 +785,11 @@
   ]
  },
  {
-  "p": "¿Qué empresa hace las consolas Xbox?",
+  "p": "¿Qué empresa hace los procesadores Core i5 e i7?",
   "o": [
-   "Microsoft",
-   "Sony",
-   "Sega"
+   "Intel",
+   "AMD",
+   "Qualcomm"
   ]
  },
  {
@@ -841,19 +841,19 @@
   ]
  },
  {
-  "p": "¿Qué marca de computadoras hace la línea ThinkPad?",
+  "p": "¿Qué marca de audífonos compró Apple en 2014?",
   "o": [
-   "Lenovo",
-   "Dell",
-   "HP"
+   "Beats",
+   "Bose",
+   "JBL"
   ]
  },
  {
-  "p": "¿Qué empresa creó el iPod?",
+  "p": "¿Qué aparato de Sony de 1979 servía para oír casetes en la calle?",
   "o": [
-   "Apple",
-   "Sony",
-   "Microsoft"
+   "El Walkman",
+   "El Discman",
+   "El iPod"
   ]
  },
  {

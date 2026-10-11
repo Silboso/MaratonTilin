@@ -1,11 +1,11 @@
 [
  {
   "deporte": true,
-  "p": "En «Kuroko no Basket», ¿en qué preparatoria juega Kuroko?",
+  "p": "En «Hajime no Ippo», ¿por qué empieza Ippo a boxear?",
   "o": [
-   "Seirin",
-   "Teiko",
-   "Touou"
+   "Lo salvó un boxeador de abusones",
+   "Su papá había sido campeón",
+   "Ganó un torneo escolar"
   ]
  },
  {
@@ -19,20 +19,20 @@
  },
  {
   "deporte": true,
-  "p": "En «Hajime no Ippo», ¿a qué se dedica la familia de Ippo?",
+  "p": "¿Qué actor es el entrenador de básquetbol en «Coach Carter»?",
   "o": [
-   "A rentar botes de pesca",
-   "A vender pescado",
-   "A dar clases de box"
+   "Samuel L. Jackson",
+   "Denzel Washington",
+   "Morgan Freeman"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Rocky», ¿cómo se llama la novia de Rocky?",
+  "p": "¿Qué actor protagoniza «Gigantes de acero», de robots boxeadores?",
   "o": [
-   "Adrian",
-   "Bianca",
-   "Mary"
+   "Hugh Jackman",
+   "Mark Wahlberg",
+   "Chris Hemsworth"
   ]
  },
  {
@@ -76,11 +76,11 @@
   ]
  },
  {
-  "p": "En «Pokémon», ¿de quién es Togepi?",
+  "p": "En la primera «Kung Fu Panda», ¿cómo se llama el villano leopardo?",
   "o": [
-   "De Misty",
-   "De Ash",
-   "De Brock"
+   "Tai Lung",
+   "Lord Shen",
+   "Kai"
   ]
  },
  {
@@ -180,11 +180,11 @@
   ]
  },
  {
-  "p": "¿Qué actor interpreta a Jack Sparrow?",
+  "p": "En «Mean Girls», ¿cómo le dicen al grupo de Regina George?",
   "o": [
-   "Johnny Depp",
-   "Orlando Bloom",
-   "Javier Bardem"
+   "Las Plásticas",
+   "Las Divinas",
+   "Las Reinas"
   ]
  },
  {

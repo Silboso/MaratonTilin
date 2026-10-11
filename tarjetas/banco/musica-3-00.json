@@ -1,10 +1,10 @@
 [
  {
-  "p": "¿Qué banda canta «The Rumbling», opening final de Attack on Titan?",
+  "p": "¿Qué clásico del jazz suena en el ending de «Evangelion»?",
   "o": [
-   "SiM",
-   "Linked Horizon",
-   "ONE OK ROCK"
+   "«Fly Me to the Moon»",
+   "«Moon River»",
+   "«Blue Moon»"
   ]
  },
  {
@@ -33,11 +33,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el opening de Evangelion?",
+  "p": "¿Qué banda canta «Dan Dan Kokoro Hikareteku»?",
   "o": [
-   "A Cruel Angel's Thesis",
-   "Fly Me to the Moon",
-   "Komm, süsser Tod"
+   "FIELD OF VIEW",
+   "ZARD",
+   "WANDS"
   ]
  },
  {
@@ -58,11 +58,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el primer disco de Linkin Park?",
+  "p": "¿Quién es el DJ de Linkin Park?",
   "o": [
-   "Hybrid Theory",
-   "Meteora",
-   "Minutes to Midnight"
+   "Joe Hahn",
+   "Rob Bourdon",
+   "Dave Farrell"
   ]
  },
  {
@@ -74,11 +74,11 @@
   ]
  },
  {
-  "p": "¿En qué disco de My Chemical Romance viene «Welcome to the Black Parade»?",
+  "p": "En la era «Danger Days», ¿qué alias de Killjoy usa Gerard Way?",
   "o": [
-   "The Black Parade",
-   "Three Cheers for Sweet Revenge",
-   "Danger Days"
+   "Party Poison",
+   "Fun Ghoul",
+   "Kobra Kid"
   ]
  }
 ]

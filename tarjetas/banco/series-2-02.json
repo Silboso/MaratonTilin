@@ -1,7 +1,7 @@
 [
  {
   "deporte": true,
-  "p": "En «Ted Lasso», ¿cómo se llama el asistente callado y con barba de Ted?",
+  "p": "En «Ted Lasso», ¿cómo se llama el asistente callado de Ted?",
   "o": [
    "Coach Beard",
    "Roy Kent",
@@ -76,11 +76,11 @@
   ]
  },
  {
-  "p": "En «Danny Phantom», ¿cómo se llama el villano mitad fantasma?",
+  "p": "En «Danny Phantom», ¿cómo se llama el mejor amigo de Danny, fan de la tecnología?",
   "o": [
-   "Vlad Plasmius",
-   "Skulker",
-   "Ember"
+   "Tucker",
+   "Dash",
+   "Lancer"
   ]
  },
  {
@@ -116,19 +116,19 @@
   ]
  },
  {
-  "p": "En «Stranger Things», ¿quién adopta a Once?",
+  "p": "¿De qué reality show salió la cantante Yuridia?",
   "o": [
-   "Hopper",
-   "Joyce",
-   "El Dr. Brenner"
+   "La Academia",
+   "Big Brother",
+   "Operación Triunfo"
   ]
  },
  {
-  "p": "En «Breaking Bad», ¿qué negocio usa Walter para lavar dinero?",
+  "p": "¿De qué serie es precuela «Better Call Saul»?",
   "o": [
-   "Un autolavado",
-   "Una pizzería",
-   "Una lavandería"
+   "«Breaking Bad»",
+   "«Narcos»",
+   "«Dexter»"
   ]
  },
  {
@@ -140,11 +140,11 @@
   ]
  },
  {
-  "p": "En «The Office», ¿cómo se llama el contador que hace chili?",
+  "p": "En «El Tigre», ¿en qué ciudad vive Manny Rivera?",
   "o": [
-   "Kevin",
-   "Oscar",
-   "Stanley"
+   "Ciudad Milagro",
+   "Ciudad Esperanza",
+   "Ciudad Fortuna"
   ]
  },
  {

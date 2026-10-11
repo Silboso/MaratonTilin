@@ -1,10 +1,10 @@
 [
  {
-  "p": "¿Qué jugador de T1 es conocido como «The Unkillable Demon King»?",
+  "p": "¿Qué enemigo de Mario se tapa la cara con las manos cuando lo miras?",
   "o": [
-   "Faker",
-   "Uzi",
-   "Caps"
+   "Boo",
+   "Goomba",
+   "Shy Guy"
   ]
  },
  {
@@ -33,11 +33,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué empresa hacía los FIFA antes de que la saga se llamara «EA Sports FC»?",
+  "p": "¿Qué empresa hizo los videojuegos de FIFA hasta FIFA 23?",
   "o": [
-   "EA Sports",
+   "EA (Electronic Arts)",
    "Konami",
-   "2K"
+   "Ubisoft"
   ]
  },
  {
@@ -89,11 +89,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el zorro de dos colas amigo de Sonic?",
+  "p": "¿Cómo se llama el zorro que es el mejor amigo de Sonic?",
   "o": [
    "Tails",
    "Knuckles",
-   "Shadow"
+   "Silver"
   ]
  },
  {

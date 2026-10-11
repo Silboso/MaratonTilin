@@ -28,11 +28,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué canción cantó Shakira para el Mundial 2014, además de la oficial?",
+  "p": "¿Qué canción grabó Shakira para el Mundial de Brasil 2014?",
   "o": [
    "«La La La»",
    "«Waka Waka»",
-   "«Dare»"
+   "«Loca»"
   ]
  },
  {
@@ -55,20 +55,20 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué canción de Goldfinger abría el primer Tony Hawk's Pro Skater?",
+  "p": "¿Qué cantante de reguetón luchó en WrestleMania 37?",
   "o": [
-   "«Superman»",
-   "«Here in Your Bedroom»",
-   "«99 Red Balloons»"
+   "Bad Bunny",
+   "Daddy Yankee",
+   "Anuel AA"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué canción de Zombie Nation suena en los estadios con «oh-oh-oh»?",
+  "p": "¿Qué banda hizo el medio tiempo del Super Bowl 2019?",
   "o": [
-   "«Kernkraft 400»",
-   "«Sandstorm»",
-   "«Blue (Da Ba Dee)»"
+   "Maroon 5",
+   "Imagine Dragons",
+   "OneRepublic"
   ]
  },
  {
@@ -145,11 +145,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué canción de Freddie Mercury y Montserrat Caballé fue himno de los Olímpicos de 1992?",
+  "p": "¿Quién cantó desde la Torre Eiffel en la inauguración de París 2024?",
   "o": [
-   "«Barcelona»",
-   "«Olympia»",
-   "«Somebody to Love»"
+   "Céline Dion",
+   "Adele",
+   "Shakira"
   ]
  },
  {
@@ -186,19 +186,19 @@
   ]
  },
  {
-  "p": "¿Qué banda japonesa canta «The Beginning»?",
+  "p": "¿Quién canta «crossing field», opening de Sword Art Online?",
   "o": [
-   "ONE OK ROCK",
-   "SiM",
-   "UVERworld"
+   "LiSA",
+   "Eir Aoi",
+   "YOASOBI"
   ]
  },
  {
-  "p": "¿Quién canta «Zankyou Sanka», opening de Demon Slayer?",
+  "p": "¿Quién canta «Yuusha», opening de «Frieren»?",
   "o": [
-   "Aimer",
-   "LiSA",
-   "Ado"
+   "YOASOBI",
+   "Ado",
+   "Eve"
   ]
  },
  {
@@ -210,11 +210,11 @@
   ]
  },
  {
-  "p": "¿Qué banda canta «Silhouette», opening de Naruto Shippuden?",
+  "p": "¿Quién canta «Peace Sign», opening de My Hero Academia?",
   "o": [
-   "KANA-BOON",
-   "Ikimonogakari",
-   "FLOW"
+   "Kenshi Yonezu",
+   "King Gnu",
+   "Eve"
   ]
  },
  {
@@ -234,11 +234,11 @@
   ]
  },
  {
-  "p": "¿De qué anime es la canción de jazz «Tank!»?",
+  "p": "¿De qué anime es el opening «Tank!»?",
   "o": [
    "Cowboy Bebop",
    "Samurai Champloo",
-   "Lupin III"
+   "Trigun"
   ]
  },
  {
@@ -250,19 +250,19 @@
   ]
  },
  {
-  "p": "¿De qué anime es el opening «Otonoke»?",
+  "p": "¿De qué anime es el opening «Lilium»?",
   "o": [
-   "Dandadan",
-   "Chainsaw Man",
-   "Kaiju No. 8"
+   "Elfen Lied",
+   "Another",
+   "Higurashi"
   ]
  },
  {
-  "p": "¿De qué anime es el opening «SPECIALZ»?",
+  "p": "¿De qué anime es el opening «Sign», de FLOW?",
   "o": [
-   "Jujutsu Kaisen",
-   "Demon Slayer",
-   "Chainsaw Man"
+   "Naruto Shippuden",
+   "Code Geass",
+   "Bleach"
   ]
  },
  {
@@ -274,11 +274,11 @@
   ]
  },
  {
-  "p": "¿Quién era el vocalista de Linkin Park?",
+  "p": "¿Quién era el vocalista principal de Linkin Park?",
   "o": [
    "Chester Bennington",
-   "Mike Shinoda",
-   "Chris Cornell"
+   "Chris Cornell",
+   "Chad Kroeger"
   ]
  },
  {
@@ -298,27 +298,27 @@
   ]
  },
  {
-  "p": "¿Quién era el vocalista de Queen?",
+  "p": "¿Qué banda canta «Chasing Cars»?",
   "o": [
-   "Freddie Mercury",
-   "Brian May",
-   "Roger Taylor"
+   "Snow Patrol",
+   "The Fray",
+   "Keane"
   ]
  },
  {
-  "p": "¿Qué paso de baile hizo famoso Michael Jackson?",
+  "p": "¿Cuál es el paso de baile más famoso de Michael Jackson?",
   "o": [
    "El moonwalk",
    "El twist",
-   "El robot"
+   "El cha-cha-chá"
   ]
  },
  {
-  "p": "¿Quién era el baterista de The Beatles?",
+  "p": "¿Cómo le dicen al bajista de Red Hot Chili Peppers?",
   "o": [
-   "Ringo Starr",
-   "George Harrison",
-   "Paul McCartney"
+   "Flea",
+   "The Edge",
+   "Fieldy"
   ]
  },
  {
@@ -330,11 +330,11 @@
   ]
  },
  {
-  "p": "¿Quién era el vocalista de Nirvana?",
+  "p": "¿Quién es el vocalista de Arctic Monkeys?",
   "o": [
-   "Kurt Cobain",
-   "Dave Grohl",
-   "Eddie Vedder"
+   "Alex Turner",
+   "Julian Casablancas",
+   "Brandon Flowers"
   ]
  },
  {
@@ -378,10 +378,10 @@
   ]
  },
  {
-  "p": "¿Qué banda canta «Animal I Have Become»?",
+  "p": "¿Qué banda canta «The Diary of Jane»?",
   "o": [
-   "Three Days Grace",
    "Breaking Benjamin",
+   "Seether",
    "Disturbed"
   ]
  },
@@ -410,11 +410,11 @@
   ]
  },
  {
-  "p": "¿Qué banda canta «Don't Speak»?",
+  "p": "¿Qué banda canta «All the Small Things»?",
   "o": [
-   "No Doubt",
-   "The Cranberries",
-   "Garbage"
+   "Blink-182",
+   "Sum 41",
+   "Simple Plan"
   ]
  },
  {
@@ -434,11 +434,11 @@
   ]
  },
  {
-  "p": "¿Qué dúo canta «Kids» y «Electric Feel»?",
+  "p": "¿Qué banda canta «What You Know»?",
   "o": [
-   "MGMT",
-   "Daft Punk",
-   "Empire of the Sun"
+   "Two Door Cinema Club",
+   "Foster the People",
+   "The Kooks"
   ]
  },
  {
@@ -474,11 +474,11 @@
   ]
  },
  {
-  "p": "¿De qué película es la canción «Let It Go»?",
+  "p": "¿Qué actor canta «You're Welcome» como Maui en «Moana»?",
   "o": [
-   "Frozen",
-   "Enredados",
-   "Moana"
+   "Dwayne Johnson",
+   "Jason Momoa",
+   "Vin Diesel"
   ]
  },
  {
@@ -522,11 +522,11 @@
   ]
  },
  {
-  "p": "¿Qué banda canta «Mariposa Traicionera»?",
+  "p": "¿Qué banda canta «Amargo adiós»?",
   "o": [
-   "Maná",
-   "Elefante",
-   "Jaguares"
+   "Inspector",
+   "Los de Abajo",
+   "Maldita Vecindad"
   ]
  },
  {
@@ -594,11 +594,11 @@
   ]
  },
  {
-  "p": "¿Quién canta «Mío» y «Y yo sigo aquí»?",
+  "p": "¿Quién canta «1, 2, 3» con Jason Derulo?",
   "o": [
-   "Paulina Rubio",
-   "Thalía",
-   "Gloria Trevi"
+   "Sofía Reyes",
+   "Danna Paola",
+   "Kenia OS"
   ]
  },
  {
@@ -706,11 +706,11 @@
   ]
  },
  {
-  "p": "¿De qué videojuego es la canción «Still Alive»?",
+  "p": "¿Con qué empieza el tema principal de Halo?",
   "o": [
-   "Portal",
-   "Half-Life",
-   "Left 4 Dead"
+   "Un canto de monjes",
+   "Un solo de guitarra",
+   "Una marcha militar"
   ]
  },
  {
@@ -778,11 +778,11 @@
   ]
  },
  {
-  "p": "¿Qué cantante de K-pop hizo «Seven» con Latto?",
+  "p": "¿Qué integrante de Blackpink canta «APT.» con Bruno Mars?",
   "o": [
-   "Jung Kook",
-   "Jimin",
-   "V"
+   "Rosé",
+   "Lisa",
+   "Jennie"
   ]
  },
  {
@@ -810,11 +810,11 @@
   ]
  },
  {
-  "p": "¿Qué grupo de bachata canta «Obsesión»?",
+  "p": "¿Quién canta «Travesuras» y «Hasta el amanecer»?",
   "o": [
-   "Aventura",
-   "Xtreme",
-   "Monchy & Alexandra"
+   "Nicky Jam",
+   "Ozuna",
+   "Daddy Yankee"
   ]
  },
  {
@@ -834,11 +834,11 @@
   ]
  },
  {
-  "p": "¿Quién canta «Espresso»?",
+  "p": "¿Quién canta «Heat Waves»?",
   "o": [
-   "Sabrina Carpenter",
-   "Olivia Rodrigo",
-   "Ariana Grande"
+   "Glass Animals",
+   "Imagine Dragons",
+   "The Neighbourhood"
   ]
  },
  {
@@ -850,11 +850,11 @@
   ]
  },
  {
-  "p": "¿Quién canta «Old Town Road»?",
+  "p": "¿Quién canta «Hey Ya!»?",
   "o": [
-   "Lil Nas X",
-   "Lil Uzi Vert",
-   "Lil Wayne"
+   "OutKast",
+   "Black Eyed Peas",
+   "Gnarls Barkley"
   ]
  },
  {

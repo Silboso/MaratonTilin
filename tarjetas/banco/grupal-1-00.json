@@ -48,11 +48,11 @@
   ]
  },
  {
-  "p": "¿Qué villano dice «Yo soy inevitable»?",
+  "p": "¿En qué película el protagonista le grita «¡Wilson!» a un balón?",
   "o": [
-   "Thanos",
-   "Ultron",
-   "Loki"
+   "Náufrago",
+   "Forrest Gump",
+   "La terminal"
   ]
  },
  {
@@ -72,19 +72,19 @@
   ]
  },
  {
-  "p": "En MSN Messenger, ¿qué pasaba cuando te mandaban un «zumbido»?",
+  "p": "En WhatsApp, ¿qué significan las dos palomitas azules?",
   "o": [
-   "Se sacudía la ventana",
-   "Se apagaba la compu",
-   "Sonaba un gallo"
+   "Que ya leyeron tu mensaje",
+   "Que el mensaje no se envió",
+   "Que te bloquearon"
   ]
  },
  {
-  "p": "¿Cuál es la cadena de tiendas de conveniencia más común de México?",
+  "p": "¿Qué cadena de café tiene una sirena verde en su logo?",
   "o": [
-   "Oxxo",
-   "7-Eleven",
-   "Circle K"
+   "Starbucks",
+   "Punta del Cielo",
+   "The Italian Coffee"
   ]
  },
  {

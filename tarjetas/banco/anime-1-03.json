@@ -1,38 +1,38 @@
 [
  {
   "deporte": true,
-  "p": "¿Qué deporte practica Rocky Balboa?",
+  "p": "¿Qué actor interpreta a Rocky Balboa?",
   "o": [
-   "Box",
-   "Lucha libre",
-   "Karate"
+   "Sylvester Stallone",
+   "Arnold Schwarzenegger",
+   "Jean-Claude Van Damme"
   ]
  },
  {
   "deporte": true,
-  "p": "¿De qué color es Rayo McQueen?",
+  "p": "En «Dragon Ball Z», ¿qué deporte juega Yamcha como profesional?",
   "o": [
-   "Rojo",
-   "Azul",
-   "Amarillo"
+   "Béisbol",
+   "Fútbol",
+   "Básquetbol"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Karate Kid», ¿qué arte marcial aprende Daniel?",
+  "p": "En «¿Qué pasó ayer?», ¿de quién es el tigre que aparece en el baño?",
   "o": [
-   "Karate",
-   "Kung fu",
-   "Judo"
+   "De Mike Tyson",
+   "De Floyd Mayweather",
+   "De Manny Pacquiao"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Space Jam», ¿qué conejo juega básquetbol con Michael Jordan?",
+  "p": "¿Qué actor protagoniza «F1: La película» (2025)?",
   "o": [
-   "Bugs Bunny",
-   "El Conejo Blanco",
-   "Roger Rabbit"
+   "Brad Pitt",
+   "Tom Cruise",
+   "Ryan Gosling"
   ]
  },
  {
@@ -44,11 +44,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el mejor amigo calvo de Goku?",
+  "p": "En «Volver al futuro», ¿cómo se apellida el científico Doc?",
   "o": [
-   "Krilin",
-   "Yamcha",
-   "Ten Shin Han"
+   "Brown",
+   "Wells",
+   "Miller"
   ]
  },
  {
@@ -76,11 +76,11 @@
   ]
  },
  {
-  "p": "En «Sailor Moon», ¿qué guerrera usa el poder del fuego?",
+  "p": "Completa la frase famosa de Serena: «Te castigaré…»",
   "o": [
-   "Sailor Mars",
-   "Sailor Mercury",
-   "Sailor Venus"
+   "…en el nombre de la Luna",
+   "…en el nombre del Sol",
+   "…en el nombre de la justicia"
   ]
  },
  {
@@ -92,11 +92,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama la fruta del diablo que hace a Luffy de goma?",
+  "p": "En «One Piece», ¿cómo se llama el espadachín que usa tres espadas?",
   "o": [
-   "Gomu Gomu",
-   "Mera Mera",
-   "Bara Bara"
+   "Zoro",
+   "Sanji",
+   "Usopp"
   ]
  },
  {
@@ -124,11 +124,11 @@
   ]
  },
  {
-  "p": "En «Spy x Family», ¿a qué se dedica en secreto Loid Forger?",
+  "p": "En «Spy x Family», ¿qué botana le encanta a Anya?",
   "o": [
-   "Es espía",
-   "Es asesino",
-   "Es doctor"
+   "Los cacahuates",
+   "Las papitas",
+   "Las palomitas"
   ]
  },
  {
@@ -140,11 +140,11 @@
   ]
  },
  {
-  "p": "¿Qué película de Studio Ghibli tiene un castillo que camina?",
+  "p": "En «Enredados», ¿qué animal es Pascal, el amigo de Rapunzel?",
   "o": [
-   "El castillo ambulante",
-   "Laputa",
-   "Ponyo"
+   "Un camaleón",
+   "Una iguana",
+   "Una rana"
   ]
  },
  {

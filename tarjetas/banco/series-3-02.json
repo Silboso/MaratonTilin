@@ -37,11 +37,11 @@
  },
  {
   "deporte": true,
-  "p": "En «Glee», ¿qué posición juega Finn en el equipo de fútbol americano?",
+  "p": "En las «Olimpiadas de oficina» de «The Office», ¿de qué son las medallas?",
   "o": [
-   "Mariscal de campo",
-   "Pateador",
-   "Receptor"
+   "De tapas de yogur",
+   "De corcholatas",
+   "De clips doblados"
   ]
  },
  {
@@ -64,11 +64,11 @@
  },
  {
   "deporte": true,
-  "p": "En «La leyenda de Korra», ¿cómo se llama el equipo de pro-control de Korra?",
+  "p": "¿A qué personaje de «Game of Thrones» interpretó Hafþór Björnsson, el hombre más fuerte?",
   "o": [
-   "Los Hurones de Fuego",
-   "Los Lobos de Agua",
-   "Los Jabalíes de Tierra"
+   "Gregor Clegane",
+   "Hodor",
+   "Khal Drogo"
   ]
  },
  {
@@ -109,11 +109,11 @@
  },
  {
   "deporte": true,
-  "p": "En «Soy Luna», ¿cómo se llama la pista de patinaje?",
+  "p": "En «The Office», ¿contra quién juega básquetbol la oficina en la 1.ª temporada?",
   "o": [
-   "Jam & Roller",
-   "Roller Disco",
-   "Skate Club"
+   "Contra los del almacén",
+   "Contra los de Stamford",
+   "Contra los de Utica"
   ]
  },
  {
@@ -127,11 +127,11 @@
  },
  {
   "deporte": true,
-  "p": "En «Riverdale», ¿cómo se llama el equipo de la escuela?",
+  "p": "En «Los Simpson», ¿contra qué boxeador pelea Homero?",
   "o": [
-   "Los Bulldogs",
-   "Los Serpents",
-   "Los Wildcats"
+   "Drederick Tatum",
+   "Lucius Sweet",
+   "Rainier Wolfcastle"
   ]
  },
  {
@@ -163,27 +163,27 @@
  },
  {
   "deporte": true,
-  "p": "En «Club de Cuervos», ¿cómo se llama el papá que muere al principio?",
+  "p": "En «Stranger Things» 4, ¿quién es el capitán del equipo de básquetbol de Hawkins?",
   "o": [
-   "Salvador Iglesias",
-   "Félix Domingo",
-   "Hugo Sánchez"
+   "Jason Carver",
+   "Billy Hargrove",
+   "Steve Harrington"
   ]
  },
  {
-  "p": "En «Stranger Things», ¿cómo se llama el monstruo de la primera temporada?",
+  "p": "En «Stranger Things», ¿cómo le dice Once al Dr. Brenner?",
   "o": [
-   "Demogorgon",
-   "Mind Flayer",
-   "Vecna"
+   "Papá",
+   "Maestro",
+   "Doctor"
   ]
  },
  {
-  "p": "¿Cómo se llama el villano de la cuarta temporada de «Stranger Things»?",
+  "p": "En «Ben 10», ¿cuál de los 10 aliens originales no tiene ojos?",
   "o": [
-   "Vecna",
-   "Demogorgon",
-   "El Azotamentes"
+   "Bestia",
+   "Diamante",
+   "Cuatro Brazos"
   ]
  },
  {
@@ -219,19 +219,19 @@
   ]
  },
  {
-  "p": "En «Stranger Things», ¿cómo se llama el jefe de policía de Hawkins?",
+  "p": "En «El Chavo del 8», ¿cuál es el nombre real de Quico?",
   "o": [
-   "Jim Hopper",
-   "Steve Harrington",
-   "Bob Newby"
+   "Federico",
+   "Francisco",
+   "Enrique"
   ]
  },
  {
-  "p": "En «Breaking Bad», ¿qué enfermedad tiene Walter White?",
+  "p": "En «Better Call Saul», ¿qué caso contra un asilo hace famoso a Jimmy?",
   "o": [
-   "Cáncer de pulmón",
-   "Leucemia",
-   "Diabetes"
+   "Sandpiper Crossing",
+   "Casa Tranquila",
+   "Sunset Gardens"
   ]
  },
  {
@@ -243,11 +243,11 @@
   ]
  },
  {
-  "p": "En «Breaking Bad», ¿de qué color es la metanfetamina de Walter?",
+  "p": "En «Breaking Bad», ¿cuál es el apellido de Mike, el hombre de Gus?",
   "o": [
-   "Azul",
-   "Blanca",
-   "Rosa"
+   "Ehrmantraut",
+   "Salamanca",
+   "Varga"
   ]
  },
  {
@@ -307,19 +307,19 @@
   ]
  },
  {
-  "p": "En «Game of Thrones», ¿de qué frase viene el nombre de Hodor?",
+  "p": "En «Game of Thrones», ¿quién envenena al rey Joffrey?",
   "o": [
-   "«Hold the door»",
-   "«Hold the horse»",
-   "«Home door»"
+   "Olenna Tyrell",
+   "Sansa Stark",
+   "Tyrion Lannister"
   ]
  },
  {
-  "p": "En «Game of Thrones», ¿cómo se llama el dragón más grande de Daenerys?",
+  "p": "En «Game of Thrones», ¿en qué ciudad compra Daenerys a los Inmaculados?",
   "o": [
-   "Drogon",
-   "Rhaegal",
-   "Viserion"
+   "Astapor",
+   "Meereen",
+   "Qarth"
   ]
  },
  {
@@ -331,11 +331,11 @@
   ]
  },
  {
-  "p": "En «The Office», ¿dónde mete Jim la engrapadora de Dwight?",
+  "p": "En «The Office», ¿cómo se llama la novia de Michael que trabaja en Recursos Humanos?",
   "o": [
-   "En gelatina",
-   "En el refrigerador",
-   "En el techo"
+   "Holly Flax",
+   "Jan Levinson",
+   "Carol Stills"
   ]
  },
  {
@@ -347,11 +347,11 @@
   ]
  },
  {
-  "p": "En «The Office», ¿qué chiste repite siempre Michael?",
+  "p": "En «The Office», ¿quién es el de Recursos Humanos al que Michael odia?",
   "o": [
-   "«That's what she said»",
-   "«How you doin'?»",
-   "«Bazinga»"
+   "Toby",
+   "Creed",
+   "Gabe"
   ]
  },
  {
@@ -387,11 +387,11 @@
   ]
  },
  {
-  "p": "¿Cuál es el apellido de Sheldon en «The Big Bang Theory»?",
+  "p": "En «The Big Bang Theory», ¿cuál es el apellido de soltera de Bernadette?",
   "o": [
-   "Cooper",
-   "Hofstadter",
-   "Wolowitz"
+   "Rostenkowski",
+   "Fowler",
+   "Koothrappali"
   ]
  },
  {
@@ -411,23 +411,23 @@
   ]
  },
  {
-  "p": "En «The Big Bang Theory», ¿qué personaje viaja al espacio?",
+  "p": "En «The Big Bang Theory», ¿qué número de departamento tienen Sheldon y Leonard?",
   "o": [
-   "Howard Wolowitz",
-   "Raj Koothrappali",
-   "Leonard Hofstadter"
+   "4A",
+   "4B",
+   "3A"
   ]
  },
  {
-  "p": "En «Ben 10», ¿con cuántos aliens empezaba el Omnitrix?",
+  "p": "En «Ben 10», ¿qué era el abuelo Max en secreto?",
   "o": [
-   "10",
-   "8",
-   "12"
+   "Un Plomero",
+   "Un agente de la NASA",
+   "Un alienígena"
   ]
  },
  {
-  "p": "En «Ben 10», ¿cómo se llama el alien fantasma?",
+  "p": "En «Ben 10», ¿qué alien escapa del Omnitrix y se vuelve villano?",
   "o": [
    "Fantasmático",
    "Materia Gris",
@@ -467,11 +467,11 @@
   ]
  },
  {
-  "p": "¿En qué dirección viven los Simpson?",
+  "p": "En «Los Simpson», ¿cómo se llama el medio hermano de Homero?",
   "o": [
-   "Avenida Siempreviva 742",
-   "Calle Falsa 123",
-   "Avenida Evergreen 124"
+   "Herbert",
+   "Abraham",
+   "Cletus"
   ]
  },
  {
@@ -499,11 +499,11 @@
   ]
  },
  {
-  "p": "En «Los Simpson», ¿cómo se llama el dueño del Kwik-E-Mart?",
+  "p": "¿Cuál es el nombre de pila del señor Burns?",
   "o": [
-   "Apu",
-   "Moe",
-   "Cletus"
+   "Montgomery",
+   "Waylon",
+   "Seymour"
   ]
  },
  {
@@ -539,18 +539,18 @@
   ]
  },
  {
-  "p": "¿Qué es lo que más le gusta comer al Chavo del 8?",
+  "p": "En «El Chavo del 8», ¿qué número de departamento es el de Doña Florinda?",
   "o": [
-   "Tortas de jamón",
-   "Tacos al pastor",
-   "Churros"
+   "14",
+   "71",
+   "72"
   ]
  },
  {
-  "p": "En Chespirito, ¿cómo se llama el ladrón torpe de «Los Caquitos»?",
+  "p": "En «Los Caquitos», ¿con quién está casada la Chimoltrufia?",
   "o": [
-   "El Chómpiras",
    "El Botija",
+   "El Chómpiras",
    "El Peterete"
   ]
  },
@@ -571,11 +571,11 @@
   ]
  },
  {
-  "p": "¿Qué le avisa al Chapulín Colorado cuando hay peligro?",
+  "p": "¿Qué actor hacía al Señor Barriga y a Ñoño?",
   "o": [
-   "Sus antenitas de vinil",
-   "Su Chipote Chillón",
-   "Sus pastillas de chiquitolina"
+   "Edgar Vivar",
+   "Rubén Aguirre",
+   "Horacio Gómez"
   ]
  },
  {
@@ -611,11 +611,11 @@
   ]
  },
  {
-  "p": "¿En qué televisora salió el primer Big Brother México?",
+  "p": "¿Qué jueza de «La Academia» es famosa por sus críticas duras?",
   "o": [
-   "Televisa",
-   "TV Azteca",
-   "Canal 11"
+   "Lolita Cortés",
+   "Ana Bárbara",
+   "Edith Márquez"
   ]
  },
  {
@@ -627,19 +627,19 @@
   ]
  },
  {
-  "p": "En «Avatar», ¿quién es el tío que adora el té?",
+  "p": "En «El increíble mundo de Gumball», ¿cuál es el apellido de la familia?",
   "o": [
-   "Iroh",
-   "Ozai",
-   "Bumi"
+   "Watterson",
+   "Fitzgerald",
+   "Wilson"
   ]
  },
  {
-  "p": "En «Bob Esponja», ¿cómo se llama el superhéroe favorito de Bob?",
+  "p": "En «El increíble mundo de Gumball», ¿qué es Carrie?",
   "o": [
-   "Sirenoman",
-   "Chico Percebe",
-   "Aquaman"
+   "Una fantasma",
+   "Una nube",
+   "Un globo"
   ]
  },
  {
@@ -651,11 +651,11 @@
   ]
  },
  {
-  "p": "En «Rugrats», ¿cómo se llama el perro de Tommy?",
+  "p": "En «El increíble mundo de Gumball», ¿dónde trabaja Nicole?",
   "o": [
-   "Spike",
-   "Fifi",
-   "Scooby"
+   "En la fábrica del arcoíris",
+   "En el supermercado",
+   "En la escuela"
   ]
  },
  {
@@ -683,123 +683,123 @@
   ]
  },
  {
-  "p": "En «Lost», ¿cuáles son los números malditos?",
+  "p": "En «Futurama», ¿cómo se llama el capitán vanidoso de la nave Nimbus?",
   "o": [
-   "4, 8, 15, 16, 23, 42",
-   "1, 2, 3, 5, 8, 13",
-   "7, 14, 21, 28, 35, 42"
+   "Zapp Brannigan",
+   "Kif Kroker",
+   "Calculón"
   ]
  },
  {
-  "p": "En «Prison Break», ¿cómo se llama la primera prisión?",
+  "p": "En «Futurama», ¿cuál es el nombre de pila de Fry?",
   "o": [
-   "Fox River",
-   "Sona",
-   "Alcatraz"
+   "Philip",
+   "Hubert",
+   "Turanga"
   ]
  },
  {
-  "p": "¿En qué dirección vive Sherlock Holmes?",
+  "p": "En «Futurama», ¿cuál es el apellido de Bender?",
   "o": [
-   "221B Baker Street",
-   "10 Downing Street",
-   "742 Evergreen Terrace"
+   "Rodríguez",
+   "Wong",
+   "Conrad"
   ]
  },
  {
-  "p": "En «Suits», ¿cómo se llama el bufete al inicio?",
+  "p": "¿Qué actor fue la voz latina de Homero Simpson tras el cambio de doblaje de 2005?",
   "o": [
-   "Pearson Hardman",
-   "Specter Litt",
-   "Bratton Gould"
+   "Carlos Segundo",
+   "Mario Castañeda",
+   "René García"
   ]
  },
  {
-  "p": "En «Grey's Anatomy», ¿cómo se llama el hospital al inicio?",
+  "p": "En el doblaje latino de «Los Simpson», ¿cómo se llaman Itchy & Scratchy?",
   "o": [
-   "Seattle Grace",
-   "Princeton-Plainsboro",
-   "St. Bonaventure"
+   "Tomy y Daly",
+   "Tito y Dino",
+   "Toño y Pancho"
   ]
  },
  {
-  "p": "¿Quién resulta ser Gossip Girl?",
+  "p": "En el doblaje latino de «Los Simpson», ¿cómo se apellida el jefe de policía?",
   "o": [
-   "Dan Humphrey",
-   "Serena van der Woodsen",
-   "Blair Waldorf"
+   "Gorgory",
+   "Gutiérrez",
+   "Gordon"
   ]
  },
  {
-  "p": "¿En qué ciudad pasa «Peaky Blinders»?",
+  "p": "¿Qué actor de doblaje es la voz latina de Shrek?",
   "o": [
-   "Birmingham",
-   "Londres",
-   "Liverpool"
+   "Alfonso Obregón",
+   "Humberto Vélez",
+   "Carlos Segundo"
   ]
  },
  {
-  "p": "En «The Boys», ¿quién es el líder de los Boys?",
+  "p": "En «Better Call Saul», ¿a qué dice ser alérgico Chuck McGill?",
   "o": [
-   "Billy Butcher",
-   "Hughie",
-   "Frenchie"
+   "A la electricidad",
+   "A la luz del sol",
+   "Al ruido"
   ]
  },
  {
-  "p": "En «The Umbrella Academy», ¿cuál de los hermanos viaja en el tiempo?",
+  "p": "En «Better Call Saul», ¿qué nombre usa Jimmy cuando trabaja en Cinnabon?",
   "o": [
-   "Número Cinco",
-   "Klaus",
-   "Diego"
+   "Gene Takovic",
+   "Ed Galbraith",
+   "Ted Beneke"
   ]
  },
  {
-  "p": "¿Qué actor interpreta a Pablo Escobar en «Narcos»?",
+  "p": "En «Better Call Saul», ¿quién mata a Howard Hamlin?",
   "o": [
-   "Wagner Moura",
-   "Pedro Pascal",
-   "Diego Luna"
+   "Lalo Salamanca",
+   "Nacho Varga",
+   "Mike Ehrmantraut"
   ]
  },
  {
-  "p": "¿Qué actriz protagoniza «Violetta»?",
+  "p": "En «Friends», ¿cómo se llama la primera esposa de Ross?",
   "o": [
-   "Martina Stoessel",
-   "Karol Sevilla",
-   "Lali Espósito"
+   "Carol",
+   "Emily",
+   "Susan"
   ]
  },
  {
-  "p": "En «Como dice el dicho», ¿dónde se cuentan las historias?",
+  "p": "En «Friends», ¿cómo se llama el doctor que interpreta Joey en la telenovela?",
   "o": [
-   "En una cafetería",
-   "En una escuela",
-   "En un hospital"
+   "Drake Ramoray",
+   "Mac Machiavelli",
+   "Johnny Ramoray"
   ]
  },
  {
-  "p": "En «Control Z», ¿qué hace el hacker anónimo?",
+  "p": "En «Friends», ¿cómo se llama la novia de Chandler famosa por su «Oh. My. God»?",
   "o": [
-   "Revela los secretos de los alumnos",
-   "Roba dinero de la escuela",
-   "Borra las calificaciones"
+   "Janice",
+   "Kathy",
+   "Mona"
   ]
  },
  {
-  "p": "¿Qué actor interpreta a Aurelio Casillas en «El Señor de los Cielos»?",
+  "p": "En «The Big Bang Theory», ¿qué canción le cantan a Sheldon cuando está enfermo?",
   "o": [
-   "Rafael Amaya",
-   "Kate del Castillo",
-   "Diego Luna"
+   "«Soft Kitty»",
+   "«Little Star»",
+   "«Sleepy Bear»"
   ]
  },
  {
-  "p": "¿Qué actor interpreta a Walter White?",
+  "p": "En «Breaking Bad», ¿qué nombre prefiere usar Walter Jr.?",
   "o": [
-   "Bryan Cranston",
-   "Aaron Paul",
-   "Bob Odenkirk"
+   "Flynn",
+   "Jesse",
+   "Brock"
   ]
  },
  {
@@ -811,19 +811,19 @@
   ]
  },
  {
-  "p": "En «Friends», ¿en qué trabaja Chandler al inicio de la serie?",
+  "p": "¿Cuál es el lema oficial de la Casa Lannister en «Game of Thrones»?",
   "o": [
-   "Analista de procesamiento de datos",
-   "Contador",
-   "Abogado"
+   "«¡Oye mi rugido!»",
+   "«Nuestra es la furia»",
+   "«Crecer con fuerza»"
   ]
  },
  {
-  "p": "En «Futurama», ¿cómo se llama el refresco adictivo?",
+  "p": "En «Game of Thrones», ¿quién le dice a Jon «No sabes nada, Jon Snow»?",
   "o": [
-   "Slurm",
-   "Buzz Cola",
-   "Nuka-Cola"
+   "Ygritte",
+   "Melisandre",
+   "Daenerys"
   ]
  }
 ]

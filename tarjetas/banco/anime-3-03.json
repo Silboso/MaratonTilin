@@ -10,29 +10,29 @@
  },
  {
   "deporte": true,
-  "p": "En «Supercampeones», ¿quién forma la «combinación dorada» con Oliver?",
+  "p": "En «Supercampeones», ¿desde dónde presumía Benji que nadie le podía anotar?",
   "o": [
-   "Tom Misaki",
-   "Benji Price",
-   "Julian Ross"
+   "Desde fuera del área",
+   "Desde el área chica",
+   "Desde el punto penal"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Haikyuu!!», ¿cómo le dicen a Oikawa?",
+  "p": "En «Hajime no Ippo», ¿de qué país viene el boxeador Volg?",
   "o": [
-   "El Gran Rey",
-   "El Rey de la Cancha",
-   "El Pequeño Gigante"
+   "Rusia",
+   "Alemania",
+   "Polonia"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Kuroko no Basket», ¿quién encesta desde cualquier punto de la cancha?",
+  "p": "En «Rocky», ¿qué golpea Rocky como costal en el trabajo de Paulie?",
   "o": [
-   "Shintaro Midorima",
-   "Ryota Kise",
-   "Atsushi Murasakibara"
+   "Reses congeladas",
+   "Llantas de camión",
+   "Costales de harina"
   ]
  },
  {
@@ -60,11 +60,11 @@
   ]
  },
  {
-  "p": "En «Naruto», ¿qué quería Sasuke al principio?",
+  "p": "En «Viernes 13» (1980), ¿quién es el asesino del campamento?",
   "o": [
-   "Vengar a su clan",
-   "Ser Hokage",
-   "Encontrar a su papá"
+   "La mamá de Jason",
+   "Jason Voorhees",
+   "El cocinero del campamento"
   ]
  },
  {
@@ -124,11 +124,11 @@
   ]
  },
  {
-  "p": "En «Code Geass», ¿quién le da el Geass a Lelouch?",
+  "p": "En «Piratas del Caribe», ¿hacia dónde apunta la brújula de Jack Sparrow?",
   "o": [
-   "C.C.",
-   "V.V.",
-   "Suzaku"
+   "A lo que más deseas",
+   "Al norte verdadero",
+   "Al tesoro más cercano"
   ]
  },
  {
@@ -156,11 +156,11 @@
   ]
  },
  {
-  "p": "¿Quién dirigió «El viaje de Chihiro»?",
+  "p": "En «Y tu mamá también», ¿cómo se llama la playa a la que van los tres?",
   "o": [
-   "Hayao Miyazaki",
-   "Isao Takahata",
-   "Makoto Shinkai"
+   "Boca del Cielo",
+   "Puerto Escondido",
+   "Playa del Carmen"
   ]
  },
  {
@@ -172,11 +172,11 @@
   ]
  },
  {
-  "p": "En «Grandes héroes», ¿cómo se llama el robot inflable de Hiro?",
+  "p": "En «Jurassic Park», ¿qué personaje dice «La vida se abre camino»?",
   "o": [
-   "Baymax",
-   "Wall-E",
-   "Bender"
+   "Ian Malcolm",
+   "Alan Grant",
+   "John Hammond"
   ]
  },
  {

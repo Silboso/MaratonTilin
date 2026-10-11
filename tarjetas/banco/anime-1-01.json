@@ -1,47 +1,47 @@
 [
  {
   "deporte": true,
-  "p": "En «Supercampeones», ¿cómo se llama el portero amigo y rival de Oliver?",
+  "p": "En «Haikyuu!!», ¿qué tiene de especial Shoyo Hinata?",
   "o": [
-   "Benji Price",
-   "Steve Hyuga",
-   "Tom Misaki"
+   "Es bajito pero salta muchísimo",
+   "Es enorme pero no sabe saltar",
+   "Es altísimo pero muy lento"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Space Jam» (1996), ¿qué estrella de la NBA juega con Bugs Bunny?",
+  "p": "¿Qué deporte jugaba tan bien Forrest Gump que lo mandaron a China?",
   "o": [
-   "Michael Jordan",
-   "LeBron James",
-   "Shaquille O'Neal"
+   "Ping pong",
+   "Tenis",
+   "Bádminton"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué jugador de la NBA protagoniza «Space Jam: Una nueva era»?",
+  "p": "En «Space Jam», ¿cómo se llama la conejita que juega en el equipo de Bugs?",
   "o": [
-   "LeBron James",
-   "Stephen Curry",
-   "Kobe Bryant"
+   "Lola Bunny",
+   "Lucy Bunny",
+   "Bella Bunny"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Space Jam», ¿cómo se llama el equipo de los Looney Tunes?",
+  "p": "En «Space Jam», ¿a qué deporte se había cambiado Michael Jordan?",
   "o": [
-   "Tune Squad",
-   "Monstars",
-   "Looney Stars"
+   "Béisbol",
+   "Fútbol americano",
+   "Tenis"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Karate Kid», ¿qué le pone a hacer el señor Miyagi a Daniel con los autos?",
+  "p": "¿Qué actor interpreta a Brian O'Conner en «Rápidos y Furiosos»?",
   "o": [
-   "Dar cera, pulir cera",
-   "Cambiarles las llantas",
-   "Pintarlos de rojo"
+   "Paul Walker",
+   "Vin Diesel",
+   "Jason Statham"
   ]
  },
  {
@@ -55,38 +55,38 @@
  },
  {
   "deporte": true,
-  "p": "En «Cars», ¿cómo se llama la grúa oxidada mejor amigo de Rayo McQueen?",
+  "p": "En «Cars», ¿de quién se enamora Rayo McQueen?",
   "o": [
-   "Mate",
-   "Doc Hudson",
-   "Guido"
+   "Sally",
+   "Flo",
+   "Holley"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Cars», ¿en qué pueblo se queda varado Rayo McQueen?",
+  "p": "¿Qué Pokémon pelea con guantes de box?",
   "o": [
-   "Radiador Springs",
-   "Motor City",
-   "Villa Pistón"
+   "Hitmonchan",
+   "Hitmonlee",
+   "Machamp"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué deporte juegan en «Haikyuu!!»?",
+  "p": "En «Kuroko no Basket», ¿de qué color tiene el pelo Tetsuya Kuroko?",
   "o": [
-   "Voleibol",
-   "Básquetbol",
-   "Tenis"
+   "Azul claro",
+   "Rojo",
+   "Amarillo"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué deporte juegan en «Kuroko no Basket»?",
+  "p": "En «Blue Lock», ¿en qué posición juegan todos los seleccionados?",
   "o": [
-   "Básquetbol",
-   "Béisbol",
-   "Voleibol"
+   "Delanteros",
+   "Porteros",
+   "Defensas"
   ]
  },
  {
@@ -100,11 +100,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué deporte practica Ippo Makunouchi en «Hajime no Ippo»?",
+  "p": "¿De qué país es Yuri Katsuki, el protagonista de «Yuri!!! on Ice»?",
   "o": [
-   "Box",
-   "Karate",
-   "Lucha libre"
+   "Japón",
+   "Rusia",
+   "Canadá"
   ]
  },
  {
@@ -118,29 +118,29 @@
  },
  {
   "deporte": true,
-  "p": "En «Shaolin Soccer», ¿qué combinan con el fútbol?",
+  "p": "¿Qué luchador mexicano hizo películas peleando contra momias y vampiros?",
   "o": [
-   "Kung fu",
-   "Karate",
-   "Sumo"
+   "El Santo",
+   "Místico",
+   "Rey Mysterio"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Rápidos y Furiosos», ¿qué palabra repite siempre Toretto?",
+  "p": "¿Qué luchador de la WWE interpreta a Drax en «Guardianes de la Galaxia»?",
   "o": [
-   "Familia",
-   "Velocidad",
-   "Respeto"
+   "Dave Bautista",
+   "John Cena",
+   "Dwayne Johnson"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué deporte practican en «Yuri!!! on Ice»?",
+  "p": "¿Qué máscara deportiva usa Jason Voorhees en «Viernes 13»?",
   "o": [
-   "Patinaje artístico",
-   "Hockey",
-   "Esquí"
+   "Una de hockey",
+   "Una de esgrima",
+   "Una de cácher"
   ]
  },
  {
@@ -194,19 +194,19 @@
   ]
  },
  {
-  "p": "¿De qué color se vuelve el pelo de Goku en Súper Saiyajin (el primero)?",
+  "p": "En «Frieren», ¿qué es la maga protagonista?",
   "o": [
-   "Dorado",
-   "Azul",
-   "Rojo"
+   "Una elfa",
+   "Una humana",
+   "Una enana"
   ]
  },
  {
-  "p": "¿Qué maestro de Goku vive en Kame House?",
+  "p": "¿Qué maestro de Goku es un viejito que vive en una isla?",
   "o": [
    "El Maestro Roshi",
    "Kaio-sama",
-   "Piccolo"
+   "Kami-sama"
   ]
  },
  {
@@ -290,11 +290,11 @@
   ]
  },
  {
-  "p": "En «Pokémon», ¿de qué pueblo es Ash?",
+  "p": "En «Pokémon», ¿de dónde es Ash?",
   "o": [
    "Pueblo Paleta",
-   "Ciudad Verde",
-   "Ciudad Celeste"
+   "Pueblo Lavanda",
+   "Pueblo Primavera"
   ]
  },
  {
@@ -322,11 +322,11 @@
   ]
  },
  {
-  "p": "¿En qué evoluciona Pikachu con una Piedra Trueno?",
+  "p": "En «Bleach», ¿con qué arma pelea Ichigo Kurosaki?",
   "o": [
-   "Raichu",
-   "Pichu",
-   "Electabuzz"
+   "Una espada",
+   "Una guadaña",
+   "Un arco"
   ]
  },
  {
@@ -338,11 +338,11 @@
   ]
  },
  {
-  "p": "En «Digimon», ¿qué aparato usan los niños elegidos para que su Digimon evolucione?",
+  "p": "En «Digimon Adventure», ¿cuál es el Digimon compañero de T.K.?",
   "o": [
-   "El Digivice",
-   "La Pokédex",
-   "El Omnitrix"
+   "Patamon",
+   "Gomamon",
+   "Palmon"
   ]
  },
  {
@@ -394,11 +394,11 @@
   ]
  },
  {
-  "p": "En «Evangelion», ¿qué pilotean los protagonistas?",
+  "p": "En «Evangelion», ¿cómo se llaman los monstruos gigantes que atacan?",
   "o": [
-   "Robots gigantes llamados EVA",
-   "Naves espaciales",
-   "Dragones mecánicos"
+   "Ángeles",
+   "Titanes",
+   "Kaijus"
   ]
  },
  {
@@ -434,11 +434,11 @@
   ]
  },
  {
-  "p": "En «Demon Slayer», ¿en qué se convierte la hermana de Tanjiro?",
+  "p": "En «Demon Slayer», ¿qué les pasa a los demonios con la luz del sol?",
   "o": [
-   "En demonio",
-   "En pilar",
-   "En zorro"
+   "Mueren",
+   "Se hacen más fuertes",
+   "Se quedan dormidos"
   ]
  },
  {
@@ -450,11 +450,11 @@
   ]
  },
  {
-  "p": "En «Chainsaw Man», ¿qué le sale a Denji de la cabeza al transformarse?",
+  "p": "En «Chainsaw Man», ¿cómo se llama el perrito demonio de Denji?",
   "o": [
-   "Una motosierra",
-   "Un taladro",
-   "Una espada"
+   "Pochita",
+   "Meowy",
+   "Kon"
   ]
  },
  {
@@ -506,27 +506,27 @@
   ]
  },
  {
-  "p": "En «Sword Art Online», ¿qué pasa si mueres dentro del juego?",
+  "p": "En «Tokyo Ghoul», ¿de qué se alimentan los ghouls?",
   "o": [
-   "Mueres en la vida real",
-   "Pierdes tus objetos",
-   "Reinicias el nivel"
+   "De carne humana",
+   "De sangre de animales",
+   "De almas"
   ]
  },
  {
-  "p": "En «Tensei Slime», ¿en qué reencarna el protagonista?",
+  "p": "En «Sword Art Online», ¿cómo se llama la novia de Kirito?",
   "o": [
-   "En un slime",
-   "En una espada",
-   "En un dragón"
+   "Asuna",
+   "Sinon",
+   "Leafa"
   ]
  },
  {
-  "p": "En «Shield Hero», ¿qué arma le toca a Naofumi?",
+  "p": "¿Cómo se llama el protagonista de «Solo Leveling»?",
   "o": [
-   "Un escudo",
-   "Una lanza",
-   "Un arco"
+   "Sung Jin-Woo",
+   "Yoo Jin-Ho",
+   "Go Gun-Hee"
   ]
  },
  {
@@ -538,11 +538,11 @@
   ]
  },
  {
-  "p": "¿Qué es Inuyasha?",
+  "p": "En «My Hero Academia», ¿cómo se llama la escuela de héroes de Deku?",
   "o": [
-   "Mitad demonio",
-   "Un humano",
-   "Un zorro espíritu"
+   "La U.A.",
+   "La Shiketsu",
+   "La Ketsubutsu"
   ]
  },
  {
@@ -658,11 +658,11 @@
   ]
  },
  {
-  "p": "En «Intensa-Mente», ¿qué emoción es azul?",
+  "p": "En «Encanto», ¿qué don tiene Luisa?",
   "o": [
-   "Tristeza",
-   "Temor",
-   "Desagrado"
+   "Superfuerza",
+   "Oír todo",
+   "Cambiar de forma"
   ]
  },
  {

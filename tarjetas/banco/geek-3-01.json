@@ -82,7 +82,7 @@
  },
  {
   "deporte": true,
-  "p": "¿Cómo se llamaba el balón del Mundial de Brasil 2014?",
+  "p": "¿Cómo se llamaba el balón oficial del Mundial 2014?",
   "o": [
    "Brazuca",
    "Jabulani",
@@ -109,7 +109,7 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué inteligencia artificial de Google venció al campeón mundial de Go?",
+  "p": "¿Qué IA de Google DeepMind venció en 2016 al surcoreano Lee Sedol?",
   "o": [
    "AlphaGo",
    "Deep Blue",
@@ -154,11 +154,11 @@
  },
  {
   "deporte": true,
-  "p": "En ajedrez, ¿cuántas piezas tiene cada jugador al empezar?",
+  "p": "¿En qué año ganó Checo Pérez el Gran Premio de Mónaco?",
   "o": [
-   "16",
-   "12",
-   "20"
+   "2022",
+   "2021",
+   "2023"
   ]
  },
  {
@@ -194,19 +194,19 @@
   ]
  },
  {
-  "p": "¿Cuál fue la primera película del Universo Cinematográfico de Marvel?",
+  "p": "¿Qué actor interpretó a Hulk en «El increíble Hulk» (2008)?",
   "o": [
-   "Iron Man (2008)",
-   "El Increíble Hulk",
-   "Capitán América: El primer vengador"
+   "Edward Norton",
+   "Eric Bana",
+   "Mark Ruffalo"
   ]
  },
  {
-  "p": "¿Qué actor interpreta a Loki en el UCM?",
+  "p": "¿Qué actor interpretó a Bane en «El caballero de la noche asciende»?",
   "o": [
-   "Tom Hiddleston",
-   "Chris Hemsworth",
-   "Benedict Cumberbatch"
+   "Tom Hardy",
+   "Cillian Murphy",
+   "Aaron Eckhart"
   ]
  },
  {
@@ -242,11 +242,11 @@
   ]
  },
  {
-  "p": "¿Qué creador de Marvel aparecía en cameos en casi todas sus películas?",
+  "p": "¿En qué lugar tiene su museo el Coleccionista en «Guardianes de la Galaxia»?",
   "o": [
-   "Stan Lee",
-   "Jack Kirby",
-   "Kevin Feige"
+   "Knowhere",
+   "Xandar",
+   "Sakaar"
   ]
  },
  {
@@ -258,19 +258,19 @@
   ]
  },
  {
-  "p": "¿Cuál es el nombre kryptoniano de Superman?",
+  "p": "¿Qué villano de DC gobierna el planeta Apokolips?",
   "o": [
-   "Kal-El",
-   "Jor-El",
-   "Zod"
+   "Darkseid",
+   "Brainiac",
+   "Sinestro"
   ]
  },
  {
-  "p": "¿Cómo se llama la isla de las amazonas de la Mujer Maravilla?",
+  "p": "¿Qué monstruo mató a Superman en los cómics de 1992?",
   "o": [
-   "Themyscira",
-   "Atlantis",
-   "Krypton"
+   "Doomsday",
+   "Bizarro",
+   "Metallo"
   ]
  },
  {
@@ -306,11 +306,11 @@
   ]
  },
  {
-  "p": "¿Cuál es el apellido de Darth Sidious?",
+  "p": "¿Quién fue el maestro Jedi de Qui-Gon Jinn?",
   "o": [
-   "Palpatine",
-   "Dooku",
-   "Tarkin"
+   "El Conde Dooku",
+   "Yoda",
+   "Mace Windu"
   ]
  },
  {
@@ -386,19 +386,19 @@
   ]
  },
  {
-  "p": "¿Qué personaje de Harry Potter se transforma en rata?",
+  "p": "¿Qué forma tiene el patronus de Hermione?",
   "o": [
-   "Peter Pettigrew",
-   "Sirius Black",
-   "Remus Lupin"
+   "Una nutria",
+   "Un gato",
+   "Un conejo"
   ]
  },
  {
-  "p": "¿En qué animal se transforma Sirius Black?",
+  "p": "¿De qué fundador de Hogwarts era la copa que se volvió Horrocrux?",
   "o": [
-   "En un perro negro",
-   "En un gato",
-   "En un lobo"
+   "De Helga Hufflepuff",
+   "De Rowena Ravenclaw",
+   "De Salazar Slytherin"
   ]
  },
  {
@@ -410,11 +410,11 @@
   ]
  },
  {
-  "p": "¿Qué profesor de Defensa contra las Artes Oscuras es hombre lobo?",
+  "p": "¿Qué mortífago se hizo pasar por Ojoloco Moody con poción multijugos?",
   "o": [
-   "Remus Lupin",
+   "Barty Crouch Jr.",
    "Quirinus Quirrell",
-   "Alastor Moody"
+   "Gilderoy Lockhart"
   ]
  },
  {
@@ -434,11 +434,11 @@
   ]
  },
  {
-  "p": "¿Cuántos anillos de poder se les dieron a los enanos?",
+  "p": "¿En qué antiguo reino enano está la tumba de Balin?",
   "o": [
-   "7",
-   "9",
-   "3"
+   "Moria",
+   "Erebor",
+   "Isengard"
   ]
  },
  {
@@ -458,19 +458,19 @@
   ]
  },
  {
-  "p": "¿Quién escribió «El Señor de los Anillos»?",
+  "p": "¿Cómo se llama el padre de Aragorn?",
   "o": [
-   "J. R. R. Tolkien",
-   "C. S. Lewis",
-   "George R. R. Martin"
+   "Arathorn",
+   "Isildur",
+   "Elendil"
   ]
  },
  {
-  "p": "¿Cómo se llama la araña gigante que pica a Frodo?",
+  "p": "¿Cómo se llama el rey de Rohan en «El Señor de los Anillos»?",
   "o": [
-   "Ella-Laraña",
-   "Aragog",
-   "Ungoliant"
+   "Théoden",
+   "Denethor",
+   "Elrond"
   ]
  },
  {
@@ -594,11 +594,11 @@
   ]
  },
  {
-  "p": "¿Qué navegador venía con Windows antes de Edge?",
+  "p": "¿Qué buscador de los 90 tenía un mayordomo de mascota?",
   "o": [
-   "Internet Explorer",
-   "Netscape",
-   "Firefox"
+   "Ask Jeeves",
+   "AltaVista",
+   "Lycos"
   ]
  },
  {
@@ -626,11 +626,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el primer video que se subió a YouTube?",
+  "p": "¿Quién es considerado el creador de la World Wide Web?",
   "o": [
-   "Me at the zoo",
-   "Charlie bit my finger",
-   "Evolution of Dance"
+   "Tim Berners-Lee",
+   "Vint Cerf",
+   "Bill Gates"
   ]
  },
  {
@@ -642,19 +642,19 @@
   ]
  },
  {
-  "p": "¿Qué lenguaje se usa para darle estilo y colores a una página web?",
+  "p": "¿Qué empresa de telecomunicaciones desarrolló el Bluetooth?",
   "o": [
-   "CSS",
-   "SQL",
-   "Python"
+   "Ericsson",
+   "Nokia",
+   "Motorola"
   ]
  },
  {
-  "p": "¿Qué rey vikingo le dio nombre al Bluetooth?",
+  "p": "¿Cómo se llamaba la red militar de EE. UU. antecesora de internet?",
   "o": [
-   "Harald Diente Azul",
-   "Ragnar Lothbrok",
-   "Erik el Rojo"
+   "ARPANET",
+   "Ethernet",
+   "Usenet"
   ]
  },
  {
@@ -682,11 +682,11 @@
   ]
  },
  {
-  "p": "¿Cuál es el símbolo químico del oro?",
+  "p": "¿Quién descubrió con su telescopio cuatro lunas de Júpiter en 1610?",
   "o": [
-   "Au",
-   "Ag",
-   "Or"
+   "Galileo Galilei",
+   "Nicolás Copérnico",
+   "Johannes Kepler"
   ]
  },
  {
@@ -698,19 +698,19 @@
   ]
  },
  {
-  "p": "¿Cuántos cromosomas tiene una persona normalmente?",
+  "p": "¿Qué tipo de sangre es el donador universal?",
   "o": [
-   "46",
-   "23",
-   "48"
+   "O negativo",
+   "AB positivo",
+   "A negativo"
   ]
  },
  {
-  "p": "¿Dónde cayó el meteorito que acabó con los dinosaurios?",
+  "p": "¿Cómo se llama el cráter del meteorito que extinguió a los dinosaurios?",
   "o": [
-   "En Yucatán",
-   "En Siberia",
-   "En Australia"
+   "Chicxulub",
+   "Tunguska",
+   "Barringer"
   ]
  },
  {
@@ -738,19 +738,19 @@
   ]
  },
  {
-  "p": "¿Cómo se llama la serpiente gigante que rodea Midgard en «God of War»?",
+  "p": "En «God of War» (2018), ¿cómo se llama la mamá de Atreus?",
   "o": [
-   "Jörmungandr",
-   "Níðhöggr",
-   "Fafnir"
+   "Faye",
+   "Freya",
+   "Sif"
   ]
  },
  {
-  "p": "¿Cuántas cabezas tiene Cerbero?",
+  "p": "En «God of War III», ¿sobre qué titán escala Kratos el Olimpo al inicio?",
   "o": [
-   "3",
-   "2",
-   "7"
+   "Gaia",
+   "Cronos",
+   "Atlas"
   ]
  },
  {
@@ -778,11 +778,11 @@
   ]
  },
  {
-  "p": "¿Qué titán griego fue castigado a cargar el cielo?",
+  "p": "En «Percy Jackson», ¿qué criatura es Grover, el mejor amigo de Percy?",
   "o": [
-   "Atlas",
-   "Cronos",
-   "Prometeo"
+   "Un sátiro",
+   "Un centauro",
+   "Un cíclope"
   ]
  },
  {
@@ -794,19 +794,19 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el puente de arcoíris que lleva a Asgard?",
+  "p": "¿Qué criatura japonesa del agua, con un plato en la cabeza, sale en muchos animes?",
   "o": [
-   "Bifröst",
-   "Yggdrasil",
-   "Valhalla"
+   "Kappa",
+   "Tengu",
+   "Oni"
   ]
  },
  {
-  "p": "¿Qué empresa de Taiwán fabrica la mayoría de los chips de Apple y Nvidia?",
+  "p": "¿Qué empresa británica diseña la arquitectura de los chips de casi todos los celulares?",
   "o": [
-   "TSMC",
-   "Foxconn",
-   "Acer"
+   "ARM",
+   "Intel",
+   "Qualcomm"
   ]
  },
  {
@@ -826,11 +826,11 @@
   ]
  },
  {
-  "p": "¿Quién creó el sistema operativo Linux?",
+  "p": "¿Qué animal es Tux, la mascota de Linux?",
   "o": [
-   "Linus Torvalds",
-   "Richard Stallman",
-   "Bill Gates"
+   "Un pingüino",
+   "Un zorro",
+   "Un elefante"
   ]
  },
  {
@@ -866,27 +866,27 @@
   ]
  },
  {
-  "p": "¿Qué misión llevó por primera vez a humanos a la Luna?",
+  "p": "¿Quién fue el segundo hombre en pisar la Luna?",
   "o": [
-   "Apolo 11",
-   "Apolo 13",
-   "Géminis 7"
+   "Buzz Aldrin",
+   "Michael Collins",
+   "John Glenn"
   ]
  },
  {
-  "p": "¿Cuál es el nombre real del Ant-Man de Paul Rudd?",
+  "p": "¿Cómo se llama la reina de Wakanda, mamá de T'Challa?",
   "o": [
-   "Scott Lang",
-   "Hank Pym",
-   "Darren Cross"
+   "Ramonda",
+   "Okoye",
+   "Nakia"
   ]
  },
  {
-  "p": "¿En qué ciudad vive Flash?",
+  "p": "¿Cuál es el nombre real del villano velocista amarillo enemigo de Flash?",
   "o": [
-   "Ciudad Central",
-   "Ciudad Estrella",
-   "Ciudad Costera"
+   "Eobard Thawne",
+   "Leonard Snart",
+   "Mick Rory"
   ]
  },
  {

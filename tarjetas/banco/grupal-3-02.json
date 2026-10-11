@@ -1,11 +1,11 @@
 [
  {
   "deporte": true,
-  "p": "¿Cómo se apellida el piloto mexicano «Pato» de IndyCar?",
+  "p": "¿Qué luchador apodado «Latino Heat» fue campeón de la WWE en 2004?",
   "o": [
-   "O'Ward",
-   "Pérez",
-   "Gutiérrez"
+   "Eddie Guerrero",
+   "Rey Mysterio",
+   "Alberto del Río"
   ]
  },
  {
@@ -19,11 +19,11 @@
  },
  {
   "deporte": true,
-  "p": "¿En qué año ganó México su primer Mundial Sub-17?",
+  "p": "¿En qué superficie se juega hoy el Abierto Mexicano de Tenis de Acapulco?",
   "o": [
-   "2005",
-   "2011",
-   "1999"
+   "Cancha dura",
+   "Arcilla",
+   "Pasto"
   ]
  },
  {
@@ -44,43 +44,43 @@
   ]
  },
  {
-  "p": "¿De qué estado es la «carne en su jugo»?",
+  "p": "¿Qué antojito poblano son tortillitas fritas bañadas en salsa verde o roja?",
   "o": [
-   "Jalisco",
-   "Nuevo León",
-   "Sonora"
+   "Chalupas",
+   "Molotes",
+   "Cemitas"
   ]
  },
  {
-  "p": "¿De qué estado son las enchiladas potosinas?",
+  "p": "¿Qué hierba se le pone a los frijoles de olla y a los esquites?",
   "o": [
-   "San Luis Potosí",
-   "Puebla",
-   "Michoacán"
+   "Epazote",
+   "Hoja santa",
+   "Pápalo"
   ]
  },
  {
-  "p": "¿Qué dulce típico de Puebla es de camote?",
+  "p": "¿Qué empresa estadounidense es dueña de Gamesa?",
   "o": [
-   "Camotes",
-   "Jamoncillos",
-   "Cocadas"
+   "PepsiCo",
+   "Nestlé",
+   "Mondelez"
   ]
  },
  {
-  "p": "¿Qué marca de chocolate de mesa tiene a una abuelita en la caja?",
+  "p": "¿Cómo se llama el conejo de Nesquik?",
   "o": [
-   "Abuelita",
-   "Ibarra",
-   "Mayordomo"
+   "Quicky",
+   "Tambor",
+   "Bugsy"
   ]
  },
  {
-  "p": "¿Qué actor interpretaba a Don Ramón?",
+  "p": "¿Qué actriz protagonizó la telenovela «Teresa» de 2010?",
   "o": [
-   "Ramón Valdés",
-   "Rubén Aguirre",
-   "Edgar Vivar"
+   "Angelique Boyer",
+   "Maite Perroni",
+   "Anahí"
   ]
  },
  {
@@ -124,19 +124,19 @@
   ]
  },
  {
-  "p": "¿Qué insurgente dijo «La patria es primero»?",
+  "p": "En «Ratatouille», ¿quién decía «Cualquiera puede cocinar»?",
   "o": [
-   "Vicente Guerrero",
-   "Miguel Hidalgo",
-   "José María Morelos"
+   "Gusteau",
+   "Remy",
+   "Anton Ego"
   ]
  },
  {
-  "p": "¿En qué película se dice por primera vez «Hasta la vista, baby»?",
+  "p": "En «The Office», ¿quién dice «Bears. Beets. Battlestar Galactica»?",
   "o": [
-   "Terminator 2",
-   "Terminator",
-   "Robocop"
+   "Jim Halpert",
+   "Dwight Schrute",
+   "Andy Bernard"
   ]
  },
  {
@@ -148,11 +148,11 @@
   ]
  },
  {
-  "p": "¿Qué servicio de Microsoft reemplazó a MSN Messenger en 2013?",
+  "p": "¿Qué marca usaba Telmex para su internet por módem telefónico?",
   "o": [
-   "Skype",
-   "Teams",
-   "Outlook"
+   "Prodigy",
+   "Terra",
+   "Megacable"
   ]
  },
  {
@@ -188,11 +188,11 @@
   ]
  },
  {
-  "p": "¿Qué reto viral de 2019 consistía en destapar una botella de una patada?",
+  "p": "¿Qué celulares eran famosos por usarse como radio con un «pip-pip»?",
   "o": [
-   "Bottle Cap Challenge",
-   "Bottle Flip",
-   "Ice Bucket Challenge"
+   "Nextel",
+   "BlackBerry",
+   "Sony Ericsson"
   ]
  }
 ]

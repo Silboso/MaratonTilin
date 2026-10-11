@@ -46,11 +46,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué escudería de Fórmula 1 tiene un caballo en su logo?",
+  "p": "¿Qué escudería de la F1 lleva un caballo negro en su escudo?",
   "o": [
    "Ferrari",
-   "Lamborghini",
-   "Porsche"
+   "McLaren",
+   "Williams"
   ]
  },
  {
@@ -162,11 +162,11 @@
   ]
  },
  {
-  "p": "¿Qué superhéroe es Peter Parker?",
+  "p": "¿Qué actor interpreta a Thor en el UCM?",
   "o": [
-   "Spider-Man",
-   "Ant-Man",
-   "Iron Man"
+   "Chris Hemsworth",
+   "Chris Evans",
+   "Chris Pratt"
   ]
  },
  {
@@ -186,27 +186,27 @@
   ]
  },
  {
-  "p": "¿Qué superhéroe puede hacerse del tamaño de una hormiga?",
+  "p": "¿Qué villano de Spider-Man es un simbionte alienígena negro con colmillos?",
   "o": [
-   "Ant-Man",
-   "Ojo de Halcón",
-   "Falcon"
+   "Venom",
+   "Mysterio",
+   "Electro"
   ]
  },
  {
-  "p": "¿De qué país es Black Panther?",
+  "p": "¿Qué personaje de Star Wars se peina con dos chongos a los lados?",
   "o": [
-   "Wakanda",
-   "Sokovia",
-   "Latveria"
+   "La princesa Leia",
+   "Ahsoka Tano",
+   "Mon Mothma"
   ]
  },
  {
-  "p": "¿Qué es lo único que dice Groot?",
+  "p": "¿Qué integrante de los Guardianes de la Galaxia es un árbol?",
   "o": [
-   "«Yo soy Groot»",
-   "«Yo soy inevitable»",
-   "«Soy un árbol»"
+   "Groot",
+   "Drax",
+   "Rocket"
   ]
  },
  {
@@ -234,11 +234,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama la tía de Peter Parker?",
+  "p": "¿De qué color es la capa de Superman?",
   "o": [
-   "May",
-   "Martha",
-   "Mary"
+   "Roja",
+   "Azul",
+   "Negra"
   ]
  },
  {
@@ -370,27 +370,27 @@
   ]
  },
  {
-  "p": "¿En qué casa de Hogwarts queda Harry Potter?",
+  "p": "¿Qué objeto usa Harry Potter para volverse invisible?",
   "o": [
-   "Gryffindor",
-   "Slytherin",
-   "Ravenclaw"
+   "Una capa",
+   "Un anillo",
+   "Un sombrero"
   ]
  },
  {
-  "p": "¿Cómo se llama la lechuza blanca de Harry?",
+  "p": "¿Con qué tíos vive Harry Potter antes de entrar a Hogwarts?",
   "o": [
-   "Hedwig",
-   "Errol",
-   "Pigwidgeon"
+   "Los Dursley",
+   "Los Weasley",
+   "Los Malfoy"
   ]
  },
  {
-  "p": "¿Qué forma tiene la cicatriz de Harry Potter?",
+  "p": "¿Qué actor interpretó a Harry Potter en las películas?",
   "o": [
-   "Un rayo",
-   "Una estrella",
-   "Una luna"
+   "Daniel Radcliffe",
+   "Rupert Grint",
+   "Tom Felton"
   ]
  },
  {
@@ -426,11 +426,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el elfo doméstico que Harry libera con un calcetín?",
+  "p": "¿Qué personaje de «El Señor de los Anillos» le dice «mi tesoro» al Anillo?",
   "o": [
-   "Dobby",
-   "Kreacher",
-   "Winky"
+   "Gollum",
+   "Gimli",
+   "Legolas"
   ]
  },
  {
@@ -466,7 +466,7 @@
   ]
  },
  {
-  "p": "En UNO, ¿qué carta hace que el siguiente tome cuatro y te deja cambiar el color?",
+  "p": "En UNO, ¿con qué carta eliges color y además el siguiente tiene que comer cartas?",
   "o": [
    "El comodín +4",
    "El +2",
@@ -474,11 +474,11 @@
   ]
  },
  {
-  "p": "En Monopoly, ¿qué te pasa si caes en «Vaya a la cárcel»?",
+  "p": "En Monopoly, ¿qué construyes en una propiedad después de tener cuatro casas?",
   "o": [
-   "Vas directo a la cárcel",
-   "Pierdes tu turno",
-   "Pagas una multa al banco"
+   "Un hotel",
+   "Un edificio",
+   "Un castillo"
   ]
  },
  {
@@ -570,11 +570,11 @@
   ]
  },
  {
-  "p": "¿Quién es el dueño de Tesla y SpaceX?",
+  "p": "¿Cómo se llama la tablet de Apple?",
   "o": [
-   "Elon Musk",
-   "Jeff Bezos",
-   "Mark Zuckerberg"
+   "iPad",
+   "iPod",
+   "iMac"
   ]
  },
  {
@@ -586,11 +586,11 @@
   ]
  },
  {
-  "p": "¿Qué empresa desarrolla Android?",
+  "p": "¿Qué app de navegación con un logo sonriente te avisa del tráfico?",
   "o": [
-   "Google",
-   "Apple",
-   "Samsung"
+   "Waze",
+   "Google Maps",
+   "Uber"
   ]
  },
  {
@@ -610,11 +610,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el asistente de voz de Apple?",
+  "p": "¿Cómo se le dice a una foto que te tomas a ti mismo con el celular?",
   "o": [
-   "Siri",
-   "Alexa",
-   "Cortana"
+   "Selfie",
+   "Story",
+   "Meme"
   ]
  },
  {
@@ -714,19 +714,19 @@
   ]
  },
  {
-  "p": "¿Qué gritas en UNO cuando te queda una sola carta?",
+  "p": "En Serpientes y escaleras, ¿qué pasa si caes en la cabeza de una serpiente?",
   "o": [
-   "¡UNO!",
-   "¡Última!",
-   "¡Gané!"
+   "Bajas hasta su cola",
+   "Pierdes un turno",
+   "Regresas a la salida"
   ]
  },
  {
-  "p": "¿Qué marca de computadoras tiene una manzana mordida de logo?",
+  "p": "¿Qué tienda en línea tiene de logo una flecha que parece sonrisa?",
   "o": [
-   "Apple",
-   "Acer",
-   "Dell"
+   "Amazon",
+   "Mercado Libre",
+   "eBay"
   ]
  },
  {
@@ -738,19 +738,19 @@
   ]
  },
  {
-  "p": "¿Qué app se usa para pedir un auto con chofer desde el celular?",
+  "p": "¿Qué plataforma es famosa por ver transmisiones en vivo de videojuegos?",
   "o": [
-   "Uber",
-   "Rappi",
-   "Waze"
+   "Twitch",
+   "Spotify",
+   "Netflix"
   ]
  },
  {
-  "p": "¿Cómo se llama el juego de cartas coleccionables de Pokémon?",
+  "p": "En «Yu-Gi-Oh!», ¿cómo se llama el rival millonario de Yugi?",
   "o": [
-   "Pokémon TCG",
-   "Pokémon GO",
-   "Pokémon Unite"
+   "Seto Kaiba",
+   "Joey Wheeler",
+   "Tristán Taylor"
   ]
  },
  {
@@ -778,11 +778,11 @@
   ]
  },
  {
-  "p": "¿Qué villano morado busca las seis Gemas del Infinito?",
+  "p": "¿Cuál es la estrella más cercana a la Tierra?",
   "o": [
-   "Thanos",
-   "Ultron",
-   "Galactus"
+   "El Sol",
+   "Sirio",
+   "La Estrella Polar"
   ]
  },
  {
@@ -810,19 +810,19 @@
   ]
  },
  {
-  "p": "¿Qué Vengador grita «¡Vengadores, reúnanse!» en «Endgame»?",
+  "p": "¿Cómo se llaman los soldados de armadura blanca del Imperio en Star Wars?",
   "o": [
-   "Capitán America",
-   "Iron Man",
-   "Thor"
+   "Stormtroopers",
+   "Mandalorianos",
+   "Sith"
   ]
  },
  {
-  "p": "¿Cuántos libros tiene la saga principal de Harry Potter?",
+  "p": "¿Qué tienen de especial los pies de los hobbits?",
   "o": [
-   "7",
-   "8",
-   "6"
+   "Son grandes y peludos",
+   "Tienen seis dedos",
+   "Son azules"
   ]
  },
  {
@@ -858,27 +858,27 @@
   ]
  },
  {
-  "p": "¿Qué red social se usa sobre todo para buscar trabajo?",
+  "p": "¿Qué semidiós griego es famoso por su fuerza y sus doce trabajos?",
   "o": [
-   "LinkedIn",
-   "Facebook",
-   "Pinterest"
+   "Hércules",
+   "Aquiles",
+   "Perseo"
   ]
  },
  {
-  "p": "¿Cómo se llama el sistema operativo de las computadoras Mac?",
+  "p": "¿Cómo se llama la tienda de apps de los celulares Android?",
   "o": [
-   "macOS",
-   "Windows",
-   "Linux"
+   "Play Store",
+   "App Store",
+   "Microsoft Store"
   ]
  },
  {
-  "p": "En la computadora, ¿qué combinación de teclas sirve para copiar?",
+  "p": "¿Qué tipo de conector usan para cargar casi todos los celulares Android nuevos?",
   "o": [
-   "Ctrl + C",
-   "Ctrl + V",
-   "Ctrl + X"
+   "USB-C",
+   "Lightning",
+   "Micro HDMI"
   ]
  }
 ]

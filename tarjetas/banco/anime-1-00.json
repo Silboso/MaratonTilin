@@ -1,19 +1,19 @@
 [
  {
   "deporte": true,
-  "p": "En «Supercampeones», ¿cómo se llama el protagonista?",
+  "p": "En «Supercampeones», ¿qué tienen de famosas las canchas donde juegan?",
   "o": [
-   "Oliver Atom",
-   "Benji Price",
-   "Steve Hyuga"
+   "Parecen no tener fin",
+   "Son de pasto azul",
+   "Siempre están nevadas"
   ]
  },
  {
-  "p": "¿Qué estudio de animación hizo «El viaje de Chihiro»?",
+  "p": "En «Ratatouille», ¿en qué ciudad está el restaurante de Gusteau?",
   "o": [
-   "Studio Ghibli",
-   "Toei Animation",
-   "Madhouse"
+   "París",
+   "Roma",
+   "Londres"
   ]
  },
  {
@@ -98,11 +98,11 @@
  },
  {
   "deporte": true,
-  "p": "En «Cars», ¿qué número lleva Rayo McQueen?",
+  "p": "En «Initial D», ¿qué técnica usa Takumi para tomar las curvas?",
   "o": [
-   "95",
-   "43",
-   "86"
+   "El derrape",
+   "El nitro",
+   "El rebufo"
   ]
  }
 ]

@@ -100,11 +100,11 @@
  },
  {
   "deporte": true,
-  "p": "En «Gambito de dama», ¿qué juega Beth Harmon?",
+  "p": "¿Qué luchador de la WWE protagoniza la serie «Peacemaker»?",
   "o": [
-   "Ajedrez",
-   "Póker",
-   "Damas chinas"
+   "John Cena",
+   "Dave Bautista",
+   "Dwayne Johnson"
   ]
  },
  {
@@ -154,11 +154,11 @@
  },
  {
   "deporte": true,
-  "p": "En «¡Oye, Arnold!», ¿qué deporte juegan los niños en el campo de Gerald?",
+  "p": "¿Qué piloto mexicano sale en la serie de Netflix «Drive to Survive»?",
   "o": [
-   "Béisbol",
-   "Fútbol",
-   "Básquetbol"
+   "Checo Pérez",
+   "Esteban Gutiérrez",
+   "Adrián Fernández"
   ]
  },
  {
@@ -186,11 +186,11 @@
   ]
  },
  {
-  "p": "¿De qué color es Coraje, el perro cobarde?",
+  "p": "En «¡Oye, Arnold!», ¿qué forma tiene la cabeza de Arnold?",
   "o": [
-   "Rosa",
-   "Café",
-   "Blanco"
+   "De balón de americano",
+   "De huevo",
+   "De foco"
   ]
  },
  {
@@ -202,19 +202,19 @@
   ]
  },
  {
-  "p": "En «Ben 10», ¿cómo se llama el abuelo de Ben?",
+  "p": "¿Cuál es la comida favorita de Garfield?",
   "o": [
-   "Max",
-   "Frank",
-   "Carl"
+   "La lasaña",
+   "La pizza",
+   "Las hamburguesas"
   ]
  },
  {
-  "p": "En «Hora de Aventura», ¿quién gobierna el Dulce Reino?",
+  "p": "En «Hora de Aventura», ¿qué lleva Finn siempre en la cabeza?",
   "o": [
-   "La Dulce Princesa",
-   "La Princesa Flama",
-   "El Rey Helado"
+   "Un gorro de oso blanco",
+   "Una gorra roja",
+   "Un casco de vikingo"
   ]
  },
  {
@@ -234,7 +234,7 @@
   ]
  },
  {
-  "p": "En «Mansión Foster», ¿cómo se llama el amigo imaginario azul de Mac?",
+  "p": "En «Mansión Foster», ¿cómo se llama el mejor amigo imaginario de Mac?",
   "o": [
    "Bloo",
    "Eduardo",
@@ -242,11 +242,11 @@
   ]
  },
  {
-  "p": "En «Johnny Test», ¿cómo se llama el perro que habla?",
+  "p": "¿Qué peinado tiene Johnny Bravo?",
   "o": [
-   "Dukey",
-   "Scooby",
-   "Chowder"
+   "Un copete rubio",
+   "Una cresta roja",
+   "La cabeza rapada"
   ]
  },
  {
@@ -274,19 +274,19 @@
   ]
  },
  {
-  "p": "En «Un show más», ¿qué animales son Mordecai y Rigby?",
+  "p": "En «Backyardigans», ¿qué animal es Pablo?",
   "o": [
-   "Un pájaro azul y un mapache",
-   "Un perro y un gato",
-   "Un conejo y un zorro"
+   "Un pingüino",
+   "Un alce",
+   "Un hipopótamo"
   ]
  },
  {
-  "p": "En «Phineas y Ferb», ¿cómo se llama la hermana que quiere acusarlos?",
+  "p": "En «Los Padrinos Mágicos», ¿con qué conceden deseos Cosmo y Wanda?",
   "o": [
-   "Candace",
-   "Isabella",
-   "Vanessa"
+   "Con varitas mágicas",
+   "Con anillos mágicos",
+   "Con una lámpara mágica"
   ]
  },
  {
@@ -298,19 +298,19 @@
   ]
  },
  {
-  "p": "En «Kim Possible», ¿cómo se llama el mejor amigo de Kim?",
+  "p": "En «Kim Possible», ¿qué animal es Rufus?",
   "o": [
-   "Ron Imparable",
-   "Rufus",
-   "Wade"
+   "Una rata topo",
+   "Un hámster",
+   "Un ratón"
   ]
  },
  {
-  "p": "¿Qué dicen en «La casa de Mickey Mouse» para que aparezca la casa?",
+  "p": "¿Cómo se llama la mascota de Mickey Mouse?",
   "o": [
-   "«¡Miska Muska Mickey Mouse!»",
-   "«¡Abracadabra!»",
-   "«¡Toodles!»"
+   "Pluto",
+   "Fígaro",
+   "Butch"
   ]
  },
  {
@@ -338,11 +338,11 @@
   ]
  },
  {
-  "p": "En «Buena suerte, Charlie», ¿para quién graba Teddy sus videos?",
+  "p": "En «Hannah Montana», ¿qué se pone Miley para convertirse en Hannah?",
   "o": [
-   "Para su hermanita Charlie",
-   "Para su mamá",
-   "Para su novio"
+   "Una peluca rubia",
+   "Unos lentes oscuros",
+   "Una máscara"
   ]
  },
  {
@@ -378,19 +378,19 @@
   ]
  },
  {
-  "p": "¿Qué es Patricio Estrella?",
+  "p": "¿Qué animal es Patricio, el mejor amigo de Bob Esponja?",
   "o": [
    "Una estrella de mar",
    "Un pulpo",
-   "Una ardilla"
+   "Un cangrejo"
   ]
  },
  {
-  "p": "¿Cómo se llama el jefe de Bob Esponja?",
+  "p": "En «Rugrats», ¿qué guarda Tommy siempre en el pañal?",
   "o": [
-   "Don Cangrejo",
-   "Calamardo",
-   "Plankton"
+   "Un destornillador",
+   "Un chupón",
+   "Una galleta"
   ]
  },
  {
@@ -410,11 +410,11 @@
   ]
  },
  {
-  "p": "¿Qué es Danny Phantom?",
+  "p": "¿Qué actriz interpreta a Alex Russo en «Los Hechiceros de Waverly Place»?",
   "o": [
-   "Mitad fantasma",
-   "Un vampiro",
-   "Un robot"
+   "Selena Gomez",
+   "Demi Lovato",
+   "Miley Cyrus"
   ]
  },
  {
@@ -450,11 +450,11 @@
   ]
  },
  {
-  "p": "En «Avatar: la leyenda de Aang», ¿quién es el último maestro aire?",
+  "p": "En «Avatar: la leyenda de Aang», ¿cómo se llama el bisonte volador?",
   "o": [
-   "Aang",
-   "Zuko",
-   "Sokka"
+   "Appa",
+   "Momo",
+   "Naga"
   ]
  },
  {
@@ -474,11 +474,11 @@
   ]
  },
  {
-  "p": "¿Qué es Barney?",
+  "p": "En «Power Rangers», ¿cómo se llaman los robots gigantes que manejan?",
   "o": [
-   "Un dinosaurio morado",
-   "Un oso café",
-   "Un dragón verde"
+   "Zords",
+   "Droides",
+   "Titanes"
   ]
  },
  {
@@ -490,11 +490,11 @@
   ]
  },
  {
-  "p": "En «Plaza Sésamo», ¿qué come siempre el Monstruo Comegalletas?",
+  "p": "¿Qué personaje de «Victorious» interpreta Ariana Grande?",
   "o": [
-   "Galletas",
-   "Pizza",
-   "Manzanas"
+   "Cat Valentine",
+   "Jade West",
+   "Trina Vega"
   ]
  },
  {
@@ -586,11 +586,11 @@
   ]
  },
  {
-  "p": "En «The Big Bang Theory», ¿cómo se llama la vecina de Sheldon y Leonard?",
+  "p": "En «The Big Bang Theory», ¿en qué trabaja Penny al inicio de la serie?",
   "o": [
-   "Penny",
-   "Amy",
-   "Bernadette"
+   "Es mesera",
+   "Es enfermera",
+   "Es maestra"
   ]
  },
  {
@@ -642,11 +642,11 @@
   ]
  },
  {
-  "p": "En «La Casa de Papel», ¿cómo le dicen al líder de la banda?",
+  "p": "En «La Casa de Papel», ¿de qué color son los overoles de los atracadores?",
   "o": [
-   "El Profesor",
-   "Berlín",
-   "El Jefe"
+   "Rojos",
+   "Negros",
+   "Amarillos"
   ]
  },
  {
@@ -658,19 +658,19 @@
   ]
  },
  {
-  "p": "¿Quién narra «Todos odian a Chris»?",
+  "p": "¿Qué comediante es el narrador de «Todos odian a Chris»?",
   "o": [
    "Chris Rock",
-   "Will Smith",
-   "Kevin Hart"
+   "Chris Tucker",
+   "Chris Pratt"
   ]
  },
  {
-  "p": "En «How I Met Your Mother», ¿qué personaje dice «¡Legendario!»?",
+  "p": "En «Malcolm», ¿qué tiene de especial Malcolm?",
   "o": [
-   "Barney Stinson",
-   "Ted Mosby",
-   "Marshall Eriksen"
+   "Es un genio",
+   "Puede leer mentes",
+   "Es adoptado"
   ]
  },
  {
@@ -682,11 +682,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el martillo del Chapulín Colorado?",
+  "p": "¿Cuántos son los amigos protagonistas de «Friends»?",
   "o": [
-   "El Chipote Chillón",
-   "El Mazo Mágico",
-   "El Martillo Chillón"
+   "6",
+   "5",
+   "4"
   ]
  },
  {
@@ -706,11 +706,11 @@
   ]
  },
  {
-  "p": "En «Nosotros los guapos», ¿cómo se llaman los protagonistas?",
+  "p": "¿Qué actor interpreta a Luis Miguel en «Luis Miguel: la serie»?",
   "o": [
-   "El Vítor y el Albertano",
-   "El Chavo y Quico",
-   "Ludovico y Federica"
+   "Diego Boneta",
+   "Diego Luna",
+   "Gael García Bernal"
   ]
  },
  {
@@ -738,19 +738,19 @@
   ]
  },
  {
-  "p": "¿Qué medicamento toma siempre el Dr. House?",
+  "p": "En «Dr. House», ¿qué usa House para caminar?",
   "o": [
-   "Vicodin",
-   "Aspirina",
-   "Paracetamol"
+   "Un bastón",
+   "Muletas",
+   "Una silla de ruedas"
   ]
  },
  {
-  "p": "¿Cómo se llama la protagonista de «Grey's Anatomy»?",
+  "p": "¿En qué ciudad pasa «Grey's Anatomy»?",
   "o": [
-   "Meredith Grey",
-   "Cristina Yang",
-   "Izzie Stevens"
+   "Seattle",
+   "Chicago",
+   "Boston"
   ]
  },
  {
@@ -762,11 +762,11 @@
   ]
  },
  {
-  "p": "En «Prison Break», ¿qué tiene tatuado Michael Scofield?",
+  "p": "En «Prison Break», ¿qué hace Michael Scofield para que lo encierren?",
   "o": [
-   "El plano de la prisión",
-   "El nombre de su hermano",
-   "Un mapa del tesoro"
+   "Asalta un banco",
+   "Roba un auto",
+   "Choca una patrulla"
   ]
  },
  {
@@ -778,11 +778,11 @@
   ]
  },
  {
-  "p": "En «Peaky Blinders», ¿qué esconden en la gorra?",
+  "p": "¿Qué actriz protagoniza «La Reina del Sur»?",
   "o": [
-   "Navajas",
-   "Dinero",
-   "Cartas"
+   "Kate del Castillo",
+   "Ana de la Reguera",
+   "Salma Hayek"
   ]
  },
  {
@@ -802,19 +802,19 @@
   ]
  },
  {
-  "p": "En «13 Reasons Why», ¿qué deja Hannah Baker?",
+  "p": "En «El Juego del Calamar», ¿de qué color son los pants de los jugadores?",
   "o": [
-   "13 cintas",
-   "13 cartas",
-   "13 videos"
+   "Verdes",
+   "Rojos",
+   "Grises"
   ]
  },
  {
-  "p": "¿Cómo se llama la hija mayor de los Simpson?",
+  "p": "¿Qué actriz interpreta a Daenerys Targaryen en «Game of Thrones»?",
   "o": [
-   "Lisa",
-   "Maggie",
-   "Patty"
+   "Emilia Clarke",
+   "Sophie Turner",
+   "Maisie Williams"
   ]
  },
  {

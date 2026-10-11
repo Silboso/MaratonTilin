@@ -28,11 +28,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué juego de Nintendo Switch es de ejercicio con un aro?",
+  "p": "¿Qué juego de 2022 trajo de vuelta el boliche y el tenis con control de movimiento?",
   "o": [
-   "Ring Fit Adventure",
-   "Wii Fit",
-   "Just Dance"
+   "Nintendo Switch Sports",
+   "Wii Sports Club",
+   "Mario Sports Superstars"
   ]
  },
  {
@@ -44,11 +44,11 @@
   ]
  },
  {
-  "p": "¿Qué campeón de LoL es un ninja de las sombras?",
+  "p": "En Hollow Knight, ¿cómo se llama la moneda que juntas?",
   "o": [
-   "Zed",
-   "Shen",
-   "Akali"
+   "Geo",
+   "Almas",
+   "Rupias"
   ]
  },
  {
@@ -84,11 +84,11 @@
   ]
  },
  {
-  "p": "En Clash Royale, ¿cuánto elixir cuesta la Bola de Fuego?",
+  "p": "¿Contra qué alianza de alienígenas pelea el Jefe Maestro en Halo?",
   "o": [
-   "4",
-   "3",
-   "5"
+   "El Covenant",
+   "Los Locust",
+   "Los Strogg"
   ]
  },
  {
@@ -108,11 +108,11 @@
   ]
  },
  {
-  "p": "¿Qué villana de Disney es enemiga en Kingdom Hearts?",
+  "p": "¿Qué villana de Disney dirige a los villanos en el primer Kingdom Hearts?",
   "o": [
    "Maléfica",
    "Úrsula",
-   "La Reina de Corazones"
+   "Cruella de Vil"
   ]
  },
  {
@@ -164,11 +164,11 @@
   ]
  },
  {
-  "p": "En Fortnite, ¿qué va cerrando el mapa durante la partida?",
+  "p": "En Team Fortress 2, ¿qué clase carga una ametralladora gigante?",
   "o": [
-   "La tormenta",
-   "La lava",
-   "El agua"
+   "El Heavy",
+   "El Soldier",
+   "El Pyro"
   ]
  },
  {

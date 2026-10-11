@@ -49,27 +49,27 @@
   ]
  },
  {
-  "p": "En «The Office», ¿qué puesto presume Dwight Schrute?",
+  "p": "En «The Office», ¿cómo se llaman los premios que Michael entrega a sus empleados?",
   "o": [
-   "Asistente del Gerente Regional",
-   "Gerente Regional Asistente",
-   "Subgerente de Ventas"
+   "Los Dundies",
+   "Los Scotties",
+   "Los Mifflins"
   ]
  },
  {
-  "p": "En «Breaking Bad», ¿cómo se llama la cadena de pollo de Gus Fring?",
+  "p": "En «Breaking Bad», ¿con qué planta envenena Walter a Brock?",
   "o": [
-   "Los Pollos Hermanos",
-   "Pollo Loco",
-   "Pollos Fring"
+   "Lirio de los valles",
+   "Ricina",
+   "Cicuta"
   ]
  },
  {
-  "p": "En «Stranger Things», ¿qué número tiene Kali, la «hermana» de Once?",
+  "p": "En «Stranger Things», ¿quién muere protegiendo a Joyce y los niños en la temporada 2?",
   "o": [
-   "Ocho",
-   "Nueve",
-   "Doce"
+   "Bob Newby",
+   "Billy Hargrove",
+   "Barb Holland"
   ]
  }
 ]

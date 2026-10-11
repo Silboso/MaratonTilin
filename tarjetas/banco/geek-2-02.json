@@ -36,27 +36,27 @@
   ]
  },
  {
-  "p": "¿De qué reino es Thor?",
+  "p": "En «Thor: Ragnarok», ¿cómo se llama el planeta basurero donde cae Thor?",
   "o": [
-   "Asgard",
-   "Wakanda",
-   "Atlantis"
+   "Sakaar",
+   "Xandar",
+   "Vormir"
   ]
  },
  {
-  "p": "¿Cómo se llama la hermana de Thor, diosa de la muerte?",
+  "p": "¿Cómo se llaman los nueve jinetes negros que persiguen a Frodo?",
   "o": [
-   "Hela",
-   "Sif",
-   "Frigga"
+   "Los Nazgûl",
+   "Los Uruk-hai",
+   "Los trasgos"
   ]
  },
  {
-  "p": "¿Qué villano de Spider-Man tiene cuatro brazos mecánicos?",
+  "p": "¿Cómo se llama el perro de tres cabezas que cuida la piedra filosofal?",
   "o": [
-   "Doctor Octopus",
-   "El Buitre",
-   "Electro"
+   "Fluffy",
+   "Norberto",
+   "Aragog"
   ]
  },
  {
@@ -68,19 +68,19 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el escondite secreto de Batman?",
+  "p": "¿Cómo se llama el escondite de hielo de Superman en el Ártico?",
   "o": [
-   "La Baticueva",
    "La Fortaleza de la Soledad",
-   "El Santuario"
+   "La Atalaya",
+   "La Torre de los Titanes"
   ]
  },
  {
-  "p": "¿Qué villano de Batman deja acertijos?",
+  "p": "¿De qué color es el sable de luz de Mace Windu?",
   "o": [
-   "El Acertijo",
-   "El Espantapájaros",
-   "El Sombrerero Loco"
+   "Morado",
+   "Verde",
+   "Azul"
   ]
  },
  {
@@ -108,11 +108,11 @@
   ]
  },
  {
-  "p": "¿Qué espejo de Hogwarts muestra lo que más deseas?",
+  "p": "¿Qué objeto usa Hermione para ir a varias clases a la misma hora?",
   "o": [
-   "El Espejo de Oesed",
-   "El Espejo de Galadriel",
-   "El Espejo Mágico"
+   "Un giratiempo",
+   "Un traslador",
+   "Un pensadero"
   ]
  },
  {
@@ -132,19 +132,19 @@
   ]
  },
  {
-  "p": "¿Qué mago traiciona a la Comunidad del Anillo?",
+  "p": "¿Cómo se llaman los árboles que hablan y caminan en «El Señor de los Anillos»?",
   "o": [
-   "Saruman",
-   "Radagast",
-   "Gandalf"
+   "Los Ents",
+   "Los Uruk-hai",
+   "Los Istari"
   ]
  },
  {
-  "p": "¿Qué organización creó el navegador Firefox?",
+  "p": "¿Qué navegador tiene un logo circular rojo, amarillo, verde y azul?",
   "o": [
-   "Mozilla",
-   "Google",
-   "Apple"
+   "Chrome",
+   "Opera",
+   "Safari"
   ]
  },
  {
@@ -164,11 +164,11 @@
   ]
  },
  {
-  "p": "¿Qué marca coreana tiene el lema «Life's Good»?",
+  "p": "¿Qué marca china perdió las apps de Google en sus celulares por un veto de EE. UU.?",
   "o": [
-   "LG",
-   "Samsung",
-   "Hyundai"
+   "Huawei",
+   "Xiaomi",
+   "Oppo"
   ]
  },
  {

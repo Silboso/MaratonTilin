@@ -1,0 +1,132 @@
+[
+ {
+  "p": "En «Los Padrinos Mágicos», ¿cómo se llaman los padrinos de Timmy?",
+  "o": [
+   "Cosmo y Wanda",
+   "Jorgen y Poof",
+   "Juandissimo y Trixie"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el ornitorrinco de Phineas y Ferb?",
+  "o": [
+   "Perry",
+   "Pinky",
+   "Rufus"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «High School Musical», ¿qué deporte juega Troy Bolton?",
+  "o": [
+   "Básquetbol",
+   "Fútbol americano",
+   "Béisbol"
+  ]
+ },
+ {
+  "p": "En «Bob Esponja», ¿dónde trabaja Bob?",
+  "o": [
+   "El Crustáceo Cascarudo",
+   "El Balde de Carnada",
+   "La Fonda de Fondo de Bikini"
+  ]
+ },
+ {
+  "p": "¿Qué niño genio tiene un laboratorio secreto y una hermana llamada Dee Dee?",
+  "o": [
+   "Dexter",
+   "Jimmy Neutrón",
+   "Johnny Bravo"
+  ]
+ },
+ {
+  "p": "En «Stranger Things», ¿cómo se llama la niña con poderes?",
+  "o": [
+   "Once",
+   "Max",
+   "Nancy"
+  ]
+ },
+ {
+  "p": "¿En qué ciudad viven Las Chicas Superpoderosas?",
+  "o": [
+   "Saltadilla",
+   "Ciudad Gótica",
+   "Springfield"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué arte marcial practican Bob Esponja y Arenita?",
+  "o": [
+   "Karate",
+   "Kung fu",
+   "Judo"
+  ]
+ },
+ {
+  "p": "En «Hora de Aventura», ¿cómo se llama el perro mágico amigo de Finn?",
+  "o": [
+   "Jake",
+   "BMO",
+   "Gunter"
+  ]
+ },
+ {
+  "p": "En «Hannah Montana», ¿cuál es el nombre real de Hannah?",
+  "o": [
+   "Miley Stewart",
+   "Lilly Truscott",
+   "Lola Luftnagle"
+  ]
+ },
+ {
+  "p": "En la serie original de «Ben 10», ¿cómo se llama el reloj alienígena?",
+  "o": [
+   "Omnitrix",
+   "Alientrix",
+   "Megatrix"
+  ]
+ },
+ {
+  "p": "En «Los Simpson», ¿cómo se llama el bar al que va Homero?",
+  "o": [
+   "La taberna de Moe",
+   "El Kwik-E-Mart",
+   "El Krusty Burger"
+  ]
+ },
+ {
+  "p": "En «Pinky y Cerebro», ¿qué intentan hacer cada noche?",
+  "o": [
+   "Conquistar el mundo",
+   "Escapar del laboratorio",
+   "Robar todo el queso"
+  ]
+ },
+ {
+  "p": "En «Ben 10», ¿cómo se llama la prima de Ben?",
+  "o": [
+   "Gwen",
+   "Julie",
+   "Kai"
+  ]
+ },
+ {
+  "p": "En Los Simpson, ¿quién dice «Hola-holita, vecinillo»?",
+  "o": [
+   "Ned Flanders",
+   "Moe",
+   "Lenny"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el villano de «LazyTown»?",
+  "o": [
+   "Robbie Rotten",
+   "Sportacus",
+   "Pixel"
+  ]
+ }
+]

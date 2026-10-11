@@ -1,0 +1,126 @@
+[
+ {
+  "p": "¿Qué grupo musical nació de la telenovela «Rebelde»?",
+  "o": [
+   "RBD",
+   "Kabah",
+   "OV7"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «In the End» y «Numb»?",
+  "o": [
+   "Linkin Park",
+   "Evanescence",
+   "Green Day"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quién canta «Waka Waka», la canción del Mundial 2010?",
+  "o": [
+   "Shakira",
+   "Jennifer Lopez",
+   "Pitbull"
+  ]
+ },
+ {
+  "p": "¿Qué grupo de K-pop canta «Dynamite»?",
+  "o": [
+   "BTS",
+   "EXO",
+   "Stray Kids"
+  ]
+ },
+ {
+  "p": "¿De qué anime es opening «Blue Bird» de Ikimonogakari?",
+  "o": [
+   "Naruto Shippuden",
+   "Bleach",
+   "Fullmetal Alchemist"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quién cantó «La Copa de la Vida» para el Mundial de Francia 98?",
+  "o": [
+   "Ricky Martin",
+   "Enrique Iglesias",
+   "Chayanne"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Thriller»?",
+  "o": [
+   "Michael Jackson",
+   "Prince",
+   "Lionel Richie"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Bad Romance» y «Poker Face»?",
+  "o": [
+   "Lady Gaga",
+   "Katy Perry",
+   "Rihanna"
+  ]
+ },
+ {
+  "p": "¿Qué banda mexicana canta «Rayando el sol» y «Labios compartidos»?",
+  "o": [
+   "Maná",
+   "Reik",
+   "Sin Bandera"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Smells Like Teen Spirit»?",
+  "o": [
+   "Nirvana",
+   "Pearl Jam",
+   "Foo Fighters"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la cantante Vocaloid de coletas color turquesa?",
+  "o": [
+   "Hatsune Miku",
+   "Kagamine Rin",
+   "Megurine Luka"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué canción de Queen se corea en los estadios con el «pum, pum, clap»?",
+  "o": [
+   "We Will Rock You",
+   "We Are the Champions",
+   "Don't Stop Me Now"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Shape of You»?",
+  "o": [
+   "Ed Sheeran",
+   "Shawn Mendes",
+   "Harry Styles"
+  ]
+ },
+ {
+  "p": "¿Con qué canción de Rick Astley te hacen el «Rickroll»?",
+  "o": [
+   "Never Gonna Give You Up",
+   "Together Forever",
+   "Take On Me"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué canción de «Rocky III» se volvió el himno para entrenar?",
+  "o": [
+   "Eye of the Tiger",
+   "The Final Countdown",
+   "We Are the Champions"
+  ]
+ }
+]

@@ -1,0 +1,108 @@
+[
+ {
+  "deporte": true,
+  "p": "En «Supercampeones», ¿cómo se llama el protagonista?",
+  "o": [
+   "Oliver Atom",
+   "Benji Price",
+   "Steve Hyuga"
+  ]
+ },
+ {
+  "p": "¿Qué estudio de animación hizo «El viaje de Chihiro»?",
+  "o": [
+   "Studio Ghibli",
+   "Toei Animation",
+   "Madhouse"
+  ]
+ },
+ {
+  "p": "En «Coco» de Pixar, ¿cómo se llama el xoloitzcuintle de Miguel?",
+  "o": [
+   "Dante",
+   "Pepita",
+   "Chicharrón"
+  ]
+ },
+ {
+  "p": "En «One Piece», ¿qué sueña ser Monkey D. Luffy?",
+  "o": [
+   "El Rey de los Piratas",
+   "Almirante de la Marina",
+   "El mejor espadachín del mundo"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿a qué equipo villano pertenecen Jessie y James?",
+  "o": [
+   "Equipo Rocket",
+   "Equipo Magma",
+   "Equipo Galaxia"
+  ]
+ },
+ {
+  "p": "¿En qué película Eugenio Derbez cría a una niña en Los Ángeles?",
+  "o": [
+   "No se aceptan devoluciones",
+   "Nosotros los Nobles",
+   "¿Qué culpa tiene el niño?"
+  ]
+ },
+ {
+  "p": "¿Qué película de 1997 con Jack y Rose ganó 11 premios Óscar?",
+  "o": [
+   "Titanic",
+   "Armageddon",
+   "Pearl Harbor"
+  ]
+ },
+ {
+  "p": "En «Attack on Titan», ¿cuál es el apellido de Eren?",
+  "o": [
+   "Jaeger",
+   "Ackerman",
+   "Arlert"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿qué bestia con cola está sellada dentro de Naruto?",
+  "o": [
+   "El Kyubi (nueve colas)",
+   "Shukaku (una cola)",
+   "El Hachibi (ocho colas)"
+  ]
+ },
+ {
+  "p": "En «Dragon Ball Z», ¿quién es el príncipe de los Saiyajin?",
+  "o": [
+   "Vegeta",
+   "Goku",
+   "Raditz"
+  ]
+ },
+ {
+  "p": "En «Konosuba», ¿cuál es el único hechizo que usa Megumin?",
+  "o": [
+   "Explosión",
+   "Bola de fuego",
+   "Rayo"
+  ]
+ },
+ {
+  "p": "En «Shrek 2», ¿cómo se llama el reino de los papás de Fiona?",
+  "o": [
+   "Muy Muy Lejano",
+   "Duloc",
+   "Encantia"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Cars», ¿qué número lleva Rayo McQueen?",
+  "o": [
+   "95",
+   "43",
+   "86"
+  ]
+ }
+]

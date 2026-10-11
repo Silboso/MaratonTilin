@@ -1,0 +1,76 @@
+[
+ {
+  "p": "¿Qué equipo ganó la primera temporada de la Overwatch League (2018)?",
+  "o": [
+   "London Spitfire",
+   "Philadelphia Fusion",
+   "San Francisco Shock"
+  ]
+ },
+ {
+  "p": "¿Qué equipo ganó el primer Mundial de League of Legends (2011)?",
+  "o": [
+   "Fnatic",
+   "SK Telecom T1",
+   "Taipei Assassins"
+  ]
+ },
+ {
+  "p": "En Overwatch, ¿cuál es el nombre real de Soldado: 76?",
+  "o": [
+   "Jack Morrison",
+   "Gabriel Reyes",
+   "Jesse McCree"
+  ]
+ },
+ {
+  "p": "En Smash, ¿de qué saga de videojuegos viene Ness?",
+  "o": [
+   "EarthBound",
+   "Fire Emblem",
+   "Kid Icarus"
+  ]
+ },
+ {
+  "p": "¿Qué campeón de LoL dice «La muerte es como el viento, siempre a mi lado»?",
+  "o": [
+   "Yasuo",
+   "Yone",
+   "Zed"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En el boliche de «Wii Sports», ¿cuál es la puntuación perfecta?",
+  "o": [
+   "300",
+   "250",
+   "500"
+  ]
+ },
+ {
+  "p": "¿Qué número tiene Pikachu en la Pokédex nacional?",
+  "o": [
+   "25",
+   "1",
+   "151"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿cuántos bloques de obsidiana necesitas como mínimo para un portal al Nether?",
+  "o": [
+   "10",
+   "14",
+   "12"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Mario Kart 8», ¿cuál es la cilindrada más rápida?",
+  "o": [
+   "200cc",
+   "150cc",
+   "250cc"
+  ]
+ }
+]

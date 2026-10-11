@@ -1,0 +1,92 @@
+[
+ {
+  "p": "¿Quién canta «Gurenge», el primer opening de Demon Slayer?",
+  "o": [
+   "LiSA",
+   "Aimer",
+   "YOASOBI"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Idol», opening de «Oshi no Ko»?",
+  "o": [
+   "YOASOBI",
+   "ONE OK ROCK",
+   "Ado"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quién canta «Seven Nation Army», el riff que se corea en los estadios?",
+  "o": [
+   "The White Stripes",
+   "The Black Keys",
+   "Arctic Monkeys"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Enemy», la canción de Arcane?",
+  "o": [
+   "Imagine Dragons",
+   "K/DA",
+   "Twenty One Pilots"
+  ]
+ },
+ {
+  "p": "¿Qué banda mexicana canta «Eres» y «Las flores»?",
+  "o": [
+   "Café Tacvba",
+   "Caifanes",
+   "Molotov"
+  ]
+ },
+ {
+  "p": "¿Qué banda virtual canta «Feel Good Inc.»?",
+  "o": [
+   "Gorillaz",
+   "K/DA",
+   "Daft Punk"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Rolling in the Deep» y «Hello»?",
+  "o": [
+   "Adele",
+   "Lady Gaga",
+   "Amy Winehouse"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Mr. Brightside»?",
+  "o": [
+   "The Killers",
+   "Arctic Monkeys",
+   "The Strokes"
+  ]
+ },
+ {
+  "p": "¿Quién canta en español «CHA-LA HEAD-CHA-LA» de Dragon Ball Z?",
+  "o": [
+   "Ricardo Silva",
+   "Adrián Barba",
+   "Mario Castañeda"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Uprising» y «Supermassive Black Hole»?",
+  "o": [
+   "Muse",
+   "Coldplay",
+   "Radiohead"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué canción de Queen suena cuando alguien gana un campeonato?",
+  "o": [
+   "We Are the Champions",
+   "We Will Rock You",
+   "Another One Bites the Dust"
+  ]
+ }
+]

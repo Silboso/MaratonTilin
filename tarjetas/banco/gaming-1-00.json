@@ -1,0 +1,115 @@
+[
+ {
+  "p": "¿Qué jugador de T1 es conocido como «The Unkillable Demon King»?",
+  "o": [
+   "Faker",
+   "Uzi",
+   "Caps"
+  ]
+ },
+ {
+  "p": "¿Qué heroína de Overwatch es mexicana?",
+  "o": [
+   "Sombra",
+   "Mercy",
+   "Tracer"
+  ]
+ },
+ {
+  "p": "En Valorant, ¿qué objeto debe plantar el equipo atacante?",
+  "o": [
+   "El Spike",
+   "La bomba C4",
+   "El Núcleo"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el protagonista de GTA San Andreas?",
+  "o": [
+   "Carl «CJ» Johnson",
+   "Tommy Vercetti",
+   "Niko Bellic"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué empresa hacía los FIFA antes de que la saga se llamara «EA Sports FC»?",
+  "o": [
+   "EA Sports",
+   "Konami",
+   "2K"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿qué criatura verde explota cuando se te acerca?",
+  "o": [
+   "El Creeper",
+   "El Enderman",
+   "El Zombie"
+  ]
+ },
+ {
+  "p": "¿Qué heroína de Overwatch pilotea un MEKA rosa?",
+  "o": [
+   "D.Va",
+   "Echo",
+   "Brigitte"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el gorila científico de Overwatch?",
+  "o": [
+   "Winston",
+   "Doomfist",
+   "Reinhardt"
+  ]
+ },
+ {
+  "p": "En Clash Royale, ¿cuántas torres tiene cada jugador al empezar la partida?",
+  "o": [
+   "3",
+   "2",
+   "4"
+  ]
+ },
+ {
+  "p": "¿Qué campeón de LoL es un mono que pelea con un bastón?",
+  "o": [
+   "Wukong",
+   "Rammus",
+   "Teemo"
+  ]
+ },
+ {
+  "p": "En «Crash Bandicoot», ¿qué fruta colecciona Crash?",
+  "o": [
+   "La fruta Wumpa",
+   "La mora Cortex",
+   "La manzana Aku"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el zorro de dos colas amigo de Sonic?",
+  "o": [
+   "Tails",
+   "Knuckles",
+   "Shadow"
+  ]
+ },
+ {
+  "p": "En «Five Nights at Freddy's», ¿cuál es tu trabajo?",
+  "o": [
+   "Guardia de seguridad nocturno",
+   "Cocinero de la pizzería",
+   "Animador de fiestas"
+  ]
+ },
+ {
+  "p": "En «Among Us», ¿cómo se le dice al que sabotea y elimina a los demás?",
+  "o": [
+   "El impostor",
+   "El traidor",
+   "El infiltrado"
+  ]
+ }
+]

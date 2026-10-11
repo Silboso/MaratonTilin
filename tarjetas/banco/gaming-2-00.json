@@ -1,0 +1,76 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Cuántos deportes trae el «Wii Sports» original?",
+  "o": [
+   "5",
+   "4",
+   "7"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Punch-Out!!» de Nintendo, ¿cómo se llama el boxeador protagonista?",
+  "o": [
+   "Little Mac",
+   "Glass Joe",
+   "King Hippo"
+  ]
+ },
+ {
+  "p": "En Clash Royale, ¿cuánto elixir cuesta el Gigante?",
+  "o": [
+   "5",
+   "4",
+   "6"
+  ]
+ },
+ {
+  "p": "¿Qué agente de Valorant es de México?",
+  "o": [
+   "Reyna",
+   "Sage",
+   "Jett"
+  ]
+ },
+ {
+  "p": "En Super Smash Bros., ¿qué objeto te permite hacer el Smash Final?",
+  "o": [
+   "La Bola Smash",
+   "La Superestrella",
+   "El Martillo"
+  ]
+ },
+ {
+  "p": "En LoL, ¿cómo se llama la definitiva de Jinx?",
+  "o": [
+   "¡Súper Mega Cohete Mortal!",
+   "¡Zap!",
+   "¡Masticallamas!"
+  ]
+ },
+ {
+  "p": "En «NieR: Automata», ¿cómo se llama la androide protagonista de vestido negro?",
+  "o": [
+   "2B",
+   "A2",
+   "9S"
+  ]
+ },
+ {
+  "p": "En LoL, ¿qué campeona es la hermana de Jinx?",
+  "o": [
+   "Vi",
+   "Caitlyn",
+   "Sevika"
+  ]
+ },
+ {
+  "p": "En Overwatch, ¿de qué país es Reinhardt?",
+  "o": [
+   "Alemania",
+   "Suiza",
+   "Rusia"
+  ]
+ }
+]

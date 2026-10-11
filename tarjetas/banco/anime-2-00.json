@@ -1,0 +1,109 @@
+[
+ {
+  "p": "En «Evangelion», ¿quién pilotea la Unidad 01?",
+  "o": [
+   "Shinji Ikari",
+   "Asuka Langley",
+   "Rei Ayanami"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿qué fruta le encanta al shinigami Ryuk?",
+  "o": [
+   "Las manzanas",
+   "Las fresas",
+   "Las uvas"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Haikyuu!!», ¿en qué preparatoria juega Shoyo Hinata?",
+  "o": [
+   "Karasuno",
+   "Aoba Johsai",
+   "Nekoma"
+  ]
+ },
+ {
+  "p": "En «Code Geass», ¿qué poder le da el Geass a Lelouch?",
+  "o": [
+   "Que lo obedezcan",
+   "Leer mentes",
+   "Detener el tiempo"
+  ]
+ },
+ {
+  "p": "¿En qué película de terror el villano dice «¿Quieres jugar un juego?»?",
+  "o": [
+   "Saw",
+   "Scream",
+   "El Conjuro"
+  ]
+ },
+ {
+  "p": "En «Digimon Adventure», ¿en qué digievoluciona Agumon a nivel campeón?",
+  "o": [
+   "Greymon",
+   "Garurumon",
+   "Birdramon"
+  ]
+ },
+ {
+  "p": "En «Fullmetal Alchemist», ¿qué perdió Alphonse Elric?",
+  "o": [
+   "Todo su cuerpo",
+   "Un brazo y una pierna",
+   "Sus recuerdos"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Kuroko no Basket», ¿qué hace especial a Tetsuya Kuroko?",
+  "o": [
+   "Casi nadie lo nota en la cancha",
+   "Encesta desde media cancha",
+   "Salta más alto que nadie"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En la película «Rocky», ¿en qué ciudad vive el boxeador Rocky Balboa?",
+  "o": [
+   "Filadelfia",
+   "Nueva York",
+   "Chicago"
+  ]
+ },
+ {
+  "p": "En «Steins;Gate», ¿qué aparato permite mandar mensajes al pasado?",
+  "o": [
+   "Un horno de microondas",
+   "Un reloj de pulsera",
+   "Una televisión vieja"
+  ]
+ },
+ {
+  "p": "En «Re:Zero», ¿qué le pasa a Subaru cada vez que muere?",
+  "o": [
+   "Regresa a un punto anterior",
+   "Despierta en otro mundo",
+   "Pierde un recuerdo"
+  ]
+ },
+ {
+  "p": "En «Toradora!», ¿qué apodo tiene Taiga Aisaka?",
+  "o": [
+   "Palmtop Tiger",
+   "La Dragona",
+   "La Princesa de Hielo"
+  ]
+ },
+ {
+  "p": "En «Intensa-Mente», ¿cómo se llama el amigo imaginario de Riley?",
+  "o": [
+   "Bing Bong",
+   "Ding Dong",
+   "Pim Pom"
+  ]
+ }
+]

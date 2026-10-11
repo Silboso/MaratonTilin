@@ -1,0 +1,84 @@
+[
+ {
+  "p": "En «Mirai Nikki», ¿qué número de portadora de diario es Yuno Gasai?",
+  "o": [
+   "La Segunda",
+   "La Primera",
+   "La Novena"
+  ]
+ },
+ {
+  "p": "En «Steins;Gate», ¿cómo se hace llamar Okabe?",
+  "o": [
+   "Hououin Kyouma",
+   "Kira",
+   "Zero"
+  ]
+ },
+ {
+  "p": "En DBZ, ¿quién acaba con Freezer (ya Mecha Freezer) cuando llega a la Tierra?",
+  "o": [
+   "Trunks del futuro",
+   "Goku",
+   "Vegeta"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿qué miembro de Akatsuki es inmortal y adora a Jashin?",
+  "o": [
+   "Hidan",
+   "Kakuzu",
+   "Deidara"
+  ]
+ },
+ {
+  "p": "¿Cuál fue el primer Pokémon que Ash atrapó con una Pokébola?",
+  "o": [
+   "Caterpie",
+   "Pidgeotto",
+   "Bulbasaur"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Supercampeones», ¿de quién es el «Tiro del Tigre»?",
+  "o": [
+   "Steve Hyuga",
+   "Oliver Atom",
+   "Tom Misaki"
+  ]
+ },
+ {
+  "p": "¿Quién dirigió «Amores perros»?",
+  "o": [
+   "Alejandro González Iñárritu",
+   "Alfonso Cuarón",
+   "Guillermo del Toro"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿cuál es el nombre real de L?",
+  "o": [
+   "L Lawliet",
+   "Ryuga Hideki",
+   "Nate River"
+  ]
+ },
+ {
+  "p": "En «Jujutsu Kaisen», ¿cuántos dedos de Sukuna existen?",
+  "o": [
+   "20",
+   "10",
+   "15"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Hajime no Ippo», ¿en qué gimnasio entrena Ippo?",
+  "o": [
+   "Kamogawa",
+   "Otowa",
+   "Naniwa"
+  ]
+ }
+]

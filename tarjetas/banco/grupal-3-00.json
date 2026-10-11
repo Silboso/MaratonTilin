@@ -1,0 +1,75 @@
+[
+ {
+  "p": "Por ley, ¿cuántos días de vacaciones te tocan en tu primer año de trabajo?",
+  "o": [
+   "12",
+   "6",
+   "10"
+  ]
+ },
+ {
+  "p": "¿Qué significan las siglas RFC?",
+  "o": [
+   "Registro Federal de Contribuyentes",
+   "Registro Fiscal de Ciudadanos",
+   "Red Federal de Cobranza"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de Star Wars grita «¡Es una trampa!»?",
+  "o": [
+   "El Almirante Ackbar",
+   "Lando Calrissian",
+   "C-3PO"
+  ]
+ },
+ {
+  "p": "¿De qué anime viene la frase «Omae wa mou shindeiru» (ya estás muerto)?",
+  "o": [
+   "El Puño de la Estrella del Norte",
+   "Dragon Ball Z",
+   "JoJo's Bizarre Adventure"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llamaba la mascota del Mundial México 86?",
+  "o": [
+   "Pique",
+   "Juanito",
+   "Zakumi"
+  ]
+ },
+ {
+  "p": "¿Qué red social de fotos fue famosa en México por los «floggers»?",
+  "o": [
+   "Metroflog",
+   "Hi5",
+   "MySpace"
+  ]
+ },
+ {
+  "p": "¿Cuántos dígitos tiene una CLABE interbancaria?",
+  "o": [
+   "18",
+   "16",
+   "11"
+  ]
+ },
+ {
+  "p": "¿Quién conducía «Mujer, casos de la vida real»?",
+  "o": [
+   "Silvia Pinal",
+   "Verónica Castro",
+   "Lucía Méndez"
+  ]
+ },
+ {
+  "p": "¿Quién es la voz de Goku adulto en el doblaje latino?",
+  "o": [
+   "Mario Castañeda",
+   "René García",
+   "Ricardo Silva"
+  ]
+ }
+]

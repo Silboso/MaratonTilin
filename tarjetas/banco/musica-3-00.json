@@ -1,0 +1,84 @@
+[
+ {
+  "p": "¿Qué banda canta «The Rumbling», opening final de Attack on Titan?",
+  "o": [
+   "SiM",
+   "Linked Horizon",
+   "ONE OK ROCK"
+  ]
+ },
+ {
+  "p": "¿Qué banda de Monterrey canta «Narcisista por excelencia»?",
+  "o": [
+   "Panda",
+   "Zoé",
+   "Allison"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Legends Never Die», el himno de Worlds 2017?",
+  "o": [
+   "Against The Current",
+   "Imagine Dragons",
+   "K/DA"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llama la canción del Mundial 2014 de Pitbull, J.Lo y Claudia Leitte?",
+  "o": [
+   "We Are One (Ole Ola)",
+   "La La La (Brazil 2014)",
+   "Dar um Jeito"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el opening de Evangelion?",
+  "o": [
+   "A Cruel Angel's Thesis",
+   "Fly Me to the Moon",
+   "Komm, süsser Tod"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Unravel», opening de Tokyo Ghoul?",
+  "o": [
+   "TK de Ling Tosite Sigure",
+   "ONE OK ROCK",
+   "Aimer"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llama la canción del guitarrista de 9mm Parabellum Bullet sobre las carreras de Super GT?",
+  "o": [
+   "Setsuna Drive",
+   "Inferno",
+   "Black Market Blues"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el primer disco de Linkin Park?",
+  "o": [
+   "Hybrid Theory",
+   "Meteora",
+   "Minutes to Midnight"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Butter-Fly», el opening de Digimon Adventure en japonés?",
+  "o": [
+   "Kouji Wada",
+   "Ayumi Miyazaki",
+   "Hironobu Kageyama"
+  ]
+ },
+ {
+  "p": "¿En qué disco de My Chemical Romance viene «Welcome to the Black Parade»?",
+  "o": [
+   "The Black Parade",
+   "Three Cheers for Sweet Revenge",
+   "Danger Days"
+  ]
+ }
+]

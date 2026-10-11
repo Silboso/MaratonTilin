@@ -1,0 +1,76 @@
+[
+ {
+  "p": "¿Qué significan las siglas GPU?",
+  "o": [
+   "Graphics Processing Unit",
+   "General Power Unit",
+   "Game Process Utility"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba Google cuando empezó en 1996?",
+  "o": [
+   "BackRub",
+   "Googol",
+   "PageRank"
+  ]
+ },
+ {
+  "p": "¿Cuántos años tenía Yoda cuando murió?",
+  "o": [
+   "900",
+   "700",
+   "1,000"
+  ]
+ },
+ {
+  "p": "¿De qué es el núcleo de la varita de Harry Potter?",
+  "o": [
+   "Pluma de fénix",
+   "Pelo de unicornio",
+   "Fibra de corazón de dragón"
+  ]
+ },
+ {
+  "p": "¿Qué Gema del Infinito llevaba Visión en la frente?",
+  "o": [
+   "La Gema de la Mente",
+   "La Gema del Alma",
+   "La Gema del Poder"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En la Fórmula 1, ¿qué significa DRS?",
+  "o": [
+   "Drag Reduction System",
+   "Dynamic Racing Speed",
+   "Driver Response System"
+  ]
+ },
+ {
+  "p": "En Star Wars, ¿qué orden usó Palpatine para eliminar a los Jedi?",
+  "o": [
+   "La Orden 66",
+   "La Orden 99",
+   "La Orden 101"
+  ]
+ },
+ {
+  "p": "¿En qué año se fundó Apple?",
+  "o": [
+   "1976",
+   "1984",
+   "1971"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué número usaba Checo Pérez en la Fórmula 1?",
+  "o": [
+   "11",
+   "33",
+   "15"
+  ]
+ }
+]

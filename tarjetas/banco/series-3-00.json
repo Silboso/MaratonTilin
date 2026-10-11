@@ -1,0 +1,75 @@
+[
+ {
+  "p": "En «Friends», ¿cómo se llama el mono de Ross?",
+  "o": [
+   "Marcel",
+   "Bobo",
+   "Jorge"
+  ]
+ },
+ {
+  "p": "En «Game of Thrones», ¿cómo se llama el lobo huargo de Jon Snow?",
+  "o": [
+   "Fantasma",
+   "Verano",
+   "Viento Gris"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Ted Lasso», ¿qué deporte entrenaba Ted antes de llegar a Inglaterra?",
+  "o": [
+   "Fútbol americano",
+   "Básquetbol",
+   "Béisbol"
+  ]
+ },
+ {
+  "p": "En «La Casa de Papel», ¿de quién es la cara de las máscaras?",
+  "o": [
+   "Salvador Dalí",
+   "Pablo Picasso",
+   "Joan Miró"
+  ]
+ },
+ {
+  "p": "En «Coraje, el perro cobarde», ¿cómo se llaman sus dueños?",
+  "o": [
+   "Muriel y Justo",
+   "Doris y Pancho",
+   "Marta y Fermín"
+  ]
+ },
+ {
+  "p": "En «Ed, Edd y Eddy», ¿qué dulce siempre quieren comprar?",
+  "o": [
+   "Rompemuelas",
+   "Paletas de cajeta",
+   "Chicles"
+  ]
+ },
+ {
+  "p": "En «The Office», ¿qué puesto presume Dwight Schrute?",
+  "o": [
+   "Asistente del Gerente Regional",
+   "Gerente Regional Asistente",
+   "Subgerente de Ventas"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿cómo se llama la cadena de pollo de Gus Fring?",
+  "o": [
+   "Los Pollos Hermanos",
+   "Pollo Loco",
+   "Pollos Fring"
+  ]
+ },
+ {
+  "p": "En «Stranger Things», ¿qué número tiene Kali, la «hermana» de Once?",
+  "o": [
+   "Ocho",
+   "Nueve",
+   "Doce"
+  ]
+ }
+]

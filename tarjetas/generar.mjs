@@ -4,7 +4,7 @@
 // Uso: node tarjetas/generar.mjs
 // Escribe dos versiones, a color y en blanco y negro (<nombre>-color.* y <nombre>-bn.*):
 // el HTML siempre y el PDF si Playwright está disponible.
-import { readFileSync, writeFileSync } from "node:fs";
+import { readFileSync, readdirSync, writeFileSync } from "node:fs";
 import { createRequire } from "node:module";
 import { basename, dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -16,6 +16,16 @@ const nombre = basename(entrada, ".json") === "preguntas" ? "tarjetas" : basenam
 const datos = JSON.parse(readFileSync(entrada, "utf8"));
 // Un archivo de muestra puede traer solo preguntas sin categorías; se usan las de preguntas.json.
 if (!datos.categorias) datos.categorias = JSON.parse(readFileSync(join(dir, "preguntas.json"), "utf8")).categorias;
+// Si el archivo no trae preguntas, se leen del banco: banco/<categoría>-<nivel>-<parte>.json.
+if (!datos.preguntas) {
+  datos.preguntas = readdirSync(join(dir, "banco"))
+    .filter((f) => f.endsWith(".json"))
+    .sort()
+    .flatMap((f) => {
+      const [cat, nivel] = f.split("-");
+      return JSON.parse(readFileSync(join(dir, "banco", f), "utf8")).map((q) => ({ cat, nivel: Number(nivel), ...q }));
+    });
+}
 // «soloFrente»: una sola cara por tarjeta (1 pregunta por categoría en vez de 2).
 const CARAS = datos.soloFrente ? 1 : 2;
 const categorias = Object.fromEntries(datos.categorias.map((c) => [c.id, c]));
@@ -121,10 +131,12 @@ function espejo(lista) {
 // cada categoría (una por cara). Las preguntas de deporte se reparten entre las caras
 // que llevan menos, para que no se junten.
 function armarTarjetas() {
-  const tarjetas = [];
+  const porNivel = [[], [], []];
   for (const nivel of [1, 2, 3]) {
+    // Se revuelven con semilla fija para que cada tarjeta mezcle temas distintos.
+    const rnd = azar(nivel * 104729 + 17);
     const porCat = datos.categorias.map((c) =>
-      datos.preguntas.filter((q) => q.cat === c.id && q.nivel === nivel)
+      revolver(datos.preguntas.filter((q) => q.cat === c.id && q.nivel === nivel).map((q) => q), rnd).map((x) => x.texto)
     );
     const total = Math.min(...porCat.map((qs) => Math.floor(qs.length / CARAS)));
     const caras = Array.from({ length: total * CARAS }, () => []);
@@ -145,8 +157,13 @@ function armarTarjetas() {
       if (sobran) console.log(`Aviso: ${sobran} pregunta(s) de ${datos.categorias[c].id} nivel ${nivel} no caben en una tarjeta completa.`);
     });
     for (let t = 0; t < total; t++) {
-      tarjetas.push({ nivel, a: caras[t * CARAS], b: CARAS === 2 ? caras[t * 2 + 1] : null });
+      porNivel[nivel - 1].push({ nivel, a: caras[t * CARAS], b: CARAS === 2 ? caras[t * 2 + 1] : null });
     }
+  }
+  // Cada hoja lleva 3 tarjetas de cada nivel, para que todas las hojas queden parejas.
+  const tarjetas = [];
+  while (porNivel.some((l) => l.length)) {
+    for (const lista of porNivel) tarjetas.push(...lista.splice(0, POR_HOJA / 3));
   }
   return tarjetas;
 }

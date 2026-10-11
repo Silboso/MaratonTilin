@@ -1,0 +1,100 @@
+[
+ {
+  "p": "¿De qué estado es la cochinita pibil?",
+  "o": [
+   "Yucatán",
+   "Oaxaca",
+   "Puebla"
+  ]
+ },
+ {
+  "p": "En «La Rosa de Guadalupe», ¿qué se siente cuando llega el milagro?",
+  "o": [
+   "Un airecito",
+   "Unas campanas",
+   "Un coro de ángeles"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la rana verde del meme «Feels good man»?",
+  "o": [
+   "Pepe",
+   "Kermit",
+   "Freddy"
+  ]
+ },
+ {
+  "p": "Por ley, ¿cuánto es lo mínimo de aguinaldo?",
+  "o": [
+   "15 días de salario",
+   "10 días de salario",
+   "30 días de salario"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué luchador es «El Enmascarado de Plata»?",
+  "o": [
+   "El Santo",
+   "Blue Demon",
+   "Mil Máscaras"
+  ]
+ },
+ {
+  "p": "¿Qué personaje grita «It's over 9000!» en el famoso meme?",
+  "o": [
+   "Vegeta",
+   "Goku",
+   "Freezer"
+  ]
+ },
+ {
+  "p": "En Japón, ¿cuándo se dice «itadakimasu»?",
+  "o": [
+   "Antes de comer",
+   "Al llegar a casa",
+   "Al despedirse"
+  ]
+ },
+ {
+  "p": "En japonés, ¿qué es un «senpai»?",
+  "o": [
+   "Alguien con más antigüedad que tú",
+   "Un maestro",
+   "Un hermano menor"
+  ]
+ },
+ {
+  "p": "¿Qué comida japonesa son bolitas rellenas de pulpo?",
+  "o": [
+   "Takoyaki",
+   "Onigiri",
+   "Gyozas"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué luchador mexicano hizo famoso el «619» en la WWE?",
+  "o": [
+   "Rey Mysterio",
+   "Místico",
+   "Sin Cara"
+  ]
+ },
+ {
+  "p": "¿Qué juguete se lanzaba gritando «Let it rip!»?",
+  "o": [
+   "Beyblade",
+   "Bakugan",
+   "El trompo"
+  ]
+ },
+ {
+  "p": "¿Qué institución da créditos para vivienda a los trabajadores formales?",
+  "o": [
+   "Infonavit",
+   "La Afore",
+   "El SAT"
+  ]
+ }
+]

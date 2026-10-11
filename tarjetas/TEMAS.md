@@ -37,6 +37,17 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
 | Spy x Family, Frieren, Oshi no Ko, Solo Leveling | Básico |
 | Saint Seiya, Sailor Moon, One Piece, Bleach | Muy básico: solo ★ |
 
+**Anime de conocimiento básico** (solo preguntas ★ o ★★ fáciles: protagonista, premisa, frase o personaje icónico):
+
+- **Isekai y light novels:** To Aru Majutsu no Index / Railgun, Re:Zero, Konosuba, Overlord, No Game No Life, Tensei Slime, Mushoku Tensei, Shield Hero
+- **Romance y comedia:** Toradora!, Clannad, Kaguya-sama, Your Lie in April, Horimiya, Ouran, Fruits Basket
+- **Clásicos de los 90 y 2000:** Inuyasha, Yu-Gi-Oh!, Yu Yu Hakusho, Ranma ½, Cowboy Bebop, Rurouni Kenshin
+- **Shonen de acción:** Fairy Tail, Black Clover, Seven Deadly Sins, Fire Force, Soul Eater, Blue Exorcist
+- **Seinen y de culto:** JoJo's Bizarre Adventure, Vinland Saga, Berserk, Parasyte, Akame ga Kill, Samurai Champloo, Trigun
+- **Terror y misterio:** Elfen Lied, Another, The Promised Neverland, Higurashi, Made in Abyss
+- **Recientes:** Dandadan, Kaiju No. 8, Sakamoto Days, Bocchi the Rock!, Cyberpunk Edgerunners
+- **Fuera:** Erased
+
 **Películas:** Pixar y Disney; taquilleras de los 90 y 2000; cine mexicano; terror y suspenso.
 
 ## 2. Geek y Tecnología
@@ -59,6 +70,17 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
 
 - **Infancia:** Cartoon Network, Disney Channel / XD, Nickelodeon, TV abierta y Discovery Kids.
 - **Series actuales:** hits de Netflix, sitcoms, dramas de HBO y similares, animadas para adultos.
+
+**Series de conocimiento básico** (solo preguntas ★ o ★★ fáciles):
+
+- **Abogados, doctores y oficina:** Suits, Dr. House, Grey's Anatomy, The Good Doctor
+- **Fantasía, sci-fi y terror:** Supernatural, The Walking Dead, Black Mirror, Lost, The Witcher, The Mandalorian
+- **Crimen y suspenso:** Sherlock, Peaky Blinders, Prison Break, Narcos, Dexter, Better Call Saul
+- **Juveniles:** Glee, Gossip Girl, Elite, 13 Reasons Why, The Vampire Diaries, Riverdale, Sex Education, Euphoria
+- **Comedias:** Brooklyn Nine-Nine, Modern Family, How I Met Your Mother, Malcolm, Todos odian a Chris, Two and a Half Men, That '70s Show
+- **Latinas y mexicanas:** Club de Cuervos, La familia P. Luche, Una familia de diez, Luis Miguel: la serie, La Reina del Sur, Rebelde, Casi ángeles
+- **Animadas:** Avatar (Aang y Korra), Gravity Falls, Steven Universe, Un show más, Family Guy, South Park, Bojack Horseman
+- **Disney y Nick live action:** iCarly, Victorious, Los Hechiceros de Waverly Place, Big Time Rush, Jonas, Jessie, Buena suerte Charlie
 
 ## 5. Música
 

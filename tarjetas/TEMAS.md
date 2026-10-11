@@ -75,7 +75,16 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
   - **Shooters:** Call of Duty, Fortnite, Apex, PUBG, Warzone, Team Fortress 2, Left 4 Dead
   - **Celular:** Angry Birds, Plants vs Zombies, Subway Surfers, Temple Run, Candy Crush, Flappy Bird, Pokémon GO
   - **RPG y mundo abierto:** Skyrim, The Witcher 3, Red Dead Redemption 2, Final Fantasy, Persona, Dragon Quest
-  - **HoYoverse (Genshin Impact y similares):** solo preguntas muy básicas
+  - **Plataformas:** Sonic, Spyro, Rayman, Jak and Daxter, Ratchet & Clank, Sly Cooper, Mega Man, Castlevania
+  - **Terror y con amigos:** Five Nights at Freddy's, Slender, Outlast, Amnesia, Phasmophobia, Lethal Company, Overcooked, It Takes Two
+  - **Sandbox y estrategia:** Roblox, Terraria, Stardew Valley, Age of Empires, Clash of Clans, World of Warcraft, StarCraft
+  - **Carreras y ritmo:** Need for Speed, Gran Turismo, Guitar Hero, Just Dance
+  - **Otros MOBA y hero shooters:** Dota 2, Wild Rift, Mobile Legends, Marvel Rivals, Paladins
+  - **Acción y aventura:** Assassin's Creed, Prince of Persia, Batman Arkham, Spider-Man de PS4, Metal Gear Solid, Devil May Cry, Bloodborne, Sekiro, Shadow of the Colossus
+  - **Más Nintendo:** Luigi's Mansion, Paper Mario, Fire Emblem, Xenoblade, Pikmin, WarioWare, spin-offs de Pokémon
+  - **Gacha:** Honkai: Star Rail, Zenless Zone Zero, Blue Archive, Fate/Grand Order, Pokémon Unite, Pokémon Masters, Dragon Ball Legends, Dokkan Battle
+  - **HoYoverse (Genshin Impact y similares) y Uma Musume:** solo preguntas muy básicas. Uma Musume sirve para cruces con deportes (carreras de caballos).
+- **A fondo (se valen ★★★):** Pokémon (juegos), Zelda, Mario y Mario Kart, Minecraft.
 - **League of Legends:** avanzado del juego (campeones, habilidades, objetos, lore) y de todo lo que lo rodea (Arcane, K/DA, himnos de Worlds). La escena de eSports, de medio a básico.
 - **Overwatch:** nivel medio (héroes, habilidades, mapas, un poco de la Overwatch League).
 - **Smash Bros. y Clash Royale:** se conocen a fondo.
@@ -98,9 +107,15 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
 - **Latinas y mexicanas:** Club de Cuervos, La familia P. Luche, Una familia de diez, Luis Miguel: la serie, La Reina del Sur, Rebelde, Casi ángeles
 - **Animadas:** Avatar (Aang y Korra), Gravity Falls, Steven Universe, Un show más, Family Guy, South Park, Bojack Horseman
 - **Disney y Nick live action:** iCarly, Victorious, Los Hechiceros de Waverly Place, Big Time Rush, Jonas, Jessie, Buena suerte Charlie
+- **Cartoon Network:** Billy y Mandy, Mansión Foster, KND, Samurai Jack, Johnny Test, Chowder, Flapjack, El increíble mundo de Gumball
+- **Disney y Nick (caricaturas):** Danny Phantom, Invasor Zim, El Tigre, Los Thornberrys, Rugrats, Lilo & Stitch (serie), La casa de Mickey
+- **Discovery Kids y TV infantil:** Doki, Pinky Dinky Doo, Hi-5, LazyTown, Backyardigans, Power Rangers, Kamen Rider, Plaza Sésamo, Barney, Teletubbies
+- **Mexicanas:** Nosotros los guapos, Vecinos, Como dice el dicho, Mujer, casos de la vida real, Control Z, ¿Quién mató a Sara?, La casa de las flores, Narcos México, El Chema, El Señor de los Cielos
+- **Asiáticas y animación adulta:** Alice in Borderland, All of Us Are Dead, los live action de Netflix (One Piece, Avatar, Cowboy Bebop), Hazbin Hotel, Helluva Boss, Castlevania, Love, Death & Robots
+- **Fuera:** American Dragon, W.I.T.C.H., Seinfeld, Scrubs, New Girl, Community, Parks and Rec, The IT Crowd, What We Do in the Shadows, Abbott Elementary, Superstore, House of the Dragon, Rings of Power, Ozark, Mr. Robot, Severance, The Bear, The Crown, Succession
 - **Más recientes:** The Boys, Invincible, Merlina, Bridgerton, You, Chernobyl, True Detective, Westworld, Marvel de Disney+ (WandaVision, Loki, Moon Knight, Daredevil)
 
-**Series para preguntar a fondo** (se valen ★★★): Los Simpson, Futurama, Chespirito (El Chavo, El Chapulín, Los Caquitos), doblaje latino (actores de voz y frases), reality y concursos (La Academia, Big Brother, MasterChef, 100 mexicanos dijeron).
+**Series para preguntar a fondo** (se valen ★★★): Stranger Things, Breaking Bad, Better Call Saul, Game of Thrones, The Office, Friends, The Big Bang Theory, Ben 10, Gumball, Los Simpson, Futurama, Chespirito (El Chavo, El Chapulín, Los Caquitos), doblaje latino (actores de voz y frases), reality y concursos (La Academia, Big Brother, MasterChef, 100 mexicanos dijeron).
 
 ## 5. Música
 

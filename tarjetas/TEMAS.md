@@ -69,6 +69,7 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
 
 - **Sagas, todas bien conocidas:** Marvel (UCM), DC, Star Wars, Harry Potter, El Señor de los Anillos.
 - **Juegos de mesa y cartas:** Yu-Gi-Oh!, Pokémon TCG, Magic, UNO, Jenga, Twister, Lotería, Turista, Serpientes y escaleras, Monopoly. **Fuera:** Catan, Clue, Risk.
+- **Mitología:** solo la que se aprendió en juegos, series o anime: God of War (griega y nórdica), Marvel y Percy Jackson, anime y Fate (yokai, kitsune, Susanoo, Amaterasu), Hades, Smite y Age of Mythology. Nada de mitología de libro.
 - **Otras cosas geek, de medio a básico:** juegos de cartas, juegos de mesa y rol, ciencia ficción, ciencia y espacio. Pokémon se vale un poco más avanzado.
 - **Tecnología, entre cultura general y algo técnica:** empresas y fundadores, celulares y gadgets, redes sociales y apps, historia de internet e IA. Nada de programación.
 
@@ -172,6 +173,9 @@ Mezcla de subtemas, sin preguntas sobre el grupo mismo.
   - **Trabajo y derechos:** aguinaldo, vacaciones, IMSS, Afore, Infonavit, finiquito, home office
   - **Dinero y bancos:** tarjetas de crédito, Buró de Crédito, Cetes, meses sin intereses, SPEI
   - **Casa y rutina:** rentar, recibos de CFE y agua, gas, súper, cocinar
+- **Escuela mexicana:** libros de texto de la SEP y materias; útiles y la tiendita. **Fuera:** ceremonias y fechas, secundaria y prepa.
+- **Juguetes de los 2000:** Tazos, Beyblade, Bakugan, yo-yo, trompo, canicas, balero, Max Steel, Hot Wheels, Barbie, Polly Pocket, Tamagotchi, Furby, Game Boy.
+- **Modas de los 2000 y 2010:** ropa y tenis (Converse, Vans, skinny jeans, Crocs, pulseras de silicón), celulares y gadgets (Motorola V3, iPod, BlackBerry, ringtones), retos de internet (Harlem Shake, reto del hielo, planking, mannequin challenge). **Fuera:** tribus urbanas.
 - **Japón:** *(Que salga menos, y siempre muy básico.)* Comida (sushi, ramen, onigiri, mochi, bento), palabras de anime (senpai, kawaii, baka, -chan y -kun), lugares y símbolos (Tokio, Akihabara, Monte Fuji, torii) y costumbres (quitarse los zapatos, reverencias, Hanami).
 
 ## Cómo agregar preguntas

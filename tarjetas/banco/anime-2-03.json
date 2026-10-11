@@ -1,0 +1,198 @@
+[
+ {
+  "deporte": true,
+  "p": "En «Kuroko no Basket», ¿en qué preparatoria juega Kuroko?",
+  "o": [
+   "Seirin",
+   "Teiko",
+   "Touou"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Blue Lock», ¿la selección de qué país quieren hacer campeona?",
+  "o": [
+   "Japón",
+   "Brasil",
+   "Alemania"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Hajime no Ippo», ¿a qué se dedica la familia de Ippo?",
+  "o": [
+   "A rentar botes de pesca",
+   "A vender pescado",
+   "A dar clases de box"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Rocky», ¿cómo se llama la novia de Rocky?",
+  "o": [
+   "Adrian",
+   "Bianca",
+   "Mary"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el villano rosa de Dragon Ball Z?",
+  "o": [
+   "Majin Buu",
+   "Babidi",
+   "Dabura"
+  ]
+ },
+ {
+  "p": "¿Qué técnica hace Goku juntando la energía de todos los seres vivos?",
+  "o": [
+   "La Genkidama",
+   "El Kaioken",
+   "El Kamehameha"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el hijo de Vegeta y Bulma?",
+  "o": [
+   "Trunks",
+   "Goten",
+   "Gohan"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿qué ojo especial tiene el clan Hyuga?",
+  "o": [
+   "Byakugan",
+   "Sharingan",
+   "Rinnegan"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿quién es el sensei de Rock Lee?",
+  "o": [
+   "Might Guy",
+   "Kakashi",
+   "Asuma"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿de quién es Togepi?",
+  "o": [
+   "De Misty",
+   "De Ash",
+   "De Brock"
+  ]
+ },
+ {
+  "p": "En «Digimon Adventure», ¿cuál es el Digimon de Sora?",
+  "o": [
+   "Biyomon",
+   "Palmon",
+   "Tentomon"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿qué nombre falso usa L con Light?",
+  "o": [
+   "Ryuzaki",
+   "Kira",
+   "Near"
+  ]
+ },
+ {
+  "p": "En «Code Geass», ¿qué imperio conquista Japón?",
+  "o": [
+   "Britannia",
+   "Zeon",
+   "Marley"
+  ]
+ },
+ {
+  "p": "En «Attack on Titan», ¿qué titán rompe la muralla al inicio?",
+  "o": [
+   "El Titán Colosal",
+   "El Titán Bestia",
+   "El Titán Mandíbula"
+  ]
+ },
+ {
+  "p": "En «Jujutsu Kaisen», ¿a quién le dicen el Rey de las Maldiciones?",
+  "o": [
+   "Sukuna",
+   "Mahito",
+   "Jogo"
+  ]
+ },
+ {
+  "p": "En «Demon Slayer», ¿qué personaje pelea mejor cuando se queda dormido?",
+  "o": [
+   "Zenitsu",
+   "Inosuke",
+   "Tanjiro"
+  ]
+ },
+ {
+  "p": "En «One Punch Man», ¿de qué color es la capa de Saitama?",
+  "o": [
+   "Blanca",
+   "Roja",
+   "Negra"
+  ]
+ },
+ {
+  "p": "En «Hunter x Hunter», ¿a quién busca Gon?",
+  "o": [
+   "A su papá",
+   "A su mamá",
+   "A su hermano"
+  ]
+ },
+ {
+  "p": "En «Fullmetal Alchemist», ¿qué buscan los hermanos Elric?",
+  "o": [
+   "La piedra filosofal",
+   "Las esferas del dragón",
+   "La espada del rey"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la brujita repartidora de Studio Ghibli?",
+  "o": [
+   "Kiki",
+   "Chihiro",
+   "Sophie"
+  ]
+ },
+ {
+  "p": "En «Jurassic Park», ¿qué dinosaurio escupe veneno?",
+  "o": [
+   "El dilofosaurio",
+   "El velocirraptor",
+   "El compsognathus"
+  ]
+ },
+ {
+  "p": "En «Matrix», ¿a quién le dicen «el Elegido»?",
+  "o": [
+   "A Neo",
+   "A Morfeo",
+   "A Trinity"
+  ]
+ },
+ {
+  "p": "¿Qué actor interpreta a Jack Sparrow?",
+  "o": [
+   "Johnny Depp",
+   "Orlando Bloom",
+   "Javier Bardem"
+  ]
+ },
+ {
+  "p": "¿En qué pueblo pasa «It»?",
+  "o": [
+   "Derry",
+   "Hawkins",
+   "Castle Rock"
+  ]
+ }
+]

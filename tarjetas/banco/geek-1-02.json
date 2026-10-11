@@ -1,0 +1,198 @@
+[
+ {
+  "deporte": true,
+  "p": "En ajedrez, ¿qué pieza avanza hacia adelante y captura en diagonal?",
+  "o": [
+   "El peón",
+   "El alfil",
+   "El rey"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En ajedrez, ¿qué piezas empiezan en las esquinas del tablero?",
+  "o": [
+   "Las torres",
+   "Los caballos",
+   "Los alfiles"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En ajedrez, ¿de qué color son las piezas que mueven primero?",
+  "o": [
+   "Blancas",
+   "Negras",
+   "Las que elijas"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llama el deporte de los magos en Harry Potter?",
+  "o": [
+   "Quidditch",
+   "Quodpot",
+   "Gobstones"
+  ]
+ },
+ {
+  "p": "¿A qué superhéroe le dicen «el Hombre de Acero»?",
+  "o": [
+   "Superman",
+   "Iron Man",
+   "Capitán América"
+  ]
+ },
+ {
+  "p": "¿De qué color es Hulk?",
+  "o": [
+   "Verde",
+   "Rojo",
+   "Gris"
+  ]
+ },
+ {
+  "p": "¿Qué le dio sus poderes a Peter Parker?",
+  "o": [
+   "Una araña radiactiva",
+   "Un rayo gamma",
+   "Un suero"
+  ]
+ },
+ {
+  "p": "¿En qué ciudad vive Superman?",
+  "o": [
+   "Metrópolis",
+   "Ciudad Gótica",
+   "Ciudad Central"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el protagonista de la primera trilogía de Star Wars?",
+  "o": [
+   "Luke Skywalker",
+   "Han Solo",
+   "Anakin Skywalker"
+  ]
+ },
+ {
+  "p": "¿Qué villano de Star Wars usa máscara negra y respira fuerte?",
+  "o": [
+   "Darth Vader",
+   "Darth Maul",
+   "Kylo Ren"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la escuela de magia de Harry Potter?",
+  "o": [
+   "Hogwarts",
+   "Beauxbatons",
+   "Durmstrang"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el gran villano de Harry Potter?",
+  "o": [
+   "Voldemort",
+   "Grindelwald",
+   "Draco"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el hobbit jardinero y mejor amigo de Frodo?",
+  "o": [
+   "Sam",
+   "Pippin",
+   "Merry"
+  ]
+ },
+ {
+  "p": "En UNO, ¿qué carta hace que el siguiente pierda su turno?",
+  "o": [
+   "Salta",
+   "Reversa",
+   "+2"
+  ]
+ },
+ {
+  "p": "¿Qué fuerza hace que las cosas caigan al suelo?",
+  "o": [
+   "La gravedad",
+   "El magnetismo",
+   "La fricción"
+  ]
+ },
+ {
+  "p": "¿Qué red social de fotos con filtros es de Meta?",
+  "o": [
+   "Instagram",
+   "Pinterest",
+   "Snapchat"
+  ]
+ },
+ {
+  "p": "¿Qué app de mensajes tiene un avioncito de papel de logo?",
+  "o": [
+   "Telegram",
+   "Signal",
+   "Messenger"
+  ]
+ },
+ {
+  "p": "¿Qué marca china de celulares empieza con X?",
+  "o": [
+   "Xiaomi",
+   "Huawei",
+   "Oppo"
+  ]
+ },
+ {
+  "p": "¿Con qué se mueve la flechita en la pantalla de una computadora?",
+  "o": [
+   "Con el mouse",
+   "Con el teclado",
+   "Con el monitor"
+  ]
+ },
+ {
+  "p": "¿Qué significan las siglas IA?",
+  "o": [
+   "Inteligencia Artificial",
+   "Internet Avanzado",
+   "Interfaz Automática"
+  ]
+ },
+ {
+  "p": "¿Qué dios nórdico es el dios del engaño?",
+  "o": [
+   "Loki",
+   "Odín",
+   "Balder"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el caballo con alas de la mitología griega?",
+  "o": [
+   "Pegaso",
+   "Bucéfalo",
+   "Sleipnir"
+  ]
+ },
+ {
+  "p": "¿Qué superhéroe de los X-Men tiene garras y se cura rápido?",
+  "o": [
+   "Wolverine",
+   "Cíclope",
+   "Gambito"
+  ]
+ },
+ {
+  "p": "¿Qué juego de mesa tiene propiedades, casitas y billetes de papel?",
+  "o": [
+   "Monopoly",
+   "Clue",
+   "Risk"
+  ]
+ }
+]

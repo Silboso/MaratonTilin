@@ -1,0 +1,198 @@
+[
+ {
+  "deporte": true,
+  "p": "En Mario Kart, ¿qué objeto encoge a todos los rivales?",
+  "o": [
+   "El rayo",
+   "La estrella",
+   "El calamar"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué saga de carreras de Xbox compite con Gran Turismo?",
+  "o": [
+   "Forza",
+   "Need for Speed",
+   "Project Gotham"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué futbolista salió en la portada de FIFA 18?",
+  "o": [
+   "Cristiano Ronaldo",
+   "Lionel Messi",
+   "Eden Hazard"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué juego de Nintendo Switch es de ejercicio con un aro?",
+  "o": [
+   "Ring Fit Adventure",
+   "Wii Fit",
+   "Just Dance"
+  ]
+ },
+ {
+  "p": "¿Qué campeona yordle de LoL dispara con un cañón gigante?",
+  "o": [
+   "Tristana",
+   "Poppy",
+   "Vex"
+  ]
+ },
+ {
+  "p": "¿Qué campeón de LoL es un ninja de las sombras?",
+  "o": [
+   "Zed",
+   "Shen",
+   "Akali"
+  ]
+ },
+ {
+  "p": "En LoL, ¿cómo se llama el dragón que aparece tarde y es el más fuerte?",
+  "o": [
+   "El Dragón Ancestral",
+   "El Dragón Infernal",
+   "El Dragón de Nubes"
+  ]
+ },
+ {
+  "p": "¿Qué héroe de Overwatch es un ninja cyborg?",
+  "o": [
+   "Genji",
+   "Hanzo",
+   "Kiriko"
+  ]
+ },
+ {
+  "p": "¿Qué heroína rusa de Overwatch levanta pesas?",
+  "o": [
+   "Zarya",
+   "Mei",
+   "Sombra"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de Smash viene de Splatoon?",
+  "o": [
+   "Inkling",
+   "Aldeano",
+   "Isabelle"
+  ]
+ },
+ {
+  "p": "En Clash Royale, ¿cuánto elixir cuesta la Bola de Fuego?",
+  "o": [
+   "4",
+   "3",
+   "5"
+  ]
+ },
+ {
+  "p": "En Super Mario Bros. 3, ¿qué objeto le da a Mario cola de mapache?",
+  "o": [
+   "La hoja",
+   "La flor",
+   "La pluma"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el sobrino de Donkey Kong que usa gorra roja?",
+  "o": [
+   "Diddy Kong",
+   "Dixie Kong",
+   "Funky Kong"
+  ]
+ },
+ {
+  "p": "¿Qué villana de Disney es enemiga en Kingdom Hearts?",
+  "o": [
+   "Maléfica",
+   "Úrsula",
+   "La Reina de Corazones"
+  ]
+ },
+ {
+  "p": "En The Last of Us, ¿cómo se llama la hija de Joel?",
+  "o": [
+   "Sarah",
+   "Ellie",
+   "Tess"
+  ]
+ },
+ {
+  "p": "¿En qué saga sale Leon S. Kennedy?",
+  "o": [
+   "Resident Evil",
+   "Silent Hill",
+   "Dead Space"
+  ]
+ },
+ {
+  "p": "¿Qué empresa creó Half-Life?",
+  "o": [
+   "Valve",
+   "id Software",
+   "Bungie"
+  ]
+ },
+ {
+  "p": "En Undertale, ¿cómo se llama el hermano de Sans?",
+  "o": [
+   "Papyrus",
+   "Asgore",
+   "Flowey"
+  ]
+ },
+ {
+  "p": "En Among Us, ¿qué pasa cuando reportas un cuerpo?",
+  "o": [
+   "Se llama a una reunión",
+   "Ganas la partida",
+   "Te vuelves impostor"
+  ]
+ },
+ {
+  "p": "¿Quién es el emperador villano de Mortal Kombat?",
+  "o": [
+   "Shao Kahn",
+   "Shang Tsung",
+   "Goro"
+  ]
+ },
+ {
+  "p": "En Fortnite, ¿qué va cerrando el mapa durante la partida?",
+  "o": [
+   "La tormenta",
+   "La lava",
+   "El agua"
+  ]
+ },
+ {
+  "p": "En Plants vs Zombies, ¿qué planta explota como bomba?",
+  "o": [
+   "La petacereza",
+   "El girasol",
+   "La nuez"
+  ]
+ },
+ {
+  "p": "En Skyrim, ¿cómo se llaman los gritos de dragón?",
+  "o": [
+   "Thu'um",
+   "Mantras",
+   "Rugidos"
+  ]
+ },
+ {
+  "p": "En Final Fantasy VII, ¿cómo se llama la florista?",
+  "o": [
+   "Aerith",
+   "Tifa",
+   "Yuffie"
+  ]
+ }
+]

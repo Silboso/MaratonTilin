@@ -1,0 +1,198 @@
+[
+ {
+  "deporte": true,
+  "p": "En «Hajime no Ippo», ¿cómo se llama el rival de Osaka que se vuelve amigo de Ippo?",
+  "o": [
+   "Takeshi Sendo",
+   "Ichiro Miyata",
+   "Eiji Date"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Supercampeones», ¿quién forma la «combinación dorada» con Oliver?",
+  "o": [
+   "Tom Misaki",
+   "Benji Price",
+   "Julian Ross"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Haikyuu!!», ¿cómo le dicen a Oikawa?",
+  "o": [
+   "El Gran Rey",
+   "El Rey de la Cancha",
+   "El Pequeño Gigante"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Kuroko no Basket», ¿quién encesta desde cualquier punto de la cancha?",
+  "o": [
+   "Shintaro Midorima",
+   "Ryota Kise",
+   "Atsushi Murasakibara"
+  ]
+ },
+ {
+  "p": "En «Dragon Ball», ¿quién es el maestro de Ten Shin Han?",
+  "o": [
+   "El Maestro Grulla",
+   "El Maestro Roshi",
+   "Kami-sama"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la hija de Krilin y la Androide 18?",
+  "o": [
+   "Marron",
+   "Pan",
+   "Bra"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el ángel que acompaña a Bills?",
+  "o": [
+   "Whis",
+   "Vados",
+   "Zeno"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿qué quería Sasuke al principio?",
+  "o": [
+   "Vengar a su clan",
+   "Ser Hokage",
+   "Encontrar a su papá"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿quién fue el maestro de Jiraiya, Tsunade y Orochimaru?",
+  "o": [
+   "El Tercer Hokage",
+   "El Cuarto Hokage",
+   "Danzo"
+  ]
+ },
+ {
+  "p": "¿Qué miembro de Akatsuki parece tiburón y usa la espada Samehada?",
+  "o": [
+   "Kisame",
+   "Deidara",
+   "Kakuzu"
+  ]
+ },
+ {
+  "p": "¿Qué Pokémon evoluciona en Gengar al intercambiarlo?",
+  "o": [
+   "Haunter",
+   "Gastly",
+   "Misdreavus"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿cómo se llama la mamá de Ash?",
+  "o": [
+   "Delia",
+   "Joy",
+   "Jenny"
+  ]
+ },
+ {
+  "p": "En «Digimon Adventure», ¿qué emblema tiene Tai?",
+  "o": [
+   "El Valor",
+   "La Amistad",
+   "La Esperanza"
+  ]
+ },
+ {
+  "p": "En «Digimon Adventure», ¿cómo se llama el hermano menor de Matt?",
+  "o": [
+   "T.K.",
+   "Izzy",
+   "Joe"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿qué sucesor de L trabaja con la mafia?",
+  "o": [
+   "Mello",
+   "Near",
+   "Matt"
+  ]
+ },
+ {
+  "p": "En «Code Geass», ¿quién le da el Geass a Lelouch?",
+  "o": [
+   "C.C.",
+   "V.V.",
+   "Suzaku"
+  ]
+ },
+ {
+  "p": "En «Jujutsu Kaisen», ¿qué grado de hechicero tiene Gojo?",
+  "o": [
+   "Grado especial",
+   "Primer grado",
+   "Grado uno semi"
+  ]
+ },
+ {
+  "p": "En «Demon Slayer», ¿qué Pilar usa la Respiración del Sonido?",
+  "o": [
+   "Tengen Uzui",
+   "Kyojuro Rengoku",
+   "Obanai Iguro"
+  ]
+ },
+ {
+  "p": "¿Cuál es el apellido de Tanjiro en «Demon Slayer»?",
+  "o": [
+   "Kamado",
+   "Agatsuma",
+   "Hashibira"
+  ]
+ },
+ {
+  "p": "¿Quién dirigió «El viaje de Chihiro»?",
+  "o": [
+   "Hayao Miyazaki",
+   "Isao Takahata",
+   "Makoto Shinkai"
+  ]
+ },
+ {
+  "p": "¿Cuál fue la primera película hecha por completo en computadora?",
+  "o": [
+   "Toy Story",
+   "Shrek",
+   "Bichos"
+  ]
+ },
+ {
+  "p": "En «Grandes héroes», ¿cómo se llama el robot inflable de Hiro?",
+  "o": [
+   "Baymax",
+   "Wall-E",
+   "Bender"
+  ]
+ },
+ {
+  "p": "¿Qué actor interpreta a Pennywise en «It» (2017)?",
+  "o": [
+   "Bill Skarsgård",
+   "Tim Curry",
+   "Joaquin Phoenix"
+  ]
+ },
+ {
+  "p": "¿Qué película de Alfonso Cuarón ganó el Óscar a Mejor Película Extranjera?",
+  "o": [
+   "Roma",
+   "Gravity",
+   "Y tu mamá también"
+  ]
+ }
+]

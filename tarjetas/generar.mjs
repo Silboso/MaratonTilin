@@ -89,11 +89,19 @@ function revolver(opciones, rnd) {
   return orden;
 }
 
-function cara(preguntas, n, lado, nivel) {
+// Datos de cada cara ya revueltos; los usa el HTML y también el Word (word.mjs).
+function datosCara(preguntas, n, lado, nivel) {
   const rnd = azar(n * 7919 + (lado === "A" ? 1 : 2));
+  return {
+    n, lado, nivel,
+    preguntas: preguntas.map((q) => ({ cat: q.cat, deporte: !!q.deporte, p: q.p, opciones: revolver(q.o, rnd) })),
+  };
+}
+
+function cara({ preguntas, n, lado, nivel }) {
   const filas = preguntas
     .map((q) => {
-      const opciones = revolver(q.o, rnd);
+      const opciones = q.opciones;
       const ops = opciones
         .map((o, k) => `<span class="op${o.correcta ? " ok" : ""}"><i>${LETRAS[k]}</i>${esc(o.texto)}</span>`)
         .join("");
@@ -117,11 +125,11 @@ function cara(preguntas, n, lado, nivel) {
 
 // Para impresión a doble cara volteando por el borde largo, cada fila del
 // reverso va en espejo: la tarjeta de la columna 1 queda detrás en la columna 3.
-function espejo(lista) {
+function espejo(lista, vacia = '<div class="tarjeta vacia"></div>') {
   const salida = [];
   for (let i = 0; i < lista.length; i += COLUMNAS) {
     const fila = lista.slice(i, i + COLUMNAS);
-    while (fila.length < COLUMNAS) fila.push('<div class="tarjeta vacia"></div>');
+    while (fila.length < COLUMNAS) fila.push(vacia);
     salida.push(...fila.reverse());
   }
   return salida;
@@ -170,13 +178,19 @@ function armarTarjetas() {
 
 const tarjetas = armarTarjetas();
 const hojas = [];
+const paginas = []; // mismas páginas en datos, para word.mjs
 for (let i = 0; i < tarjetas.length; i += POR_HOJA) {
   const grupo = tarjetas.slice(i, i + POR_HOJA);
-  const frentes = grupo.map((t, j) => cara(t.a, i + j + 1, "A", t.nivel));
-  const reversos = CARAS === 2 ? espejo(grupo.map((t, j) => cara(t.b, i + j + 1, "B", t.nivel))) : [];
-  hojas.push(`<section class="hoja">${frentes.join("")}</section>`);
-  if (CARAS === 2) hojas.push(`<section class="hoja">${reversos.join("")}</section>`);
+  const frentes = grupo.map((t, j) => datosCara(t.a, i + j + 1, "A", t.nivel));
+  paginas.push(frentes);
+  hojas.push(`<section class="hoja">${frentes.map(cara).join("")}</section>`);
+  if (CARAS === 2) {
+    const reversos = espejo(grupo.map((t, j) => datosCara(t.b, i + j + 1, "B", t.nivel)), null);
+    paginas.push(reversos);
+    hojas.push(`<section class="hoja">${reversos.map((d) => (d ? cara(d) : '<div class="tarjeta vacia"></div>')).join("")}</section>`);
+  }
 }
+writeFileSync(join(dir, `${nombre}-datos.json`), JSON.stringify({ categorias: datos.categorias, paginas }));
 
 const html = (version) => `<!doctype html>
 <html lang="es">

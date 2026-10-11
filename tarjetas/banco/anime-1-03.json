@@ -1,0 +1,198 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Qué deporte practica Rocky Balboa?",
+  "o": [
+   "Box",
+   "Lucha libre",
+   "Karate"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿De qué color es Rayo McQueen?",
+  "o": [
+   "Rojo",
+   "Azul",
+   "Amarillo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Karate Kid», ¿qué arte marcial aprende Daniel?",
+  "o": [
+   "Karate",
+   "Kung fu",
+   "Judo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Space Jam», ¿qué conejo juega básquetbol con Michael Jordan?",
+  "o": [
+   "Bugs Bunny",
+   "El Conejo Blanco",
+   "Roger Rabbit"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de Dragon Ball es verde y namekiano?",
+  "o": [
+   "Piccolo",
+   "Cell",
+   "Freezer"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el mejor amigo calvo de Goku?",
+  "o": [
+   "Krilin",
+   "Yamcha",
+   "Ten Shin Han"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿de qué color es el pelo de Sakura?",
+  "o": [
+   "Rosa",
+   "Rojo",
+   "Morado"
+  ]
+ },
+ {
+  "p": "¿Qué Pokémon tortuga es el inicial de tipo Agua en Kanto?",
+  "o": [
+   "Squirtle",
+   "Totodile",
+   "Piplup"
+  ]
+ },
+ {
+  "p": "¿Qué Pokémon gordo se la pasa durmiendo y bloquea caminos?",
+  "o": [
+   "Snorlax",
+   "Slowpoke",
+   "Munchlax"
+  ]
+ },
+ {
+  "p": "En «Sailor Moon», ¿qué guerrera usa el poder del fuego?",
+  "o": [
+   "Sailor Mars",
+   "Sailor Mercury",
+   "Sailor Venus"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿cuál es el nombre de pila de Yagami?",
+  "o": [
+   "Light",
+   "Ryuk",
+   "Near"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la fruta del diablo que hace a Luffy de goma?",
+  "o": [
+   "Gomu Gomu",
+   "Mera Mera",
+   "Bara Bara"
+  ]
+ },
+ {
+  "p": "En «Attack on Titan», ¿qué comen los titanes?",
+  "o": [
+   "Humanos",
+   "Animales",
+   "Árboles"
+  ]
+ },
+ {
+  "p": "En «Demon Slayer», ¿con qué pelean los cazadores de demonios?",
+  "o": [
+   "Con espadas",
+   "Con pistolas",
+   "Con arcos"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el protagonista de «Jujutsu Kaisen»?",
+  "o": [
+   "Yuji Itadori",
+   "Megumi Fushiguro",
+   "Satoru Gojo"
+  ]
+ },
+ {
+  "p": "En «Spy x Family», ¿a qué se dedica en secreto Loid Forger?",
+  "o": [
+   "Es espía",
+   "Es asesino",
+   "Es doctor"
+  ]
+ },
+ {
+  "p": "En «My Hero Academia», ¿quién es el héroe número uno al inicio?",
+  "o": [
+   "All Might",
+   "Endeavor",
+   "Hawks"
+  ]
+ },
+ {
+  "p": "¿Qué película de Studio Ghibli tiene un castillo que camina?",
+  "o": [
+   "El castillo ambulante",
+   "Laputa",
+   "Ponyo"
+  ]
+ },
+ {
+  "p": "En «Toy Story 2», ¿cómo se llama la vaquera?",
+  "o": [
+   "Jessie",
+   "Bo Peep",
+   "Sally"
+  ]
+ },
+ {
+  "p": "En «Monsters, Inc.», ¿cómo se llama el monstruo verde de un solo ojo?",
+  "o": [
+   "Mike Wazowski",
+   "Sulley",
+   "Randall"
+  ]
+ },
+ {
+  "p": "En «Shrek», ¿de quién se enamora la dragona?",
+  "o": [
+   "Del Burro",
+   "De Shrek",
+   "Del Gato con Botas"
+  ]
+ },
+ {
+  "p": "En «Frozen», ¿cómo se llama la hermana de Elsa?",
+  "o": [
+   "Anna",
+   "Ariel",
+   "Aurora"
+  ]
+ },
+ {
+  "p": "En «Coco», ¿qué instrumento quiere tocar Miguel?",
+  "o": [
+   "La guitarra",
+   "La trompeta",
+   "El violín"
+  ]
+ },
+ {
+  "p": "¿Qué película de Pixar trata de un pez payaso perdido?",
+  "o": [
+   "Buscando a Nemo",
+   "Luca",
+   "Elementos"
+  ]
+ }
+]

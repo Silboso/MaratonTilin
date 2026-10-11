@@ -1,0 +1,198 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Qué banda canta «Jump», que suena en muchos estadios?",
+  "o": [
+   "Van Halen",
+   "Bon Jovi",
+   "Def Leppard"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué canción de Queen se canta cuando eliminan a un rival?",
+  "o": [
+   "«Another One Bites the Dust»",
+   "«Under Pressure»",
+   "«Radio Ga Ga»"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué canción de Ozzy Osbourne suena en muchos estadios de béisbol?",
+  "o": [
+   "«Crazy Train»",
+   "«Paranoid»",
+   "«Mr. Crowley»"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué cantante hizo el medio tiempo del Super Bowl 2017 saltando desde el techo?",
+  "o": [
+   "Lady Gaga",
+   "Katy Perry",
+   "Madonna"
+  ]
+ },
+ {
+  "p": "¿Quién es la vocalista de Evanescence?",
+  "o": [
+   "Amy Lee",
+   "Hayley Williams",
+   "Lacey Sturm"
+  ]
+ },
+ {
+  "p": "¿Quién es el vocalista de Green Day?",
+  "o": [
+   "Billie Joe Armstrong",
+   "Tom DeLonge",
+   "Gerard Way"
+  ]
+ },
+ {
+  "p": "¿Quién es el vocalista de Fall Out Boy?",
+  "o": [
+   "Patrick Stump",
+   "Pete Wentz",
+   "Brendon Urie"
+  ]
+ },
+ {
+  "p": "¿Quién es el vocalista de Panic! at the Disco?",
+  "o": [
+   "Brendon Urie",
+   "Patrick Stump",
+   "Tyler Joseph"
+  ]
+ },
+ {
+  "p": "¿Quién es el vocalista de Metallica?",
+  "o": [
+   "James Hetfield",
+   "Kirk Hammett",
+   "Lars Ulrich"
+  ]
+ },
+ {
+  "p": "¿Quién es el vocalista de System of a Down?",
+  "o": [
+   "Serj Tankian",
+   "Daron Malakian",
+   "Chester Bennington"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «The Kill»?",
+  "o": [
+   "Thirty Seconds to Mars",
+   "My Chemical Romance",
+   "Linkin Park"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Hey There Delilah»?",
+  "o": [
+   "Plain White T's",
+   "Simple Plan",
+   "The Fray"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Rehab»?",
+  "o": [
+   "Amy Winehouse",
+   "Adele",
+   "Duffy"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Ojalá que llueva café»?",
+  "o": [
+   "Juan Luis Guerra",
+   "Carlos Vives",
+   "Marc Anthony"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Me voy»?",
+  "o": [
+   "Julieta Venegas",
+   "Natalia Lafourcade",
+   "Ely Guerra"
+  ]
+ },
+ {
+  "p": "¿Qué cantante español canta «Bulería»?",
+  "o": [
+   "David Bisbal",
+   "Alejandro Sanz",
+   "David Bustamante"
+  ]
+ },
+ {
+  "p": "¿Qué grupo canta «Mi primer millón»?",
+  "o": [
+   "Bacilos",
+   "Reik",
+   "Camila"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Adiós amor»?",
+  "o": [
+   "Christian Nodal",
+   "Gerardo Ortiz",
+   "Pepe Aguilar"
+  ]
+ },
+ {
+  "p": "¿Quién canta «KICK BACK», opening de Chainsaw Man?",
+  "o": [
+   "Kenshi Yonezu",
+   "Eve",
+   "Vaundy"
+  ]
+ },
+ {
+  "p": "¿Quién canta «New Genesis», de «One Piece Film: Red»?",
+  "o": [
+   "Ado",
+   "LiSA",
+   "Aimer"
+  ]
+ },
+ {
+  "p": "¿Qué grupo canta «Shinzou wo Sasageyo!», de Attack on Titan?",
+  "o": [
+   "Linked Horizon",
+   "SiM",
+   "ONE OK ROCK"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Bling-Bang-Bang-Born»?",
+  "o": [
+   "Creepy Nuts",
+   "YOASOBI",
+   "King Gnu"
+  ]
+ },
+ {
+  "p": "¿Qué integrante de BTS canta «Like Crazy»?",
+  "o": [
+   "Jimin",
+   "V",
+   "RM"
+  ]
+ },
+ {
+  "p": "¿De qué saga es la canción «Gerudo Valley»?",
+  "o": [
+   "The Legend of Zelda",
+   "Final Fantasy",
+   "Kingdom Hearts"
+  ]
+ }
+]

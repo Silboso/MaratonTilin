@@ -1,0 +1,198 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Cuántos campeonatos de F1 ganó Sebastian Vettel con Red Bull?",
+  "o": [
+   "4",
+   "3",
+   "2"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué piloto brasileño murió en Imola en 1994?",
+  "o": [
+   "Ayrton Senna",
+   "Nelson Piquet",
+   "Rubens Barrichello"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En ajedrez, ¿qué es la jugada «al paso»?",
+  "o": [
+   "Una captura especial de peón",
+   "Un enroque largo",
+   "Mover dos piezas"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué escoba usa Draco cuando entra al equipo de Slytherin?",
+  "o": [
+   "Nimbus 2001",
+   "Saeta de Fuego",
+   "Barredora 7"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el planeta natal de Thanos?",
+  "o": [
+   "Titán",
+   "Vormir",
+   "Xandar"
+  ]
+ },
+ {
+  "p": "¿Quién es el Hechicero Supremo en «Spider-Man: No Way Home»?",
+  "o": [
+   "Wong",
+   "Doctor Strange",
+   "Mordo"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el brazo robot torpe del taller de Tony Stark?",
+  "o": [
+   "Dum-E",
+   "Jarvis",
+   "Friday"
+  ]
+ },
+ {
+  "p": "¿En qué año salió el primer cómic de Spider-Man?",
+  "o": [
+   "1962",
+   "1939",
+   "1975"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre real del Linterna Verde más famoso?",
+  "o": [
+   "Hal Jordan",
+   "John Stewart",
+   "Guy Gardner"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el papá biológico de Superman?",
+  "o": [
+   "Jor-El",
+   "Jonathan Kent",
+   "Zod"
+  ]
+ },
+ {
+  "p": "¿De quién resulta ser nieta Rey en la última trilogía de Star Wars?",
+  "o": [
+   "De Palpatine",
+   "De Obi-Wan",
+   "De Luke"
+  ]
+ },
+ {
+  "p": "¿En qué planeta pantanoso vive Yoda escondido?",
+  "o": [
+   "Dagobah",
+   "Endor",
+   "Mustafar"
+  ]
+ },
+ {
+  "p": "¿Quién era el dueño del Halcón Milenario antes que Han Solo?",
+  "o": [
+   "Lando Calrissian",
+   "Boba Fett",
+   "Chewbacca"
+  ]
+ },
+ {
+  "p": "¿Cuál es el segundo nombre de Harry Potter?",
+  "o": [
+   "James",
+   "Albus",
+   "Sirius"
+  ]
+ },
+ {
+  "p": "¿Qué criatura es Fawkes, la mascota de Dumbledore?",
+  "o": [
+   "Un fénix",
+   "Una lechuza",
+   "Un hipogrifo"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el elfo doméstico de la familia Black?",
+  "o": [
+   "Kreacher",
+   "Dobby",
+   "Winky"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el caballo de Gandalf?",
+  "o": [
+   "Sombragrís",
+   "Brego",
+   "Bill"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la espada reforjada de Aragorn?",
+  "o": [
+   "Andúril",
+   "Dardo",
+   "Glamdring"
+  ]
+ },
+ {
+  "p": "¿Qué lenguaje de programación tiene una serpiente de logo?",
+  "o": [
+   "Python",
+   "Java",
+   "Ruby"
+  ]
+ },
+ {
+  "p": "¿De qué está hecho el código binario?",
+  "o": [
+   "De ceros y unos",
+   "De letras",
+   "De colores"
+  ]
+ },
+ {
+  "p": "En Pokémon TCG, ¿cuántas copias de la misma carta puedes tener en un mazo?",
+  "o": [
+   "4",
+   "2",
+   "6"
+  ]
+ },
+ {
+  "p": "¿Cuántas cartas tiene como mínimo un mazo construido de Magic?",
+  "o": [
+   "60",
+   "40",
+   "100"
+  ]
+ },
+ {
+  "p": "¿Qué titán robó el fuego para dárselo a los humanos?",
+  "o": [
+   "Prometeo",
+   "Atlas",
+   "Cronos"
+  ]
+ },
+ {
+  "p": "¿Qué científica ganó dos Premios Nobel?",
+  "o": [
+   "Marie Curie",
+   "Rosalind Franklin",
+   "Ada Lovelace"
+  ]
+ }
+]

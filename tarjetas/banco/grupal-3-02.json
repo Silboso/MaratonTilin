@@ -1,0 +1,198 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Cómo se apellida el piloto mexicano «Pato» de IndyCar?",
+  "o": [
+   "O'Ward",
+   "Pérez",
+   "Gutiérrez"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quién anotó los dos goles de México en la final olímpica de Londres 2012?",
+  "o": [
+   "Oribe Peralta",
+   "Giovani dos Santos",
+   "Javier Aquino"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué año ganó México su primer Mundial Sub-17?",
+  "o": [
+   "2005",
+   "2011",
+   "1999"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué boxeador mexicano es conocido como «Dinamita»?",
+  "o": [
+   "Juan Manuel Márquez",
+   "Érik Morales",
+   "Canelo Álvarez"
+  ]
+ },
+ {
+  "p": "¿De qué estado es el aguachile?",
+  "o": [
+   "Sinaloa",
+   "Yucatán",
+   "Oaxaca"
+  ]
+ },
+ {
+  "p": "¿De qué estado es la «carne en su jugo»?",
+  "o": [
+   "Jalisco",
+   "Nuevo León",
+   "Sonora"
+  ]
+ },
+ {
+  "p": "¿De qué estado son las enchiladas potosinas?",
+  "o": [
+   "San Luis Potosí",
+   "Puebla",
+   "Michoacán"
+  ]
+ },
+ {
+  "p": "¿Qué dulce típico de Puebla es de camote?",
+  "o": [
+   "Camotes",
+   "Jamoncillos",
+   "Cocadas"
+  ]
+ },
+ {
+  "p": "¿Qué marca de chocolate de mesa tiene a una abuelita en la caja?",
+  "o": [
+   "Abuelita",
+   "Ibarra",
+   "Mayordomo"
+  ]
+ },
+ {
+  "p": "¿Qué actor interpretaba a Don Ramón?",
+  "o": [
+   "Ramón Valdés",
+   "Rubén Aguirre",
+   "Edgar Vivar"
+  ]
+ },
+ {
+  "p": "¿Qué actor interpretaba al Profesor Jirafales?",
+  "o": [
+   "Rubén Aguirre",
+   "Ramón Valdés",
+   "Horacio Gómez"
+  ]
+ },
+ {
+  "p": "¿Qué se celebra el 2 de febrero?",
+  "o": [
+   "El Día de la Candelaria",
+   "El Día de la Bandera",
+   "El Día del Amor"
+  ]
+ },
+ {
+  "p": "¿A quiénes se festeja el 3 de mayo, Día de la Santa Cruz?",
+  "o": [
+   "A los albañiles",
+   "A los maestros",
+   "A los carteros"
+  ]
+ },
+ {
+  "p": "Completa el dicho: «Más vale paso que dure…»",
+  "o": [
+   "…y no trote que canse",
+   "…que carrera corta",
+   "…que caballo flaco"
+  ]
+ },
+ {
+  "p": "Completa el dicho: «Agua que no has de beber…»",
+  "o": [
+   "…déjala correr",
+   "…no la sirvas",
+   "…tírala al mar"
+  ]
+ },
+ {
+  "p": "¿Qué insurgente dijo «La patria es primero»?",
+  "o": [
+   "Vicente Guerrero",
+   "Miguel Hidalgo",
+   "José María Morelos"
+  ]
+ },
+ {
+  "p": "¿En qué película se dice por primera vez «Hasta la vista, baby»?",
+  "o": [
+   "Terminator 2",
+   "Terminator",
+   "Robocop"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba en la vida real la perrita del meme «Doge»?",
+  "o": [
+   "Kabosu",
+   "Cheems",
+   "Balltze"
+  ]
+ },
+ {
+  "p": "¿Qué servicio de Microsoft reemplazó a MSN Messenger en 2013?",
+  "o": [
+   "Skype",
+   "Teams",
+   "Outlook"
+  ]
+ },
+ {
+  "p": "¿Cuál es la tasa general del IVA en México?",
+  "o": [
+   "16%",
+   "15%",
+   "21%"
+  ]
+ },
+ {
+  "p": "¿Qué significa ISR?",
+  "o": [
+   "Impuesto Sobre la Renta",
+   "Impuesto de Seguridad Regional",
+   "Ingreso Sujeto a Retención"
+  ]
+ },
+ {
+  "p": "¿Qué imagen tenían en la portada los libros de texto gratuitos clásicos?",
+  "o": [
+   "La Patria",
+   "El Ángel de la Independencia",
+   "El escudo nacional"
+  ]
+ },
+ {
+  "p": "¿Qué juguete de seis caras dice «toma todo» y «todos ponen»?",
+  "o": [
+   "La pirinola",
+   "El dado",
+   "El trompo"
+  ]
+ },
+ {
+  "p": "¿Qué reto viral de 2019 consistía en destapar una botella de una patada?",
+  "o": [
+   "Bottle Cap Challenge",
+   "Bottle Flip",
+   "Ice Bucket Challenge"
+  ]
+ }
+]

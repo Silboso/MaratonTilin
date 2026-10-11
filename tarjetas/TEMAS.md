@@ -185,4 +185,5 @@ Cada pregunta lleva `p` (la pregunta) y `o` (tres opciones, con la correcta prim
 
 - **Revisar:** `python3 tarjetas/revisar.py [hojas]` dice cuántas faltan por categoría y nivel, y avisa de preguntas repetidas, opciones duplicadas o textos demasiado largos para la tarjeta.
 - **Generar:** `node tarjetas/generar.mjs` arma las hojas. Revuelve las preguntas para mezclar temas y pone 3 tarjetas de cada nivel por hoja y una pregunta de deportes por cara.
+- **Word:** después de generar, `node tarjetas/word.mjs` crea `tarjetas-bn.docx` y `tarjetas-color.docx` con el mismo acomodo: tablas editables de 3 × 3 tarjetas por página, con el reverso en espejo.
 - **Cuántas hacen falta:** cada hoja necesita 18 preguntas por categoría (6 por nivel), y de cada 6, una de deportes.

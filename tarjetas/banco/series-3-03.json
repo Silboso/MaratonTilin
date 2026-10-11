@@ -1,0 +1,198 @@
+[
+ {
+  "deporte": true,
+  "p": "En «Ted Lasso», ¿qué grita siempre Dani Rojas?",
+  "o": [
+   "«¡El fútbol es vida!»",
+   "«¡Gol, gol, gol!»",
+   "«¡Vamos, Richmond!»"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Cobra Kai», ¿qué sensei millonario regresa en la cuarta temporada?",
+  "o": [
+   "Terry Silver",
+   "Chozen",
+   "Mike Barnes"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Glee», ¿cómo se llama la entrenadora de fútbol americano?",
+  "o": [
+   "Shannon Beiste",
+   "Sue Sylvester",
+   "Emma Pillsbury"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Gambito de dama», ¿cómo se llama el campeón ruso rival de Beth?",
+  "o": [
+   "Vasily Borgov",
+   "Benny Watts",
+   "Harry Beltik"
+  ]
+ },
+ {
+  "p": "En «Stranger Things», ¿cómo se llama el club de Dungeons & Dragons de Eddie?",
+  "o": [
+   "Hellfire Club",
+   "Party Club",
+   "Upside Club"
+  ]
+ },
+ {
+  "p": "¿En qué año pasa la primera temporada de «Stranger Things»?",
+  "o": [
+   "1983",
+   "1985",
+   "1979"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿cómo se llama el abogado de Walter?",
+  "o": [
+   "Saul Goodman",
+   "Howard Hamlin",
+   "Chuck McGill"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿cuál era el apodo de Jesse cuando cocinaba al inicio?",
+  "o": [
+   "Cap'n Cook",
+   "Heisenberg",
+   "Blue Sky"
+  ]
+ },
+ {
+  "p": "En «Game of Thrones», ¿cómo se llama la espada de Jon Snow?",
+  "o": [
+   "Garra",
+   "Aguja",
+   "Hielo"
+  ]
+ },
+ {
+  "p": "En «Game of Thrones», ¿a quién le dicen «el Perro»?",
+  "o": [
+   "Sandor Clegane",
+   "Gregor Clegane",
+   "Bronn"
+  ]
+ },
+ {
+  "p": "En «The Office», ¿cómo se llama el agente de las películas de Michael?",
+  "o": [
+   "Michael Scarn",
+   "Michael Klump",
+   "Prison Mike"
+  ]
+ },
+ {
+  "p": "En «The Office», ¿cómo se llama el gato de Angela que Dwight congela?",
+  "o": [
+   "Sprinkles",
+   "Bandit",
+   "Garbage"
+  ]
+ },
+ {
+  "p": "¿Cuál es el segundo nombre de Chandler en «Friends»?",
+  "o": [
+   "Muriel",
+   "Bing",
+   "Francis"
+  ]
+ },
+ {
+  "p": "En «Friends», ¿qué número de departamento es el de Monica?",
+  "o": [
+   "20",
+   "19",
+   "5"
+  ]
+ },
+ {
+  "p": "En «The Big Bang Theory», ¿cómo se llama la mamá de Leonard?",
+  "o": [
+   "Beverly",
+   "Mary",
+   "Debbie"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la serie que sigue a «Ben 10» clásico?",
+  "o": [
+   "Ben 10: Alien Force",
+   "Ben 10: Omniverse",
+   "Ben 10: Ultimate Alien"
+  ]
+ },
+ {
+  "p": "En «El increíble mundo de Gumball», ¿qué es Penny?",
+  "o": [
+   "Un cacahuate con cuernos",
+   "Una ardilla",
+   "Una flor"
+  ]
+ },
+ {
+  "p": "¿En qué estado de Estados Unidos está Springfield?",
+  "o": [
+   "Nunca se dice",
+   "Illinois",
+   "Oregón"
+  ]
+ },
+ {
+  "p": "En «Futurama», ¿cómo se llama la mascota de tres ojos de Leela?",
+  "o": [
+   "Nibbler",
+   "Seymour",
+   "Scruffy"
+  ]
+ },
+ {
+  "p": "En «El Chavo del 8», ¿cómo le dicen a Doña Clotilde?",
+  "o": [
+   "La Bruja del 71",
+   "La Chimoltrufia",
+   "La Popis"
+  ]
+ },
+ {
+  "p": "En «El Chavo del 8», ¿cómo se llama el cartero?",
+  "o": [
+   "Jaimito",
+   "Godínez",
+   "Don Ramón"
+  ]
+ },
+ {
+  "p": "¿Quién es la voz latina de Bob Esponja?",
+  "o": [
+   "Luis Carreño",
+   "Mario Castañeda",
+   "Humberto Vélez"
+  ]
+ },
+ {
+  "p": "¿Quién es la voz latina de Goku niño en «Dragon Ball»?",
+  "o": [
+   "Laura Torres",
+   "Mario Castañeda",
+   "Gaby Willer"
+  ]
+ },
+ {
+  "p": "¿Cuál es el segundo nombre de Homero Simpson?",
+  "o": [
+   "Jay",
+   "James",
+   "John"
+  ]
+ }
+]

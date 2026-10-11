@@ -1,0 +1,198 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Qué arte marcial practican en «Cobra Kai»?",
+  "o": [
+   "Karate",
+   "Kung fu",
+   "Taekwondo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Glee», ¿qué deporte juega Finn?",
+  "o": [
+   "Fútbol americano",
+   "Básquetbol",
+   "Béisbol"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Stranger Things», ¿en qué andan los niños por todo Hawkins?",
+  "o": [
+   "En bicicleta",
+   "En patineta",
+   "En patines"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Club de Cuervos», ¿qué puesto tiene Chava en el equipo?",
+  "o": [
+   "Presidente",
+   "Entrenador",
+   "Portero"
+  ]
+ },
+ {
+  "p": "¿Qué comida le encanta a Scooby-Doo?",
+  "o": [
+   "Las Scooby galletas",
+   "Las hamburguesas",
+   "La pizza"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la mamá de Bart Simpson?",
+  "o": [
+   "Marge",
+   "Lisa",
+   "Patty"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la bebé de los Simpson?",
+  "o": [
+   "Maggie",
+   "Lisa",
+   "Ling"
+  ]
+ },
+ {
+  "p": "En «Hora de Aventura», ¿qué animal es Jake?",
+  "o": [
+   "Un perro",
+   "Un gato",
+   "Un oso"
+  ]
+ },
+ {
+  "p": "En «Hora de Aventura», ¿qué poder tiene Jake?",
+  "o": [
+   "Estirarse",
+   "Volar",
+   "Ser invisible"
+  ]
+ },
+ {
+  "p": "En «Ben 10», ¿de dónde salió el Omnitrix?",
+  "o": [
+   "Cayó del espacio",
+   "Se lo dio su abuelo",
+   "Lo encontró en el mar"
+  ]
+ },
+ {
+  "p": "En «Phineas y Ferb», ¿qué es Perry en secreto?",
+  "o": [
+   "Un agente secreto",
+   "Un villano",
+   "Un robot"
+  ]
+ },
+ {
+  "p": "En «iCarly», ¿qué hacen Carly, Sam y Freddie?",
+  "o": [
+   "Un programa web",
+   "Una banda",
+   "Un periódico escolar"
+  ]
+ },
+ {
+  "p": "En «Hannah Montana», ¿qué secreto esconde Miley?",
+  "o": [
+   "Que es una estrella pop",
+   "Que es una princesa",
+   "Que tiene poderes"
+  ]
+ },
+ {
+  "p": "¿Qué son Zack y Cody?",
+  "o": [
+   "Gemelos",
+   "Primos",
+   "Mejores amigos"
+  ]
+ },
+ {
+  "p": "¿Qué son Drake y Josh?",
+  "o": [
+   "Hermanastros",
+   "Gemelos",
+   "Primos"
+  ]
+ },
+ {
+  "p": "En «Stranger Things», ¿quién desaparece al principio?",
+  "o": [
+   "Will Byers",
+   "Mike Wheeler",
+   "Dustin Henderson"
+  ]
+ },
+ {
+  "p": "En «Friends», ¿quién es chef?",
+  "o": [
+   "Monica",
+   "Rachel",
+   "Phoebe"
+  ]
+ },
+ {
+  "p": "En «The Big Bang Theory», ¿a qué se dedican Sheldon y Leonard?",
+  "o": [
+   "Son físicos",
+   "Son doctores",
+   "Son maestros"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿qué droga fabrica Walter White?",
+  "o": [
+   "Metanfetamina",
+   "Cocaína",
+   "Marihuana"
+  ]
+ },
+ {
+  "p": "En «Game of Thrones», ¿qué familia tiene un lobo como símbolo?",
+  "o": [
+   "Los Stark",
+   "Los Lannister",
+   "Los Targaryen"
+  ]
+ },
+ {
+  "p": "En «El Chavo del 8», ¿cómo le dicen a la niña de las coletas?",
+  "o": [
+   "La Chilindrina",
+   "La Popis",
+   "Paty"
+  ]
+ },
+ {
+  "p": "En «El Chavo del 8», ¿qué personaje se viste de marinero?",
+  "o": [
+   "Quico",
+   "El Chavo",
+   "Ñoño"
+  ]
+ },
+ {
+  "p": "En «Supernatural», ¿qué cazan Sam y Dean?",
+  "o": [
+   "Monstruos y demonios",
+   "Narcos",
+   "Extraterrestres"
+  ]
+ },
+ {
+  "p": "En «The Walking Dead», ¿cómo les dicen a los zombis?",
+  "o": [
+   "Caminantes",
+   "Infectados",
+   "Muertos vivientes"
+  ]
+ }
+]

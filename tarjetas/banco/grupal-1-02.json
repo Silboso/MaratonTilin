@@ -1,0 +1,198 @@
+[
+ {
+  "deporte": true,
+  "p": "¿De qué color es la camiseta clásica de la Selección Mexicana?",
+  "o": [
+   "Verde",
+   "Blanca",
+   "Roja"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cuántos tiempos tiene un partido de fútbol?",
+  "o": [
+   "2",
+   "3",
+   "4"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cuánto dura un partido de fútbol sin tiempo extra?",
+  "o": [
+   "90 minutos",
+   "60 minutos",
+   "120 minutos"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿De qué ciudad son los Tigres de la UANL?",
+  "o": [
+   "Monterrey",
+   "Guadalajara",
+   "Toluca"
+  ]
+ },
+ {
+  "p": "¿Qué le pones a los tacos además de cebolla?",
+  "o": [
+   "Cilantro",
+   "Lechuga",
+   "Zanahoria"
+  ]
+ },
+ {
+  "p": "¿Qué marca de refresco tiene osos polares en sus comerciales navideños?",
+  "o": [
+   "Coca-Cola",
+   "Pepsi",
+   "Sprite"
+  ]
+ },
+ {
+  "p": "¿Qué galletas de Gamesa son redondas, sencillas y de vainilla?",
+  "o": [
+   "Marías",
+   "Emperador",
+   "Chokis"
+  ]
+ },
+ {
+  "p": "¿Qué se dice en México al brindar?",
+  "o": [
+   "¡Salud!",
+   "¡Provecho!",
+   "¡Bravo!"
+  ]
+ },
+ {
+  "p": "¿Quiénes cantan «Hakuna Matata» con Simba?",
+  "o": [
+   "Timón y Pumba",
+   "Rafiki y Zazú",
+   "Nala y Sarabi"
+  ]
+ },
+ {
+  "p": "¿Quién pregunta «¿Qué hay de nuevo, viejo?»?",
+  "o": [
+   "Bugs Bunny",
+   "El Pato Lucas",
+   "Porky"
+  ]
+ },
+ {
+  "p": "En internet, ¿qué significa «xD»?",
+  "o": [
+   "Una carita riéndose",
+   "Un error",
+   "«Por favor»"
+  ]
+ },
+ {
+  "p": "¿Qué significa «BFF»?",
+  "o": [
+   "Mejores amigos para siempre",
+   "Muy buena fiesta",
+   "Novio de fin de semana"
+  ]
+ },
+ {
+  "p": "¿En qué red social podías darle un «toque» a alguien?",
+  "o": [
+   "Facebook",
+   "Twitter",
+   "Instagram"
+  ]
+ },
+ {
+  "p": "¿Qué se paga cada mes por vivir en un depa que no es tuyo?",
+  "o": [
+   "La renta",
+   "El predial",
+   "La tenencia"
+  ]
+ },
+ {
+  "p": "¿Qué documento pides en una compra para poder deducirla de impuestos?",
+  "o": [
+   "La factura",
+   "El ticket",
+   "La garantía"
+  ]
+ },
+ {
+  "p": "¿Con qué se come en Japón?",
+  "o": [
+   "Con palillos",
+   "Con tenedor",
+   "Con las manos"
+  ]
+ },
+ {
+  "p": "¿Qué significa «sayonara» en japonés?",
+  "o": [
+   "Adiós",
+   "Hola",
+   "Gracias"
+  ]
+ },
+ {
+  "p": "¿Qué marca de pegamento en barra pedían en la escuela?",
+  "o": [
+   "Pritt",
+   "Resistol",
+   "Kola Loka"
+  ]
+ },
+ {
+  "p": "¿Con qué bolitas de vidrio se jugaba en el recreo?",
+  "o": [
+   "Canicas",
+   "Tazos",
+   "Matatenas"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la muñeca rubia más famosa de Mattel?",
+  "o": [
+   "Barbie",
+   "Polly Pocket",
+   "Bratz"
+  ]
+ },
+ {
+  "p": "¿Qué marca de tenis tiene tres rayas?",
+  "o": [
+   "Adidas",
+   "Nike",
+   "Puma"
+  ]
+ },
+ {
+  "p": "¿Qué marca de tenis tiene una «palomita»?",
+  "o": [
+   "Nike",
+   "Adidas",
+   "Reebok"
+  ]
+ },
+ {
+  "p": "¿Qué app de videos cortos se volvió famosa por los bailes en 2020?",
+  "o": [
+   "TikTok",
+   "Vine",
+   "Snapchat"
+  ]
+ },
+ {
+  "p": "¿Qué se le pone al pozole?",
+  "o": [
+   "Rábano, lechuga y orégano",
+   "Crema y queso",
+   "Piña y cilantro"
+  ]
+ }
+]

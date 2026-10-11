@@ -1,0 +1,198 @@
+[
+ {
+  "deporte": true,
+  "p": "En «Ted Lasso», ¿cómo se llama el asistente callado y con barba de Ted?",
+  "o": [
+   "Coach Beard",
+   "Roy Kent",
+   "Higgins"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Cobra Kai», ¿cómo se llama la hija de Daniel LaRusso?",
+  "o": [
+   "Samantha",
+   "Tory",
+   "Moon"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Gambito de dama», ¿en qué ciudad es el gran torneo final?",
+  "o": [
+   "Moscú",
+   "París",
+   "Nueva York"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Ted Lasso», ¿de qué país es el delantero Dani Rojas?",
+  "o": [
+   "México",
+   "Argentina",
+   "España"
+  ]
+ },
+ {
+  "p": "En «Coraje, el perro cobarde», ¿qué le grita siempre Justo a Coraje?",
+  "o": [
+   "«¡Perro estúpido!»",
+   "«¡Perro cobarde!»",
+   "«¡Fuera de aquí!»"
+  ]
+ },
+ {
+  "p": "En «Johnny Test», ¿cómo se llaman las hermanas genio de Johnny?",
+  "o": [
+   "Susan y Mary",
+   "Sarah y Nazz",
+   "Bubbles y Blossom"
+  ]
+ },
+ {
+  "p": "En «Phineas y Ferb», ¿qué dice Phineas al empezar el día?",
+  "o": [
+   "«Ya sé lo que vamos a hacer hoy»",
+   "«¡Al infinito y más allá!»",
+   "«¿Qué están haciendo?»"
+  ]
+ },
+ {
+  "p": "En «Kim Possible», ¿cómo se llama el villano azul?",
+  "o": [
+   "Dr. Drakken",
+   "Monkey Fist",
+   "Duff Killigan"
+  ]
+ },
+ {
+  "p": "En «Avatar», ¿cómo se llama la maestra agua de la Tribu del Sur?",
+  "o": [
+   "Katara",
+   "Toph",
+   "Azula"
+  ]
+ },
+ {
+  "p": "En «Danny Phantom», ¿cómo se llama el villano mitad fantasma?",
+  "o": [
+   "Vlad Plasmius",
+   "Skulker",
+   "Ember"
+  ]
+ },
+ {
+  "p": "En «Bob Esponja», ¿qué licencia nunca logra sacar Bob?",
+  "o": [
+   "La de manejar",
+   "La de cocinero",
+   "La de pesca"
+  ]
+ },
+ {
+  "p": "En «Los Padrinos Mágicos», ¿cómo se llama el hada musculoso jefe de todos?",
+  "o": [
+   "Jorgen von Strangle",
+   "Juandissimo",
+   "Cupido"
+  ]
+ },
+ {
+  "p": "En «Gravity Falls», ¿cómo se llama el empleado grandote del Tío Stan?",
+  "o": [
+   "Soos",
+   "Wendy",
+   "Gideon"
+  ]
+ },
+ {
+  "p": "En «Steven Universe», ¿qué tiene Steven en el ombligo?",
+  "o": [
+   "Una gema",
+   "Un tatuaje",
+   "Un botón"
+  ]
+ },
+ {
+  "p": "En «Stranger Things», ¿quién adopta a Once?",
+  "o": [
+   "Hopper",
+   "Joyce",
+   "El Dr. Brenner"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿qué negocio usa Walter para lavar dinero?",
+  "o": [
+   "Un autolavado",
+   "Una pizzería",
+   "Una lavandería"
+  ]
+ },
+ {
+  "p": "En «Game of Thrones», ¿a quién le dicen «el Matarreyes»?",
+  "o": [
+   "Jaime Lannister",
+   "Tyrion Lannister",
+   "Ned Stark"
+  ]
+ },
+ {
+  "p": "En «The Office», ¿cómo se llama el contador que hace chili?",
+  "o": [
+   "Kevin",
+   "Oscar",
+   "Stanley"
+  ]
+ },
+ {
+  "p": "En «Friends», ¿qué mascotas tienen Joey y Chandler?",
+  "o": [
+   "Un pollito y un pato",
+   "Un gato y un perro",
+   "Un mono"
+  ]
+ },
+ {
+  "p": "En «The Big Bang Theory», ¿de qué país es Raj?",
+  "o": [
+   "India",
+   "Pakistán",
+   "Inglaterra"
+  ]
+ },
+ {
+  "p": "En «Los Simpson», ¿cómo se llama el payaso de la tele?",
+  "o": [
+   "Krusty",
+   "Bob Patiño",
+   "Brincos"
+  ]
+ },
+ {
+  "p": "En «Futurama», ¿qué animal es el Doctor Zoidberg?",
+  "o": [
+   "Una langosta",
+   "Un pulpo",
+   "Un calamar"
+  ]
+ },
+ {
+  "p": "¿Qué canción suena en el famoso baile de Merlina?",
+  "o": [
+   "«Goo Goo Muck»",
+   "«Bloody Mary»",
+   "«Paint It Black»"
+  ]
+ },
+ {
+  "p": "En «La Casa de Papel», ¿qué nombre usa la novia del Profesor?",
+  "o": [
+   "Lisboa",
+   "Tokio",
+   "Nairobi"
+  ]
+ }
+]

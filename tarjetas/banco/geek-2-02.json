@@ -1,0 +1,198 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Qué escudería de F1 es de color naranja papaya?",
+  "o": [
+   "McLaren",
+   "Renault",
+   "Haas"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué piloto español ganó dos campeonatos de F1 con Renault?",
+  "o": [
+   "Fernando Alonso",
+   "Carlos Sainz",
+   "Pedro de la Rosa"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En ajedrez, ¿qué significa quedar en «tablas»?",
+  "o": [
+   "Empatar",
+   "Perder",
+   "Rendirse"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En su primer partido de Quidditch, ¿cómo atrapa Harry la Snitch?",
+  "o": [
+   "Casi se la traga",
+   "Con su varita",
+   "Con los pies"
+  ]
+ },
+ {
+  "p": "¿De qué reino es Thor?",
+  "o": [
+   "Asgard",
+   "Wakanda",
+   "Atlantis"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la hermana de Thor, diosa de la muerte?",
+  "o": [
+   "Hela",
+   "Sif",
+   "Frigga"
+  ]
+ },
+ {
+  "p": "¿Qué villano de Spider-Man tiene cuatro brazos mecánicos?",
+  "o": [
+   "Doctor Octopus",
+   "El Buitre",
+   "Electro"
+  ]
+ },
+ {
+  "p": "¿Qué villano de Spider-Man vuela en un planeador?",
+  "o": [
+   "El Duende Verde",
+   "Mysterio",
+   "El Lagarto"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el escondite secreto de Batman?",
+  "o": [
+   "La Baticueva",
+   "La Fortaleza de la Soledad",
+   "El Santuario"
+  ]
+ },
+ {
+  "p": "¿Qué villano de Batman deja acertijos?",
+  "o": [
+   "El Acertijo",
+   "El Espantapájaros",
+   "El Sombrerero Loco"
+  ]
+ },
+ {
+  "p": "¿Qué personaje pierde una mano en «El Imperio contraataca»?",
+  "o": [
+   "Luke Skywalker",
+   "Han Solo",
+   "Darth Vader"
+  ]
+ },
+ {
+  "p": "¿Qué criatura gorda tiene prisionera a Leia en «El regreso del Jedi»?",
+  "o": [
+   "Jabba el Hutt",
+   "Watto",
+   "Sebulba"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la casa de los Weasley?",
+  "o": [
+   "La Madriguera",
+   "Grimmauld Place",
+   "La Casa de los Gritos"
+  ]
+ },
+ {
+  "p": "¿Qué espejo de Hogwarts muestra lo que más deseas?",
+  "o": [
+   "El Espejo de Oesed",
+   "El Espejo de Galadriel",
+   "El Espejo Mágico"
+  ]
+ },
+ {
+  "p": "¿A qué juego de mesa juegan Harry y Ron con piezas que se mueven solas?",
+  "o": [
+   "Ajedrez mágico",
+   "Snap explosivo",
+   "Gobstones"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la región donde viven los hobbits?",
+  "o": [
+   "La Comarca",
+   "Rivendel",
+   "Mordor"
+  ]
+ },
+ {
+  "p": "¿Qué mago traiciona a la Comunidad del Anillo?",
+  "o": [
+   "Saruman",
+   "Radagast",
+   "Gandalf"
+  ]
+ },
+ {
+  "p": "¿Qué organización creó el navegador Firefox?",
+  "o": [
+   "Mozilla",
+   "Google",
+   "Apple"
+  ]
+ },
+ {
+  "p": "¿Qué significa «QR» en código QR?",
+  "o": [
+   "Quick Response",
+   "Quality Read",
+   "Quick Record"
+  ]
+ },
+ {
+  "p": "¿Qué empresa es dueña de Marvel desde 2009?",
+  "o": [
+   "Disney",
+   "Warner Bros.",
+   "Sony"
+  ]
+ },
+ {
+  "p": "¿Qué marca coreana tiene el lema «Life's Good»?",
+  "o": [
+   "LG",
+   "Samsung",
+   "Hyundai"
+  ]
+ },
+ {
+  "p": "¿Cuál es el órgano más grande del cuerpo humano?",
+  "o": [
+   "La piel",
+   "El hígado",
+   "Los pulmones"
+  ]
+ },
+ {
+  "p": "¿Qué planeta tiene la Gran Mancha Roja?",
+  "o": [
+   "Júpiter",
+   "Marte",
+   "Saturno"
+  ]
+ },
+ {
+  "p": "¿Qué dios griego es el dios del sol y la música?",
+  "o": [
+   "Apolo",
+   "Ares",
+   "Hermes"
+  ]
+ }
+]

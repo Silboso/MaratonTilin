@@ -23,6 +23,8 @@ No son categoría propia: van dentro de las 6 categorías, con borde de cancha y
 Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí conocen todos.
 
 - Deportes: fútbol, básquetbol, box y lucha libre, Fórmula 1 y autos, Olímpicos, NFL, béisbol, tenis.
+- **Fútbol:** los dos que lo siguen conocen la Selección Mexicana y los Mundiales, la Liga MX y las ligas europeas y la Champions. Las ★ deben ser de lo muy famoso, que sabe cualquiera; el fútbol puro más específico va en ★★★.
+- **Otros deportes que se valen más allá de lo básico:** Fórmula 1 (Checo Pérez, escuderías, GP de México), box y lucha libre (Canelo, Chávez, AAA, CMLL, WWE), NBA y NFL, Olímpicos y mexicanos destacados.
 - Cruces: anime de deportes, películas y series, videojuegos, canciones de Mundiales, mascotas, memes.
 
 ## 1. Anime y Películas
@@ -133,11 +135,19 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
 
 ## 5. Música
 
-Siempre canciones y artistas **muy conocidos**.
+Siempre canciones y artistas **muy conocidos**. Se valen ★★★ de **Linkin Park, My Chemical Romance, Paramore, Queen, Michael Jackson y The Beatles** (discos, canciones menos conocidas, integrantes).
 
-- **Anime, J-pop y J-rock:** los **openings clásicos** (Cha-La Head-Cha-La, Pegasus Fantasy, Butter-Fly…) se valen a fondo. YOASOBI, Ado, LiSA, ONE OK ROCK, Linked Horizon, SiM, Kenshi Yonezu, Aimer y Eve, solo básico. **Vocaloid**, muy básico; la excepción es «Setsuna Drive» (IA), que el grupo pidió y está en la reserva como ★★★.
+- **Anime, J-pop y J-rock:** los **openings clásicos** (Cha-La Head-Cha-La, Pegasus Fantasy, Butter-Fly…) se valen a fondo. YOASOBI, Ado, LiSA, ONE OK ROCK, Linked Horizon, SiM, Kenshi Yonezu, Aimer y Eve, solo básico. **Vocaloid**, muy básico; la excepción es «Setsuna Drive», de Yoshimitsu Taki (guitarrista de 9mm Parabellum Bullet) con la voz de IA, que el grupo pidió y está en la reserva como ★★★.
+- **Música de anime en español:** Dragon Ball (Ricardo Silva, Adrián Barba), Digimon, Pokémon, Caballeros del Zodiaco, Sailor Moon, y fandubs y covers.
 - **Pop y rock en inglés:** emo y pop punk de los 2000 (MCR, Paramore, Green Day, Fall Out Boy), pop de los 2000 y 2010, rock alternativo, pop actual (Billie Eilish, The Weeknd, Dua Lipa)
-- **En español:** rock mexicano, pop mexicano de los 2000 (RBD, Belinda, Jesse & Joy, Reik, Camila), pop latino, regional y corridos (Peso Pluma, Grupo Frontera, Juan Gabriel)
+- **Más en inglés:** electrónica (Daft Punk, Avicii, David Guetta), hip hop de los 2000 (Eminem, 50 Cent, Kanye West), rock y metal clásico (Metallica, AC/DC, Guns N' Roses), indie y alternativo (Arctic Monkeys, The Strokes, Gorillaz)
+- **En español:** rock mexicano, pop mexicano de los 2000 (RBD, Belinda, Jesse & Joy, Reik, Camila), pop latino, regional (Peso Pluma, Grupo Frontera, Juan Gabriel)
+  - **Rock y ska:** Soda Stereo, Héroes del Silencio, Los Fabulosos Cadillacs, Enanitos Verdes, Panteón Rococó, Inspector, Los de Abajo, El Tri, Botellita de Jerez
+  - **Pop:** La Oreja de Van Gogh, El Canto del Loco, Hombres G, Mecano, Alejandro Sanz, Bunbury, Paulina Rubio, Thalía, Gloria Trevi, Danna Paola, Kenia OS, Sofía Reyes
+  - **Cantautoras e indie:** Natalia Lafourcade, Mon Laferte, Carla Morrison, Siddhartha, Enjambre, Little Jesus
+  - **Baladas, cumbia y ranchera:** Juan Gabriel, José José, Rocío Dúrcal, Los Ángeles Azules, Bronco, Celso Piña, Vicente y Alejandro Fernández, Pedro Infante
+  - **Urbano:** Santa Fe Klan, C-Kan, Cartel de Santa, Bizarrap, Nicki Nicole, Duki
+  - **Fuera:** Kinky, Plastilina Mosh, Control Machete, Belanova, Kudai, Eme 15, Natanael Cano, Junior H, Fuerza Regida, Rauw Alejandro, Myke Towers, Feid, Tini, Emilia, María Becerra
 - **Música de videojuegos:** la de LoL (K/DA, Pentakill, True Damage, HEARTSTEEL, himnos de Worlds) y bandas sonoras (Zelda, Mario, Minecraft, Undertale, Halo)
 - **Clásicos de siempre:** Queen, Michael Jackson, The Beatles, Nirvana
 - **K-pop:** BTS, Blackpink, Twice, Stray Kids, PSY
@@ -152,8 +162,12 @@ Mezcla de subtemas, sin preguntas sobre el grupo mismo.
   - **Comerciales:** mascotas de marca (el Osito Bimbo, el Tigre Toño, Chester Cheetos), jingles y frases, comerciales de juguetes (Max Steel, Beyblade, Tazos, Hot Wheels), promos de Cartoon, Disney y Nick
 - **¿Quién lo dijo?:** frases de anime, películas, series y videojuegos. *(Que salga más.)*
 - **Memes e internet:** sin streamers. *(Que salga más.)* Incluye el internet viejito: MSN Messenger y Hotmail, Hi5, Metroflog, Fotolog, MySpace, Ares, LimeWire, Taringa, BlackBerry Messenger, Nokia y Snake.
-- **Vida adulta:** SAT, CURP, aguinaldo, trabajo. *(Que salga más.)*
-- **Japón:** comida, palabras y costumbres. *(Que salga menos.)*
+- **Vida adulta:** *(Que salga más.)*
+  - **Trámites:** SAT, RFC, CURP, INE, pasaporte, e.firma, declaración anual
+  - **Trabajo y derechos:** aguinaldo, vacaciones, IMSS, Afore, Infonavit, finiquito, home office
+  - **Dinero y bancos:** tarjetas de crédito, Buró de Crédito, Cetes, meses sin intereses, SPEI
+  - **Casa y rutina:** rentar, recibos de CFE y agua, gas, súper, cocinar
+- **Japón:** *(Que salga menos, y siempre muy básico.)* Comida (sushi, ramen, onigiri, mochi, bento), palabras de anime (senpai, kawaii, baka, -chan y -kun), lugares y símbolos (Tokio, Akihabara, Monte Fuji, torii) y costumbres (quitarse los zapatos, reverencias, Hanami).
 
 ## Cómo agregar preguntas
 

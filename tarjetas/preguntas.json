@@ -1564,11 +1564,11 @@
       "cat": "musica",
       "nivel": 3,
       "deporte": true,
-      "p": "¿Qué Vocaloid canta «Setsuna Drive», canción ligada a las carreras de Super GT?",
+      "p": "¿Cómo se llama la canción del guitarrista de 9mm Parabellum Bullet sobre las carreras de Super GT?",
       "o": [
-        "IA",
-        "Hatsune Miku",
-        "GUMI"
+        "Setsuna Drive",
+        "Inferno",
+        "Black Market Blues"
       ]
     }
   ]

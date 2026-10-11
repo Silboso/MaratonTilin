@@ -29,6 +29,9 @@ const iconos = {
     '<rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/>',
   musica:
     '<path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/>',
+  grupal:
+    '<path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/>' +
+    '<circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/>',
 };
 
 const balon =
@@ -143,7 +146,7 @@ const html = (version) => `<!doctype html>
   }
   .tarjeta {
     border: 0.2mm dashed #b5b5b5;
-    padding: 2.6mm 2.8mm 2.8mm;
+    padding: 2.2mm 2.4mm 2.2mm;
     display: flex;
     flex-direction: column;
     overflow: hidden;
@@ -156,8 +159,9 @@ const html = (version) => `<!doctype html>
     background: #111;
     color: #fff;
     border-radius: 1.6mm;
-    padding: 1.1mm 2.2mm;
-    font-size: 7pt;
+    padding: 0.7mm 2mm;
+    margin-bottom: 0.6mm;
+    font-size: 6.4pt;
     letter-spacing: 0.06em;
   }
   header .logo { font-weight: 500; }
@@ -176,8 +180,8 @@ const html = (version) => `<!doctype html>
     position: relative;
     display: flex;
     align-items: flex-start;
-    gap: 1.6mm;
-    padding: 0.8mm 1mm;
+    gap: 1.4mm;
+    padding: 0.6mm 0.8mm;
     border-radius: 1.4mm;
   }
   .chip {
@@ -191,8 +195,8 @@ const html = (version) => `<!doctype html>
   }
   .chip svg { width: 3.2mm; height: 3.2mm; }
   .cuerpo { display: flex; flex-direction: column; gap: 0.5mm; min-width: 0; }
-  .texto { font-size: 6.7pt; line-height: 1.18; font-weight: 600; }
-  .ops { display: flex; flex-wrap: wrap; column-gap: 1.8mm; row-gap: 0.2mm; font-size: 6.2pt; line-height: 1.2; color: #333; }
+  .texto { font-size: 6.8pt; line-height: 1.15; font-weight: 600; }
+  .ops { display: flex; flex-wrap: wrap; column-gap: 1.6mm; row-gap: 0; font-size: 6.3pt; line-height: 1.2; color: #333; }
   .op i {
     display: inline-block;
     width: 2.5mm;

@@ -1,4 +1,5 @@
 // Genera las hojas imprimibles (tamaño carta, tarjetas tamaño póker 3 × 3).
+// Cada tarjeta tiene preguntas por los dos lados (cara A al frente, cara B atrás).
 // Uso: node tarjetas/generar.mjs
 // Escribe tarjetas/tarjetas.html y, si Playwright está disponible, tarjetas/tarjetas.pdf.
 import { readFileSync, writeFileSync } from "node:fs";
@@ -44,40 +45,54 @@ const chip = (cat) =>
   `<svg viewBox="0 0 24 24" aria-hidden="true">${iconos[cat]}</svg></span>`;
 
 const numero = (n) => String(n).padStart(3, "0");
+const LETRAS = ["A", "B", "C"];
 
-function frente(preguntas, n) {
+// Revuelve las opciones de forma fija (misma tarjeta, mismo orden en cada impresión).
+function azar(semilla) {
+  let t = semilla >>> 0;
+  return () => {
+    t = (t + 0x6d2b79f5) >>> 0;
+    let r = Math.imul(t ^ (t >>> 15), 1 | t);
+    r = (r + Math.imul(r ^ (r >>> 7), 61 | r)) ^ r;
+    return ((r ^ (r >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+function revolver(opciones, rnd) {
+  const orden = opciones.map((texto, i) => ({ texto, correcta: i === 0 }));
+  for (let i = orden.length - 1; i > 0; i--) {
+    const j = Math.floor(rnd() * (i + 1));
+    [orden[i], orden[j]] = [orden[j], orden[i]];
+  }
+  return orden;
+}
+
+function cara(preguntas, n, lado) {
+  const rnd = azar(n * 7919 + (lado === "A" ? 1 : 2));
+  const clave = [];
   const filas = preguntas
-    .map(
-      (q) => `
+    .map((q, i) => {
+      const opciones = revolver(q.o, rnd);
+      clave.push(`${i + 1}${LETRAS[opciones.findIndex((o) => o.correcta)]}`);
+      const ops = opciones
+        .map((o, k) => `<span class="op"><i>${LETRAS[k]}</i>${esc(o.texto)}</span>`)
+        .join("");
+      return `
       <li class="fila${q.deporte ? " deporte" : ""}">
         ${chip(q.cat)}
-        <span class="texto">${esc(q.p)}</span>
+        <div class="cuerpo">
+          <span class="texto">${esc(q.p)}</span>
+          <span class="ops">${ops}</span>
+        </div>
         ${q.deporte ? balon : ""}
-      </li>`
-    )
+      </li>`;
+    })
     .join("");
   return `
     <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#${numero(n)}</span></header>
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#${numero(n)} · ${lado}</span></header>
       <ol>${filas}</ol>
-    </div>`;
-}
-
-function reverso(preguntas, n) {
-  const filas = preguntas
-    .map(
-      (q) => `
-      <li class="fila${q.deporte ? " deporte" : ""}">
-        ${chip(q.cat)}
-        <span class="texto"><b>${esc(q.r)}</b></span>
-        ${q.deporte ? balon : ""}
-      </li>`
-    )
-    .join("");
-  return `
-    <div class="tarjeta atras">
-      <header><span class="logo">RESPUESTAS</span><span class="num">#${numero(n)}</span></header>
-      <ol>${filas}</ol>
+      <footer>Respuestas: ${clave.join(" · ")}</footer>
     </div>`;
 }
 
@@ -96,8 +111,8 @@ function espejo(lista) {
 const hojas = [];
 for (let i = 0; i < datos.tarjetas.length; i += POR_HOJA) {
   const grupo = datos.tarjetas.slice(i, i + POR_HOJA);
-  const frentes = grupo.map((t, j) => frente(t, i + j + 1));
-  const reversos = espejo(grupo.map((t, j) => reverso(t, i + j + 1)));
+  const frentes = grupo.map((t, j) => cara(t.a, i + j + 1, "A"));
+  const reversos = espejo(grupo.map((t, j) => cara(t.b, i + j + 1, "B")));
   hojas.push(`<section class="hoja">${frentes.join("")}</section>`);
   hojas.push(`<section class="hoja">${reversos.join("")}</section>`);
 }
@@ -162,37 +177,55 @@ const html = `<!doctype html>
   .fila {
     position: relative;
     display: flex;
-    align-items: center;
-    gap: 2mm;
-    padding: 1mm 1.2mm;
+    align-items: flex-start;
+    gap: 1.6mm;
+    padding: 0.8mm 1mm;
     border-radius: 1.4mm;
-    font-size: 7.6pt;
-    line-height: 1.22;
   }
   .chip {
     flex: none;
-    width: 5.2mm;
-    height: 5.2mm;
-    border-radius: 1.2mm;
+    width: 4.4mm;
+    height: 4.4mm;
+    margin-top: 0.3mm;
+    border-radius: 1mm;
     display: grid;
     place-items: center;
   }
-  .chip svg { width: 3.8mm; height: 3.8mm; }
+  .chip svg { width: 3.2mm; height: 3.2mm; }
+  .cuerpo { display: flex; flex-direction: column; gap: 0.5mm; min-width: 0; }
+  .texto { font-size: 6.7pt; line-height: 1.18; font-weight: 600; }
+  .ops { display: flex; flex-wrap: wrap; column-gap: 1.8mm; row-gap: 0.2mm; font-size: 6.2pt; line-height: 1.2; color: #333; }
+  .op i {
+    font-style: normal;
+    font-weight: 800;
+    margin-right: 0.6mm;
+    color: #111;
+  }
   /* Pregunta deportiva escondida en otra categoría: borde de cancha y balón. */
   .fila.deporte {
     background: repeating-linear-gradient(90deg, #eef7ee 0 3mm, #e2f0e2 3mm 6mm);
     border: 0.25mm solid #2f7d32;
-    padding-right: 4.6mm;
+    padding-right: 3.6mm;
   }
   .balon {
     position: absolute;
     right: -0.6mm;
     top: -1.4mm;
-    width: 4.2mm;
-    height: 4.2mm;
+    width: 3.8mm;
+    height: 3.8mm;
   }
-  .atras .fila { font-size: 8.2pt; }
-  .atras header { background: #444; }
+  /* Clave de respuestas de cabeza, para que quien lee la pregunta no la vea de reojo. */
+  footer {
+    transform: rotate(180deg);
+    text-align: center;
+    font-size: 5.6pt;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: #777;
+    border-top: 0.2mm solid #ddd;
+    padding-top: 0.6mm;
+    margin-top: 0.6mm;
+  }
 </style>
 </head>
 <body>

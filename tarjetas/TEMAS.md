@@ -141,6 +141,11 @@ Siempre canciones y artistas **muy conocidos**. Se valen ★★★ de **Linkin P
 - **Música de anime en español:** Dragon Ball (Ricardo Silva, Adrián Barba), Digimon, Pokémon, Caballeros del Zodiaco, Sailor Moon, y fandubs y covers.
 - **Pop y rock en inglés:** emo y pop punk de los 2000 (MCR, Paramore, Green Day, Fall Out Boy), pop de los 2000 y 2010, rock alternativo, pop actual (Billie Eilish, The Weeknd, Dua Lipa)
 - **Más en inglés:** electrónica (Daft Punk, Avicii, David Guetta), hip hop de los 2000 (Eminem, 50 Cent, Kanye West), rock y metal clásico (Metallica, AC/DC, Guns N' Roses), indie y alternativo (Arctic Monkeys, The Strokes, Gorillaz)
+  - **Rock de los 80 y 90 (solo básico):** Red Hot Chili Peppers, Foo Fighters, Pearl Jam, Oasis, Radiohead, Blur, The Cranberries, No Doubt, Smash Mouth, Bon Jovi, Toto, a-ha
+  - **Metal y rock pesado:** System of a Down, Slipknot, Korn, Evanescence, Three Days Grace, Breaking Benjamin, Iron Maiden, Black Sabbath, Ozzy, Bring Me the Horizon, Avenged Sevenfold, Bullet for My Valentine
+  - **Pop:** Backstreet Boys, NSYNC, One Direction, Beyoncé, Ariana Grande, Sia, Ed Sheeran, Harry Styles, Shawn Mendes, Twenty One Pilots, Panic! at the Disco, Fall Out Boy, Muse
+  - **Indie, virales y de películas:** MGMT, Foster the People, Two Door Cinema Club; virales y memes (Rickroll, Sandstorm, Gangnam Style, Nyan Cat, What Does the Fox Say?); canciones de películas (My Heart Will Go On, Let It Go, Eye of the Tiger, Shrek, High School Musical)
+  - **Fuera:** Lana Del Rey, Lorde, Florence + the Machine
 - **En español:** rock mexicano, pop mexicano de los 2000 (RBD, Belinda, Jesse & Joy, Reik, Camila), pop latino, regional (Peso Pluma, Grupo Frontera, Juan Gabriel)
   - **Rock y ska:** Soda Stereo, Héroes del Silencio, Los Fabulosos Cadillacs, Enanitos Verdes, Panteón Rococó, Inspector, Los de Abajo, El Tri, Botellita de Jerez
   - **Pop:** La Oreja de Van Gogh, El Canto del Loco, Hombres G, Mecano, Alejandro Sanz, Bunbury, Paulina Rubio, Thalía, Gloria Trevi, Danna Paola, Kenia OS, Sofía Reyes

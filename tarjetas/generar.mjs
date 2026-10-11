@@ -2,15 +2,22 @@
 // Cada tarjeta tiene preguntas por los dos lados (cara A al frente, cara B atrás),
 // una de cada categoría por cara, y todas del mismo nivel de dificultad.
 // Uso: node tarjetas/generar.mjs
-// Escribe dos versiones, a color y en blanco y negro (tarjetas-color.* y tarjetas-bn.*):
+// Escribe dos versiones, a color y en blanco y negro (<nombre>-color.* y <nombre>-bn.*):
 // el HTML siempre y el PDF si Playwright está disponible.
 import { readFileSync, writeFileSync } from "node:fs";
 import { createRequire } from "node:module";
-import { dirname, join } from "node:path";
+import { basename, dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const dir = dirname(fileURLToPath(import.meta.url));
-const datos = JSON.parse(readFileSync(join(dir, "preguntas.json"), "utf8"));
+// Por defecto usa preguntas.json; se puede pasar otro archivo (p. ej. muestra.json).
+const entrada = process.argv[2] ? join(process.cwd(), process.argv[2]) : join(dir, "preguntas.json");
+const nombre = basename(entrada, ".json") === "preguntas" ? "tarjetas" : basename(entrada, ".json");
+const datos = JSON.parse(readFileSync(entrada, "utf8"));
+// Un archivo de muestra puede traer solo preguntas sin categorías; se usan las de preguntas.json.
+if (!datos.categorias) datos.categorias = JSON.parse(readFileSync(join(dir, "preguntas.json"), "utf8")).categorias;
+// «soloFrente»: una sola cara por tarjeta (1 pregunta por categoría en vez de 2).
+const CARAS = datos.soloFrente ? 1 : 2;
 const categorias = Object.fromEntries(datos.categorias.map((c) => [c.id, c]));
 
 const POR_HOJA = 9;
@@ -119,11 +126,11 @@ function armarTarjetas() {
     const porCat = datos.categorias.map((c) =>
       datos.preguntas.filter((q) => q.cat === c.id && q.nivel === nivel)
     );
-    const total = Math.min(...porCat.map((qs) => Math.floor(qs.length / 2)));
-    const caras = Array.from({ length: total * 2 }, () => []);
+    const total = Math.min(...porCat.map((qs) => Math.floor(qs.length / CARAS)));
+    const caras = Array.from({ length: total * CARAS }, () => []);
     const deportes = caras.map(() => 0);
     porCat.forEach((qs, c) => {
-      const usadas = qs.slice(0, total * 2);
+      const usadas = qs.slice(0, total * CARAS);
       const conDeporte = usadas.filter((q) => q.deporte);
       const sinDeporte = usadas.filter((q) => !q.deporte);
       const orden = caras
@@ -138,7 +145,7 @@ function armarTarjetas() {
       if (sobran) console.log(`Aviso: ${sobran} pregunta(s) de ${datos.categorias[c].id} nivel ${nivel} no caben en una tarjeta completa.`);
     });
     for (let t = 0; t < total; t++) {
-      tarjetas.push({ nivel, a: caras[t * 2], b: caras[t * 2 + 1] });
+      tarjetas.push({ nivel, a: caras[t * CARAS], b: CARAS === 2 ? caras[t * 2 + 1] : null });
     }
   }
   return tarjetas;
@@ -149,9 +156,9 @@ const hojas = [];
 for (let i = 0; i < tarjetas.length; i += POR_HOJA) {
   const grupo = tarjetas.slice(i, i + POR_HOJA);
   const frentes = grupo.map((t, j) => cara(t.a, i + j + 1, "A", t.nivel));
-  const reversos = espejo(grupo.map((t, j) => cara(t.b, i + j + 1, "B", t.nivel)));
+  const reversos = CARAS === 2 ? espejo(grupo.map((t, j) => cara(t.b, i + j + 1, "B", t.nivel))) : [];
   hojas.push(`<section class="hoja">${frentes.join("")}</section>`);
-  hojas.push(`<section class="hoja">${reversos.join("")}</section>`);
+  if (CARAS === 2) hojas.push(`<section class="hoja">${reversos.join("")}</section>`);
 }
 
 const html = (version) => `<!doctype html>
@@ -284,8 +291,8 @@ ${hojas.join("\n")}
 
 const versiones = ["color", "bn"];
 for (const v of versiones) {
-  writeFileSync(join(dir, `tarjetas-${v}.html`), html(v));
-  console.log(`HTML: ${join(dir, `tarjetas-${v}.html`)}`);
+  writeFileSync(join(dir, `${nombre}-${v}.html`), html(v));
+  console.log(`HTML: ${join(dir, `${nombre}-${v}.html`)}`);
 }
 
 let chromium;
@@ -301,13 +308,13 @@ try {
 const navegador = await chromium.launch();
 const pagina = await navegador.newPage();
 for (const v of versiones) {
-  await pagina.goto("file://" + join(dir, `tarjetas-${v}.html`));
+  await pagina.goto("file://" + join(dir, `${nombre}-${v}.html`));
   await pagina.pdf({
-    path: join(dir, `tarjetas-${v}.pdf`),
+    path: join(dir, `${nombre}-${v}.pdf`),
     format: "Letter",
     printBackground: true,
     margin: { top: 0, right: 0, bottom: 0, left: 0 },
   });
-  console.log(`PDF: ${join(dir, `tarjetas-${v}.pdf`)}`);
+  console.log(`PDF: ${join(dir, `${nombre}-${v}.pdf`)}`);
 }
 await navegador.close();

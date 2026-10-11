@@ -1,5 +1,6 @@
 // Genera las hojas imprimibles (tamaño carta, tarjetas tamaño póker 3 × 3).
-// Cada tarjeta tiene preguntas por los dos lados (cara A al frente, cara B atrás).
+// Cada tarjeta tiene preguntas por los dos lados (cara A al frente, cara B atrás),
+// una de cada categoría por cara, y todas del mismo nivel de dificultad.
 // Uso: node tarjetas/generar.mjs
 // Escribe dos versiones, a color y en blanco y negro (tarjetas-color.* y tarjetas-bn.*):
 // el HTML siempre y el PDF si Playwright está disponible.
@@ -23,7 +24,7 @@ const iconos = {
     '<rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/>' +
     '<path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/>' +
     '<circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/>',
-  infancia:
+  series:
     '<rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/>' +
     '<path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/>' +
     '<rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/>',
@@ -71,7 +72,7 @@ function revolver(opciones, rnd) {
   return orden;
 }
 
-function cara(preguntas, n, lado) {
+function cara(preguntas, n, lado, nivel) {
   const rnd = azar(n * 7919 + (lado === "A" ? 1 : 2));
   const filas = preguntas
     .map((q) => {
@@ -92,7 +93,7 @@ function cara(preguntas, n, lado) {
     .join("");
   return `
     <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#${numero(n)} · ${lado}</span></header>
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">${"★".repeat(nivel)}<s>${"★".repeat(3 - nivel)}</s></span><span class="num">#${numero(n)} · ${lado}</span></header>
       <ol>${filas}</ol>
     </div>`;
 }
@@ -109,11 +110,46 @@ function espejo(lista) {
   return salida;
 }
 
+// Arma las tarjetas desde el banco: por cada nivel, cada tarjeta toma 2 preguntas de
+// cada categoría (una por cara). Las preguntas de deporte se reparten entre las caras
+// que llevan menos, para que no se junten.
+function armarTarjetas() {
+  const tarjetas = [];
+  for (const nivel of [1, 2, 3]) {
+    const porCat = datos.categorias.map((c) =>
+      datos.preguntas.filter((q) => q.cat === c.id && q.nivel === nivel)
+    );
+    const total = Math.min(...porCat.map((qs) => Math.floor(qs.length / 2)));
+    const caras = Array.from({ length: total * 2 }, () => []);
+    const deportes = caras.map(() => 0);
+    porCat.forEach((qs, c) => {
+      const usadas = qs.slice(0, total * 2);
+      const conDeporte = usadas.filter((q) => q.deporte);
+      const sinDeporte = usadas.filter((q) => !q.deporte);
+      const orden = caras
+        .map((_, i) => i)
+        .sort((a, b) => deportes[a] - deportes[b] || a - b);
+      orden.forEach((i, k) => {
+        const q = k < conDeporte.length ? conDeporte[k] : sinDeporte[k - conDeporte.length];
+        caras[i][c] = q;
+        if (q.deporte) deportes[i]++;
+      });
+      const sobran = qs.length - usadas.length;
+      if (sobran) console.log(`Aviso: ${sobran} pregunta(s) de ${datos.categorias[c].id} nivel ${nivel} no caben en una tarjeta completa.`);
+    });
+    for (let t = 0; t < total; t++) {
+      tarjetas.push({ nivel, a: caras[t * 2], b: caras[t * 2 + 1] });
+    }
+  }
+  return tarjetas;
+}
+
+const tarjetas = armarTarjetas();
 const hojas = [];
-for (let i = 0; i < datos.tarjetas.length; i += POR_HOJA) {
-  const grupo = datos.tarjetas.slice(i, i + POR_HOJA);
-  const frentes = grupo.map((t, j) => cara(t.a, i + j + 1, "A"));
-  const reversos = espejo(grupo.map((t, j) => cara(t.b, i + j + 1, "B")));
+for (let i = 0; i < tarjetas.length; i += POR_HOJA) {
+  const grupo = tarjetas.slice(i, i + POR_HOJA);
+  const frentes = grupo.map((t, j) => cara(t.a, i + j + 1, "A", t.nivel));
+  const reversos = espejo(grupo.map((t, j) => cara(t.b, i + j + 1, "B", t.nivel)));
   hojas.push(`<section class="hoja">${frentes.join("")}</section>`);
   hojas.push(`<section class="hoja">${reversos.join("")}</section>`);
 }
@@ -167,6 +203,10 @@ const html = (version) => `<!doctype html>
   header .logo { font-weight: 500; }
   header .logo b { font-weight: 800; color: #ffd43b; }
   header .num { font-variant-numeric: tabular-nums; opacity: 0.8; }
+  header .nivel { font-size: 7pt; letter-spacing: 0.08em; color: #ffd43b; }
+  header .nivel s { text-decoration: none; opacity: 0.3; }
+  .bn header .nivel { color: #111; }
+  .bn header .nivel s { opacity: 0.25; }
   ol {
     list-style: none;
     margin: 0;

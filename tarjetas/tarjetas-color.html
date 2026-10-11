@@ -47,6 +47,10 @@
   header .logo { font-weight: 500; }
   header .logo b { font-weight: 800; color: #ffd43b; }
   header .num { font-variant-numeric: tabular-nums; opacity: 0.8; }
+  header .nivel { font-size: 7pt; letter-spacing: 0.08em; color: #ffd43b; }
+  header .nivel s { text-decoration: none; opacity: 0.3; }
+  .bn header .nivel { color: #111; }
+  .bn header .nivel s { opacity: 0.25; }
   ol {
     list-style: none;
     margin: 0;
@@ -119,7 +123,7 @@
 <body class="color">
 <section class="hoja">
     <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#001 · A</span></header>
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">★<s>★★</s></span><span class="num">#001 · A</span></header>
       <ol>
       <li class="fila deporte">
         <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
@@ -132,32 +136,32 @@
       <li class="fila">
         <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">¿Qué actor interpretó a Iron Man en las películas de Marvel?</span>
-          <span class="ops"><span class="op"><i>A</i>Chris Evans</span><span class="op"><i>B</i>Mark Ruffalo</span><span class="op ok"><i>C</i>Robert Downey Jr.</span></span>
+          <span class="texto">¿Cómo se llama la empresa dueña de Facebook desde 2021?</span>
+          <span class="ops"><span class="op"><i>A</i>Alphabet</span><span class="op"><i>B</i>Horizon</span><span class="op ok"><i>C</i>Meta</span></span>
         </div>
         
       </li>
       <li class="fila">
         <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">¿Qué jugador de T1 es conocido como «The Unkillable Demon King»?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Faker</span><span class="op"><i>B</i>Uzi</span><span class="op"><i>C</i>Caps</span></span>
+          <span class="texto">¿Cómo se llama el protagonista de GTA San Andreas?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Carl «CJ» Johnson</span><span class="op"><i>B</i>Tommy Vercetti</span><span class="op"><i>C</i>Niko Bellic</span></span>
         </div>
         
       </li>
       <li class="fila">
         <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">En «Los Padrinos Mágicos», ¿cómo se llaman los padrinos de Timmy?</span>
-          <span class="ops"><span class="op"><i>A</i>Juandissimo y Trixie</span><span class="op"><i>B</i>Jorgen y Poof</span><span class="op ok"><i>C</i>Cosmo y Wanda</span></span>
+          <span class="texto">En «Bob Esponja», ¿dónde trabaja Bob?</span>
+          <span class="ops"><span class="op"><i>A</i>La Fonda de Fondo de Bikini</span><span class="op"><i>B</i>El Balde de Carnada</span><span class="op ok"><i>C</i>El Crustáceo Cascarudo</span></span>
         </div>
         
       </li>
       <li class="fila">
         <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">¿De qué anime es opening «Blue Bird» de Ikimonogakari?</span>
-          <span class="ops"><span class="op"><i>A</i>Bleach</span><span class="op"><i>B</i>Fullmetal Alchemist</span><span class="op ok"><i>C</i>Naruto Shippuden</span></span>
+          <span class="texto">¿Qué grupo musical nació de la telenovela «Rebelde»?</span>
+          <span class="ops"><span class="op"><i>A</i>Kabah</span><span class="op"><i>B</i>OV7</span><span class="op ok"><i>C</i>RBD</span></span>
         </div>
         
       </li>
@@ -171,542 +175,21 @@
       </li></ol>
     </div>
     <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#002 · A</span></header>
-      <ol>
-      <li class="fila">
-        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «Evangelion», ¿quién pilotea la Unidad 01?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Shinji Ikari</span><span class="op"><i>B</i>Rei Ayanami</span><span class="op"><i>C</i>Asuka Langley</span></span>
-        </div>
-        
-      </li>
-      <li class="fila deporte">
-        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En el Quidditch, ¿qué pelota termina el partido al atraparla?</span>
-          <span class="ops"><span class="op ok"><i>A</i>La Snitch Dorada</span><span class="op"><i>B</i>La Bludger</span><span class="op"><i>C</i>La Quaffle</span></span>
-        </div>
-        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué heroína de Overwatch es mexicana?</span>
-          <span class="ops"><span class="op"><i>A</i>Tracer</span><span class="op ok"><i>B</i>Sombra</span><span class="op"><i>C</i>Mercy</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿En qué ciudad viven Las Chicas Superpoderosas?</span>
-          <span class="ops"><span class="op"><i>A</i>Springfield</span><span class="op"><i>B</i>Ciudad Gótica</span><span class="op ok"><i>C</i>Saltadilla</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué grupo musical nació de la telenovela «Rebelde»?</span>
-          <span class="ops"><span class="op ok"><i>A</i>RBD</span><span class="op"><i>B</i>Kabah</span><span class="op"><i>C</i>OV7</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Cuál es la montaña más alta de Japón?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Monte Fuji</span><span class="op"><i>B</i>Monte Aso</span><span class="op"><i>C</i>Monte Takao</span></span>
-        </div>
-        
-      </li></ol>
-    </div>
-    <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#003 · A</span></header>
-      <ol>
-      <li class="fila">
-        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «Mirai Nikki», ¿qué número de portadora de diario es Yuno Gasai?</span>
-          <span class="ops"><span class="op ok"><i>A</i>La Segunda</span><span class="op"><i>B</i>La Novena</span><span class="op"><i>C</i>La Primera</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué significan las siglas USB?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Universal Serial Bus</span><span class="op"><i>B</i>Unified System Bridge</span><span class="op"><i>C</i>Universal Storage Base</span></span>
-        </div>
-        
-      </li>
-      <li class="fila deporte">
-        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Cuántos deportes trae el «Wii Sports» original?</span>
-          <span class="ops"><span class="op ok"><i>A</i>5</span><span class="op"><i>B</i>7</span><span class="op"><i>C</i>4</span></span>
-        </div>
-        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Cómo se llama el ornitorrinco de Phineas y Ferb?</span>
-          <span class="ops"><span class="op"><i>A</i>Rufus</span><span class="op ok"><i>B</i>Perry</span><span class="op"><i>C</i>Pinky</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué banda canta «In the End» y «Numb»?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Linkin Park</span><span class="op"><i>B</i>Green Day</span><span class="op"><i>C</i>Evanescence</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En Japón, ¿cuándo se dice «itadakimasu»?</span>
-          <span class="ops"><span class="op"><i>A</i>Al llegar a casa</span><span class="op"><i>B</i>Al despedirse</span><span class="op ok"><i>C</i>Antes de comer</span></span>
-        </div>
-        
-      </li></ol>
-    </div>
-    <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#004 · A</span></header>
-      <ol>
-      <li class="fila">
-        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué estudio de animación hizo «El viaje de Chihiro»?</span>
-          <span class="ops"><span class="op"><i>A</i>Toei Animation</span><span class="op ok"><i>B</i>Studio Ghibli</span><span class="op"><i>C</i>Madhouse</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿En qué año salió el primer iPhone?</span>
-          <span class="ops"><span class="op"><i>A</i>2009</span><span class="op"><i>B</i>2005</span><span class="op ok"><i>C</i>2007</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué equipo ganó la primera temporada de la Overwatch League (2018)?</span>
-          <span class="ops"><span class="op"><i>A</i>San Francisco Shock</span><span class="op ok"><i>B</i>London Spitfire</span><span class="op"><i>C</i>Philadelphia Fusion</span></span>
-        </div>
-        
-      </li>
-      <li class="fila deporte">
-        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué arte marcial practican Bob Esponja y Arenita?</span>
-          <span class="ops"><span class="op"><i>A</i>Judo</span><span class="op ok"><i>B</i>Karate</span><span class="op"><i>C</i>Kung fu</span></span>
-        </div>
-        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué banda mexicana canta «Eres» y «Las flores»?</span>
-          <span class="ops"><span class="op"><i>A</i>Caifanes</span><span class="op"><i>B</i>Molotov</span><span class="op ok"><i>C</i>Café Tacvba</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué app de videos de 6 segundos cerró en 2017?</span>
-          <span class="ops"><span class="op"><i>A</i>Snapchat</span><span class="op ok"><i>B</i>Vine</span><span class="op"><i>C</i>Musical.ly</span></span>
-        </div>
-        
-      </li></ol>
-    </div>
-    <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#005 · A</span></header>
-      <ol>
-      <li class="fila">
-        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «Death Note», ¿qué fruta le encanta al shinigami Ryuk?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Las manzanas</span><span class="op"><i>B</i>Las fresas</span><span class="op"><i>C</i>Las uvas</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Quién fundó Microsoft junto con Paul Allen?</span>
-          <span class="ops"><span class="op"><i>A</i>Steve Jobs</span><span class="op ok"><i>B</i>Bill Gates</span><span class="op"><i>C</i>Steve Wozniak</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En Valorant, ¿qué objeto debe plantar el equipo atacante?</span>
-          <span class="ops"><span class="op"><i>A</i>El Núcleo</span><span class="op ok"><i>B</i>El Spike</span><span class="op"><i>C</i>La bomba C4</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «Coraje, el perro cobarde», ¿cómo se llaman sus dueños?</span>
-          <span class="ops"><span class="op"><i>A</i>Marta y Fermín</span><span class="op ok"><i>B</i>Muriel y Justo</span><span class="op"><i>C</i>Doris y Pancho</span></span>
-        </div>
-        
-      </li>
-      <li class="fila deporte">
-        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Quién canta «Waka Waka», la canción del Mundial 2010?</span>
-          <span class="ops"><span class="op"><i>A</i>Pitbull</span><span class="op"><i>B</i>Jennifer Lopez</span><span class="op ok"><i>C</i>Shakira</span></span>
-        </div>
-        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué luchador es «El Enmascarado de Plata»?</span>
-          <span class="ops"><span class="op"><i>A</i>Blue Demon</span><span class="op ok"><i>B</i>El Santo</span><span class="op"><i>C</i>Mil Máscaras</span></span>
-        </div>
-        
-      </li></ol>
-    </div>
-    <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#006 · A</span></header>
-      <ol>
-      <li class="fila deporte">
-        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «Haikyuu!!», ¿en qué preparatoria juega Shoyo Hinata?</span>
-          <span class="ops"><span class="op"><i>A</i>Nekoma</span><span class="op ok"><i>B</i>Karasuno</span><span class="op"><i>C</i>Aoba Johsai</span></span>
-        </div>
-        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «El Señor de los Anillos», ¿dónde hay que destruir el Anillo Único?</span>
-          <span class="ops"><span class="op"><i>A</i>En Minas Tirith</span><span class="op"><i>B</i>En Rivendel</span><span class="op ok"><i>C</i>En el Monte del Destino</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En Super Smash Bros., ¿qué objeto te permite hacer el Smash Final?</span>
-          <span class="ops"><span class="op"><i>A</i>El Martillo</span><span class="op"><i>B</i>La Superestrella</span><span class="op ok"><i>C</i>La Bola Smash</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «Hora de Aventura», ¿cómo se llama el perro mágico amigo de Finn?</span>
-          <span class="ops"><span class="op"><i>A</i>Gunter</span><span class="op"><i>B</i>BMO</span><span class="op ok"><i>C</i>Jake</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Quién canta «Gurenge», el primer opening de Demon Slayer?</span>
-          <span class="ops"><span class="op"><i>A</i>Aimer</span><span class="op ok"><i>B</i>LiSA</span><span class="op"><i>C</i>YOASOBI</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué institución cobra los impuestos en México?</span>
-          <span class="ops"><span class="op"><i>A</i>El Infonavit</span><span class="op"><i>B</i>El IMSS</span><span class="op ok"><i>C</i>El SAT</span></span>
-        </div>
-        
-      </li></ol>
-    </div>
-    <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#007 · A</span></header>
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">★<s>★★</s></span><span class="num">#002 · A</span></header>
       <ol>
       <li class="fila">
         <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
         <div class="cuerpo">
           <span class="texto">En «Coco» de Pixar, ¿cómo se llama el xoloitzcuintle de Miguel?</span>
-          <span class="ops"><span class="op"><i>A</i>Pepita</span><span class="op"><i>B</i>Chicharrón</span><span class="op ok"><i>C</i>Dante</span></span>
-        </div>
-        
-      </li>
-      <li class="fila deporte">
-        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué tecnología para revisar jugadas debutó en el Mundial de Rusia 2018?</span>
-          <span class="ops"><span class="op ok"><i>A</i>El VAR</span><span class="op"><i>B</i>El Ojo de Halcón</span><span class="op"><i>C</i>El balón con chip</span></span>
-        </div>
-        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En Clash Royale, ¿cuántas torres tiene cada jugador al empezar la partida?</span>
-          <span class="ops"><span class="op"><i>A</i>2</span><span class="op"><i>B</i>4</span><span class="op ok"><i>C</i>3</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «Zack y Cody: Gemelos en acción», ¿en qué hotel viven?</span>
-          <span class="ops"><span class="op"><i>A</i>El Transylvania</span><span class="op"><i>B</i>El Plaza</span><span class="op ok"><i>C</i>El Tipton</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Cómo se llama la cantante Vocaloid de coletas color turquesa?</span>
-          <span class="ops"><span class="op"><i>A</i>Kagamine Rin</span><span class="op"><i>B</i>Megurine Luka</span><span class="op ok"><i>C</i>Hatsune Miku</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué villano dice «Yo soy inevitable»?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Thanos</span><span class="op"><i>B</i>Loki</span><span class="op"><i>C</i>Ultron</span></span>
-        </div>
-        
-      </li></ol>
-    </div>
-    <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#008 · A</span></header>
-      <ol>
-      <li class="fila">
-        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué película de 1997 con Jack y Rose ganó 11 premios Óscar?</span>
-          <span class="ops"><span class="op"><i>A</i>Armageddon</span><span class="op ok"><i>B</i>Titanic</span><span class="op"><i>C</i>Pearl Harbor</span></span>
+          <span class="ops"><span class="op ok"><i>A</i>Dante</span><span class="op"><i>B</i>Chicharrón</span><span class="op"><i>C</i>Pepita</span></span>
         </div>
         
       </li>
       <li class="fila">
         <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">En «El Imperio contraataca», ¿qué revelación le hace Darth Vader a Luke?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Que es su padre</span><span class="op"><i>B</i>Que él mató a su padre</span><span class="op"><i>C</i>Que Leia es su hermana</span></span>
-        </div>
-        
-      </li>
-      <li class="fila deporte">
-        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «Punch-Out!!» de Nintendo, ¿cómo se llama el boxeador protagonista?</span>
-          <span class="ops"><span class="op"><i>A</i>King Hippo</span><span class="op"><i>B</i>Glass Joe</span><span class="op ok"><i>C</i>Little Mac</span></span>
-        </div>
-        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «Hannah Montana», ¿cuál es el nombre real de Hannah?</span>
-          <span class="ops"><span class="op"><i>A</i>Lilly Truscott</span><span class="op ok"><i>B</i>Miley Stewart</span><span class="op"><i>C</i>Lola Luftnagle</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué banda mexicana canta «Rayando el sol» y «Labios compartidos»?</span>
-          <span class="ops"><span class="op"><i>A</i>Sin Bandera</span><span class="op ok"><i>B</i>Maná</span><span class="op"><i>C</i>Reik</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué personaje grita «It's over 9000!» en el famoso meme?</span>
-          <span class="ops"><span class="op"><i>A</i>Goku</span><span class="op"><i>B</i>Freezer</span><span class="op ok"><i>C</i>Vegeta</span></span>
-        </div>
-        
-      </li></ol>
-    </div>
-    <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#009 · A</span></header>
-      <ol>
-      <li class="fila">
-        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «Attack on Titan», ¿cuál es el apellido de Eren?</span>
-          <span class="ops"><span class="op"><i>A</i>Ackerman</span><span class="op"><i>B</i>Arlert</span><span class="op ok"><i>C</i>Jaeger</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué juego de rol de mesa tiene como símbolo el dado de 20 caras?</span>
-          <span class="ops"><span class="op"><i>A</i>Magic: The Gathering</span><span class="op ok"><i>B</i>Dungeons &amp; Dragons</span><span class="op"><i>C</i>Warhammer</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Cómo se llama el protagonista de GTA San Andreas?</span>
-          <span class="ops"><span class="op"><i>A</i>Tommy Vercetti</span><span class="op"><i>B</i>Niko Bellic</span><span class="op ok"><i>C</i>Carl «CJ» Johnson</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «Drake &amp; Josh», ¿cómo se llama su hermana menor?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Megan</span><span class="op"><i>B</i>Molly</span><span class="op"><i>C</i>Mindy</span></span>
-        </div>
-        
-      </li>
-      <li class="fila deporte">
-        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Quién cantó «La Copa de la Vida» para el Mundial de Francia 98?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Ricky Martin</span><span class="op"><i>B</i>Chayanne</span><span class="op"><i>C</i>Enrique Iglesias</span></span>
-        </div>
-        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Quién dice «¡No contaban con mi astucia!»?</span>
-          <span class="ops"><span class="op"><i>A</i>Don Ramón</span><span class="op"><i>B</i>El Chavo</span><span class="op ok"><i>C</i>El Chapulín Colorado</span></span>
-        </div>
-        
-      </li></ol>
-    </div></section>
-<section class="hoja">
-    <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#003 · B</span></header>
-      <ol>
-      <li class="fila">
-        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «Fullmetal Alchemist», ¿qué perdió Alphonse Elric?</span>
-          <span class="ops"><span class="op"><i>A</i>Sus recuerdos</span><span class="op ok"><i>B</i>Todo su cuerpo</span><span class="op"><i>C</i>Un brazo y una pierna</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Cuál es el planeta natal de Superman?</span>
-          <span class="ops"><span class="op"><i>A</i>Marte</span><span class="op"><i>B</i>Oa</span><span class="op ok"><i>C</i>Kriptón</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué heroína de Overwatch pilotea un MEKA rosa?</span>
-          <span class="ops"><span class="op ok"><i>A</i>D.Va</span><span class="op"><i>B</i>Echo</span><span class="op"><i>C</i>Brigitte</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «Bob Esponja», ¿dónde trabaja Bob?</span>
-          <span class="ops"><span class="op"><i>A</i>La Fonda de Fondo de Bikini</span><span class="op ok"><i>B</i>El Crustáceo Cascarudo</span><span class="op"><i>C</i>El Balde de Carnada</span></span>
-        </div>
-        
-      </li>
-      <li class="fila deporte">
-        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué canción de Queen se corea en los estadios con el «pum, pum, clap»?</span>
-          <span class="ops"><span class="op"><i>A</i>Don't Stop Me Now</span><span class="op ok"><i>B</i>We Will Rock You</span><span class="op"><i>C</i>We Are the Champions</span></span>
-        </div>
-        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿De qué estado es la cochinita pibil?</span>
-          <span class="ops"><span class="op"><i>A</i>Puebla</span><span class="op ok"><i>B</i>Yucatán</span><span class="op"><i>C</i>Oaxaca</span></span>
-        </div>
-        
-      </li></ol>
-    </div>
-    <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#002 · B</span></header>
-      <ol>
-      <li class="fila">
-        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «Dragon Ball Z», ¿quién es el príncipe de los Saiyajin?</span>
-          <span class="ops"><span class="op"><i>A</i>Goku</span><span class="op ok"><i>B</i>Vegeta</span><span class="op"><i>C</i>Raditz</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Cómo se llama la empresa dueña de Facebook desde 2021?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Meta</span><span class="op"><i>B</i>Alphabet</span><span class="op"><i>C</i>Horizon</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué campeón de LoL es un mono que pelea con un bastón?</span>
-          <span class="ops"><span class="op"><i>A</i>Rammus</span><span class="op"><i>B</i>Teemo</span><span class="op ok"><i>C</i>Wukong</span></span>
-        </div>
-        
-      </li>
-      <li class="fila deporte">
-        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «High School Musical», ¿qué deporte juega Troy Bolton?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Básquetbol</span><span class="op"><i>B</i>Béisbol</span><span class="op"><i>C</i>Fútbol americano</span></span>
-        </div>
-        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Quién canta «Rolling in the Deep» y «Hello»?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Adele</span><span class="op"><i>B</i>Lady Gaga</span><span class="op"><i>C</i>Amy Winehouse</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué clave de 18 caracteres identifica a cada persona en México?</span>
-          <span class="ops"><span class="op"><i>A</i>RFC</span><span class="op"><i>B</i>NSS</span><span class="op ok"><i>C</i>CURP</span></span>
-        </div>
-        
-      </li></ol>
-    </div>
-    <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#001 · B</span></header>
-      <ol>
-      <li class="fila">
-        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «One Piece», ¿qué sueña ser Monkey D. Luffy?</span>
-          <span class="ops"><span class="op"><i>A</i>Almirante de la Marina</span><span class="op"><i>B</i>El mejor espadachín del mundo</span><span class="op ok"><i>C</i>El Rey de los Piratas</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Cómo se llama el martillo de Thor?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Mjolnir</span><span class="op"><i>B</i>Gungnir</span><span class="op"><i>C</i>Stormbreaker</span></span>
+          <span class="texto">¿Qué actor interpretó a Iron Man en las películas de Marvel?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Robert Downey Jr.</span><span class="op"><i>B</i>Mark Ruffalo</span><span class="op"><i>C</i>Chris Evans</span></span>
         </div>
         
       </li>
@@ -714,171 +197,119 @@
         <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
         <div class="cuerpo">
           <span class="texto">¿Qué empresa hacía los FIFA antes de que la saga se llamara «EA Sports FC»?</span>
-          <span class="ops"><span class="op"><i>A</i>Konami</span><span class="op ok"><i>B</i>EA Sports</span><span class="op"><i>C</i>2K</span></span>
+          <span class="ops"><span class="op"><i>A</i>2K</span><span class="op ok"><i>B</i>EA Sports</span><span class="op"><i>C</i>Konami</span></span>
         </div>
         <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
       </li>
       <li class="fila">
         <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">En la serie original de «Ben 10», ¿cómo se llama el reloj alienígena?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Omnitrix</span><span class="op"><i>B</i>Alientrix</span><span class="op"><i>C</i>Megatrix</span></span>
+          <span class="texto">En «Stranger Things», ¿cómo se llama la niña con poderes?</span>
+          <span class="ops"><span class="op"><i>A</i>Nancy</span><span class="op"><i>B</i>Max</span><span class="op ok"><i>C</i>Once</span></span>
         </div>
         
       </li>
       <li class="fila">
         <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">¿Quién canta «Thriller»?</span>
-          <span class="ops"><span class="op"><i>A</i>Prince</span><span class="op ok"><i>B</i>Michael Jackson</span><span class="op"><i>C</i>Lionel Richie</span></span>
+          <span class="texto">¿Qué grupo de K-pop canta «Dynamite»?</span>
+          <span class="ops"><span class="op ok"><i>A</i>BTS</span><span class="op"><i>B</i>EXO</span><span class="op"><i>C</i>Stray Kids</span></span>
         </div>
         
       </li>
       <li class="fila">
         <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">¿De qué raza es el perro del meme «Doge»?</span>
-          <span class="ops"><span class="op"><i>A</i>Corgi</span><span class="op ok"><i>B</i>Shiba Inu</span><span class="op"><i>C</i>Akita</span></span>
+          <span class="texto">¿Quién dice «¡No contaban con mi astucia!»?</span>
+          <span class="ops"><span class="op ok"><i>A</i>El Chapulín Colorado</span><span class="op"><i>B</i>El Chavo</span><span class="op"><i>C</i>Don Ramón</span></span>
         </div>
         
       </li></ol>
     </div>
     <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#006 · B</span></header>
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">★<s>★★</s></span><span class="num">#003 · A</span></header>
       <ol>
       <li class="fila">
         <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
         <div class="cuerpo">
           <span class="texto">En «Pokémon», ¿a qué equipo villano pertenecen Jessie y James?</span>
-          <span class="ops"><span class="op"><i>A</i>Equipo Magma</span><span class="op ok"><i>B</i>Equipo Rocket</span><span class="op"><i>C</i>Equipo Galaxia</span></span>
+          <span class="ops"><span class="op ok"><i>A</i>Equipo Rocket</span><span class="op"><i>B</i>Equipo Galaxia</span><span class="op"><i>C</i>Equipo Magma</span></span>
         </div>
         
       </li>
       <li class="fila">
         <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">¿Qué significan las siglas GPU?</span>
-          <span class="ops"><span class="op"><i>A</i>Game Process Utility</span><span class="op"><i>B</i>General Power Unit</span><span class="op ok"><i>C</i>Graphics Processing Unit</span></span>
+          <span class="texto">En «El Imperio contraataca», ¿qué revelación le hace Darth Vader a Luke?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Que es su padre</span><span class="op"><i>B</i>Que Leia es su hermana</span><span class="op"><i>C</i>Que él mató a su padre</span></span>
         </div>
         
       </li>
       <li class="fila">
         <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">¿Cómo se llama el gorila científico de Overwatch?</span>
-          <span class="ops"><span class="op"><i>A</i>Doomfist</span><span class="op"><i>B</i>Reinhardt</span><span class="op ok"><i>C</i>Winston</span></span>
+          <span class="texto">¿Qué heroína de Overwatch es mexicana?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Sombra</span><span class="op"><i>B</i>Tracer</span><span class="op"><i>C</i>Mercy</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En «Los Padrinos Mágicos», ¿cómo se llaman los padrinos de Timmy?</span>
+          <span class="ops"><span class="op"><i>A</i>Juandissimo y Trixie</span><span class="op ok"><i>B</i>Cosmo y Wanda</span><span class="op"><i>C</i>Jorgen y Poof</span></span>
         </div>
         
       </li>
       <li class="fila deporte">
-        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">¿Qué hace Kim Possible en la escuela además de salvar al mundo?</span>
-          <span class="ops"><span class="op"><i>A</i>Juega fútbol</span><span class="op ok"><i>B</i>Es porrista</span><span class="op"><i>C</i>Es capitana de natación</span></span>
+          <span class="texto">¿Quién canta «Waka Waka», la canción del Mundial 2010?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Shakira</span><span class="op"><i>B</i>Pitbull</span><span class="op"><i>C</i>Jennifer Lopez</span></span>
         </div>
         <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
       </li>
       <li class="fila">
-        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Quién canta «Bad Romance» y «Poker Face»?</span>
-          <span class="ops"><span class="op"><i>A</i>Katy Perry</span><span class="op"><i>B</i>Rihanna</span><span class="op ok"><i>C</i>Lady Gaga</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
         <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">¿Qué comida japonesa son bolitas rellenas de pulpo?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Takoyaki</span><span class="op"><i>B</i>Onigiri</span><span class="op"><i>C</i>Gyozas</span></span>
+          <span class="texto">¿Qué institución cobra los impuestos en México?</span>
+          <span class="ops"><span class="op"><i>A</i>El IMSS</span><span class="op"><i>B</i>El Infonavit</span><span class="op ok"><i>C</i>El SAT</span></span>
         </div>
         
       </li></ol>
     </div>
     <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#005 · B</span></header>
-      <ol>
-      <li class="fila">
-        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «Naruto», ¿qué bestia con cola está sellada dentro de Naruto?</span>
-          <span class="ops"><span class="op"><i>A</i>El Hachibi (ocho colas)</span><span class="op ok"><i>B</i>El Kyubi (nueve colas)</span><span class="op"><i>C</i>Shukaku (una cola)</span></span>
-        </div>
-        
-      </li>
-      <li class="fila deporte">
-        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «Star Wars: La amenaza fantasma», ¿qué carrera gana Anakin de niño?</span>
-          <span class="ops"><span class="op"><i>A</i>Una carrera de speeders</span><span class="op"><i>B</i>Una carrera de X-wings</span><span class="op ok"><i>C</i>Una carrera de vainas</span></span>
-        </div>
-        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué agente de Valorant es de México?</span>
-          <span class="ops"><span class="op"><i>A</i>Jett</span><span class="op"><i>B</i>Sage</span><span class="op ok"><i>C</i>Reyna</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Cómo se llama el perro robot de Jimmy Neutrón?</span>
-          <span class="ops"><span class="op"><i>A</i>K-9</span><span class="op ok"><i>B</i>Goddard</span><span class="op"><i>C</i>Rufus</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué banda canta «Mr. Brightside»?</span>
-          <span class="ops"><span class="op ok"><i>A</i>The Killers</span><span class="op"><i>B</i>The Strokes</span><span class="op"><i>C</i>Arctic Monkeys</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En japonés, ¿qué es un «senpai»?</span>
-          <span class="ops"><span class="op"><i>A</i>Un hermano menor</span><span class="op"><i>B</i>Un maestro</span><span class="op ok"><i>C</i>Alguien con más antigüedad que tú</span></span>
-        </div>
-        
-      </li></ol>
-    </div>
-    <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#004 · B</span></header>
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">★★<s>★</s></span><span class="num">#004 · A</span></header>
       <ol>
       <li class="fila deporte">
         <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">En «Kuroko no Basket», ¿qué hace especial a Tetsuya Kuroko?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Casi nadie lo nota en la cancha</span><span class="op"><i>B</i>Encesta desde media cancha</span><span class="op"><i>C</i>Salta más alto que nadie</span></span>
+          <span class="texto">En «Haikyuu!!», ¿en qué preparatoria juega Shoyo Hinata?</span>
+          <span class="ops"><span class="op"><i>A</i>Aoba Johsai</span><span class="op ok"><i>B</i>Karasuno</span><span class="op"><i>C</i>Nekoma</span></span>
         </div>
         <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
       </li>
       <li class="fila">
         <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">¿Cómo se llama la inteligencia artificial de Iron Man en sus primeras películas?</span>
-          <span class="ops"><span class="op ok"><i>A</i>J.A.R.V.I.S.</span><span class="op"><i>B</i>Ultron</span><span class="op"><i>C</i>F.R.I.D.A.Y.</span></span>
+          <span class="texto">¿Qué juego de rol de mesa tiene como símbolo el dado de 20 caras?</span>
+          <span class="ops"><span class="op"><i>A</i>Magic: The Gathering</span><span class="op"><i>B</i>Warhammer</span><span class="op ok"><i>C</i>Dungeons &amp; Dragons</span></span>
         </div>
         
       </li>
       <li class="fila">
         <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">En Clash Royale, ¿cuánto elixir cuesta el Gigante?</span>
-          <span class="ops"><span class="op"><i>A</i>6</span><span class="op"><i>B</i>4</span><span class="op ok"><i>C</i>5</span></span>
+          <span class="texto">En Super Smash Bros., ¿qué objeto te permite hacer el Smash Final?</span>
+          <span class="ops"><span class="op"><i>A</i>El Martillo</span><span class="op ok"><i>B</i>La Bola Smash</span><span class="op"><i>C</i>La Superestrella</span></span>
         </div>
         
       </li>
       <li class="fila">
         <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">¿Qué niño genio tiene un laboratorio secreto y una hermana llamada Dee Dee?</span>
-          <span class="ops"><span class="op"><i>A</i>Jimmy Neutrón</span><span class="op ok"><i>B</i>Dexter</span><span class="op"><i>C</i>Johnny Bravo</span></span>
+          <span class="texto">En «Hey Arnold!», ¿quién está enamorada de Arnold en secreto?</span>
+          <span class="ops"><span class="op"><i>A</i>Lila</span><span class="op ok"><i>B</i>Helga</span><span class="op"><i>C</i>Phoebe</span></span>
         </div>
         
       </li>
@@ -893,104 +324,52 @@
       <li class="fila">
         <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">¿Quién dice «¡Al infinito y más allá!»?</span>
-          <span class="ops"><span class="op"><i>A</i>Rayo McQueen</span><span class="op"><i>B</i>Woody</span><span class="op ok"><i>C</i>Buzz Lightyear</span></span>
+          <span class="texto">¿De qué estado es la cochinita pibil?</span>
+          <span class="ops"><span class="op"><i>A</i>Puebla</span><span class="op ok"><i>B</i>Yucatán</span><span class="op"><i>C</i>Oaxaca</span></span>
         </div>
         
       </li></ol>
     </div>
     <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#009 · B</span></header>
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">★★<s>★</s></span><span class="num">#005 · A</span></header>
       <ol>
       <li class="fila">
         <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">En «Steins;Gate», ¿qué aparato permite mandar mensajes al pasado?</span>
-          <span class="ops"><span class="op"><i>A</i>Una televisión vieja</span><span class="op"><i>B</i>Un reloj de pulsera</span><span class="op ok"><i>C</i>Un horno de microondas</span></span>
+          <span class="texto">En «Death Note», ¿qué fruta le encanta al shinigami Ryuk?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Las manzanas</span><span class="op"><i>B</i>Las fresas</span><span class="op"><i>C</i>Las uvas</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué significan las siglas USB?</span>
+          <span class="ops"><span class="op"><i>A</i>Unified System Bridge</span><span class="op ok"><i>B</i>Universal Serial Bus</span><span class="op"><i>C</i>Universal Storage Base</span></span>
         </div>
         
       </li>
       <li class="fila deporte">
-        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">En «Volver al futuro II», ¿en qué escapa Marty de Griff?</span>
-          <span class="ops"><span class="op"><i>A</i>Unos patines a reacción</span><span class="op ok"><i>B</i>Una patineta voladora</span><span class="op"><i>C</i>Una moto voladora</span></span>
+          <span class="texto">¿Cuántos deportes trae el «Wii Sports» original?</span>
+          <span class="ops"><span class="op"><i>A</i>7</span><span class="op ok"><i>B</i>5</span><span class="op"><i>C</i>4</span></span>
         </div>
         <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
       </li>
       <li class="fila">
-        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «Crash Bandicoot», ¿qué fruta colecciona Crash?</span>
-          <span class="ops"><span class="op ok"><i>A</i>La fruta Wumpa</span><span class="op"><i>B</i>La mora Cortex</span><span class="op"><i>C</i>La manzana Aku</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
         <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">En «Ed, Edd y Eddy», ¿qué dulce siempre quieren comprar?</span>
-          <span class="ops"><span class="op"><i>A</i>Chicles</span><span class="op ok"><i>B</i>Rompemuelas</span><span class="op"><i>C</i>Paletas de cajeta</span></span>
+          <span class="texto">En «Breaking Bad», ¿qué alias usa Walter White?</span>
+          <span class="ops"><span class="op"><i>A</i>Saul</span><span class="op ok"><i>B</i>Heisenberg</span><span class="op"><i>C</i>Pinkman</span></span>
         </div>
         
       </li>
       <li class="fila">
         <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">¿Qué banda canta «Smells Like Teen Spirit»?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Nirvana</span><span class="op"><i>B</i>Pearl Jam</span><span class="op"><i>C</i>Foo Fighters</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">Por ley, ¿cuánto es lo mínimo de aguinaldo?</span>
-          <span class="ops"><span class="op ok"><i>A</i>15 días de salario</span><span class="op"><i>B</i>10 días de salario</span><span class="op"><i>C</i>30 días de salario</span></span>
-        </div>
-        
-      </li></ol>
-    </div>
-    <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#008 · B</span></header>
-      <ol>
-      <li class="fila deporte">
-        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En la película «Rocky», ¿en qué ciudad vive el boxeador Rocky Balboa?</span>
-          <span class="ops"><span class="op"><i>A</i>Chicago</span><span class="op"><i>B</i>Nueva York</span><span class="op ok"><i>C</i>Filadelfia</span></span>
-        </div>
-        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En Star Wars, ¿cómo se llama el droide pequeño azul con blanco?</span>
-          <span class="ops"><span class="op ok"><i>A</i>R2-D2</span><span class="op"><i>B</i>BB-8</span><span class="op"><i>C</i>C-3PO</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué equipo ganó el primer Mundial de League of Legends (2011)?</span>
-          <span class="ops"><span class="op"><i>A</i>Taipei Assassins</span><span class="op ok"><i>B</i>Fnatic</span><span class="op"><i>C</i>SK Telecom T1</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">En «Pinky y Cerebro», ¿qué intentan hacer cada noche?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Conquistar el mundo</span><span class="op"><i>B</i>Robar todo el queso</span><span class="op"><i>C</i>Escapar del laboratorio</span></span>
-        </div>
-        
-      </li>
-      <li class="fila">
-        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
-        <div class="cuerpo">
-          <span class="texto">¿Qué banda canta «The Rumbling», opening final de Attack on Titan?</span>
-          <span class="ops"><span class="op"><i>A</i>Linked Horizon</span><span class="op"><i>B</i>ONE OK ROCK</span><span class="op ok"><i>C</i>SiM</span></span>
+          <span class="texto">¿Qué banda mexicana canta «Eres» y «Las flores»?</span>
+          <span class="ops"><span class="op"><i>A</i>Molotov</span><span class="op"><i>B</i>Caifanes</span><span class="op ok"><i>C</i>Café Tacvba</span></span>
         </div>
         
       </li>
@@ -998,13 +377,430 @@
         <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
         <div class="cuerpo">
           <span class="texto">¿Cómo se llama la rana verde del meme «Feels good man»?</span>
-          <span class="ops"><span class="op"><i>A</i>Freddy</span><span class="op"><i>B</i>Kermit</span><span class="op ok"><i>C</i>Pepe</span></span>
+          <span class="ops"><span class="op"><i>A</i>Kermit</span><span class="op ok"><i>B</i>Pepe</span><span class="op"><i>C</i>Freddy</span></span>
         </div>
         
       </li></ol>
     </div>
     <div class="tarjeta">
-      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#007 · B</span></header>
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">★★<s>★</s></span><span class="num">#006 · A</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿En qué película de terror el villano dice «¿Quieres jugar un juego?»?</span>
+          <span class="ops"><span class="op"><i>A</i>El Conjuro</span><span class="op ok"><i>B</i>Saw</span><span class="op"><i>C</i>Scream</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Cómo se llama la inteligencia artificial de Iron Man en sus primeras películas?</span>
+          <span class="ops"><span class="op"><i>A</i>Ultron</span><span class="op"><i>B</i>F.R.I.D.A.Y.</span><span class="op ok"><i>C</i>J.A.R.V.I.S.</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En Clash Royale, ¿cuánto elixir cuesta el Gigante?</span>
+          <span class="ops"><span class="op"><i>A</i>6</span><span class="op"><i>B</i>4</span><span class="op ok"><i>C</i>5</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En «Zack y Cody: Gemelos en acción», ¿en qué hotel viven?</span>
+          <span class="ops"><span class="op"><i>A</i>El Transylvania</span><span class="op"><i>B</i>El Plaza</span><span class="op ok"><i>C</i>El Tipton</span></span>
+        </div>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Quién canta «Seven Nation Army», el riff que se corea en los estadios?</span>
+          <span class="ops"><span class="op"><i>A</i>The Black Keys</span><span class="op ok"><i>B</i>The White Stripes</span><span class="op"><i>C</i>Arctic Monkeys</span></span>
+        </div>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué personaje grita «It's over 9000!» en el famoso meme?</span>
+          <span class="ops"><span class="op"><i>A</i>Freezer</span><span class="op"><i>B</i>Goku</span><span class="op ok"><i>C</i>Vegeta</span></span>
+        </div>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">★★★<s></s></span><span class="num">#007 · A</span></header>
+      <ol>
+      <li class="fila deporte">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En «Supercampeones», ¿de quién es el «Tiro del Tigre»?</span>
+          <span class="ops"><span class="op"><i>A</i>Oliver Atom</span><span class="op"><i>B</i>Tom Misaki</span><span class="op ok"><i>C</i>Steve Hyuga</span></span>
+        </div>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué Gema del Infinito llevaba Visión en la frente?</span>
+          <span class="ops"><span class="op ok"><i>A</i>La Gema de la Mente</span><span class="op"><i>B</i>La Gema del Alma</span><span class="op"><i>C</i>La Gema del Poder</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En Smash, ¿de qué saga de videojuegos viene Ness?</span>
+          <span class="ops"><span class="op"><i>A</i>Fire Emblem</span><span class="op"><i>B</i>Kid Icarus</span><span class="op ok"><i>C</i>EarthBound</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En «La Casa de Papel», ¿de quién es la cara de las máscaras?</span>
+          <span class="ops"><span class="op"><i>A</i>Joan Miró</span><span class="op"><i>B</i>Pablo Picasso</span><span class="op ok"><i>C</i>Salvador Dalí</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué banda de Monterrey canta «Narcisista por excelencia»?</span>
+          <span class="ops"><span class="op"><i>A</i>Zoé</span><span class="op"><i>B</i>Allison</span><span class="op ok"><i>C</i>Panda</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">Por ley, ¿cuántos días de vacaciones te tocan en tu primer año de trabajo?</span>
+          <span class="ops"><span class="op ok"><i>A</i>12</span><span class="op"><i>B</i>10</span><span class="op"><i>C</i>6</span></span>
+        </div>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">★★★<s></s></span><span class="num">#008 · A</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En «Steins;Gate», ¿cómo se hace llamar Okabe?</span>
+          <span class="ops"><span class="op"><i>A</i>Kira</span><span class="op ok"><i>B</i>Hououin Kyouma</span><span class="op"><i>C</i>Zero</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué significan las siglas GPU?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Graphics Processing Unit</span><span class="op"><i>B</i>Game Process Utility</span><span class="op"><i>C</i>General Power Unit</span></span>
+        </div>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En el boliche de «Wii Sports», ¿cuál es la puntuación perfecta?</span>
+          <span class="ops"><span class="op"><i>A</i>500</span><span class="op"><i>B</i>250</span><span class="op ok"><i>C</i>300</span></span>
+        </div>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En «Ed, Edd y Eddy», ¿qué dulce siempre quieren comprar?</span>
+          <span class="ops"><span class="op"><i>A</i>Paletas de cajeta</span><span class="op ok"><i>B</i>Rompemuelas</span><span class="op"><i>C</i>Chicles</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Cómo se llama el opening de Evangelion?</span>
+          <span class="ops"><span class="op"><i>A</i>Komm, süsser Tod</span><span class="op ok"><i>B</i>A Cruel Angel's Thesis</span><span class="op"><i>C</i>Fly Me to the Moon</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué personaje de Star Wars grita «¡Es una trampa!»?</span>
+          <span class="ops"><span class="op"><i>A</i>Lando Calrissian</span><span class="op"><i>B</i>C-3PO</span><span class="op ok"><i>C</i>El Almirante Ackbar</span></span>
+        </div>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">★★★<s></s></span><span class="num">#009 · A</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En «Naruto», ¿qué miembro de Akatsuki es inmortal y adora a Jashin?</span>
+          <span class="ops"><span class="op"><i>A</i>Kakuzu</span><span class="op"><i>B</i>Deidara</span><span class="op ok"><i>C</i>Hidan</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Cuántos años tenía Yoda cuando murió?</span>
+          <span class="ops"><span class="op"><i>A</i>1,000</span><span class="op ok"><i>B</i>900</span><span class="op"><i>C</i>700</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué equipo ganó el primer Mundial de League of Legends (2011)?</span>
+          <span class="ops"><span class="op"><i>A</i>SK Telecom T1</span><span class="op"><i>B</i>Taipei Assassins</span><span class="op ok"><i>C</i>Fnatic</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En «Friends», ¿cómo se llama el mono de Ross?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Marcel</span><span class="op"><i>B</i>Jorge</span><span class="op"><i>C</i>Bobo</span></span>
+        </div>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Cómo se llama la canción del Mundial 2014 de Pitbull, J.Lo y Claudia Leitte?</span>
+          <span class="ops"><span class="op ok"><i>A</i>We Are One (Ole Ola)</span><span class="op"><i>B</i>Dar um Jeito</span><span class="op"><i>C</i>La La La (Brazil 2014)</span></span>
+        </div>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué red social de fotos fue famosa en México por los «floggers»?</span>
+          <span class="ops"><span class="op"><i>A</i>MySpace</span><span class="op"><i>B</i>Hi5</span><span class="op ok"><i>C</i>Metroflog</span></span>
+        </div>
+        
+      </li></ol>
+    </div></section>
+<section class="hoja">
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">★<s>★★</s></span><span class="num">#003 · B</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿En qué película Eugenio Derbez cría a una niña en Los Ángeles?</span>
+          <span class="ops"><span class="op"><i>A</i>¿Qué culpa tiene el niño?</span><span class="op ok"><i>B</i>No se aceptan devoluciones</span><span class="op"><i>C</i>Nosotros los Nobles</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Cómo se llama el martillo de Thor?</span>
+          <span class="ops"><span class="op"><i>A</i>Stormbreaker</span><span class="op"><i>B</i>Gungnir</span><span class="op ok"><i>C</i>Mjolnir</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En Valorant, ¿qué objeto debe plantar el equipo atacante?</span>
+          <span class="ops"><span class="op ok"><i>A</i>El Spike</span><span class="op"><i>B</i>La bomba C4</span><span class="op"><i>C</i>El Núcleo</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Cómo se llama el ornitorrinco de Phineas y Ferb?</span>
+          <span class="ops"><span class="op"><i>A</i>Rufus</span><span class="op ok"><i>B</i>Perry</span><span class="op"><i>C</i>Pinky</span></span>
+        </div>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Quién cantó «La Copa de la Vida» para el Mundial de Francia 98?</span>
+          <span class="ops"><span class="op"><i>A</i>Chayanne</span><span class="op ok"><i>B</i>Ricky Martin</span><span class="op"><i>C</i>Enrique Iglesias</span></span>
+        </div>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué app de videos de 6 segundos cerró en 2017?</span>
+          <span class="ops"><span class="op"><i>A</i>Snapchat</span><span class="op ok"><i>B</i>Vine</span><span class="op"><i>C</i>Musical.ly</span></span>
+        </div>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">★<s>★★</s></span><span class="num">#002 · B</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En «One Piece», ¿qué sueña ser Monkey D. Luffy?</span>
+          <span class="ops"><span class="op"><i>A</i>Almirante de la Marina</span><span class="op ok"><i>B</i>El Rey de los Piratas</span><span class="op"><i>C</i>El mejor espadachín del mundo</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Quién fundó Microsoft junto con Paul Allen?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Bill Gates</span><span class="op"><i>B</i>Steve Jobs</span><span class="op"><i>C</i>Steve Wozniak</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué jugador de T1 es conocido como «The Unkillable Demon King»?</span>
+          <span class="ops"><span class="op"><i>A</i>Uzi</span><span class="op"><i>B</i>Caps</span><span class="op ok"><i>C</i>Faker</span></span>
+        </div>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En «High School Musical», ¿qué deporte juega Troy Bolton?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Básquetbol</span><span class="op"><i>B</i>Béisbol</span><span class="op"><i>C</i>Fútbol americano</span></span>
+        </div>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿De qué anime es opening «Blue Bird» de Ikimonogakari?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Naruto Shippuden</span><span class="op"><i>B</i>Bleach</span><span class="op"><i>C</i>Fullmetal Alchemist</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿De qué raza es el perro del meme «Doge»?</span>
+          <span class="ops"><span class="op"><i>A</i>Akita</span><span class="op"><i>B</i>Corgi</span><span class="op ok"><i>C</i>Shiba Inu</span></span>
+        </div>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">★<s>★★</s></span><span class="num">#001 · B</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué estudio de animación hizo «El viaje de Chihiro»?</span>
+          <span class="ops"><span class="op"><i>A</i>Toei Animation</span><span class="op"><i>B</i>Madhouse</span><span class="op ok"><i>C</i>Studio Ghibli</span></span>
+        </div>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En el Quidditch, ¿qué pelota termina el partido al atraparla?</span>
+          <span class="ops"><span class="op ok"><i>A</i>La Snitch Dorada</span><span class="op"><i>B</i>La Bludger</span><span class="op"><i>C</i>La Quaffle</span></span>
+        </div>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En Minecraft, ¿qué criatura verde explota cuando se te acerca?</span>
+          <span class="ops"><span class="op"><i>A</i>El Enderman</span><span class="op ok"><i>B</i>El Creeper</span><span class="op"><i>C</i>El Zombie</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué niño genio tiene un laboratorio secreto y una hermana llamada Dee Dee?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Dexter</span><span class="op"><i>B</i>Jimmy Neutrón</span><span class="op"><i>C</i>Johnny Bravo</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué banda canta «In the End» y «Numb»?</span>
+          <span class="ops"><span class="op"><i>A</i>Evanescence</span><span class="op ok"><i>B</i>Linkin Park</span><span class="op"><i>C</i>Green Day</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Quién dice «¡Al infinito y más allá!»?</span>
+          <span class="ops"><span class="op"><i>A</i>Rayo McQueen</span><span class="op ok"><i>B</i>Buzz Lightyear</span><span class="op"><i>C</i>Woody</span></span>
+        </div>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">★★<s>★</s></span><span class="num">#006 · B</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En «Digimon Adventure», ¿en qué digievoluciona Agumon a nivel campeón?</span>
+          <span class="ops"><span class="op"><i>A</i>Garurumon</span><span class="op ok"><i>B</i>Greymon</span><span class="op"><i>C</i>Birdramon</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué empresa compró YouTube en 2006?</span>
+          <span class="ops"><span class="op"><i>A</i>Yahoo</span><span class="op"><i>B</i>Microsoft</span><span class="op ok"><i>C</i>Google</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué agente de Valorant es de México?</span>
+          <span class="ops"><span class="op"><i>A</i>Sage</span><span class="op"><i>B</i>Jett</span><span class="op ok"><i>C</i>Reyna</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Cómo se llama el perro robot de Jimmy Neutrón?</span>
+          <span class="ops"><span class="op"><i>A</i>K-9</span><span class="op ok"><i>B</i>Goddard</span><span class="op"><i>C</i>Rufus</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Quién canta «Gurenge», el primer opening de Demon Slayer?</span>
+          <span class="ops"><span class="op"><i>A</i>Aimer</span><span class="op"><i>B</i>YOASOBI</span><span class="op ok"><i>C</i>LiSA</span></span>
+        </div>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué luchador es «El Enmascarado de Plata»?</span>
+          <span class="ops"><span class="op ok"><i>A</i>El Santo</span><span class="op"><i>B</i>Blue Demon</span><span class="op"><i>C</i>Mil Máscaras</span></span>
+        </div>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">★★<s>★</s></span><span class="num">#005 · B</span></header>
       <ol>
       <li class="fila">
         <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
@@ -1017,40 +813,248 @@
       <li class="fila">
         <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">¿Qué empresa compró YouTube en 2006?</span>
-          <span class="ops"><span class="op"><i>A</i>Microsoft</span><span class="op"><i>B</i>Yahoo</span><span class="op ok"><i>C</i>Google</span></span>
+          <span class="texto">¿En qué año salió el primer iPhone?</span>
+          <span class="ops"><span class="op"><i>A</i>2005</span><span class="op"><i>B</i>2009</span><span class="op ok"><i>C</i>2007</span></span>
+        </div>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En «Punch-Out!!» de Nintendo, ¿cómo se llama el boxeador protagonista?</span>
+          <span class="ops"><span class="op"><i>A</i>King Hippo</span><span class="op"><i>B</i>Glass Joe</span><span class="op ok"><i>C</i>Little Mac</span></span>
+        </div>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En «Rick and Morty», ¿en qué se convierte Rick en uno de sus episodios más famosos?</span>
+          <span class="ops"><span class="op"><i>A</i>En una rata</span><span class="op ok"><i>B</i>En un pepinillo</span><span class="op"><i>C</i>En un auto</span></span>
         </div>
         
       </li>
       <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué banda virtual canta «Feel Good Inc.»?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Gorillaz</span><span class="op"><i>B</i>Daft Punk</span><span class="op"><i>C</i>K/DA</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">Por ley, ¿cuánto es lo mínimo de aguinaldo?</span>
+          <span class="ops"><span class="op"><i>A</i>30 días de salario</span><span class="op"><i>B</i>10 días de salario</span><span class="op ok"><i>C</i>15 días de salario</span></span>
+        </div>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">★★<s>★</s></span><span class="num">#004 · B</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En «Evangelion», ¿quién pilotea la Unidad 01?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Shinji Ikari</span><span class="op"><i>B</i>Asuka Langley</span><span class="op"><i>C</i>Rei Ayanami</span></span>
+        </div>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué tecnología para revisar jugadas debutó en el Mundial de Rusia 2018?</span>
+          <span class="ops"><span class="op ok"><i>A</i>El VAR</span><span class="op"><i>B</i>El balón con chip</span><span class="op"><i>C</i>El Ojo de Halcón</span></span>
+        </div>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
         <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">En Minecraft, ¿qué criatura verde explota cuando se te acerca?</span>
-          <span class="ops"><span class="op ok"><i>A</i>El Creeper</span><span class="op"><i>B</i>El Enderman</span><span class="op"><i>C</i>El Zombie</span></span>
+          <span class="texto">En LoL, ¿cómo se llama la definitiva de Jinx?</span>
+          <span class="ops"><span class="op"><i>A</i>¡Masticallamas!</span><span class="op"><i>B</i>¡Zap!</span><span class="op ok"><i>C</i>¡Súper Mega Cohete Mortal!</span></span>
         </div>
         
       </li>
       <li class="fila">
         <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">En «Los Simpson», ¿cómo se llama el bar al que va Homero?</span>
-          <span class="ops"><span class="op"><i>A</i>El Kwik-E-Mart</span><span class="op"><i>B</i>El Krusty Burger</span><span class="op ok"><i>C</i>La taberna de Moe</span></span>
+          <span class="texto">En «The Office», ¿cómo se llama la empresa de papel?</span>
+          <span class="ops"><span class="op"><i>A</i>Sabre</span><span class="op ok"><i>B</i>Dunder Mifflin</span><span class="op"><i>C</i>Staples</span></span>
         </div>
         
       </li>
-      <li class="fila deporte">
+      <li class="fila">
         <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
         <div class="cuerpo">
-          <span class="texto">¿Quién canta «Seven Nation Army», el riff que se corea en los estadios?</span>
-          <span class="ops"><span class="op ok"><i>A</i>The White Stripes</span><span class="op"><i>B</i>The Black Keys</span><span class="op"><i>C</i>Arctic Monkeys</span></span>
+          <span class="texto">¿Quién canta «Enemy», la canción de Arcane?</span>
+          <span class="ops"><span class="op"><i>A</i>K/DA</span><span class="op"><i>B</i>Twenty One Pilots</span><span class="op ok"><i>C</i>Imagine Dragons</span></span>
         </div>
-        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+        
       </li>
       <li class="fila">
         <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
         <div class="cuerpo">
           <span class="texto">En «La Rosa de Guadalupe», ¿qué se siente cuando llega el milagro?</span>
-          <span class="ops"><span class="op ok"><i>A</i>Un airecito</span><span class="op"><i>B</i>Unas campanas</span><span class="op"><i>C</i>Un coro de ángeles</span></span>
+          <span class="ops"><span class="op"><i>A</i>Un coro de ángeles</span><span class="op"><i>B</i>Unas campanas</span><span class="op ok"><i>C</i>Un airecito</span></span>
+        </div>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">★★★<s></s></span><span class="num">#009 · B</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Cuál fue el primer Pokémon que Ash atrapó con una Pokébola?</span>
+          <span class="ops"><span class="op"><i>A</i>Bulbasaur</span><span class="op"><i>B</i>Pidgeotto</span><span class="op ok"><i>C</i>Caterpie</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿De qué es el núcleo de la varita de Harry Potter?</span>
+          <span class="ops"><span class="op"><i>A</i>Fibra de corazón de dragón</span><span class="op ok"><i>B</i>Pluma de fénix</span><span class="op"><i>C</i>Pelo de unicornio</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En Overwatch, ¿cuál es el nombre real de Soldado: 76?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Jack Morrison</span><span class="op"><i>B</i>Jesse McCree</span><span class="op"><i>C</i>Gabriel Reyes</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En «Game of Thrones», ¿cómo se llama el lobo huargo de Jon Snow?</span>
+          <span class="ops"><span class="op"><i>A</i>Viento Gris</span><span class="op ok"><i>B</i>Fantasma</span><span class="op"><i>C</i>Verano</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué banda canta «The Rumbling», opening final de Attack on Titan?</span>
+          <span class="ops"><span class="op ok"><i>A</i>SiM</span><span class="op"><i>B</i>Linked Horizon</span><span class="op"><i>C</i>ONE OK ROCK</span></span>
+        </div>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Cómo se llamaba la mascota del Mundial México 86?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Pique</span><span class="op"><i>B</i>Juanito</span><span class="op"><i>C</i>Zakumi</span></span>
+        </div>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">★★★<s></s></span><span class="num">#008 · B</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En DBZ, ¿quién acaba con Freezer (ya Mecha Freezer) cuando llega a la Tierra?</span>
+          <span class="ops"><span class="op"><i>A</i>Vegeta</span><span class="op"><i>B</i>Goku</span><span class="op ok"><i>C</i>Trunks del futuro</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Cómo se llamaba Google cuando empezó en 1996?</span>
+          <span class="ops"><span class="op ok"><i>A</i>BackRub</span><span class="op"><i>B</i>PageRank</span><span class="op"><i>C</i>Googol</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué equipo ganó la primera temporada de la Overwatch League (2018)?</span>
+          <span class="ops"><span class="op"><i>A</i>San Francisco Shock</span><span class="op ok"><i>B</i>London Spitfire</span><span class="op"><i>C</i>Philadelphia Fusion</span></span>
+        </div>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En «Ted Lasso», ¿qué deporte entrenaba Ted antes de llegar a Inglaterra?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Fútbol americano</span><span class="op"><i>B</i>Béisbol</span><span class="op"><i>C</i>Básquetbol</span></span>
+        </div>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Quién canta «Unravel», opening de Tokyo Ghoul?</span>
+          <span class="ops"><span class="op"><i>A</i>ONE OK ROCK</span><span class="op"><i>B</i>Aimer</span><span class="op ok"><i>C</i>TK de Ling Tosite Sigure</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿De qué anime viene la frase «Omae wa mou shindeiru» (ya estás muerto)?</span>
+          <span class="ops"><span class="op"><i>A</i>JoJo's Bizarre Adventure</span><span class="op"><i>B</i>Dragon Ball Z</span><span class="op ok"><i>C</i>El Puño de la Estrella del Norte</span></span>
+        </div>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="nivel" title="Dificultad">★★★<s></s></span><span class="num">#007 · B</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En «Mirai Nikki», ¿qué número de portadora de diario es Yuno Gasai?</span>
+          <span class="ops"><span class="op"><i>A</i>La Novena</span><span class="op ok"><i>B</i>La Segunda</span><span class="op"><i>C</i>La Primera</span></span>
+        </div>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En la Fórmula 1, ¿qué significa DRS?</span>
+          <span class="ops"><span class="op"><i>A</i>Dynamic Racing Speed</span><span class="op"><i>B</i>Driver Response System</span><span class="op ok"><i>C</i>Drag Reduction System</span></span>
+        </div>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué campeón de LoL dice «La muerte es como el viento, siempre a mi lado»?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Yasuo</span><span class="op"><i>B</i>Yone</span><span class="op"><i>C</i>Zed</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">En «Coraje, el perro cobarde», ¿cómo se llaman sus dueños?</span>
+          <span class="ops"><span class="op"><i>A</i>Doris y Pancho</span><span class="op"><i>B</i>Marta y Fermín</span><span class="op ok"><i>C</i>Muriel y Justo</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Quién canta «Legends Never Die», el himno de Worlds 2017?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Against The Current</span><span class="op"><i>B</i>Imagine Dragons</span><span class="op"><i>C</i>K/DA</span></span>
+        </div>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#C2255C;color:#C2255C"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 20 17h-9l-5 4v-4H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 5z" fill="#fff"/><circle cx="8" cy="11" r="1.3" fill="currentColor"/><circle cx="12" cy="11" r="1.3" fill="currentColor"/><circle cx="16" cy="11" r="1.3" fill="currentColor"/></svg></span>
+        <div class="cuerpo">
+          <span class="texto">¿Qué significan las siglas RFC?</span>
+          <span class="ops"><span class="op ok"><i>A</i>Registro Federal de Contribuyentes</span><span class="op"><i>B</i>Registro Fiscal de Ciudadanos</span><span class="op"><i>C</i>Red Federal de Cobranza</span></span>
         </div>
         
       </li></ol>

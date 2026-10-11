@@ -1,0 +1,731 @@
+[
+ {
+  "deporte": true,
+  "p": "En «Supercampeones», ¿qué jugador no podía jugar mucho por un problema del corazón?",
+  "o": [
+   "Julian Ross",
+   "Tom Misaki",
+   "Benji Price"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "Al final de «Supercampeones», ¿a qué país se va Oliver a jugar?",
+  "o": [
+   "Brasil",
+   "Italia",
+   "Alemania"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Hajime no Ippo», ¿qué combo de Ippo mueve la cabeza en forma de ocho?",
+  "o": [
+   "Dempsey Roll",
+   "Gazelle Punch",
+   "Liver Blow"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Hajime no Ippo», ¿qué compañero de gimnasio de Ippo llega a campeón mundial?",
+  "o": [
+   "Mamoru Takamura",
+   "Masahiko Kimura",
+   "Masaru Aoki"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Haikyuu!!», ¿a qué jugador admiraba Hinata de niño?",
+  "o": [
+   "Al Pequeño Gigante",
+   "Al Rey de la Cancha",
+   "Al Gran Rey"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Kuroko no Basket», ¿quién es la «luz» de Kuroko en Seirin?",
+  "o": [
+   "Taiga Kagami",
+   "Daiki Aomine",
+   "Ryota Kise"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Blue Lock», ¿quién creó el proyecto Blue Lock?",
+  "o": [
+   "Jinpachi Ego",
+   "Anri Teieri",
+   "Noel Noa"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Dragon Ball», ¿quién gana el 21° Torneo de Artes Marciales?",
+  "o": [
+   "Jackie Chun",
+   "Goku",
+   "Krilin"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Initial D», ¿en qué montaña corre Takumi?",
+  "o": [
+   "Monte Akina",
+   "Monte Akagi",
+   "Monte Fuji"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Yuri!!! on Ice», ¿cómo se llama el patinador ruso que entrena a Yuri?",
+  "o": [
+   "Victor Nikiforov",
+   "Yuri Plisetsky",
+   "Christophe Giacometti"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En la final de «Megalo Box», ¿qué hace especial a Joe?",
+  "o": [
+   "Pelea sin exoesqueleto",
+   "Pelea con los ojos vendados",
+   "Pelea con una sola mano"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llama la protagonista de la primera temporada de «Uma Musume»?",
+  "o": [
+   "Special Week",
+   "Silence Suzuka",
+   "Tokai Teio"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Rocky», ¿qué escalinata sube Rocky al entrenar?",
+  "o": [
+   "La del Museo de Arte de Filadelfia",
+   "La del Capitolio",
+   "La del Lincoln Memorial"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Rocky III», ¿quién le gana a Rocky el campeonato?",
+  "o": [
+   "Clubber Lang",
+   "Iván Drago",
+   "Apollo Creed"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Cars», ¿qué número lleva El Rey, el campeón veterano?",
+  "o": [
+   "43",
+   "86",
+   "95"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Karate Kid» (1984), ¿con qué técnica gana Daniel el torneo?",
+  "o": [
+   "La patada de la grulla",
+   "El puño del dragón",
+   "La patada giratoria"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el padre de Goku?",
+  "o": [
+   "Bardock",
+   "Raditz",
+   "Paragus"
+  ]
+ },
+ {
+  "p": "En DBZ, ¿cada cuánto se pueden volver a usar las Esferas del Dragón de la Tierra?",
+  "o": [
+   "Cada año",
+   "Cada seis meses",
+   "Cada cinco años"
+  ]
+ },
+ {
+  "p": "¿En qué planeta aprende Goku la teletransportación?",
+  "o": [
+   "Yardrat",
+   "Namek",
+   "Kaio"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la hija de Gohan y Videl?",
+  "o": [
+   "Pan",
+   "Bra",
+   "Marron"
+  ]
+ },
+ {
+  "p": "¿Con qué androide se casa Krilin?",
+  "o": [
+   "Androide 18",
+   "Androide 17",
+   "Androide 21"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el Dios de la Destrucción del Universo 7?",
+  "o": [
+   "Bills",
+   "Whis",
+   "Champa"
+  ]
+ },
+ {
+  "p": "En «Dragon Ball Super», ¿qué estado alcanza Goku contra Jiren con el pelo plateado?",
+  "o": [
+   "Ultra Instinto",
+   "Súper Saiyajin Blue",
+   "Súper Saiyajin 4"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿cómo se llama el zorro de nueve colas?",
+  "o": [
+   "Kurama",
+   "Shukaku",
+   "Matatabi"
+  ]
+ },
+ {
+  "p": "¿Qué Hokage es el papá de Naruto?",
+  "o": [
+   "El Cuarto",
+   "El Tercero",
+   "El Primero"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿quién acabó con el clan Uchiha?",
+  "o": [
+   "Itachi",
+   "Madara",
+   "Danzo"
+  ]
+ },
+ {
+  "p": "¿Qué técnica creó Minato y luego domina Naruto?",
+  "o": [
+   "Rasengan",
+   "Chidori",
+   "Amaterasu"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el hijo de Naruto?",
+  "o": [
+   "Boruto",
+   "Kawaki",
+   "Mitsuki"
+  ]
+ },
+ {
+  "p": "¿Qué miembro de Akatsuki pelea con explosivos de arcilla?",
+  "o": [
+   "Deidara",
+   "Sasori",
+   "Kisame"
+  ]
+ },
+ {
+  "p": "En «Naruto Shippuden», ¿quién estaba detrás de la máscara de Tobi?",
+  "o": [
+   "Obito Uchiha",
+   "Madara Uchiha",
+   "Shisui Uchiha"
+  ]
+ },
+ {
+  "p": "¿Qué Pokémon legendario ve Ash volando en el primer episodio?",
+  "o": [
+   "Ho-Oh",
+   "Lugia",
+   "Moltres"
+  ]
+ },
+ {
+  "p": "¿Qué Pokémon de Ash se va con su pareja en la primera temporada?",
+  "o": [
+   "Butterfree",
+   "Pidgeot",
+   "Lapras"
+  ]
+ },
+ {
+  "p": "¿Qué Pokémon fue creado en un laboratorio en la primera película de Pokémon?",
+  "o": [
+   "Mewtwo",
+   "Mew",
+   "Deoxys"
+  ]
+ },
+ {
+  "p": "¿Qué Pokémon de Ash era rebelde y no le hacía caso?",
+  "o": [
+   "Charizard",
+   "Primeape",
+   "Snorlax"
+  ]
+ },
+ {
+  "p": "¿Qué Pokémon de Misty siempre salía de su Pokébola sin que lo llamaran?",
+  "o": [
+   "Psyduck",
+   "Togepi",
+   "Staryu"
+  ]
+ },
+ {
+  "p": "En «Digimon Adventure», ¿cuál es el Digimon de Kari?",
+  "o": [
+   "Gatomon",
+   "Patamon",
+   "Palmon"
+  ]
+ },
+ {
+  "p": "¿En qué Digimon se fusionan WarGreymon y MetalGarurumon?",
+  "o": [
+   "Omnimon",
+   "Imperialdramon",
+   "Gallantmon"
+  ]
+ },
+ {
+  "p": "¿Qué villano de «Digimon Adventure» es un vampiro?",
+  "o": [
+   "Myotismon",
+   "Devimon",
+   "Etemon"
+  ]
+ },
+ {
+  "p": "En «Digimon Tamers», ¿cuál es el Digimon de Takato?",
+  "o": [
+   "Guilmon",
+   "Terriermon",
+   "Renamon"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿quién es la segunda Kira, una modelo?",
+  "o": [
+   "Misa Amane",
+   "Kiyomi Takada",
+   "Naomi Misora"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿cuánto de su vida pierde quien obtiene los ojos de shinigami?",
+  "o": [
+   "La mitad",
+   "Un año",
+   "Diez años"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿en cuántos segundos muere alguien si no se escribe la causa?",
+  "o": [
+   "40",
+   "60",
+   "10"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿cómo se llama el shinigami de Misa?",
+  "o": [
+   "Rem",
+   "Ryuk",
+   "Sidoh"
+  ]
+ },
+ {
+  "p": "En «Code Geass», ¿qué comida le encanta a C.C.?",
+  "o": [
+   "La pizza",
+   "El ramen",
+   "El sushi"
+  ]
+ },
+ {
+  "p": "En «Code Geass», ¿cómo se llama el Knightmare de Suzaku?",
+  "o": [
+   "Lancelot",
+   "Guren",
+   "Shinkiro"
+  ]
+ },
+ {
+  "p": "En «Code Geass», ¿cómo se llama el plan final de Lelouch?",
+  "o": [
+   "El Réquiem Zero",
+   "El Proyecto Ragnarök",
+   "La Orden Negra"
+  ]
+ },
+ {
+  "p": "En «Code Geass», ¿cómo se llama la hermana menor de Lelouch que usa silla de ruedas?",
+  "o": [
+   "Nunnally",
+   "Euphemia",
+   "Cornelia"
+  ]
+ },
+ {
+  "p": "En «Jujutsu Kaisen», ¿cómo se llama la expansión de dominio de Gojo?",
+  "o": [
+   "Vacío Infinito",
+   "Santuario Malévolo",
+   "Jardín de Sombras"
+  ]
+ },
+ {
+  "p": "En «Jujutsu Kaisen», ¿qué técnica usa Megumi Fushiguro?",
+  "o": [
+   "Diez Sombras",
+   "Proyección",
+   "Ilimitado"
+  ]
+ },
+ {
+  "p": "En «Jujutsu Kaisen», ¿con qué pelea Nobara Kugisaki?",
+  "o": [
+   "Martillo y clavos",
+   "Una katana",
+   "Muñecos de paja malditos"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de «Jujutsu Kaisen» dice el meme «Nah, I'd win»?",
+  "o": [
+   "Gojo",
+   "Sukuna",
+   "Itadori"
+  ]
+ },
+ {
+  "p": "En «Demon Slayer», ¿qué Pilar usa la Respiración de la Llama?",
+  "o": [
+   "Kyojuro Rengoku",
+   "Giyu Tomioka",
+   "Tengen Uzui"
+  ]
+ },
+ {
+  "p": "En «Demon Slayer», ¿cómo se llama el primer demonio, el más poderoso?",
+  "o": [
+   "Muzan Kibutsuji",
+   "Akaza",
+   "Doma"
+  ]
+ },
+ {
+  "p": "En «Demon Slayer», ¿qué lleva Inosuke en la cabeza?",
+  "o": [
+   "Una cabeza de jabalí",
+   "Una máscara de zorro",
+   "Una máscara de tengu"
+  ]
+ },
+ {
+  "p": "En «Demon Slayer», ¿qué rango tiene Akaza entre los demonios?",
+  "o": [
+   "Luna Superior 3",
+   "Luna Superior 1",
+   "Luna Inferior 5"
+  ]
+ },
+ {
+  "p": "En «Hunter x Hunter», ¿de qué familia de asesinos es Killua?",
+  "o": [
+   "Zoldyck",
+   "Kurta",
+   "Lucilfer"
+  ]
+ },
+ {
+  "p": "En «Hunter x Hunter», ¿cómo se llama el rey de las Hormigas Quimera?",
+  "o": [
+   "Meruem",
+   "Neferpitou",
+   "Komugi"
+  ]
+ },
+ {
+  "p": "En «Hunter x Hunter», ¿qué tipo de Nen tiene Gon?",
+  "o": [
+   "Intensificación",
+   "Transmutación",
+   "Materialización"
+  ]
+ },
+ {
+  "p": "En «One Punch Man», ¿cuántas lagartijas hacía Saitama al día para entrenar?",
+  "o": [
+   "100",
+   "50",
+   "1,000"
+  ]
+ },
+ {
+  "p": "En «One Punch Man», ¿en qué clase de héroe empieza Saitama?",
+  "o": [
+   "Clase C",
+   "Clase S",
+   "Clase B"
+  ]
+ },
+ {
+  "p": "En «Sword Art Online», ¿cuántos pisos tiene Aincrad?",
+  "o": [
+   "100",
+   "75",
+   "50"
+  ]
+ },
+ {
+  "p": "En «Evangelion», ¿cómo se llama el papá de Shinji?",
+  "o": [
+   "Gendo Ikari",
+   "Ryoji Kaji",
+   "Kozo Fuyutsuki"
+  ]
+ },
+ {
+  "p": "En «Attack on Titan», ¿qué titán hereda Eren?",
+  "o": [
+   "El Titán de Ataque",
+   "El Titán Colosal",
+   "El Titán Acorazado"
+  ]
+ },
+ {
+  "p": "En «Attack on Titan», ¿quién es «el soldado más fuerte de la humanidad»?",
+  "o": [
+   "Levi Ackerman",
+   "Erwin Smith",
+   "Mikasa Ackerman"
+  ]
+ },
+ {
+  "p": "En «Fullmetal Alchemist», ¿cuál es la ley básica de la alquimia?",
+  "o": [
+   "El intercambio equivalente",
+   "La piedra filosofal",
+   "La transmutación humana"
+  ]
+ },
+ {
+  "p": "En «Fullmetal Alchemist», ¿qué homúnculo puede cambiar de forma?",
+  "o": [
+   "Envy",
+   "Lust",
+   "Gluttony"
+  ]
+ },
+ {
+  "p": "En «Los Caballeros del Zodiaco», ¿cuántos Caballeros Dorados hay?",
+  "o": [
+   "12",
+   "7",
+   "88"
+  ]
+ },
+ {
+  "p": "En «Steins;Gate», ¿qué organización persigue a Okabe?",
+  "o": [
+   "SERN",
+   "NERV",
+   "SEELE"
+  ]
+ },
+ {
+  "p": "En «Mirai Nikki», ¿cuántos portadores de diario hay?",
+  "o": [
+   "12",
+   "7",
+   "10"
+  ]
+ },
+ {
+  "p": "En «To Aru Majutsu no Index», ¿quién es el esper número 1 de Ciudad Academia?",
+  "o": [
+   "Accelerator",
+   "Misaka Mikoto",
+   "Kakine Teitoku"
+  ]
+ },
+ {
+  "p": "En «Tokyo Ghoul», ¿cómo se llama el órgano con el que pelean los ghouls?",
+  "o": [
+   "Kagune",
+   "Quinque",
+   "Kakugan"
+  ]
+ },
+ {
+  "p": "En «JoJo's: Stardust Crusaders», ¿cómo se llama el Stand de Jotaro?",
+  "o": [
+   "Star Platinum",
+   "The World",
+   "Crazy Diamond"
+  ]
+ },
+ {
+  "p": "En «Coco», ¿cómo se llama la tatarabuela de Miguel?",
+  "o": [
+   "Mamá Imelda",
+   "Mamá Elena",
+   "Tía Victoria"
+  ]
+ },
+ {
+  "p": "¿Con qué película ganó Guillermo del Toro el Óscar a Mejor Película?",
+  "o": [
+   "La forma del agua",
+   "El laberinto del fauno",
+   "Pinocho"
+  ]
+ },
+ {
+  "p": "¿Por qué película ganó Alfonso Cuarón su primer Óscar a Mejor Director?",
+  "o": [
+   "Gravity",
+   "Roma",
+   "Children of Men"
+  ]
+ },
+ {
+  "p": "En «Amores perros», ¿qué une las tres historias?",
+  "o": [
+   "Un choque de autos",
+   "Un robo",
+   "Un incendio"
+  ]
+ },
+ {
+  "p": "En «Matrix», ¿cómo se llama la nave de Morfeo?",
+  "o": [
+   "Nabucodonosor",
+   "Logos",
+   "Martillo"
+  ]
+ },
+ {
+  "p": "En «Volver al futuro», ¿cuánta energía necesita el condensador de flujo?",
+  "o": [
+   "1.21 gigawatts",
+   "2.5 gigawatts",
+   "88 gigawatts"
+  ]
+ },
+ {
+  "p": "En «Piratas del Caribe», ¿qué maldijo a la tripulación de Barbossa?",
+  "o": [
+   "El oro azteca",
+   "El canto de una sirena",
+   "Un mapa robado"
+  ]
+ },
+ {
+  "p": "En «Monsters, Inc.», ¿cómo se llama el villano camaleón?",
+  "o": [
+   "Randall",
+   "Waternoose",
+   "Fungus"
+  ]
+ },
+ {
+  "p": "En «Ratatouille», ¿cómo se llama el crítico de comida?",
+  "o": [
+   "Anton Ego",
+   "Skinner",
+   "Gusteau"
+  ]
+ },
+ {
+  "p": "En «Los Juegos del Hambre», ¿cómo se llama el presidente de Panem?",
+  "o": [
+   "Snow",
+   "Coin",
+   "Crane"
+  ]
+ },
+ {
+  "p": "En «El Conjuro», ¿cómo se llaman los investigadores paranormales?",
+  "o": [
+   "Ed y Lorraine Warren",
+   "Dean y Sam Winchester",
+   "Peter y Carol Venkman"
+  ]
+ },
+ {
+  "p": "En «It», ¿cómo se llama el grupo de niños?",
+  "o": [
+   "El Club de los Perdedores",
+   "Los Goonies",
+   "Los Cazafantasmas"
+  ]
+ },
+ {
+  "p": "En «Saw», ¿cuál es el nombre real de Jigsaw?",
+  "o": [
+   "John Kramer",
+   "Lawrence Gordon",
+   "Mark Hoffman"
+  ]
+ },
+ {
+  "p": "En «Nosotros los Nobles», ¿quién interpreta al papá?",
+  "o": [
+   "Gonzalo Vega",
+   "Eugenio Derbez",
+   "Luis Gerardo Méndez"
+  ]
+ },
+ {
+  "p": "En «Re:Zero», ¿cómo se llama la habilidad de Subaru de volver al morir?",
+  "o": [
+   "Return by Death",
+   "Time Leap",
+   "Second Chance"
+  ]
+ },
+ {
+  "p": "En «Re:Zero», ¿cuál de las gemelas sirvientas tiene el pelo azul?",
+  "o": [
+   "Rem",
+   "Ram",
+   "Emilia"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Cars», ¿qué número lleva Chick Hicks, el rival de Rayo?",
+  "o": [
+   "86",
+   "43",
+   "95"
+  ]
+ }
+]

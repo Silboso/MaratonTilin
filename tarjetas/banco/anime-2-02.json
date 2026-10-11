@@ -1,0 +1,819 @@
+[
+ {
+  "deporte": true,
+  "p": "En «Initial D», ¿qué reparte Takumi en las mañanas con su auto?",
+  "o": [
+   "Tofu",
+   "Periódicos",
+   "Leche"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Initial D», ¿qué auto maneja Takumi?",
+  "o": [
+   "Toyota AE86",
+   "Mazda RX-7",
+   "Nissan GT-R"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué deporte se pelea con exoesqueletos en «Megalo Box»?",
+  "o": [
+   "Box",
+   "Lucha libre",
+   "Karate"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué están inspiradas las chicas de «Uma Musume»?",
+  "o": [
+   "En caballos de carreras reales",
+   "En autos de carreras",
+   "En galgos de carreras"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Kuroko no Basket», ¿cómo se le dice al grupo de cinco prodigios?",
+  "o": [
+   "La Generación de los Milagros",
+   "Los Cinco Reyes",
+   "Los Prodigios de Teiko"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llama el protagonista de «Blue Lock»?",
+  "o": [
+   "Yoichi Isagi",
+   "Meguru Bachira",
+   "Rin Itoshi"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Supercampeones», ¿qué número usa Oliver Atom?",
+  "o": [
+   "10",
+   "9",
+   "7"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Supercampeones», ¿qué dice siempre Oliver del balón?",
+  "o": [
+   "«El balón es mi amigo»",
+   "«El balón es mi vida»",
+   "«El balón es mi hermano»"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Hajime no Ippo», ¿en qué categoría de peso pelea Ippo?",
+  "o": [
+   "Peso pluma",
+   "Peso pesado",
+   "Peso mosca"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Rocky IV», ¿contra quién pelea Rocky?",
+  "o": [
+   "Iván Drago",
+   "Apollo Creed",
+   "Clubber Lang"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Creed», ¿de quién es hijo Adonis?",
+  "o": [
+   "De Apollo Creed",
+   "De Rocky Balboa",
+   "De Iván Drago"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Turbo», ¿en qué carrera quiere correr el caracol?",
+  "o": [
+   "Las 500 Millas de Indianápolis",
+   "Las 24 Horas de Le Mans",
+   "El Gran Premio de Mónaco"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "Al final de «Los Increíbles», ¿en qué compite Dash?",
+  "o": [
+   "En una carrera de atletismo",
+   "En un partido de fútbol",
+   "En natación"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Rudo y Cursi», ¿a qué deporte se dedican los hermanos?",
+  "o": [
+   "Fútbol",
+   "Box",
+   "Béisbol"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Space Jam», ¿cómo se llama el equipo de los aliens?",
+  "o": [
+   "Los Monstars",
+   "Los Tune Squad",
+   "Los Martianos"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Cars 3», ¿quién entrena a Rayo McQueen para volver a correr?",
+  "o": [
+   "Cruz Ramírez",
+   "Sally",
+   "Jackson Storm"
+  ]
+ },
+ {
+  "p": "En «To Aru Majutsu no Index», ¿cómo se llama el poder de la mano derecha de Touma?",
+  "o": [
+   "Imagine Breaker",
+   "Railgun",
+   "Accelerator"
+  ]
+ },
+ {
+  "p": "En «Konosuba», ¿qué diosa acompaña a Kazuma?",
+  "o": [
+   "Aqua",
+   "Eris",
+   "Darkness"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el slime protagonista de «Tensei Slime»?",
+  "o": [
+   "Rimuru Tempest",
+   "Veldora",
+   "Benimaru"
+  ]
+ },
+ {
+  "p": "En «Shield Hero», ¿cómo se llama la chica mapache que acompaña a Naofumi?",
+  "o": [
+   "Raphtalia",
+   "Filo",
+   "Melty"
+  ]
+ },
+ {
+  "p": "En «Kaguya-sama», ¿qué quieren lograr Kaguya y Shirogane?",
+  "o": [
+   "Que el otro se confiese primero",
+   "Ganar las elecciones",
+   "Ser los mejores de la clase"
+  ]
+ },
+ {
+  "p": "En «Your Lie in April», ¿qué instrumento toca Kousei?",
+  "o": [
+   "Piano",
+   "Violín",
+   "Guitarra"
+  ]
+ },
+ {
+  "p": "En «Horimiya», ¿qué esconde Miyamura en la escuela?",
+  "o": [
+   "Sus tatuajes y piercings",
+   "Que es rico",
+   "Que es un idol"
+  ]
+ },
+ {
+  "p": "En «Ouran», ¿a qué club entra Haruhi?",
+  "o": [
+   "Al Host Club",
+   "Al club de cocina",
+   "Al club de teatro"
+  ]
+ },
+ {
+  "p": "En «Fruits Basket», ¿en qué se transforman los Soma al abrazarlos?",
+  "o": [
+   "En animales del zodiaco chino",
+   "En gatos",
+   "En niños"
+  ]
+ },
+ {
+  "p": "En «Inuyasha», ¿qué sacerdotisa selló a Inuyasha en el árbol?",
+  "o": [
+   "Kikyo",
+   "Kagome",
+   "Sango"
+  ]
+ },
+ {
+  "p": "En «Yu-Gi-Oh!», ¿cuál es el monstruo favorito de Kaiba?",
+  "o": [
+   "Dragón Blanco de Ojos Azules",
+   "Mago Oscuro",
+   "Dragón Negro de Ojos Rojos"
+  ]
+ },
+ {
+  "p": "En «Ranma ½», ¿qué le pasa a Ranma cuando le cae agua fría?",
+  "o": [
+   "Se convierte en mujer",
+   "Se convierte en panda",
+   "Se convierte en gato"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el protagonista de «Cowboy Bebop»?",
+  "o": [
+   "Spike Spiegel",
+   "Jet Black",
+   "Vicious"
+  ]
+ },
+ {
+  "p": "En «Fairy Tail», ¿qué tipo de mago es Natsu?",
+  "o": [
+   "Dragon Slayer de fuego",
+   "Mago de hielo",
+   "Mago celestial"
+  ]
+ },
+ {
+  "p": "En «Black Clover», ¿qué quiere llegar a ser Asta?",
+  "o": [
+   "Rey Mago",
+   "Capitán de los Toros Negros",
+   "Caballero Real"
+  ]
+ },
+ {
+  "p": "En «Fire Force», ¿contra qué pelean los protagonistas?",
+  "o": [
+   "Personas que se incendian solas",
+   "Incendios forestales",
+   "Dragones de fuego"
+  ]
+ },
+ {
+  "p": "En «Soul Eater», ¿en qué arma se transforma Soul?",
+  "o": [
+   "Una guadaña",
+   "Una espada",
+   "Una pistola"
+  ]
+ },
+ {
+  "p": "En «Blue Exorcist», ¿de quién es hijo Rin Okumura?",
+  "o": [
+   "De Satán",
+   "De un ángel",
+   "De un exorcista"
+  ]
+ },
+ {
+  "p": "¿Qué pueblo protagoniza «Vinland Saga»?",
+  "o": [
+   "Los vikingos",
+   "Los samuráis",
+   "Los romanos"
+  ]
+ },
+ {
+  "p": "En «Berserk», ¿cómo se llama el protagonista de la espada gigante?",
+  "o": [
+   "Guts",
+   "Griffith",
+   "Casca"
+  ]
+ },
+ {
+  "p": "En «Elfen Lied», ¿de qué especie es Lucy?",
+  "o": [
+   "Diclonius",
+   "Shinigami",
+   "Ghoul"
+  ]
+ },
+ {
+  "p": "En «Kaiju No. 8», ¿en qué se convierte Kafka?",
+  "o": [
+   "En un kaiju",
+   "En un robot",
+   "En un fantasma"
+  ]
+ },
+ {
+  "p": "En «Sakamoto Days», ¿a qué se dedica Sakamoto después de retirarse?",
+  "o": [
+   "Atiende una tiendita",
+   "Es maestro",
+   "Es policía"
+  ]
+ },
+ {
+  "p": "¿En qué ciudad pasa «Cyberpunk: Edgerunners»?",
+  "o": [
+   "Night City",
+   "Neo-Tokyo",
+   "Ciudad Academia"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el club que funda Haruhi Suzumiya?",
+  "o": [
+   "La Brigada SOS",
+   "El Club de Literatura",
+   "El Host Club"
+  ]
+ },
+ {
+  "p": "En «Angel Beats!», ¿dónde están los personajes?",
+  "o": [
+   "En el más allá",
+   "En el futuro",
+   "Dentro de un videojuego"
+  ]
+ },
+ {
+  "p": "En «Darling in the FranXX», ¿cómo se llama la chica de los cuernos rojos?",
+  "o": [
+   "Zero Two",
+   "Ichigo",
+   "Kokoro"
+  ]
+ },
+ {
+  "p": "¿De qué tratan los duelos en «Food Wars»?",
+  "o": [
+   "De cocina",
+   "De peleas callejeras",
+   "De carreras"
+  ]
+ },
+ {
+  "p": "En «Assassination Classroom», ¿qué tienen que hacer los alumnos con Koro-sensei?",
+  "o": [
+   "Asesinarlo antes de fin de año",
+   "Protegerlo",
+   "Atraparlo vivo"
+  ]
+ },
+ {
+  "p": "En «Violet Evergarden», ¿a qué se dedica Violet?",
+  "o": [
+   "A escribir cartas para otros",
+   "A entregar paquetes",
+   "A pelear en la guerra"
+  ]
+ },
+ {
+  "p": "En «A Silent Voice», ¿qué discapacidad tiene Shoko?",
+  "o": [
+   "Es sorda",
+   "Es ciega",
+   "No puede caminar"
+  ]
+ },
+ {
+  "p": "En «Dr. Stone», ¿qué le pasa a toda la humanidad?",
+  "o": [
+   "Se vuelve de piedra",
+   "Se vuelve zombie",
+   "Desaparece"
+  ]
+ },
+ {
+  "p": "En «Beastars», ¿qué animal es Legoshi?",
+  "o": [
+   "Un lobo",
+   "Un león",
+   "Un conejo"
+  ]
+ },
+ {
+  "p": "En «Komi-san», ¿qué problema tiene Komi?",
+  "o": [
+   "Le cuesta mucho hablar",
+   "No puede ver bien",
+   "No puede dormir"
+  ]
+ },
+ {
+  "p": "En «K-On!», ¿qué forman las chicas del club de música ligera?",
+  "o": [
+   "Una banda",
+   "Un grupo idol",
+   "Un coro"
+  ]
+ },
+ {
+  "p": "¿De qué trata «Kakegurui»?",
+  "o": [
+   "De apuestas en una escuela",
+   "De duelos de cartas",
+   "De peleas callejeras"
+  ]
+ },
+ {
+  "p": "¿En qué ciudad pasa «Akira»?",
+  "o": [
+   "Neo-Tokyo",
+   "Night City",
+   "Ciudad Academia"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la protagonista cyborg de «Ghost in the Shell»?",
+  "o": [
+   "Motoko Kusanagi",
+   "Alita",
+   "Lucy"
+  ]
+ },
+ {
+  "p": "En «Hellsing», ¿qué es Alucard?",
+  "o": [
+   "Un vampiro",
+   "Un hombre lobo",
+   "Un sacerdote"
+  ]
+ },
+ {
+  "p": "En «Gurren Lagann», ¿qué objeto representa a Simon?",
+  "o": [
+   "Un taladro",
+   "Una llave",
+   "Una espada"
+  ]
+ },
+ {
+  "p": "En «Code Geass», ¿qué identidad enmascarada usa Lelouch?",
+  "o": [
+   "Zero",
+   "Kira",
+   "Kaiser"
+  ]
+ },
+ {
+  "p": "En «Evangelion», ¿cómo se llama la organización que opera los EVA?",
+  "o": [
+   "NERV",
+   "Shocker",
+   "SOLDIER"
+  ]
+ },
+ {
+  "p": "En «Mirai Nikki», ¿qué hace el diario de Yukiteru?",
+  "o": [
+   "Predice el futuro",
+   "Mata a quien escribes",
+   "Borra recuerdos"
+  ]
+ },
+ {
+  "p": "En «Tokyo Ghoul», ¿en qué cafetería trabaja Kaneki?",
+  "o": [
+   "Anteiku",
+   "Maid Latte",
+   "Café Leblanc"
+  ]
+ },
+ {
+  "p": "En «Fullmetal Alchemist», ¿qué perdió Edward Elric?",
+  "o": [
+   "Un brazo y una pierna",
+   "Los ojos",
+   "La voz"
+  ]
+ },
+ {
+  "p": "En «Attack on Titan», ¿qué cuerpo militar sale más allá de las murallas?",
+  "o": [
+   "El Cuerpo de Exploración",
+   "La Policía Militar",
+   "La Guarnición"
+  ]
+ },
+ {
+  "p": "En «Jujutsu Kaisen», ¿qué se come Itadori al principio?",
+  "o": [
+   "Un dedo de Sukuna",
+   "Una fruta maldita",
+   "Un ojo de demonio"
+  ]
+ },
+ {
+  "p": "En «Demon Slayer», ¿qué respiración usa Tanjiro al inicio?",
+  "o": [
+   "Agua",
+   "Fuego",
+   "Trueno"
+  ]
+ },
+ {
+  "p": "En «Chainsaw Man», ¿quién es la jefa de Denji?",
+  "o": [
+   "Makima",
+   "Power",
+   "Himeno"
+  ]
+ },
+ {
+  "p": "En «My Hero Academia», ¿quién le hereda su poder a Deku?",
+  "o": [
+   "All Might",
+   "Endeavor",
+   "Aizawa"
+  ]
+ },
+ {
+  "p": "En «Spy x Family», ¿cómo se llama el perro de la familia?",
+  "o": [
+   "Bond",
+   "Max",
+   "Loki"
+  ]
+ },
+ {
+  "p": "En «Hunter x Hunter», ¿qué examen presenta Gon al inicio?",
+  "o": [
+   "El examen de Cazador",
+   "El examen Chunin",
+   "El examen de Héroe"
+  ]
+ },
+ {
+  "p": "En «One Punch Man», ¿cómo se llama el discípulo cyborg de Saitama?",
+  "o": [
+   "Genos",
+   "King",
+   "Bang"
+  ]
+ },
+ {
+  "p": "En «Mob Psycho 100», ¿cómo se llama el mentor estafador de Mob?",
+  "o": [
+   "Reigen Arataka",
+   "Dimple",
+   "Teru"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el protagonista de «Sword Art Online»?",
+  "o": [
+   "Kirito",
+   "Klein",
+   "Eugeo"
+  ]
+ },
+ {
+  "p": "En DBZ, ¿quién derrota a Cell?",
+  "o": [
+   "Gohan",
+   "Goku",
+   "Vegeta"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la fusión de Goku y Vegeta con los aretes Potara?",
+  "o": [
+   "Vegetto",
+   "Gogeta",
+   "Gotenks"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿qué maestro escribe novelas «para adultos»?",
+  "o": [
+   "Jiraiya",
+   "Kakashi",
+   "Orochimaru"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿cuál es el Pokémon más famoso de Brock?",
+  "o": [
+   "Onix",
+   "Geodude",
+   "Vulpix"
+  ]
+ },
+ {
+  "p": "En «Digimon», ¿en qué digievoluciona Gabumon?",
+  "o": [
+   "Garurumon",
+   "Greymon",
+   "Kabuterimon"
+  ]
+ },
+ {
+  "p": "En «Los Caballeros del Zodiaco», ¿a qué diosa protegen?",
+  "o": [
+   "Atenea",
+   "Afrodita",
+   "Hera"
+  ]
+ },
+ {
+  "p": "En «Sailor Moon», ¿quién es Tuxedo Mask en el doblaje latino?",
+  "o": [
+   "Darien",
+   "Andrew",
+   "Diamante"
+  ]
+ },
+ {
+  "p": "En «Toy Story 3», ¿cómo se llama el oso villano?",
+  "o": [
+   "Lotso",
+   "Stinky Pete",
+   "Gabby Gabby"
+  ]
+ },
+ {
+  "p": "En «Coco», ¿cómo se llama el cantante ídolo de Miguel?",
+  "o": [
+   "Ernesto de la Cruz",
+   "Héctor",
+   "Pedro Infante"
+  ]
+ },
+ {
+  "p": "En «Up», ¿cómo se llama el niño explorador?",
+  "o": [
+   "Russell",
+   "Kevin",
+   "Dug"
+  ]
+ },
+ {
+  "p": "En «Shrek», ¿cómo se llama el villano bajito que quiere casarse con Fiona?",
+  "o": [
+   "Lord Farquaad",
+   "El Príncipe Encantador",
+   "Rumpelstiltskin"
+  ]
+ },
+ {
+  "p": "En «Kung Fu Panda», ¿quién es el maestro que entrena a Po?",
+  "o": [
+   "Shifu",
+   "Oogway",
+   "Tai Lung"
+  ]
+ },
+ {
+  "p": "En «Frozen», ¿cómo se llama el reno de Kristoff?",
+  "o": [
+   "Sven",
+   "Olaf",
+   "Hans"
+  ]
+ },
+ {
+  "p": "En «Matrix», ¿cómo se llama el agente villano?",
+  "o": [
+   "Smith",
+   "Johnson",
+   "Morfeo"
+  ]
+ },
+ {
+  "p": "En «Volver al futuro», ¿a qué velocidad tiene que ir el DeLorean para viajar?",
+  "o": [
+   "88 millas por hora",
+   "100 millas por hora",
+   "60 millas por hora"
+  ]
+ },
+ {
+  "p": "En «Jurassic Park», ¿qué dinosaurios cazan en grupo y abren puertas?",
+  "o": [
+   "Los velocirraptores",
+   "Los dilofosaurios",
+   "Los triceratops"
+  ]
+ },
+ {
+  "p": "En «Piratas del Caribe», ¿qué capitán tiene cara de pulpo?",
+  "o": [
+   "Davy Jones",
+   "Barbossa",
+   "Barbanegra"
+  ]
+ },
+ {
+  "p": "¿Qué actor interpreta a Ethan Hunt en «Misión Imposible»?",
+  "o": [
+   "Tom Cruise",
+   "Matt Damon",
+   "Brad Pitt"
+  ]
+ },
+ {
+  "p": "En «Los Juegos del Hambre», ¿de qué distrito es Katniss?",
+  "o": [
+   "Del 12",
+   "Del 1",
+   "Del 13"
+  ]
+ },
+ {
+  "p": "En la primera «Destino final», ¿de qué se salvan al inicio?",
+  "o": [
+   "De un avión que explota",
+   "De un choque en carretera",
+   "De una montaña rusa"
+  ]
+ },
+ {
+  "p": "En «Saw», ¿cómo se llama el títere en triciclo?",
+  "o": [
+   "Billy",
+   "Chucky",
+   "Slappy"
+  ]
+ },
+ {
+  "p": "En «La Monja», ¿cómo se llama el demonio?",
+  "o": [
+   "Valak",
+   "Pazuzu",
+   "Bathsheba"
+  ]
+ },
+ {
+  "p": "¿Quién dirigió «El laberinto del fauno»?",
+  "o": [
+   "Guillermo del Toro",
+   "Alfonso Cuarón",
+   "Alejandro González Iñárritu"
+  ]
+ },
+ {
+  "p": "¿Quién dirigió «Y tu mamá también»?",
+  "o": [
+   "Alfonso Cuarón",
+   "Guillermo del Toro",
+   "Alejandro González Iñárritu"
+  ]
+ },
+ {
+  "p": "¿En qué ciudad pasa «La Leyenda de la Nahuala»?",
+  "o": [
+   "Puebla",
+   "Guanajuato",
+   "Ciudad de México"
+  ]
+ },
+ {
+  "p": "En «Mean Girls», ¿de qué color se visten los miércoles?",
+  "o": [
+   "Rosa",
+   "Negro",
+   "Rojo"
+  ]
+ },
+ {
+  "p": "En «Kill Bill», ¿de qué color es el traje de la Novia?",
+  "o": [
+   "Amarillo",
+   "Negro",
+   "Rojo"
+  ]
+ },
+ {
+  "p": "En «Scott Pilgrim», ¿a cuántos ex malvados tiene que vencer Scott?",
+  "o": [
+   "7",
+   "5",
+   "10"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Dragon Ball», ¿quién gana el 23° Torneo, donde Goku pelea contra Piccolo?",
+  "o": [
+   "Goku",
+   "Piccolo",
+   "Ten Shin Han"
+  ]
+ }
+]

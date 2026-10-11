@@ -1,0 +1,876 @@
+[
+ {
+  "deporte": true,
+  "p": "En «Supercampeones», ¿cómo se llama el portero amigo y rival de Oliver?",
+  "o": [
+   "Benji Price",
+   "Steve Hyuga",
+   "Tom Misaki"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Space Jam» (1996), ¿qué estrella de la NBA juega con Bugs Bunny?",
+  "o": [
+   "Michael Jordan",
+   "LeBron James",
+   "Shaquille O'Neal"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué jugador de la NBA protagoniza «Space Jam: Una nueva era»?",
+  "o": [
+   "LeBron James",
+   "Stephen Curry",
+   "Kobe Bryant"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Space Jam», ¿cómo se llama el equipo de los Looney Tunes?",
+  "o": [
+   "Tune Squad",
+   "Monstars",
+   "Looney Stars"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Karate Kid», ¿qué le pone a hacer el señor Miyagi a Daniel con los autos?",
+  "o": [
+   "Dar cera, pulir cera",
+   "Cambiarles las llantas",
+   "Pintarlos de rojo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Rocky», ¿qué se toma Rocky en el desayuno antes de entrenar?",
+  "o": [
+   "Huevos crudos",
+   "Leche con chocolate",
+   "Café negro"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Cars», ¿cómo se llama la grúa oxidada mejor amigo de Rayo McQueen?",
+  "o": [
+   "Mate",
+   "Doc Hudson",
+   "Guido"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Cars», ¿en qué pueblo se queda varado Rayo McQueen?",
+  "o": [
+   "Radiador Springs",
+   "Motor City",
+   "Villa Pistón"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué deporte juegan en «Haikyuu!!»?",
+  "o": [
+   "Voleibol",
+   "Básquetbol",
+   "Tenis"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué deporte juegan en «Kuroko no Basket»?",
+  "o": [
+   "Básquetbol",
+   "Béisbol",
+   "Voleibol"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué deporte juegan en «Blue Lock»?",
+  "o": [
+   "Fútbol",
+   "Rugby",
+   "Béisbol"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué deporte practica Ippo Makunouchi en «Hajime no Ippo»?",
+  "o": [
+   "Box",
+   "Karate",
+   "Lucha libre"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Dragon Ball», ¿en qué torneo pelea Goku de niño contra otros guerreros?",
+  "o": [
+   "El Torneo de Artes Marciales",
+   "El Torneo del Poder",
+   "El Juego de Cell"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Shaolin Soccer», ¿qué combinan con el fútbol?",
+  "o": [
+   "Kung fu",
+   "Karate",
+   "Sumo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Rápidos y Furiosos», ¿qué palabra repite siempre Toretto?",
+  "o": [
+   "Familia",
+   "Velocidad",
+   "Respeto"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué deporte practican en «Yuri!!! on Ice»?",
+  "o": [
+   "Patinaje artístico",
+   "Hockey",
+   "Esquí"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En la película «Air Bud», ¿qué deporte juega el perro?",
+  "o": [
+   "Básquetbol",
+   "Fútbol",
+   "Béisbol"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Supercampeones», ¿cuál es la posición de Oliver Atom?",
+  "o": [
+   "Delantero / medio ofensivo",
+   "Portero",
+   "Defensa"
+  ]
+ },
+ {
+  "p": "¿Cuántas Esferas del Dragón hay que reunir para invocar al dragón?",
+  "o": [
+   "7",
+   "5",
+   "9"
+  ]
+ },
+ {
+  "p": "En «Dragon Ball», ¿cómo se llama el dragón que aparece en la Tierra?",
+  "o": [
+   "Shenlong",
+   "Porunga",
+   "Baby"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el hijo mayor de Goku?",
+  "o": [
+   "Gohan",
+   "Goten",
+   "Trunks"
+  ]
+ },
+ {
+  "p": "¿Cuál es el ataque más famoso de Goku?",
+  "o": [
+   "Kamehameha",
+   "Galick Ho",
+   "Makankosappo"
+  ]
+ },
+ {
+  "p": "¿De qué color se vuelve el pelo de Goku en Súper Saiyajin (el primero)?",
+  "o": [
+   "Dorado",
+   "Azul",
+   "Rojo"
+  ]
+ },
+ {
+  "p": "¿Qué maestro de Goku vive en Kame House?",
+  "o": [
+   "El Maestro Roshi",
+   "Kaio-sama",
+   "Piccolo"
+  ]
+ },
+ {
+  "p": "En DBZ, ¿qué villano destruyó el planeta de los Saiyajin?",
+  "o": [
+   "Freezer",
+   "Cell",
+   "Majin Buu"
+  ]
+ },
+ {
+  "p": "¿Con quién se casa Bulma?",
+  "o": [
+   "Vegeta",
+   "Yamcha",
+   "Krilin"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre saiyajin de Goku?",
+  "o": [
+   "Kakaroto",
+   "Raditz",
+   "Bardock"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿en qué aldea vive Naruto?",
+  "o": [
+   "La Aldea de la Hoja",
+   "La Aldea de la Arena",
+   "La Aldea de la Niebla"
+  ]
+ },
+ {
+  "p": "¿Cuál es la comida favorita de Naruto?",
+  "o": [
+   "Ramen",
+   "Sushi",
+   "Onigiri"
+  ]
+ },
+ {
+  "p": "¿Qué sueña ser Naruto Uzumaki?",
+  "o": [
+   "Hokage",
+   "Kazekage",
+   "Sannin"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿cuál es el apellido de Sasuke?",
+  "o": [
+   "Uchiha",
+   "Hyuga",
+   "Senju"
+  ]
+ },
+ {
+  "p": "¿Quién es el sensei del Equipo 7 en «Naruto»?",
+  "o": [
+   "Kakashi Hatake",
+   "Jiraiya",
+   "Iruka"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la organización de mantos negros con nubes rojas en «Naruto»?",
+  "o": [
+   "Akatsuki",
+   "ANBU",
+   "Raíz"
+  ]
+ },
+ {
+  "p": "¿Qué técnica usa Naruto para hacer muchas copias de sí mismo?",
+  "o": [
+   "Clones de sombra",
+   "Rasengan",
+   "Chidori"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿de qué pueblo es Ash?",
+  "o": [
+   "Pueblo Paleta",
+   "Ciudad Verde",
+   "Ciudad Celeste"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el profesor Pokémon de Pueblo Paleta?",
+  "o": [
+   "El Profesor Oak",
+   "El Profesor Elm",
+   "El Profesor Birch"
+  ]
+ },
+ {
+  "p": "¿Qué Pokémon del Equipo Rocket habla y dice «¡Así es!»?",
+  "o": [
+   "Meowth",
+   "Wobbuffet",
+   "Arbok"
+  ]
+ },
+ {
+  "p": "¿Quiénes viajan con Ash en la primera temporada de «Pokémon»?",
+  "o": [
+   "Misty y Brock",
+   "May y Max",
+   "Dawn y Cilan"
+  ]
+ },
+ {
+  "p": "¿En qué evoluciona Pikachu con una Piedra Trueno?",
+  "o": [
+   "Raichu",
+   "Pichu",
+   "Electabuzz"
+  ]
+ },
+ {
+  "p": "En «Digimon Adventure», ¿cuál es el Digimon compañero de Tai?",
+  "o": [
+   "Agumon",
+   "Gabumon",
+   "Patamon"
+  ]
+ },
+ {
+  "p": "En «Digimon», ¿qué aparato usan los niños elegidos para que su Digimon evolucione?",
+  "o": [
+   "El Digivice",
+   "La Pokédex",
+   "El Omnitrix"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿qué le pasa a quien tenga su nombre escrito en el cuaderno?",
+  "o": [
+   "Muere",
+   "Pierde la memoria",
+   "Obedece al dueño"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿con qué nombre conoce el mundo al asesino del cuaderno?",
+  "o": [
+   "Kira",
+   "L",
+   "Zero"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿qué es lo que más come L?",
+  "o": [
+   "Dulces",
+   "Manzanas",
+   "Papas fritas"
+  ]
+ },
+ {
+  "p": "¿Qué lleva siempre Luffy en la cabeza?",
+  "o": [
+   "Un sombrero de paja",
+   "Una bandana",
+   "Unos goggles"
+  ]
+ },
+ {
+  "p": "En «Attack on Titan», ¿qué protege a la humanidad de los titanes?",
+  "o": [
+   "Murallas gigantes",
+   "Un domo de energía",
+   "Un río de lava"
+  ]
+ },
+ {
+  "p": "En «Attack on Titan», ¿cómo se llama la hermana adoptiva de Eren?",
+  "o": [
+   "Mikasa",
+   "Annie",
+   "Sasha"
+  ]
+ },
+ {
+  "p": "En «Evangelion», ¿qué pilotean los protagonistas?",
+  "o": [
+   "Robots gigantes llamados EVA",
+   "Naves espaciales",
+   "Dragones mecánicos"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la protagonista de «Sailor Moon» en el doblaje latino?",
+  "o": [
+   "Serena",
+   "Rei",
+   "Amy"
+  ]
+ },
+ {
+  "p": "En «Sailor Moon», ¿cómo se llama la gata negra de Serena?",
+  "o": [
+   "Luna",
+   "Artemis",
+   "Diana"
+  ]
+ },
+ {
+  "p": "En «Los Caballeros del Zodiaco», ¿de qué constelación es la armadura de Seiya?",
+  "o": [
+   "Pegaso",
+   "Dragón",
+   "Cisne"
+  ]
+ },
+ {
+  "p": "En «Demon Slayer», ¿qué lleva Nezuko en la boca?",
+  "o": [
+   "Un bambú",
+   "Un pañuelo",
+   "Una máscara"
+  ]
+ },
+ {
+  "p": "En «Demon Slayer», ¿en qué se convierte la hermana de Tanjiro?",
+  "o": [
+   "En demonio",
+   "En pilar",
+   "En zorro"
+  ]
+ },
+ {
+  "p": "En «Jujutsu Kaisen», ¿qué maestro usa una venda en los ojos?",
+  "o": [
+   "Satoru Gojo",
+   "Kento Nanami",
+   "Suguru Geto"
+  ]
+ },
+ {
+  "p": "En «Chainsaw Man», ¿qué le sale a Denji de la cabeza al transformarse?",
+  "o": [
+   "Una motosierra",
+   "Un taladro",
+   "Una espada"
+  ]
+ },
+ {
+  "p": "En «My Hero Academia», ¿cuál es el apodo de Izuku Midoriya?",
+  "o": [
+   "Deku",
+   "Kacchan",
+   "Shoto"
+  ]
+ },
+ {
+  "p": "En «My Hero Academia», ¿cómo se les dice a los superpoderes?",
+  "o": [
+   "Quirks (dones)",
+   "Nen",
+   "Chakra"
+  ]
+ },
+ {
+  "p": "En «Spy x Family», ¿qué poder secreto tiene Anya?",
+  "o": [
+   "Lee mentes",
+   "Ve el futuro",
+   "Se vuelve invisible"
+  ]
+ },
+ {
+  "p": "En «Spy x Family», ¿a qué se dedica Yor en secreto?",
+  "o": [
+   "Es asesina",
+   "Es espía",
+   "Es policía"
+  ]
+ },
+ {
+  "p": "¿Cuántos golpes necesita Saitama para vencer a casi cualquiera?",
+  "o": [
+   "Uno",
+   "Tres",
+   "Cien"
+  ]
+ },
+ {
+  "p": "En «Hunter x Hunter», ¿cómo se llama el mejor amigo de Gon?",
+  "o": [
+   "Killua",
+   "Kurapika",
+   "Leorio"
+  ]
+ },
+ {
+  "p": "En «Sword Art Online», ¿qué pasa si mueres dentro del juego?",
+  "o": [
+   "Mueres en la vida real",
+   "Pierdes tus objetos",
+   "Reinicias el nivel"
+  ]
+ },
+ {
+  "p": "En «Tensei Slime», ¿en qué reencarna el protagonista?",
+  "o": [
+   "En un slime",
+   "En una espada",
+   "En un dragón"
+  ]
+ },
+ {
+  "p": "En «Shield Hero», ¿qué arma le toca a Naofumi?",
+  "o": [
+   "Un escudo",
+   "Una lanza",
+   "Un arco"
+  ]
+ },
+ {
+  "p": "En «Inuyasha», ¿qué buscan Inuyasha y Kagome?",
+  "o": [
+   "Los fragmentos de la Perla de Shikon",
+   "Las Esferas del Dragón",
+   "Las Gemas del Infinito"
+  ]
+ },
+ {
+  "p": "¿Qué es Inuyasha?",
+  "o": [
+   "Mitad demonio",
+   "Un humano",
+   "Un zorro espíritu"
+  ]
+ },
+ {
+  "p": "En «Yu-Gi-Oh!», ¿qué objeto lleva Yugi colgado del cuello?",
+  "o": [
+   "El Rompecabezas del Milenio",
+   "El Ojo del Milenio",
+   "La Llave del Milenio"
+  ]
+ },
+ {
+  "p": "En «Fairy Tail», ¿cómo se llama el gato azul de Natsu?",
+  "o": [
+   "Happy",
+   "Carla",
+   "Lily"
+  ]
+ },
+ {
+  "p": "En «Bleach», ¿qué es Ichigo Kurosaki?",
+  "o": [
+   "Un shinigami sustituto",
+   "Un hollow",
+   "Un quincy"
+  ]
+ },
+ {
+  "p": "En «Bocchi the Rock!», ¿qué instrumento toca Bocchi?",
+  "o": [
+   "Guitarra",
+   "Batería",
+   "Bajo"
+  ]
+ },
+ {
+  "p": "En «Your Name», ¿qué les pasa a Mitsuha y Taki?",
+  "o": [
+   "Intercambian cuerpos",
+   "Viajan juntos al pasado",
+   "Pierden la memoria"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el espíritu gordo y gris del bosque de Studio Ghibli?",
+  "o": [
+   "Totoro",
+   "Kodama",
+   "Sin Cara"
+  ]
+ },
+ {
+  "p": "En «El viaje de Chihiro», ¿en qué se convierten los papás de Chihiro?",
+  "o": [
+   "En cerdos",
+   "En dragones",
+   "En piedras"
+  ]
+ },
+ {
+  "p": "En «Toy Story», ¿cómo se llama el niño dueño de Woody?",
+  "o": [
+   "Andy",
+   "Sid",
+   "Bonnie"
+  ]
+ },
+ {
+  "p": "En «Toy Story», ¿cómo se llama el dinosaurio verde?",
+  "o": [
+   "Rex",
+   "Hamm",
+   "Slinky"
+  ]
+ },
+ {
+  "p": "En «Monsters, Inc.», ¿cómo le dicen a la niña que entra a Monstruópolis?",
+  "o": [
+   "Boo",
+   "Celia",
+   "Roz"
+  ]
+ },
+ {
+  "p": "En «Monsters, Inc.», ¿qué usan como energía al principio de la película?",
+  "o": [
+   "Los gritos de los niños",
+   "Los sueños de los niños",
+   "La luz del sol"
+  ]
+ },
+ {
+  "p": "En «Up», ¿cómo hace volar Carl su casa?",
+  "o": [
+   "Con globos",
+   "Con un cohete",
+   "Con un dirigible"
+  ]
+ },
+ {
+  "p": "En «Ratatouille», ¿cómo se llama la rata chef?",
+  "o": [
+   "Remy",
+   "Emile",
+   "Linguini"
+  ]
+ },
+ {
+  "p": "En «Wall-E», ¿cómo se llama la robot de la que se enamora Wall-E?",
+  "o": [
+   "EVA",
+   "MO",
+   "AUTO"
+  ]
+ },
+ {
+  "p": "En «Intensa-Mente», ¿qué emoción es azul?",
+  "o": [
+   "Tristeza",
+   "Temor",
+   "Desagrado"
+  ]
+ },
+ {
+  "p": "En «Buscando a Nemo», ¿qué tipo de pez es Dory?",
+  "o": [
+   "Un cirujano azul",
+   "Un pez payaso",
+   "Un pez globo"
+  ]
+ },
+ {
+  "p": "En «Los Increíbles», ¿qué poder tiene Violeta?",
+  "o": [
+   "Invisibilidad y campos de fuerza",
+   "Súper velocidad",
+   "Elasticidad"
+  ]
+ },
+ {
+  "p": "¿Qué animal es el mejor amigo de Shrek?",
+  "o": [
+   "Un burro",
+   "Un gato",
+   "Un dragón"
+  ]
+ },
+ {
+  "p": "En «Shrek», ¿en qué se convierte Fiona cuando se mete el sol?",
+  "o": [
+   "En ogra",
+   "En dragona",
+   "En gata"
+  ]
+ },
+ {
+  "p": "En «Madagascar», ¿cómo se llama el león?",
+  "o": [
+   "Alex",
+   "Marty",
+   "Melman"
+  ]
+ },
+ {
+  "p": "En «Madagascar», ¿qué canción baila el rey Julien?",
+  "o": [
+   "«Yo quiero mover el bote»",
+   "«Hakuna Matata»",
+   "«Bajo del mar»"
+  ]
+ },
+ {
+  "p": "En «Kung Fu Panda», ¿qué título recibe Po?",
+  "o": [
+   "Guerrero Dragón",
+   "Guerrero Tigre",
+   "Gran Maestro"
+  ]
+ },
+ {
+  "p": "En «Frozen», ¿cómo se llama el muñeco de nieve?",
+  "o": [
+   "Olaf",
+   "Sven",
+   "Kristoff"
+  ]
+ },
+ {
+  "p": "En «Enredados», ¿qué tiene de especial el cabello de Rapunzel?",
+  "o": [
+   "Es mágico y sana",
+   "Es de oro puro",
+   "Cambia de color"
+  ]
+ },
+ {
+  "p": "En «Moana», ¿cómo se llama el semidiós?",
+  "o": [
+   "Maui",
+   "Tamatoa",
+   "Te Fiti"
+  ]
+ },
+ {
+  "p": "En «Encanto», ¿de quién «no se habla»?",
+  "o": [
+   "Bruno",
+   "Camilo",
+   "Mirabel"
+  ]
+ },
+ {
+  "p": "En «El Rey León», ¿qué significa «Hakuna Matata»?",
+  "o": [
+   "Sin preocupaciones",
+   "Larga vida al rey",
+   "Hogar, dulce hogar"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el barco de Jack Sparrow?",
+  "o": [
+   "La Perla Negra",
+   "El Holandés Errante",
+   "La Venganza de la Reina Ana"
+  ]
+ },
+ {
+  "p": "En «Jurassic Park», ¿de dónde sacan el ADN de dinosaurio?",
+  "o": [
+   "De mosquitos en ámbar",
+   "De huesos fósiles",
+   "De huevos congelados"
+  ]
+ },
+ {
+  "p": "En «Matrix», ¿qué pastilla toma Neo?",
+  "o": [
+   "La roja",
+   "La azul",
+   "La verde"
+  ]
+ },
+ {
+  "p": "En «Volver al futuro», ¿qué auto es la máquina del tiempo?",
+  "o": [
+   "Un DeLorean",
+   "Un Mustang",
+   "Un Ferrari"
+  ]
+ },
+ {
+  "p": "¿Qué actor interpreta a Terminator?",
+  "o": [
+   "Arnold Schwarzenegger",
+   "Sylvester Stallone",
+   "Bruce Willis"
+  ]
+ },
+ {
+  "p": "En «Crepúsculo», ¿qué es Edward Cullen?",
+  "o": [
+   "Vampiro",
+   "Hombre lobo",
+   "Brujo"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la protagonista de «Los Juegos del Hambre»?",
+  "o": [
+   "Katniss Everdeen",
+   "Primrose Everdeen",
+   "Effie Trinket"
+  ]
+ },
+ {
+  "p": "En «It», ¿qué es Pennywise?",
+  "o": [
+   "Un payaso",
+   "Un muñeco",
+   "Un fantasma"
+  ]
+ },
+ {
+  "p": "¿Qué es Chucky?",
+  "o": [
+   "Un muñeco poseído",
+   "Un payaso",
+   "Un robot"
+  ]
+ },
+ {
+  "p": "¿Dónde ataca Freddy Krueger a sus víctimas?",
+  "o": [
+   "En sus sueños",
+   "En el bosque",
+   "En internet"
+  ]
+ },
+ {
+  "p": "En «Scream», ¿cómo se llama el asesino de la máscara blanca?",
+  "o": [
+   "Ghostface",
+   "Jason",
+   "Michael Myers"
+  ]
+ },
+ {
+  "p": "En el universo de «El Conjuro», ¿cómo se llama la muñeca poseída?",
+  "o": [
+   "Annabelle",
+   "Chucky",
+   "Robert"
+  ]
+ },
+ {
+  "p": "¿Qué película de Pixar celebra el Día de Muertos?",
+  "o": [
+   "Coco",
+   "Encanto",
+   "Luca"
+  ]
+ },
+ {
+  "p": "En «Nosotros los Nobles», ¿qué hace el papá para que sus hijos trabajen?",
+  "o": [
+   "Finge que están en bancarrota",
+   "Los corre de la casa",
+   "Los manda al extranjero"
+  ]
+ }
+]

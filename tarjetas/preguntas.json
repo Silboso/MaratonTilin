@@ -1,0 +1,74 @@
+{
+  "categorias": [
+    { "id": "anime",    "nombre": "Anime y Películas",  "color": "#D9480F" },
+    { "id": "geek",     "nombre": "Geek y Tecnología",  "color": "#1C6DD0" },
+    { "id": "gaming",   "nombre": "Gaming y eSports",   "color": "#7B2CBF" },
+    { "id": "infancia", "nombre": "Infancia",           "color": "#D18A00" },
+    { "id": "musica",   "nombre": "Música",             "color": "#138A5A" }
+  ],
+  "tarjetas": [
+    [
+      { "cat": "anime", "deporte": true, "p": "En «Supercampeones», ¿cómo se llama el protagonista en el doblaje latino?", "r": "Oliver Atom (Tsubasa Ozora)" },
+      { "cat": "geek", "p": "¿Qué actor interpretó a Iron Man en el Universo Cinematográfico de Marvel?", "r": "Robert Downey Jr." },
+      { "cat": "gaming", "p": "¿Qué jugador de T1 es conocido como «The Unkillable Demon King»?", "r": "Faker" },
+      { "cat": "infancia", "p": "En «Los Padrinos Mágicos», ¿cómo se llaman los padrinos de Timmy?", "r": "Cosmo y Wanda" },
+      { "cat": "musica", "p": "¿De qué anime es opening «Blue Bird» de Ikimonogakari?", "r": "Naruto Shippuden" }
+    ],
+    [
+      { "cat": "anime", "p": "En «Evangelion», ¿quién pilotea la Unidad 01?", "r": "Shinji Ikari" },
+      { "cat": "geek", "deporte": true, "p": "En el Quidditch de Harry Potter, ¿qué pelota hay que atrapar para terminar el partido?", "r": "La Snitch Dorada" },
+      { "cat": "gaming", "p": "¿Qué heroína de Overwatch es mexicana?", "r": "Sombra" },
+      { "cat": "infancia", "p": "¿En qué ciudad viven Las Chicas Superpoderosas?", "r": "Saltadilla (Townsville)" },
+      { "cat": "musica", "p": "¿Qué grupo musical nació de la telenovela «Rebelde»?", "r": "RBD" }
+    ],
+    [
+      { "cat": "anime", "p": "En «Mirai Nikki», ¿qué número de portadora de diario es Yuno Gasai?", "r": "La Segunda (2nd)" },
+      { "cat": "geek", "p": "¿Qué significan las siglas USB?", "r": "Universal Serial Bus" },
+      { "cat": "gaming", "deporte": true, "p": "¿Cuántos deportes trae el «Wii Sports» original?", "r": "5 (tenis, béisbol, boliche, golf y box)" },
+      { "cat": "infancia", "p": "¿Cómo se llama el ornitorrinco de Phineas y Ferb?", "r": "Perry" },
+      { "cat": "musica", "p": "¿Qué banda canta «In the End» y «Numb»?", "r": "Linkin Park" }
+    ],
+    [
+      { "cat": "anime", "p": "¿Qué estudio de animación hizo «El viaje de Chihiro»?", "r": "Studio Ghibli" },
+      { "cat": "geek", "p": "¿En qué año salió el primer iPhone?", "r": "2007" },
+      { "cat": "gaming", "p": "¿Qué equipo ganó la primera temporada de la Overwatch League (2018)?", "r": "London Spitfire" },
+      { "cat": "infancia", "deporte": true, "p": "¿Qué arte marcial practican Bob Esponja y Arenita?", "r": "Karate" },
+      { "cat": "musica", "p": "¿Qué banda mexicana canta «Eres» y «Las flores»?", "r": "Café Tacvba" }
+    ],
+    [
+      { "cat": "anime", "p": "En «Death Note», ¿qué fruta le encanta al shinigami Ryuk?", "r": "Las manzanas" },
+      { "cat": "geek", "p": "¿Quién fundó Microsoft junto con Paul Allen?", "r": "Bill Gates" },
+      { "cat": "gaming", "p": "En Valorant, ¿qué objeto debe plantar el equipo atacante?", "r": "El Spike" },
+      { "cat": "infancia", "p": "En «Coraje, el perro cobarde», ¿cómo se llaman sus dueños?", "r": "Muriel y Justo" },
+      { "cat": "musica", "deporte": true, "p": "¿Quién canta «Waka Waka», la canción del Mundial 2010?", "r": "Shakira" }
+    ],
+    [
+      { "cat": "anime", "deporte": true, "p": "En «Haikyuu!!», ¿en qué preparatoria juega Shoyo Hinata?", "r": "Karasuno" },
+      { "cat": "geek", "p": "En «El Señor de los Anillos», ¿dónde hay que destruir el Anillo Único?", "r": "En el Monte del Destino" },
+      { "cat": "gaming", "p": "En Super Smash Bros., ¿qué objeto te permite hacer el Smash Final?", "r": "La Bola Smash" },
+      { "cat": "infancia", "p": "En «Hora de Aventura», ¿cómo se llama el perro mágico amigo de Finn?", "r": "Jake" },
+      { "cat": "musica", "p": "¿Quién canta «Gurenge», el primer opening de Demon Slayer?", "r": "LiSA" }
+    ],
+    [
+      { "cat": "anime", "p": "En «Coco» de Pixar, ¿cómo se llama el xoloitzcuintle de Miguel?", "r": "Dante" },
+      { "cat": "geek", "deporte": true, "p": "¿Qué tecnología para revisar jugadas debutó en un Mundial en Rusia 2018?", "r": "El VAR" },
+      { "cat": "gaming", "p": "En Clash Royale, ¿cuántas torres tiene cada jugador al empezar la partida?", "r": "3 (una del Rey y dos de Princesa)" },
+      { "cat": "infancia", "p": "En «Zack y Cody: Gemelos en acción», ¿en qué hotel viven?", "r": "En el Hotel Tipton" },
+      { "cat": "musica", "p": "¿Cómo se llama la cantante Vocaloid de coletas color turquesa?", "r": "Hatsune Miku" }
+    ],
+    [
+      { "cat": "anime", "p": "¿Qué película de 1997 con Jack y Rose ganó 11 premios Óscar?", "r": "Titanic" },
+      { "cat": "geek", "p": "En «El Imperio contraataca», ¿qué revelación le hace Darth Vader a Luke?", "r": "Que es su padre («Yo soy tu padre»)" },
+      { "cat": "gaming", "deporte": true, "p": "En el clásico «Punch-Out!!» de Nintendo, ¿cómo se llama el boxeador protagonista?", "r": "Little Mac" },
+      { "cat": "infancia", "p": "En «Hannah Montana», ¿cuál es el nombre real de Hannah?", "r": "Miley Stewart" },
+      { "cat": "musica", "p": "¿Qué banda mexicana canta «Rayando el sol» y «Labios compartidos»?", "r": "Maná" }
+    ],
+    [
+      { "cat": "anime", "p": "En «Attack on Titan», ¿cuál es el apellido de Eren?", "r": "Jaeger (Jäger)" },
+      { "cat": "geek", "p": "¿Qué juego de rol de mesa tiene como símbolo el dado de 20 caras?", "r": "Dungeons & Dragons" },
+      { "cat": "gaming", "p": "¿Cómo se llama el protagonista de GTA San Andreas?", "r": "Carl «CJ» Johnson" },
+      { "cat": "infancia", "p": "En «Drake & Josh», ¿cómo se llama su hermana menor?", "r": "Megan" },
+      { "cat": "musica", "deporte": true, "p": "¿Quién cantó «La Copa de la Vida» para el Mundial de Francia 98?", "r": "Ricky Martin" }
+    ]
+  ]
+}

@@ -1,0 +1,620 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Maratón Tilín: tarjetas</title>
+<style>
+  @page { size: letter; margin: 0; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: #fff; }
+  body {
+    font-family: "Inter", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    color: #111;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  /* Hoja carta: 215.9 × 279.4 mm. Rejilla de 3 × 3 tarjetas póker (63.5 × 88.9 mm). */
+  .hoja {
+    width: 215.9mm;
+    height: 279.4mm;
+    padding: 6.35mm 12.7mm;
+    display: grid;
+    grid-template-columns: repeat(3, 63.5mm);
+    grid-template-rows: repeat(3, 88.9mm);
+    page-break-after: always;
+    break-after: page;
+  }
+  .tarjeta {
+    border: 0.2mm dashed #b5b5b5;
+    padding: 2.6mm 2.8mm 2.8mm;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  .tarjeta.vacia { border-color: transparent; }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #111;
+    color: #fff;
+    border-radius: 1.6mm;
+    padding: 1.1mm 2.2mm;
+    font-size: 7pt;
+    letter-spacing: 0.06em;
+  }
+  header .logo { font-weight: 500; }
+  header .logo b { font-weight: 800; color: #ffd43b; }
+  header .num { font-variant-numeric: tabular-nums; opacity: 0.8; }
+  ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  .fila {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 2mm;
+    padding: 1mm 1.2mm;
+    border-radius: 1.4mm;
+    font-size: 7.6pt;
+    line-height: 1.22;
+  }
+  .chip {
+    flex: none;
+    width: 5.2mm;
+    height: 5.2mm;
+    border-radius: 1.2mm;
+    display: grid;
+    place-items: center;
+  }
+  .chip svg { width: 3.8mm; height: 3.8mm; }
+  /* Pregunta deportiva escondida en otra categoría: borde de cancha y balón. */
+  .fila.deporte {
+    background: repeating-linear-gradient(90deg, #eef7ee 0 3mm, #e2f0e2 3mm 6mm);
+    border: 0.25mm solid #2f7d32;
+    padding-right: 4.6mm;
+  }
+  .balon {
+    position: absolute;
+    right: -0.6mm;
+    top: -1.4mm;
+    width: 4.2mm;
+    height: 4.2mm;
+  }
+  .atras .fila { font-size: 8.2pt; }
+  .atras header { background: #444; }
+</style>
+</head>
+<body>
+<section class="hoja">
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#001</span></header>
+      <ol>
+      <li class="fila deporte">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <span class="texto">En «Supercampeones», ¿cómo se llama el protagonista en el doblaje latino?</span>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="texto">¿Qué actor interpretó a Iron Man en el Universo Cinematográfico de Marvel?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <span class="texto">¿Qué jugador de T1 es conocido como «The Unkillable Demon King»?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="texto">En «Los Padrinos Mágicos», ¿cómo se llaman los padrinos de Timmy?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <span class="texto">¿De qué anime es opening «Blue Bird» de Ikimonogakari?</span>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#002</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <span class="texto">En «Evangelion», ¿quién pilotea la Unidad 01?</span>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="texto">En el Quidditch de Harry Potter, ¿qué pelota hay que atrapar para terminar el partido?</span>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <span class="texto">¿Qué heroína de Overwatch es mexicana?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="texto">¿En qué ciudad viven Las Chicas Superpoderosas?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <span class="texto">¿Qué grupo musical nació de la telenovela «Rebelde»?</span>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#003</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <span class="texto">En «Mirai Nikki», ¿qué número de portadora de diario es Yuno Gasai?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="texto">¿Qué significan las siglas USB?</span>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <span class="texto">¿Cuántos deportes trae el «Wii Sports» original?</span>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="texto">¿Cómo se llama el ornitorrinco de Phineas y Ferb?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <span class="texto">¿Qué banda canta «In the End» y «Numb»?</span>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#004</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <span class="texto">¿Qué estudio de animación hizo «El viaje de Chihiro»?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="texto">¿En qué año salió el primer iPhone?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <span class="texto">¿Qué equipo ganó la primera temporada de la Overwatch League (2018)?</span>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="texto">¿Qué arte marcial practican Bob Esponja y Arenita?</span>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <span class="texto">¿Qué banda mexicana canta «Eres» y «Las flores»?</span>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#005</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <span class="texto">En «Death Note», ¿qué fruta le encanta al shinigami Ryuk?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="texto">¿Quién fundó Microsoft junto con Paul Allen?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <span class="texto">En Valorant, ¿qué objeto debe plantar el equipo atacante?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="texto">En «Coraje, el perro cobarde», ¿cómo se llaman sus dueños?</span>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <span class="texto">¿Quién canta «Waka Waka», la canción del Mundial 2010?</span>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#006</span></header>
+      <ol>
+      <li class="fila deporte">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <span class="texto">En «Haikyuu!!», ¿en qué preparatoria juega Shoyo Hinata?</span>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="texto">En «El Señor de los Anillos», ¿dónde hay que destruir el Anillo Único?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <span class="texto">En Super Smash Bros., ¿qué objeto te permite hacer el Smash Final?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="texto">En «Hora de Aventura», ¿cómo se llama el perro mágico amigo de Finn?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <span class="texto">¿Quién canta «Gurenge», el primer opening de Demon Slayer?</span>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#007</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <span class="texto">En «Coco» de Pixar, ¿cómo se llama el xoloitzcuintle de Miguel?</span>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="texto">¿Qué tecnología para revisar jugadas debutó en un Mundial en Rusia 2018?</span>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <span class="texto">En Clash Royale, ¿cuántas torres tiene cada jugador al empezar la partida?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="texto">En «Zack y Cody: Gemelos en acción», ¿en qué hotel viven?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <span class="texto">¿Cómo se llama la cantante Vocaloid de coletas color turquesa?</span>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#008</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <span class="texto">¿Qué película de 1997 con Jack y Rose ganó 11 premios Óscar?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="texto">En «El Imperio contraataca», ¿qué revelación le hace Darth Vader a Luke?</span>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <span class="texto">En el clásico «Punch-Out!!» de Nintendo, ¿cómo se llama el boxeador protagonista?</span>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="texto">En «Hannah Montana», ¿cuál es el nombre real de Hannah?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <span class="texto">¿Qué banda mexicana canta «Rayando el sol» y «Labios compartidos»?</span>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta">
+      <header><span class="logo">MARATÓN <b>TILÍN</b></span><span class="num">#009</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <span class="texto">En «Attack on Titan», ¿cuál es el apellido de Eren?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="texto">¿Qué juego de rol de mesa tiene como símbolo el dado de 20 caras?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <span class="texto">¿Cómo se llama el protagonista de GTA San Andreas?</span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="texto">En «Drake &amp; Josh», ¿cómo se llama su hermana menor?</span>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <span class="texto">¿Quién cantó «La Copa de la Vida» para el Mundial de Francia 98?</span>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li></ol>
+    </div></section>
+<section class="hoja">
+    <div class="tarjeta atras">
+      <header><span class="logo">RESPUESTAS</span><span class="num">#003</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <span class="texto"><b>La Segunda (2nd)</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Universal Serial Bus</b></span>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <span class="texto"><b>5 (tenis, béisbol, boliche, golf y box)</b></span>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="texto"><b>Perry</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Linkin Park</b></span>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta atras">
+      <header><span class="logo">RESPUESTAS</span><span class="num">#002</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Shinji Ikari</b></span>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="texto"><b>La Snitch Dorada</b></span>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <span class="texto"><b>Sombra</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="texto"><b>Saltadilla (Townsville)</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <span class="texto"><b>RBD</b></span>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta atras">
+      <header><span class="logo">RESPUESTAS</span><span class="num">#001</span></header>
+      <ol>
+      <li class="fila deporte">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Oliver Atom (Tsubasa Ozora)</b></span>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Robert Downey Jr.</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <span class="texto"><b>Faker</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="texto"><b>Cosmo y Wanda</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Naruto Shippuden</b></span>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta atras">
+      <header><span class="logo">RESPUESTAS</span><span class="num">#006</span></header>
+      <ol>
+      <li class="fila deporte">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Karasuno</b></span>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="texto"><b>En el Monte del Destino</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <span class="texto"><b>La Bola Smash</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="texto"><b>Jake</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <span class="texto"><b>LiSA</b></span>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta atras">
+      <header><span class="logo">RESPUESTAS</span><span class="num">#005</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Las manzanas</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Bill Gates</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <span class="texto"><b>El Spike</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="texto"><b>Muriel y Justo</b></span>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Shakira</b></span>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li></ol>
+    </div>
+    <div class="tarjeta atras">
+      <header><span class="logo">RESPUESTAS</span><span class="num">#004</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Studio Ghibli</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="texto"><b>2007</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <span class="texto"><b>London Spitfire</b></span>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="texto"><b>Karate</b></span>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Café Tacvba</b></span>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta atras">
+      <header><span class="logo">RESPUESTAS</span><span class="num">#009</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Jaeger (Jäger)</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Dungeons &amp; Dragons</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <span class="texto"><b>Carl «CJ» Johnson</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="texto"><b>Megan</b></span>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Ricky Martin</b></span>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li></ol>
+    </div>
+    <div class="tarjeta atras">
+      <header><span class="logo">RESPUESTAS</span><span class="num">#008</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Titanic</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Que es su padre («Yo soy tu padre»)</b></span>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <span class="texto"><b>Little Mac</b></span>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="texto"><b>Miley Stewart</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Maná</b></span>
+        
+      </li></ol>
+    </div>
+    <div class="tarjeta atras">
+      <header><span class="logo">RESPUESTAS</span><span class="num">#007</span></header>
+      <ol>
+      <li class="fila">
+        <span class="chip" style="background:#D9480F;color:#D9480F"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10-6.5z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Dante</b></span>
+        
+      </li>
+      <li class="fila deporte">
+        <span class="chip" style="background:#1C6DD0;color:#1C6DD0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 3 6 13.5h5L10 21l8-11h-5.2z" fill="#fff"/></svg></span>
+        <span class="texto"><b>El VAR</b></span>
+        <svg class="balon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="#fff" stroke="#111" stroke-width="1.5"/><path d="m12 7.6 4.2 3-1.6 4.9H9.4l-1.6-4.9z" fill="#111"/><path d="M12 7.6V2M16.2 10.6l5.2-1.8M14.6 15.5l3.3 4.5M9.4 15.5l-3.3 4.5M7.8 10.6 2.6 8.8" stroke="#111" stroke-width="1.3"/></svg>
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#7B2CBF;color:#7B2CBF"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7.5" width="18" height="10" rx="5" fill="#fff"/><path d="M7 11h1.2V9.8h1.6V11H11v1.6H9.8v1.2H8.2v-1.2H7z" fill="currentColor"/><circle cx="15.2" cy="11.2" r="1.1" fill="currentColor"/><circle cx="17.4" cy="13.4" r="1.1" fill="currentColor"/></svg></span>
+        <span class="texto"><b>3 (una del Rey y dos de Princesa)</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#D18A00;color:#D18A00"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11.5" rx="2" fill="#fff"/><path d="M8.5 3.5 12 7.5l3.5-4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/><rect x="6" y="10.3" width="12" height="7" rx="1" fill="currentColor"/></svg></span>
+        <span class="texto"><b>En el Hotel Tipton</b></span>
+        
+      </li>
+      <li class="fila">
+        <span class="chip" style="background:#138A5A;color:#138A5A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4.5v10.2a3 3 0 1 0 2 2.8V8.5l6-1.7V4z" fill="#fff"/></svg></span>
+        <span class="texto"><b>Hatsune Miku</b></span>
+        
+      </li></ol>
+    </div></section>
+</body>
+</html>

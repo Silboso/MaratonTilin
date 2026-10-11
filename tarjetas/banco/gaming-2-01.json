@@ -1,0 +1,908 @@
+[
+ {
+  "deporte": true,
+  "p": "En Mario Kart, ¿qué caparazón va directo contra el que va en primer lugar?",
+  "o": [
+   "El caparazón azul",
+   "El caparazón rojo",
+   "El caparazón verde"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En Mario Kart, ¿cuál es la copa con las pistas más difíciles?",
+  "o": [
+   "La Copa Especial",
+   "La Copa Estrella",
+   "La Copa Flor"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llama la pista de colores que suele cerrar Mario Kart?",
+  "o": [
+   "La Senda Arcoíris",
+   "El Castillo de Bowser",
+   "La Autopista Toad"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué empresa publica la saga Tony Hawk's Pro Skater?",
+  "o": [
+   "Activision",
+   "EA",
+   "Ubisoft"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En el modo clásico de Rocket League, ¿cuántos jugadores tiene cada equipo?",
+  "o": [
+   "3",
+   "5",
+   "2"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué juego compite Sonic en patinetas voladoras?",
+  "o": [
+   "Sonic Riders",
+   "Sonic Heroes",
+   "Sonic & All-Stars Racing"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué accesorio se le ponía al Wiimote para jugar Wii Sports Resort?",
+  "o": [
+   "El Wii MotionPlus",
+   "El Nunchuk",
+   "El Wii Zapper"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En PES (Winning Eleven), ¿cómo se llamaba el modo para manejar tu equipo varias temporadas?",
+  "o": [
+   "Liga Máster",
+   "Carrera Pro",
+   "Ultimate Team"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En FIFA, ¿cómo se llama el modo donde armas tu equipo con cartas de jugadores?",
+  "o": [
+   "Ultimate Team",
+   "Liga Máster",
+   "Volta"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué futbolista salió en la portada de FIFA del 13 al 16?",
+  "o": [
+   "Lionel Messi",
+   "Cristiano Ronaldo",
+   "Neymar"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué futbolista francés salió en la portada de FIFA 21?",
+  "o": [
+   "Kylian Mbappé",
+   "Antoine Griezmann",
+   "Karim Benzema"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En Gran Turismo, ¿qué tienes que sacar para poder entrar a más carreras?",
+  "o": [
+   "Licencias",
+   "Trofeos",
+   "Medallas"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Inazuma Eleven», ¿en qué posición juega el protagonista Mark Evans?",
+  "o": [
+   "Portero",
+   "Delantero",
+   "Defensa"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En Mario Kart, ¿cómo se llama el turbo que ganas al derrapar en una curva?",
+  "o": [
+   "Mini-turbo",
+   "Súper salto",
+   "Rebufo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué juego de carreras futuristas de Nintendo tiene a Captain Falcon?",
+  "o": [
+   "F-Zero",
+   "Wipeout",
+   "Star Fox"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llaman los muñequitos que juegan en Wii Sports?",
+  "o": [
+   "Miis",
+   "Avatares",
+   "Sims"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué saga de patinetas de EA competía contra Tony Hawk?",
+  "o": [
+   "Skate",
+   "SSX",
+   "Shaun White Skateboarding"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En Crash Team Racing, ¿cómo se llama el alien que reta a todos a una carrera?",
+  "o": [
+   "Nitros Oxide",
+   "Neo Cortex",
+   "N. Tropy"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el mapa principal de League of Legends?",
+  "o": [
+   "La Grieta del Invocador",
+   "El Abismo de los Lamentos",
+   "El Bosque Retorcido"
+  ]
+ },
+ {
+  "p": "En LoL, ¿qué monstruo épico da un poderoso buff morado?",
+  "o": [
+   "El Barón Nashor",
+   "El Dragón Ancestral",
+   "El Heraldo de la Grieta"
+  ]
+ },
+ {
+  "p": "¿Qué campeón de LoL es un cocodrilo?",
+  "o": [
+   "Renekton",
+   "Nasus",
+   "Rengar"
+  ]
+ },
+ {
+  "p": "¿Qué campeona de LoL es una niña con un oso llamado Tibbers?",
+  "o": [
+   "Annie",
+   "Lulu",
+   "Zoe"
+  ]
+ },
+ {
+  "p": "¿Qué campeón de LoL es un monje ciego?",
+  "o": [
+   "Lee Sin",
+   "Master Yi",
+   "Kayn"
+  ]
+ },
+ {
+  "p": "¿Qué robot de LoL atrapa a sus enemigos con un gancho?",
+  "o": [
+   "Blitzcrank",
+   "Viktor",
+   "Orianna"
+  ]
+ },
+ {
+  "p": "¿Qué grupo virtual de LoL canta «POP/STARS»?",
+  "o": [
+   "K/DA",
+   "True Damage",
+   "HEARTSTEEL"
+  ]
+ },
+ {
+  "p": "En Arcane, ¿cómo se llama la ciudad de arriba, la de los ricos?",
+  "o": [
+   "Piltover",
+   "Zaun",
+   "Noxus"
+  ]
+ },
+ {
+  "p": "En LoL, ¿con qué pelea Vi?",
+  "o": [
+   "Con guanteletes gigantes",
+   "Con una ametralladora",
+   "Con un martillo"
+  ]
+ },
+ {
+  "p": "¿De qué región de Runaterra es Darius?",
+  "o": [
+   "Noxus",
+   "Demacia",
+   "Jonia"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el hermano de Yasuo en LoL?",
+  "o": [
+   "Yone",
+   "Zed",
+   "Shen"
+  ]
+ },
+ {
+  "p": "En LoL, ¿qué objeto te revive una vez después de morir?",
+  "o": [
+   "El Ángel de la Guarda",
+   "La Égida",
+   "El Reloj de Zhonya"
+  ]
+ },
+ {
+  "p": "En LoL, ¿qué hechizo de invocador te teletransporta una distancia corta?",
+  "o": [
+   "Destello",
+   "Teleportar",
+   "Fantasmal"
+  ]
+ },
+ {
+  "p": "¿Qué heroína de Overwatch es una francotiradora francesa?",
+  "o": [
+   "Widowmaker",
+   "Ana",
+   "Ashe"
+  ]
+ },
+ {
+  "p": "¿Qué hermanos de Overwatch son del clan Shimada?",
+  "o": [
+   "Hanzo y Genji",
+   "Jack y Gabriel",
+   "Torbjörn y Brigitte"
+  ]
+ },
+ {
+  "p": "¿Qué héroe de Overwatch es un hámster dentro de una bola?",
+  "o": [
+   "Wrecking Ball",
+   "Junkrat",
+   "Roadhog"
+  ]
+ },
+ {
+  "p": "¿Qué heroína china de Overwatch congela a sus enemigos?",
+  "o": [
+   "Mei",
+   "Zarya",
+   "Kiriko"
+  ]
+ },
+ {
+  "p": "¿Qué héroe vaquero de Overwatch dice «It's high noon»?",
+  "o": [
+   "Cassidy",
+   "Ashe",
+   "Soldado: 76"
+  ]
+ },
+ {
+  "p": "¿Qué héroe brasileño de Overwatch es DJ?",
+  "o": [
+   "Lúcio",
+   "Baptiste",
+   "Sombra"
+  ]
+ },
+ {
+  "p": "¿Qué heroína egipcia de Overwatch vuela con un lanzacohetes?",
+  "o": [
+   "Pharah",
+   "Ana",
+   "Echo"
+  ]
+ },
+ {
+  "p": "¿Qué agente de Valorant es de Brasil?",
+  "o": [
+   "Raze",
+   "Jett",
+   "Phoenix"
+  ]
+ },
+ {
+  "p": "En Valorant, ¿cuántas rondas hay que ganar para llevarse la partida?",
+  "o": [
+   "13",
+   "16",
+   "10"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de Smash viene de la saga Metroid?",
+  "o": [
+   "Samus",
+   "Fox",
+   "Ness"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el escenario plano y sin trampas de Smash?",
+  "o": [
+   "Destino Final",
+   "Campo de Batalla",
+   "Castillo de Peach"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de Minecraft está en Smash Ultimate?",
+  "o": [
+   "Steve",
+   "Creeper",
+   "Herobrine"
+  ]
+ },
+ {
+  "p": "¿Quién fue el último personaje descargable de Smash Ultimate?",
+  "o": [
+   "Sora",
+   "Sephiroth",
+   "Steve"
+  ]
+ },
+ {
+  "p": "En Clash Royale, ¿cuánto elixir cuesta el Montapuercos?",
+  "o": [
+   "4",
+   "5",
+   "3"
+  ]
+ },
+ {
+  "p": "En Clash Royale, ¿cuánto elixir cuesta el P.E.K.K.A.?",
+  "o": [
+   "7",
+   "6",
+   "8"
+  ]
+ },
+ {
+  "p": "En Clash Royale, ¿cuántas cartas lleva un mazo?",
+  "o": [
+   "8",
+   "10",
+   "6"
+  ]
+ },
+ {
+  "p": "En Clash Royale, ¿cuánto elixir puedes juntar como máximo?",
+  "o": [
+   "10",
+   "12",
+   "8"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la versión malvada de Mario que usa una «W»?",
+  "o": [
+   "Wario",
+   "Waluigi",
+   "Bowser Jr."
+  ]
+ },
+ {
+  "p": "En Zelda, ¿cómo se llama la espada legendaria de Link?",
+  "o": [
+   "La Espada Maestra",
+   "La Espada Biggoron",
+   "La Hoja Divina"
+  ]
+ },
+ {
+  "p": "En Zelda, ¿cómo se llama el dinero?",
+  "o": [
+   "Rupias",
+   "Monedas",
+   "Gil"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el rey pingüino rival de Kirby?",
+  "o": [
+   "El Rey Dedede",
+   "Meta Knight",
+   "Magolor"
+  ]
+ },
+ {
+  "p": "En Animal Crossing: New Leaf, ¿cómo se llama la perrita asistente?",
+  "o": [
+   "Canela",
+   "Celeste",
+   "Totakeke"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la aspiradora de fantasmas de Luigi?",
+  "o": [
+   "Succionaentes",
+   "Aspiramax",
+   "Fantasmator"
+  ]
+ },
+ {
+  "p": "¿En qué juego de Pokémon tenías que tomarles fotos a los Pokémon?",
+  "o": [
+   "Pokémon Snap",
+   "Pokémon Stadium",
+   "Pokémon Colosseum"
+  ]
+ },
+ {
+  "p": "En Kingdom Hearts, ¿cómo se llaman los amigos de Sora en las Islas del Destino?",
+  "o": [
+   "Riku y Kairi",
+   "Roxas y Axel",
+   "Ven y Aqua"
+  ]
+ },
+ {
+  "p": "En Kingdom Hearts, ¿cómo se llaman los enemigos de sombras?",
+  "o": [
+   "Sincorazón",
+   "Incorpóreos",
+   "Nescientes"
+  ]
+ },
+ {
+  "p": "En God of War, ¿por qué Kratos tiene la piel blanca?",
+  "o": [
+   "Por las cenizas de su familia",
+   "Por una maldición de Zeus",
+   "Por pintura de guerra"
+  ]
+ },
+ {
+  "p": "En Resident Evil, ¿cómo se llama la empresa malvada?",
+  "o": [
+   "Umbrella",
+   "Aperture",
+   "Abstergo"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el monstruo de casco puntiagudo de Silent Hill?",
+  "o": [
+   "Pyramid Head",
+   "Némesis",
+   "Slenderman"
+  ]
+ },
+ {
+  "p": "En The Last of Us, ¿qué causa la infección?",
+  "o": [
+   "Un hongo",
+   "Un virus",
+   "Un parásito alienígena"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la libélula que acompaña a Spyro?",
+  "o": [
+   "Sparx",
+   "Hunter",
+   "Elora"
+  ]
+ },
+ {
+  "p": "¿Quién es el villano de Crash Bandicoot?",
+  "o": [
+   "Neo Cortex",
+   "Dr. Eggman",
+   "Ripto"
+  ]
+ },
+ {
+  "p": "En Gears of War, ¿qué tiene el rifle Lancer?",
+  "o": [
+   "Una motosierra",
+   "Una bayoneta",
+   "Un lanzallamas"
+  ]
+ },
+ {
+  "p": "¿Qué truco de Los Sims te daba dinero?",
+  "o": [
+   "rosebud",
+   "hesoyam",
+   "iddqd"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la inteligencia artificial villana de Portal?",
+  "o": [
+   "GLaDOS",
+   "Cortana",
+   "SHODAN"
+  ]
+ },
+ {
+  "p": "En Celeste, ¿qué intenta escalar Madeline?",
+  "o": [
+   "Una montaña",
+   "Una torre",
+   "Un volcán"
+  ]
+ },
+ {
+  "p": "En Undertale, ¿cómo se llama la mamá cabra que te cuida al inicio?",
+  "o": [
+   "Toriel",
+   "Undyne",
+   "Alphys"
+  ]
+ },
+ {
+  "p": "¿En qué tierras pasa Elden Ring?",
+  "o": [
+   "Las Tierras Intermedias",
+   "Lordran",
+   "Yharnam"
+  ]
+ },
+ {
+  "p": "En Dark Souls, ¿dónde descansas y recuperas vida?",
+  "o": [
+   "En las hogueras",
+   "En las posadas",
+   "En las estatuas"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de Street Fighter lanza el «Sonic Boom»?",
+  "o": [
+   "Guile",
+   "Ken",
+   "Dhalsim"
+  ]
+ },
+ {
+  "p": "¿Qué luchadora china de Street Fighter es famosa por sus patadas rápidas?",
+  "o": [
+   "Chun-Li",
+   "Cammy",
+   "Juri"
+  ]
+ },
+ {
+  "p": "¿Qué ninja de Mortal Kombat congela a sus rivales?",
+  "o": [
+   "Sub-Zero",
+   "Scorpion",
+   "Smoke"
+  ]
+ },
+ {
+  "p": "¿Qué familia protagoniza la historia de Tekken?",
+  "o": [
+   "Los Mishima",
+   "Los Kazama",
+   "Los Bryant"
+  ]
+ },
+ {
+  "p": "En Warzone, ¿qué es el Gulag?",
+  "o": [
+   "Un duelo para volver a la partida",
+   "La zona segura",
+   "La tienda de armas"
+  ]
+ },
+ {
+  "p": "¿Cómo se les dice a los personajes de Apex Legends?",
+  "o": [
+   "Leyendas",
+   "Agentes",
+   "Héroes"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la moneda de Fortnite?",
+  "o": [
+   "Pavos (V-Bucks)",
+   "Robux",
+   "Monedas de oro"
+  ]
+ },
+ {
+  "p": "En Plants vs Zombies, ¿qué planta te da soles?",
+  "o": [
+   "El girasol",
+   "El lanzaguisantes",
+   "La nuez"
+  ]
+ },
+ {
+  "p": "En Angry Birds, ¿qué pájaro explota como bomba?",
+  "o": [
+   "El negro",
+   "El amarillo",
+   "El rojo"
+  ]
+ },
+ {
+  "p": "¿Qué empresa creó Pokémon GO?",
+  "o": [
+   "Niantic",
+   "Game Freak",
+   "Supercell"
+  ]
+ },
+ {
+  "p": "¿Qué empresa creó Genshin Impact?",
+  "o": [
+   "HoYoverse",
+   "Niantic",
+   "Square Enix"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el protagonista de Final Fantasy VII?",
+  "o": [
+   "Cloud Strife",
+   "Squall Leonhart",
+   "Tidus"
+  ]
+ },
+ {
+  "p": "En Skyrim, ¿qué le pasó al guardia que «fue aventurero como tú»?",
+  "o": [
+   "Le dieron un flechazo en la rodilla",
+   "Lo mordió un dragón",
+   "Se rompió una pierna"
+  ]
+ },
+ {
+  "p": "En The Witcher, ¿cómo se llama la hija adoptiva de Geralt?",
+  "o": [
+   "Ciri",
+   "Yennefer",
+   "Triss"
+  ]
+ },
+ {
+  "p": "¿Quién es el protagonista de Red Dead Redemption 2?",
+  "o": [
+   "Arthur Morgan",
+   "John Marston",
+   "Dutch van der Linde"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el fantasma rojo de Pac-Man?",
+  "o": [
+   "Blinky",
+   "Pinky",
+   "Clyde"
+  ]
+ },
+ {
+  "p": "¿Cómo empieza el famoso código Konami?",
+  "o": [
+   "Arriba, arriba, abajo, abajo",
+   "A, B, A, B",
+   "Izquierda, derecha, izquierda, derecha"
+  ]
+ },
+ {
+  "p": "En Metal Slug, ¿qué grita el juego al agarrar la ametralladora?",
+  "o": [
+   "«Heavy Machine Gun!»",
+   "«Rocket Launcher!»",
+   "«Mission Complete!»"
+  ]
+ },
+ {
+  "p": "¿En qué región pasa Pokémon Rojo y Azul?",
+  "o": [
+   "Kanto",
+   "Johto",
+   "Hoenn"
+  ]
+ },
+ {
+  "p": "¿Qué Pokémon es el número 151 de la Pokédex?",
+  "o": [
+   "Mew",
+   "Mewtwo",
+   "Celebi"
+  ]
+ },
+ {
+  "p": "¿Qué tipo de ataque es súper efectivo contra el tipo Dragón?",
+  "o": [
+   "Hielo",
+   "Fuego",
+   "Eléctrico"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el jefe final de Minecraft?",
+  "o": [
+   "El Ender Dragon",
+   "El Wither",
+   "El Guardián"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿qué le das a un lobo para domesticarlo?",
+  "o": [
+   "Huesos",
+   "Carne",
+   "Trigo"
+  ]
+ },
+ {
+  "p": "En GTA San Andreas, ¿cómo se llama el hermano de CJ?",
+  "o": [
+   "Sweet",
+   "Ryder",
+   "Big Smoke"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el asesino italiano de Assassin's Creed II?",
+  "o": [
+   "Ezio Auditore",
+   "Altaïr",
+   "Connor"
+  ]
+ },
+ {
+  "p": "En Metal Gear Solid, ¿dónde se esconde Snake?",
+  "o": [
+   "En una caja de cartón",
+   "En un bote de basura",
+   "En un armario"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el hermano gemelo de Dante en Devil May Cry?",
+  "o": [
+   "Vergil",
+   "Nero",
+   "Sparda"
+  ]
+ },
+ {
+  "p": "En Sekiro, ¿qué le falta al protagonista?",
+  "o": [
+   "Un brazo",
+   "Un ojo",
+   "Una pierna"
+  ]
+ },
+ {
+  "p": "¿Quién es la protagonista de Hollow Knight: Silksong?",
+  "o": [
+   "Hornet",
+   "Quirrel",
+   "Myla"
+  ]
+ },
+ {
+  "p": "En NieR: Automata, ¿cómo se llama el androide compañero de 2B?",
+  "o": [
+   "9S",
+   "A2",
+   "Pod 042"
+  ]
+ },
+ {
+  "p": "En Detroit: Become Human, ¿cómo se llama el androide detective?",
+  "o": [
+   "Connor",
+   "Markus",
+   "Kara"
+  ]
+ },
+ {
+  "p": "En Life is Strange, ¿qué poder tiene Max?",
+  "o": [
+   "Retroceder el tiempo",
+   "Leer mentes",
+   "Volar"
+  ]
+ },
+ {
+  "p": "¿Qué actor interpreta a Johnny Silverhand en Cyberpunk 2077?",
+  "o": [
+   "Keanu Reeves",
+   "Tom Hardy",
+   "Ryan Gosling"
+  ]
+ },
+ {
+  "p": "En Baldur's Gate 3, ¿qué compañero es un vampiro?",
+  "o": [
+   "Astarion",
+   "Gale",
+   "Wyll"
+  ]
+ },
+ {
+  "p": "En Fallout, ¿dónde vive el protagonista al empezar?",
+  "o": [
+   "En un refugio nuclear",
+   "En una nave",
+   "En un castillo"
+  ]
+ },
+ {
+  "p": "En Mass Effect, ¿cómo se llama la nave del comandante Shepard?",
+  "o": [
+   "La Normandía",
+   "La Bebop",
+   "El Halcón Milenario"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el samurái protagonista de Ghost of Tsushima?",
+  "o": [
+   "Jin Sakai",
+   "Kazuma",
+   "Ryu Hayabusa"
+  ]
+ },
+ {
+  "p": "En Horizon, ¿contra qué pelea Aloy?",
+  "o": [
+   "Máquinas con forma de animales",
+   "Zombis",
+   "Dragones"
+  ]
+ },
+ {
+  "p": "En Ace Attorney, ¿qué grita Phoenix Wright en el juicio?",
+  "o": [
+   "«¡Protesto!»",
+   "«¡Silencio!»",
+   "«¡Culpable!»"
+  ]
+ },
+ {
+  "p": "En Doki Doki Literature Club, ¿qué personaje se da cuenta de que está en un juego?",
+  "o": [
+   "Monika",
+   "Sayori",
+   "Natsuki"
+  ]
+ },
+ {
+  "p": "En Among Us, ¿cómo se les dice a los jugadores que no son impostores?",
+  "o": [
+   "Tripulantes",
+   "Inocentes",
+   "Civiles"
+  ]
+ }
+]

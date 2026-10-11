@@ -1,0 +1,828 @@
+[
+ {
+  "deporte": true,
+  "p": "En Mario Kart 64, ¿cuántos corredores hay en cada carrera?",
+  "o": [
+   "8",
+   "12",
+   "6"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En Mario Kart 8, ¿cuántos corredores hay en cada carrera?",
+  "o": [
+   "12",
+   "8",
+   "16"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cuántas pistas tiene Mario Kart 8 Deluxe con todo el contenido descargable?",
+  "o": [
+   "96",
+   "48",
+   "64"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En Mario Kart: Double Dash, ¿cuántos personajes van en cada kart?",
+  "o": [
+   "2",
+   "1",
+   "3"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué juego de motocross con rampas salió para el NES?",
+  "o": [
+   "Excitebike",
+   "Moto Racer",
+   "Road Rash"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En Need for Speed: Most Wanted (2005), ¿qué auto te quitan al principio?",
+  "o": [
+   "BMW M3 GTR",
+   "Porsche Carrera GT",
+   "Lamborghini Murciélago"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En Need for Speed: Most Wanted (2005), ¿cómo se llama el rival que te gana con trampa?",
+  "o": [
+   "Razor",
+   "Bull",
+   "Earl"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué canción de Rage Against the Machine sale en Tony Hawk's Pro Skater 2?",
+  "o": [
+   "Guerrilla Radio",
+   "Killing in the Name",
+   "Bulls on Parade"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué truco legendario logró Tony Hawk en 1999 y sale en sus juegos?",
+  "o": [
+   "El 900",
+   "El 1080",
+   "El kickflip doble"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cuál es el auto más icónico de Rocket League?",
+  "o": [
+   "Octane",
+   "Dominus",
+   "Batmóvil"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En el tenis de Wii Sports, ¿cuántos jugadores tiene cada lado de la cancha?",
+  "o": [
+   "2",
+   "1",
+   "4"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En el box de Wii Sports, ¿qué controles usas?",
+  "o": [
+   "Wiimote y Nunchuk",
+   "Solo el Wiimote",
+   "El control clásico"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llamaba el jugador ficticio estrella de los Winning Eleven clásicos?",
+  "o": [
+   "Castolo",
+   "Minanda",
+   "Ximelez"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Inazuma Eleven», ¿cómo se llama la técnica de portero de Mark Evans?",
+  "o": [
+   "La Mano Celestial",
+   "El Muro Infinito",
+   "El Puño de Fuego"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En el Punch-Out!! clásico del NES, ¿quién es el último rival?",
+  "o": [
+   "Mike Tyson",
+   "Muhammad Ali",
+   "King Hippo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En Punch-Out!!, ¿quién entrena a Little Mac?",
+  "o": [
+   "Doc Louis",
+   "Mickey Goldmill",
+   "Mr. Sandman"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llama el juego de básquetbol de Mario y sus amigos para Nintendo DS?",
+  "o": [
+   "Mario Hoops 3-on-3",
+   "Mario Slam Basketball",
+   "Mario Sports Mix"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En Mario Strikers Charged, ¿cuántos jugadores tiene cada equipo en la cancha?",
+  "o": [
+   "5",
+   "11",
+   "7"
+  ]
+ },
+ {
+  "p": "En LoL, ¿quién es la hermana de Garen?",
+  "o": [
+   "Lux",
+   "Quinn",
+   "Fiora"
+  ]
+ },
+ {
+  "p": "En LoL, ¿de qué región es Ashe?",
+  "o": [
+   "Freljord",
+   "Demacia",
+   "Piltover"
+  ]
+ },
+ {
+  "p": "¿Qué campeón de LoL es un dragón celestial que crea estrellas?",
+  "o": [
+   "Aurelion Sol",
+   "Shyvana",
+   "Smolder"
+  ]
+ },
+ {
+  "p": "¿Qué campeón de LoL tiene la definitiva «Réquiem», que pega a todos los enemigos del mapa?",
+  "o": [
+   "Karthus",
+   "Soraka",
+   "Shen"
+  ]
+ },
+ {
+  "p": "¿Qué banda virtual de LoL toca heavy metal?",
+  "o": [
+   "Pentakill",
+   "K/DA",
+   "True Damage"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la boy band de LoL de 2023?",
+  "o": [
+   "HEARTSTEEL",
+   "True Damage",
+   "K/DA"
+  ]
+ },
+ {
+  "p": "En Arcane, ¿quién es el padre adoptivo de Vi y Powder?",
+  "o": [
+   "Vander",
+   "Silco",
+   "Singed"
+  ]
+ },
+ {
+  "p": "En la primera temporada de Arcane, ¿quién adopta a Jinx?",
+  "o": [
+   "Silco",
+   "Vander",
+   "Singed"
+  ]
+ },
+ {
+  "p": "En Arcane, ¿cómo se llama la droga morada de Zaun?",
+  "o": [
+   "El Brillo",
+   "La Hextech",
+   "El Quimtech"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre de Jinx antes de convertirse en Jinx?",
+  "o": [
+   "Powder",
+   "Violet",
+   "Mel"
+  ]
+ },
+ {
+  "p": "En Arcane, ¿cómo se llama la tecnología mágica que inventan Jayce y Viktor?",
+  "o": [
+   "Hextech",
+   "Quimtech",
+   "Runatech"
+  ]
+ },
+ {
+  "p": "En LoL, ¿qué objeto te vuelve invulnerable por un par de segundos?",
+  "o": [
+   "El Reloj de Arena de Zhonya",
+   "El Ángel de la Guarda",
+   "La Fajina de Mercurio"
+  ]
+ },
+ {
+  "p": "¿Qué yordle de LoL carga un martillo más grande que ella?",
+  "o": [
+   "Poppy",
+   "Tristana",
+   "Vex"
+  ]
+ },
+ {
+  "p": "¿Qué equipo ganó el Mundial de LoL en 2023 y en 2024?",
+  "o": [
+   "T1",
+   "Gen.G",
+   "JD Gaming"
+  ]
+ },
+ {
+  "p": "¿En qué año ganó Faker su primer Mundial de LoL?",
+  "o": [
+   "2013",
+   "2011",
+   "2015"
+  ]
+ },
+ {
+  "p": "¿Qué equipo europeo de LoL es famoso por sus memes y por dominar la LEC?",
+  "o": [
+   "G2 Esports",
+   "Fnatic",
+   "Team Vitality"
+  ]
+ },
+ {
+  "p": "¿Qué equipo chino ganó el Mundial de LoL en 2018?",
+  "o": [
+   "Invictus Gaming",
+   "EDward Gaming",
+   "FunPlus Phoenix"
+  ]
+ },
+ {
+  "p": "¿En qué ciudad se jugó la final del Mundial de LoL 2024?",
+  "o": [
+   "Londres",
+   "Seúl",
+   "París"
+  ]
+ },
+ {
+  "p": "En Overwatch, ¿cuál es el nombre real de Reaper?",
+  "o": [
+   "Gabriel Reyes",
+   "Jack Morrison",
+   "Akande Ogundimu"
+  ]
+ },
+ {
+  "p": "¿Qué equipo ganó la última temporada de la Overwatch League, en 2023?",
+  "o": [
+   "Florida Mayhem",
+   "Dallas Fuel",
+   "Atlanta Reign"
+  ]
+ },
+ {
+  "p": "¿Qué equipo ganó la Overwatch League en 2019 y 2020?",
+  "o": [
+   "San Francisco Shock",
+   "Shanghai Dragons",
+   "Vancouver Titans"
+  ]
+ },
+ {
+  "p": "En Overwatch, ¿cómo se llama la hija de Torbjörn?",
+  "o": [
+   "Brigitte",
+   "Ingrid",
+   "Ashe"
+  ]
+ },
+ {
+  "p": "¿Qué héroe omnic de Overwatch es un monje que flota?",
+  "o": [
+   "Zenyatta",
+   "Ramattra",
+   "Echo"
+  ]
+ },
+ {
+  "p": "En Overwatch, ¿cuál es el nombre real de Tracer?",
+  "o": [
+   "Lena Oxton",
+   "Amélie Lacroix",
+   "Hana Song"
+  ]
+ },
+ {
+  "p": "¿Cuántos personajes jugables tiene Smash Ultimate con todo el contenido descargable?",
+  "o": [
+   "89",
+   "74",
+   "100"
+  ]
+ },
+ {
+  "p": "¿Quién creó Super Smash Bros.?",
+  "o": [
+   "Masahiro Sakurai",
+   "Shigeru Miyamoto",
+   "Satoru Iwata"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de Smash viene de Kid Icarus?",
+  "o": [
+   "Pit",
+   "Marth",
+   "Ike"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el modo historia de Super Smash Bros. Brawl?",
+  "o": [
+   "El Emisario Subespacial",
+   "El Mundo de Luz",
+   "La Aventura Smash"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de Persona 5 está en Smash Ultimate?",
+  "o": [
+   "Joker",
+   "Morgana",
+   "Ryuji"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de Smash viene de EarthBound además de Ness?",
+  "o": [
+   "Lucas",
+   "Ninten",
+   "Claus"
+  ]
+ },
+ {
+  "p": "¿Qué espadachín de Smash puede ver el futuro con su Monado?",
+  "o": [
+   "Shulk",
+   "Roy",
+   "Chrom"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la mano gigante que es jefe en Smash?",
+  "o": [
+   "Master Hand",
+   "Crazy Hand",
+   "Tabuu"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el villano del modo Mundo de Luz de Smash Ultimate?",
+  "o": [
+   "Galeem",
+   "Tabuu",
+   "Dharkon"
+  ]
+ },
+ {
+  "p": "En Clash Royale, ¿cuánto elixir cuesta el Gólem?",
+  "o": [
+   "8",
+   "7",
+   "9"
+  ]
+ },
+ {
+  "p": "En Clash Royale, ¿cuánto elixir cuesta el Megacaballero?",
+  "o": [
+   "7",
+   "6",
+   "8"
+  ]
+ },
+ {
+  "p": "¿Qué carta legendaria de Clash Royale es un tronco que rueda?",
+  "o": [
+   "El Tronco",
+   "La Bola de Nieve",
+   "El Barril de Duendes"
+  ]
+ },
+ {
+  "p": "En Clash Royale, ¿qué carta suelta un hechizo de furia al morir?",
+  "o": [
+   "El Leñador",
+   "El Príncipe",
+   "El Montapuercos"
+  ]
+ },
+ {
+  "p": "En Clash Royale, ¿cuánto dura una partida normal sin tiempo extra?",
+  "o": [
+   "3 minutos",
+   "5 minutos",
+   "2 minutos"
+  ]
+ },
+ {
+  "p": "En Clash Royale, ¿qué hechizo de 6 de elixir es un misil gigante?",
+  "o": [
+   "El Cohete",
+   "La Bola de Fuego",
+   "El Rayo"
+  ]
+ },
+ {
+  "p": "¿Qué Pokémon es el número 1 de la Pokédex?",
+  "o": [
+   "Bulbasaur",
+   "Pikachu",
+   "Arceus"
+  ]
+ },
+ {
+  "p": "En Pokémon Rojo y Azul, ¿quién es el campeón de la Liga?",
+  "o": [
+   "Tu rival, Azul",
+   "Lance",
+   "Red"
+  ]
+ },
+ {
+  "p": "En Pokémon Rojo y Azul, ¿qué líder de gimnasio da la Medalla Trueno?",
+  "o": [
+   "Lt. Surge",
+   "Sabrina",
+   "Koga"
+  ]
+ },
+ {
+  "p": "¿Cuántas medallas de gimnasio necesitas para entrar a la Liga Pokémon?",
+  "o": [
+   "8",
+   "10",
+   "6"
+  ]
+ },
+ {
+  "p": "¿Qué Pokémon legendario sale en la portada de Pokémon Plata?",
+  "o": [
+   "Lugia",
+   "Ho-Oh",
+   "Suicune"
+  ]
+ },
+ {
+  "p": "¿En qué región pasan Pokémon Rubí y Zafiro?",
+  "o": [
+   "Hoenn",
+   "Sinnoh",
+   "Johto"
+  ]
+ },
+ {
+  "p": "¿En qué evoluciona Kadabra al intercambiarlo?",
+  "o": [
+   "Alakazam",
+   "Abra",
+   "Hypno"
+  ]
+ },
+ {
+  "p": "¿Qué tipo de Pokémon es inmune a los ataques de tipo Fantasma?",
+  "o": [
+   "Normal",
+   "Psíquico",
+   "Siniestro"
+  ]
+ },
+ {
+  "p": "En Pokémon Rojo y Azul, ¿qué objeto despierta a Snorlax?",
+  "o": [
+   "La Pokéflauta",
+   "El Silph Scope",
+   "La Bicicleta"
+  ]
+ },
+ {
+  "p": "En Pokémon Rojo y Azul, ¿quién es el líder del gimnasio de Ciudad Verde?",
+  "o": [
+   "Giovanni",
+   "Blaine",
+   "Brock"
+  ]
+ },
+ {
+  "p": "En Zelda: Ocarina of Time, ¿cómo se llama el hada de Link?",
+  "o": [
+   "Navi",
+   "Tatl",
+   "Midna"
+  ]
+ },
+ {
+  "p": "En Zelda, ¿qué raza de seres de roca come piedras?",
+  "o": [
+   "Los Goron",
+   "Los Zora",
+   "Los Kokiri"
+  ]
+ },
+ {
+  "p": "¿En qué juego de Zelda una luna está a punto de caer?",
+  "o": [
+   "Majora's Mask",
+   "Twilight Princess",
+   "Wind Waker"
+  ]
+ },
+ {
+  "p": "¿Cuáles son las tres partes de la Trifuerza?",
+  "o": [
+   "Poder, Sabiduría y Valor",
+   "Fuerza, Magia y Vida",
+   "Tiempo, Espacio y Alma"
+  ]
+ },
+ {
+  "p": "¿Cuántos santuarios hay en Zelda: Breath of the Wild?",
+  "o": [
+   "120",
+   "100",
+   "150"
+  ]
+ },
+ {
+  "p": "En Zelda, ¿qué raza vive en el agua y parece pez?",
+  "o": [
+   "Los Zora",
+   "Los Rito",
+   "Los Gerudo"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba Mario en su primer juego, Donkey Kong?",
+  "o": [
+   "Jumpman",
+   "Mr. Video",
+   "Plumber"
+  ]
+ },
+ {
+  "p": "En los juegos de Mario, ¿qué hongo te da una vida extra?",
+  "o": [
+   "El verde",
+   "El rojo",
+   "El morado"
+  ]
+ },
+ {
+  "p": "¿Cuántas estrellas hay en Super Mario 64?",
+  "o": [
+   "120",
+   "100",
+   "70"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el sombrero viviente de Super Mario Odyssey?",
+  "o": [
+   "Cappy",
+   "Tiara",
+   "Bonneter"
+  ]
+ },
+ {
+  "p": "¿De qué reino es princesa Daisy?",
+  "o": [
+   "Sarasaland",
+   "El Reino Champiñón",
+   "Hyrule"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿qué mineral necesitas para encantar objetos?",
+  "o": [
+   "Lapislázuli",
+   "Esmeralda",
+   "Redstone"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿de qué mascota huyen los creepers?",
+  "o": [
+   "De los gatos",
+   "De los lobos",
+   "De los loros"
+  ]
+ },
+ {
+  "p": "¿Qué jefe de Minecraft se invoca con tres cráneos y arena de almas?",
+  "o": [
+   "El Wither",
+   "El Ender Dragon",
+   "El Guardián Anciano"
+  ]
+ },
+ {
+  "p": "¿Qué bloque de Minecraft no se puede romper en modo supervivencia?",
+  "o": [
+   "La piedra base",
+   "La obsidiana",
+   "El diamante"
+  ]
+ },
+ {
+  "p": "¿Cuál es el apodo del creador original de Minecraft?",
+  "o": [
+   "Notch",
+   "Jeb",
+   "Dinnerbone"
+  ]
+ },
+ {
+  "p": "En GTA San Andreas, ¿quién traiciona a CJ?",
+  "o": [
+   "Big Smoke",
+   "Sweet",
+   "Cesar"
+  ]
+ },
+ {
+  "p": "¿Qué truco de GTA San Andreas te da vida, armadura y dinero?",
+  "o": [
+   "HESOYAM",
+   "BAGUVIX",
+   "AEZAKMI"
+  ]
+ },
+ {
+  "p": "¿Qué número de Spartan es el Jefe Maestro?",
+  "o": [
+   "117",
+   "007",
+   "101"
+  ]
+ },
+ {
+  "p": "En Resident Evil 3, ¿cómo se llama el monstruo que persigue a Jill?",
+  "o": [
+   "Némesis",
+   "Mr. X",
+   "Tyrant"
+  ]
+ },
+ {
+  "p": "¿Qué empresa hace Kingdom Hearts junto con Disney?",
+  "o": [
+   "Square Enix",
+   "Capcom",
+   "Bandai Namco"
+  ]
+ },
+ {
+  "p": "En Crash Bandicoot, ¿cómo se llama la máscara que te protege?",
+  "o": [
+   "Aku Aku",
+   "Uka Uka",
+   "Tiki Tiki"
+  ]
+ },
+ {
+  "p": "¿Quién creó Five Nights at Freddy's?",
+  "o": [
+   "Scott Cawthon",
+   "Toby Fox",
+   "Notch"
+  ]
+ },
+ {
+  "p": "¿Quién creó Undertale?",
+  "o": [
+   "Toby Fox",
+   "Scott Cawthon",
+   "ConcernedApe"
+  ]
+ },
+ {
+  "p": "¿Qué animal es Knuckles?",
+  "o": [
+   "Un equidna",
+   "Un erizo",
+   "Un armadillo"
+  ]
+ },
+ {
+  "p": "¿De qué país es Blanka en Street Fighter?",
+  "o": [
+   "Brasil",
+   "México",
+   "India"
+  ]
+ },
+ {
+  "p": "¿Quién es el dios del trueno en Mortal Kombat?",
+  "o": [
+   "Raiden",
+   "Shao Kahn",
+   "Fujin"
+  ]
+ },
+ {
+  "p": "¿De qué país es el Tetris original?",
+  "o": [
+   "La Unión Soviética",
+   "Japón",
+   "Estados Unidos"
+  ]
+ },
+ {
+  "p": "¿Qué empresa creó Pac-Man?",
+  "o": [
+   "Namco",
+   "Atari",
+   "Taito"
+  ]
+ },
+ {
+  "p": "¿Cuántas vidas te daba el código Konami en Contra?",
+  "o": [
+   "30",
+   "10",
+   "99"
+  ]
+ },
+ {
+  "p": "¿Qué juego del NES se jugaba con la pistola Zapper y tenía un perro que se reía de ti?",
+  "o": [
+   "Duck Hunt",
+   "Hogan's Alley",
+   "Wild Gunman"
+  ]
+ },
+ {
+  "p": "¿Qué empresa creó Space Invaders?",
+  "o": [
+   "Taito",
+   "Namco",
+   "Atari"
+  ]
+ },
+ {
+  "p": "En Overwatch, ¿cuál es el nombre real de Sombra?",
+  "o": [
+   "Olivia Colomar",
+   "Ana Amari",
+   "Valentina Reyes"
+  ]
+ },
+ {
+  "p": "¿Qué campeón de LoL tiene cabeza de chacal y va acumulando daño con su Q?",
+  "o": [
+   "Nasus",
+   "Renekton",
+   "Warwick"
+  ]
+ }
+]

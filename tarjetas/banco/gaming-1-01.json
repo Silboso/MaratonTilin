@@ -1,0 +1,869 @@
+[
+ {
+  "deporte": true,
+  "p": "En Mario Kart, ¿qué objeto te hace invencible por unos segundos?",
+  "o": [
+   "La estrella",
+   "El hongo dorado",
+   "El caparazón verde"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En Mario Kart, ¿qué objeto se deja en la pista para que otros se resbalen?",
+  "o": [
+   "Un plátano",
+   "Una bomba",
+   "Un rayo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué saga de fútbol de Konami competía contra FIFA?",
+  "o": [
+   "PES (Pro Evolution Soccer)",
+   "Mario Strikers",
+   "Rocket League"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué saga de patinetas lleva el nombre de un skater famoso?",
+  "o": [
+   "Tony Hawk's Pro Skater",
+   "Skate",
+   "SSX"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué videojuego mezcla el fútbol con autos?",
+  "o": [
+   "Rocket League",
+   "Mario Kart",
+   "Burnout"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llama el juego de fútbol de Nintendo con Mario y sus amigos?",
+  "o": [
+   "Mario Strikers",
+   "Mario Tennis",
+   "Mario Party"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué saga de carreras callejeras tuvo «Most Wanted» y «Underground»?",
+  "o": [
+   "Need for Speed",
+   "Gran Turismo",
+   "Forza"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué juego venía con el Wii y tenía tenis, boliche y box?",
+  "o": [
+   "Wii Sports",
+   "Wii Play",
+   "Wii Fit"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué juego compiten Mario y Sonic en pruebas olímpicas?",
+  "o": [
+   "Mario & Sonic en los Juegos Olímpicos",
+   "Super Smash Bros.",
+   "Mario Party"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En Mario Kart, ¿qué personaje es un dinosaurio verde?",
+  "o": [
+   "Yoshi",
+   "Bowser",
+   "Birdo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En FIFA Ultimate Team, ¿qué abres para conseguir jugadores?",
+  "o": [
+   "Sobres",
+   "Cofres",
+   "Huevos"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué saga de carreras de PlayStation es famosa por ser un simulador realista?",
+  "o": [
+   "Gran Turismo",
+   "Need for Speed",
+   "Burnout"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué juego de PlayStation tenía a Crash Bandicoot en carreras de karts?",
+  "o": [
+   "Crash Team Racing",
+   "Crash Bash",
+   "Crash Nitro Kart Racing"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué juego de Wii usaba una tabla para hacer ejercicio?",
+  "o": [
+   "Wii Fit",
+   "Wii Sports",
+   "Just Dance"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué deporte juegan en «Inazuma Eleven»?",
+  "o": [
+   "Fútbol",
+   "Béisbol",
+   "Rugby"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué juego de Nintendo juegas tenis con Mario y sus amigos?",
+  "o": [
+   "Mario Tennis",
+   "Mario Strikers",
+   "Mario Golf"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué juego de Nintendo juega Mario al golf?",
+  "o": [
+   "Mario Golf",
+   "Mario Party",
+   "Mario Tennis"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Para qué consola era el volante blanco de Mario Kart Wii?",
+  "o": [
+   "Wii",
+   "GameCube",
+   "Nintendo DS"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En Mario Kart, ¿qué objeto te da un empujón de velocidad?",
+  "o": [
+   "El champiñón",
+   "La pluma",
+   "La flor de fuego"
+  ]
+ },
+ {
+  "p": "En League of Legends, ¿cuántos jugadores hay en cada equipo?",
+  "o": [
+   "5",
+   "6",
+   "4"
+  ]
+ },
+ {
+  "p": "En League of Legends, ¿qué hay que destruir para ganar?",
+  "o": [
+   "El Nexo",
+   "El trono",
+   "El castillo"
+  ]
+ },
+ {
+  "p": "¿Qué serie de Netflix está basada en League of Legends?",
+  "o": [
+   "Arcane",
+   "Castlevania",
+   "Cyberpunk: Edgerunners"
+  ]
+ },
+ {
+  "p": "¿Qué campeona de LoL es una zorra de nueve colas?",
+  "o": [
+   "Ahri",
+   "Evelynn",
+   "Neeko"
+  ]
+ },
+ {
+  "p": "¿Qué campeón de LoL es un yordle explorador que pone hongos venenosos?",
+  "o": [
+   "Teemo",
+   "Tristana",
+   "Heimerdinger"
+  ]
+ },
+ {
+  "p": "¿Qué empresa creó League of Legends?",
+  "o": [
+   "Riot Games",
+   "Blizzard",
+   "Valve"
+  ]
+ },
+ {
+  "p": "En LoL, ¿qué rol acompaña al tirador en la línea inferior?",
+  "o": [
+   "Soporte",
+   "Jungla",
+   "Medio"
+  ]
+ },
+ {
+  "p": "¿Qué heroína de Overwatch es una sanadora con alas?",
+  "o": [
+   "Mercy",
+   "Ana",
+   "Moira"
+  ]
+ },
+ {
+  "p": "¿Qué heroína británica de Overwatch se teletransporta en pequeños saltos?",
+  "o": [
+   "Tracer",
+   "Widowmaker",
+   "Echo"
+  ]
+ },
+ {
+  "p": "¿Qué empresa creó Overwatch?",
+  "o": [
+   "Blizzard",
+   "Riot Games",
+   "Valve"
+  ]
+ },
+ {
+  "p": "¿Cómo se les dice a los personajes jugables de Valorant?",
+  "o": [
+   "Agentes",
+   "Héroes",
+   "Campeones"
+  ]
+ },
+ {
+  "p": "¿Qué Pokémon ha estado en todos los Super Smash Bros.?",
+  "o": [
+   "Pikachu",
+   "Jigglypuff",
+   "Lucario"
+  ]
+ },
+ {
+  "p": "¿Para qué consola salió Super Smash Bros. Ultimate?",
+  "o": [
+   "Nintendo Switch",
+   "Wii U",
+   "GameCube"
+  ]
+ },
+ {
+  "p": "¿Qué empresa creó Clash Royale?",
+  "o": [
+   "Supercell",
+   "Rovio",
+   "King"
+  ]
+ },
+ {
+  "p": "En Clash Royale, ¿qué recurso morado gastas para jugar cartas?",
+  "o": [
+   "Elixir",
+   "Gemas",
+   "Oro"
+  ]
+ },
+ {
+  "p": "¿A qué princesa rescata Mario casi siempre?",
+  "o": [
+   "Peach",
+   "Daisy",
+   "Zelda"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el villano tortuga de Mario?",
+  "o": [
+   "Bowser",
+   "Wario",
+   "Koopa Troopa"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el hermano de Mario?",
+  "o": [
+   "Luigi",
+   "Wario",
+   "Toad"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el héroe de la saga «The Legend of Zelda»?",
+  "o": [
+   "Link",
+   "Zelda",
+   "Ganon"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el villano principal de Zelda?",
+  "o": [
+   "Ganondorf",
+   "Vaati",
+   "Majora"
+  ]
+ },
+ {
+  "p": "¿Qué personaje rosa de Nintendo se traga a sus enemigos?",
+  "o": [
+   "Kirby",
+   "Jigglypuff",
+   "Yoshi"
+  ]
+ },
+ {
+  "p": "¿Qué gorila de Nintendo usa corbata roja?",
+  "o": [
+   "Donkey Kong",
+   "Diddy Kong",
+   "Cranky Kong"
+  ]
+ },
+ {
+  "p": "En Animal Crossing, ¿qué mapache te cobra la hipoteca?",
+  "o": [
+   "Tom Nook",
+   "Canela",
+   "Totakeke"
+  ]
+ },
+ {
+  "p": "¿En qué juego de Nintendo unos calamares pelean pintando todo?",
+  "o": [
+   "Splatoon",
+   "Pikmin",
+   "Kirby"
+  ]
+ },
+ {
+  "p": "¿Qué animal es Crash?",
+  "o": [
+   "Un bandicoot",
+   "Un zorro",
+   "Un mapache"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el protagonista de God of War?",
+  "o": [
+   "Kratos",
+   "Atreus",
+   "Dante"
+  ]
+ },
+ {
+  "p": "En Kingdom Hearts, ¿qué arma usa Sora?",
+  "o": [
+   "La llave espada",
+   "La espada maestra",
+   "Un bastón mágico"
+  ]
+ },
+ {
+  "p": "¿Qué personajes de Disney acompañan a Sora en Kingdom Hearts?",
+  "o": [
+   "Donald y Goofy",
+   "Mickey y Minnie",
+   "Timón y Pumba"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el dragoncito morado de PlayStation?",
+  "o": [
+   "Spyro",
+   "Sparx",
+   "Drago"
+  ]
+ },
+ {
+  "p": "¿Contra qué pelean casi siempre en Resident Evil?",
+  "o": [
+   "Zombis",
+   "Aliens",
+   "Robots"
+  ]
+ },
+ {
+  "p": "¿Cómo se llaman los protagonistas de The Last of Us?",
+  "o": [
+   "Joel y Ellie",
+   "Nathan y Elena",
+   "Leon y Ada"
+  ]
+ },
+ {
+  "p": "¿Qué cazador de tesoros protagoniza Uncharted?",
+  "o": [
+   "Nathan Drake",
+   "Lara Croft",
+   "Indiana Jones"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el protagonista de Halo?",
+  "o": [
+   "El Jefe Maestro",
+   "Marcus Fenix",
+   "Gordon Freeman"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la inteligencia artificial azul de Halo?",
+  "o": [
+   "Cortana",
+   "GLaDOS",
+   "EDI"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el idioma que hablan los Sims?",
+  "o": [
+   "Simlish",
+   "Sindarin",
+   "Klingon"
+  ]
+ },
+ {
+  "p": "¿En qué juego la frase famosa es «el pastel es mentira»?",
+  "o": [
+   "Portal",
+   "Half-Life",
+   "The Sims"
+  ]
+ },
+ {
+  "p": "¿Qué arma icónica usa Gordon Freeman en Half-Life?",
+  "o": [
+   "Una palanca",
+   "Una motosierra",
+   "Un martillo"
+  ]
+ },
+ {
+  "p": "¿Qué es el protagonista de Hollow Knight?",
+  "o": [
+   "Un caballero insecto",
+   "Un esqueleto",
+   "Un robot"
+  ]
+ },
+ {
+  "p": "¿Qué esqueleto bromista de Undertale es muy famoso?",
+  "o": [
+   "Sans",
+   "Papyrus",
+   "Asgore"
+  ]
+ },
+ {
+  "p": "¿Qué juego tiene jefes con estilo de caricatura de los años 30?",
+  "o": [
+   "Cuphead",
+   "Hollow Knight",
+   "Celeste"
+  ]
+ },
+ {
+  "p": "¿En qué juego unos frijolitos compiten en pistas de obstáculos?",
+  "o": [
+   "Fall Guys",
+   "Among Us",
+   "Stumble Guys"
+  ]
+ },
+ {
+  "p": "¿Qué mensaje rojo aparece cuando mueres en Dark Souls y Elden Ring?",
+  "o": [
+   "«You Died»",
+   "«Game Over»",
+   "«Wasted»"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de Street Fighter lanza el «Hadouken»?",
+  "o": [
+   "Ryu",
+   "Guile",
+   "Blanka"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de Mortal Kombat grita «Get over here!»?",
+  "o": [
+   "Scorpion",
+   "Sub-Zero",
+   "Raiden"
+  ]
+ },
+ {
+  "p": "¿Cómo se llaman los remates sangrientos de Mortal Kombat?",
+  "o": [
+   "Fatalities",
+   "Combos",
+   "Ultras"
+  ]
+ },
+ {
+  "p": "En Fortnite, ¿en qué se lanzan los jugadores al empezar la partida?",
+  "o": [
+   "En el autobús de batalla",
+   "En un avión",
+   "En un helicóptero"
+  ]
+ },
+ {
+  "p": "¿Cómo se le dice a ganar una partida de Fortnite?",
+  "o": [
+   "Victoria Real",
+   "Pollo para cenar",
+   "Campeón"
+  ]
+ },
+ {
+  "p": "En Angry Birds, ¿a quiénes atacan los pájaros?",
+  "o": [
+   "A los cerdos",
+   "A los gatos",
+   "A los ratones"
+  ]
+ },
+ {
+  "p": "En Plants vs Zombies, ¿cómo se llama el vecino que te vende cosas?",
+  "o": [
+   "Dave el Loco",
+   "El Doctor Zomboss",
+   "El Jardinero Pepe"
+  ]
+ },
+ {
+  "p": "En Subway Surfers, ¿quién te persigue?",
+  "o": [
+   "Un policía y su perro",
+   "Un tren",
+   "Un perro callejero"
+  ]
+ },
+ {
+  "p": "¿En qué juego combinas dulces de tres en tres?",
+  "o": [
+   "Candy Crush",
+   "Bejeweled",
+   "Tetris"
+  ]
+ },
+ {
+  "p": "En Flappy Bird, ¿qué tienes que esquivar?",
+  "o": [
+   "Tubos verdes",
+   "Árboles",
+   "Nubes"
+  ]
+ },
+ {
+  "p": "¿Cuáles son los equipos de Pokémon GO?",
+  "o": [
+   "Valor, Sabiduría e Instinto",
+   "Rojo, Azul y Verde",
+   "Fuego, Agua y Planta"
+  ]
+ },
+ {
+  "p": "En Skyrim, ¿qué es el protagonista?",
+  "o": [
+   "Un sangre de dragón",
+   "Un vampiro",
+   "Un hombre lobo"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el brujo protagonista de The Witcher?",
+  "o": [
+   "Geralt de Rivia",
+   "Ciri",
+   "Jaskier"
+  ]
+ },
+ {
+  "p": "¿Qué ave amarilla se monta en Final Fantasy?",
+  "o": [
+   "Chocobo",
+   "Moogle",
+   "Cactuar"
+  ]
+ },
+ {
+  "p": "¿Qué villano de pelo plateado y espada larga sale en Final Fantasy VII?",
+  "o": [
+   "Sephiroth",
+   "Cloud",
+   "Kefka"
+  ]
+ },
+ {
+  "p": "¿Qué criatura azul en forma de gota es el emblema de Dragon Quest?",
+  "o": [
+   "El slime",
+   "El chocobo",
+   "El moogle"
+  ]
+ },
+ {
+  "p": "¿Qué colecciona Sonic durante sus niveles?",
+  "o": [
+   "Anillos",
+   "Monedas",
+   "Estrellas"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el villano de Sonic?",
+  "o": [
+   "Dr. Eggman",
+   "Dr. Wily",
+   "Dr. Cortex"
+  ]
+ },
+ {
+  "p": "¿De qué empresa es Sonic?",
+  "o": [
+   "Sega",
+   "Nintendo",
+   "Sony"
+  ]
+ },
+ {
+  "p": "¿Qué héroe de videojuegos no tiene brazos ni piernas?",
+  "o": [
+   "Rayman",
+   "Kirby",
+   "Spyro"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el robot compañero de Ratchet?",
+  "o": [
+   "Clank",
+   "Daxter",
+   "Sparx"
+  ]
+ },
+ {
+  "p": "¿Qué animal es Sly Cooper?",
+  "o": [
+   "Un mapache",
+   "Un zorro",
+   "Un gato"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el villano de Mega Man?",
+  "o": [
+   "Dr. Wily",
+   "Dr. Eggman",
+   "Dr. Light"
+  ]
+ },
+ {
+  "p": "En Five Nights at Freddy's, ¿qué animatrónico es un zorro pirata?",
+  "o": [
+   "Foxy",
+   "Bonnie",
+   "Chica"
+  ]
+ },
+ {
+  "p": "En Slender, ¿qué tienes que juntar?",
+  "o": [
+   "8 páginas",
+   "5 llaves",
+   "10 velas"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el dinero de Roblox?",
+  "o": [
+   "Robux",
+   "V-Bucks",
+   "Gemas"
+  ]
+ },
+ {
+  "p": "En Stardew Valley, ¿quién te deja la granja?",
+  "o": [
+   "Tu abuelo",
+   "Tu papá",
+   "El alcalde"
+  ]
+ },
+ {
+  "p": "En Clash of Clans, ¿cuál es el edificio principal de tu aldea?",
+  "o": [
+   "El ayuntamiento",
+   "El castillo",
+   "La torre del rey"
+  ]
+ },
+ {
+  "p": "¿Cuáles son las dos facciones de World of Warcraft?",
+  "o": [
+   "La Horda y la Alianza",
+   "Los Zerg y los Protoss",
+   "Los Jedi y los Sith"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el personaje clásico de Minecraft?",
+  "o": [
+   "Steve",
+   "Alex",
+   "Herobrine"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿cómo se llama la dimensión de fuego y lava?",
+  "o": [
+   "El Nether",
+   "El End",
+   "El Aether"
+  ]
+ },
+ {
+  "p": "¿Qué persigue a Pac-Man?",
+  "o": [
+   "Fantasmas",
+   "Monstruos",
+   "Calaveras"
+  ]
+ },
+ {
+  "p": "¿En qué juego clásico caen piezas que hay que acomodar en líneas?",
+  "o": [
+   "Tetris",
+   "Pac-Man",
+   "Space Invaders"
+  ]
+ },
+ {
+  "p": "¿Cuáles eran los tres iniciales de Pokémon Rojo y Azul?",
+  "o": [
+   "Bulbasaur, Charmander y Squirtle",
+   "Chikorita, Cyndaquil y Totodile",
+   "Treecko, Torchic y Mudkip"
+  ]
+ },
+ {
+  "p": "¿Qué tipo de Pokémon es súper efectivo contra el tipo Fuego?",
+  "o": [
+   "Agua",
+   "Planta",
+   "Hielo"
+  ]
+ },
+ {
+  "p": "¿Qué consola portátil de Nintendo tenía dos pantallas?",
+  "o": [
+   "Nintendo DS",
+   "Game Boy Advance",
+   "PSP"
+  ]
+ },
+ {
+  "p": "¿En qué ciudad ficticia pasa GTA V?",
+  "o": [
+   "Los Santos",
+   "Vice City",
+   "Liberty City"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la princesa de Hyrule?",
+  "o": [
+   "Zelda",
+   "Peach",
+   "Midna"
+  ]
+ },
+ {
+  "p": "En Pokémon, ¿qué usas para atrapar a los Pokémon?",
+  "o": [
+   "La Pokébola",
+   "La Pokédex",
+   "El Digivice"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba la consola portátil de Sony?",
+  "o": [
+   "PSP",
+   "Game Boy",
+   "Nintendo DS"
+  ]
+ },
+ {
+  "p": "¿Qué empresa creó Fortnite?",
+  "o": [
+   "Epic Games",
+   "Riot Games",
+   "EA"
+  ]
+ },
+ {
+  "p": "¿Qué empresa creó a Mario?",
+  "o": [
+   "Nintendo",
+   "Sega",
+   "Sony"
+  ]
+ },
+ {
+  "p": "¿En qué saga de videojuegos sale Lara Croft?",
+  "o": [
+   "Tomb Raider",
+   "Uncharted",
+   "Resident Evil"
+  ]
+ },
+ {
+  "p": "¿En qué juego de baile copias los movimientos que salen en pantalla?",
+  "o": [
+   "Just Dance",
+   "Guitar Hero",
+   "Rock Band"
+  ]
+ },
+ {
+  "p": "¿Qué saga de Rockstar es de vaqueros en el viejo oeste?",
+  "o": [
+   "Red Dead Redemption",
+   "GTA",
+   "Bully"
+  ]
+ }
+]

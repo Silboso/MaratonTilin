@@ -76,11 +76,11 @@
   ]
  },
  {
-  "p": "¿Qué inversión te da intereses por dejar tu dinero un tiempo fijo?",
+  "p": "¿Qué inversión del banco te paga intereses si no tocas tu dinero un tiempo?",
   "o": [
-   "Un pagaré a plazo",
+   "Un pagaré",
    "Una cuenta de cheques",
-   "Una tarjeta departamental"
+   "Una cuenta de nómina"
   ]
  },
  {

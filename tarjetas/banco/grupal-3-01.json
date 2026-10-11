@@ -347,11 +347,11 @@
   ]
  },
  {
-  "p": "¿Qué personaje de «The Office» dice siempre «That's what she said»?",
+  "p": "¿Qué personaje de Star Wars dice «Siempre hay un pez más grande»?",
   "o": [
-   "Michael Scott",
-   "Dwight Schrute",
-   "Jim Halpert"
+   "Qui-Gon Jinn",
+   "Obi-Wan Kenobi",
+   "Yoda"
   ]
  },
  {
@@ -427,7 +427,7 @@
   ]
  },
  {
-  "p": "¿De qué película es el meme de Leonardo DiCaprio señalando la tele?",
+  "p": "¿De qué película es el meme de DiCaprio señalando?",
   "o": [
    "Érase una vez en Hollywood",
    "El renacido",

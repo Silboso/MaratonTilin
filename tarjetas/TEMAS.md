@@ -30,6 +30,7 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
 | Anime | Nivel del grupo |
 |---|---|
 | Dragon Ball / Z / Super, Naruto / Shippuden, Pokémon, Digimon, Supercampeones, Hajime no Ippo | Alto: se valen ★★★ muy específicas |
+| Jujutsu Kaisen, Demon Slayer, Death Note, Code Geass | Se valen ★★★ |
 | Hunter x Hunter, One Punch Man, Mob Psycho 100, Sword Art Online | Medio, con algo de avanzado |
 | Death Note, Evangelion, Code Geass, Steins;Gate, Mirai Nikki, Attack on Titan, Fullmetal Alchemist, Tokyo Ghoul | Medio a básico |
 | Jujutsu Kaisen, Demon Slayer, Chainsaw Man, My Hero Academia | Medio a básico |
@@ -47,6 +48,10 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
 - **Terror y misterio:** Elfen Lied, Another, The Promised Neverland, Higurashi, Made in Abyss
 - **Recientes:** Dandadan, Kaiju No. 8, Sakamoto Days, Bocchi the Rock!, Cyberpunk Edgerunners
 - **Más de los 2000 y 2010:** Gintama, Haruhi Suzumiya, Angel Beats!, Charlotte, Darling in the FranXX, Kill la Kill, Noragami, Durarara!!
+- **Sci-fi y de culto (muy básico):** Akira, Ghost in the Shell, Psycho-Pass, Serial Experiments Lain, Monster, Paprika, Perfect Blue, Hellsing, Black Lagoon
+- **Mecha:** Gundam, Gurren Lagann. **Fuera:** Robotech, Macross, Mazinger Z, Voltron.
+- **Comedia y escolares:** Saiki K, Komi-san, Grand Blue, K-On!, Lucky Star, Nichijou, Classroom of the Elite. **Kakegurui** puede llegar a ★★.
+- **Deportes (para cruces ⚽):** Initial D, Yuri on Ice, Megalo Box
 - **Otros:** Log Horizon, .hack, Food Wars, Assassination Classroom, Violet Evergarden, A Silent Voice, Your Name, Dr. Stone, Dorohedoro. **Beastars** puede llegar a ★★.
 - **Fuera:** Erased
 
@@ -84,6 +89,7 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
   - **Más Nintendo:** Luigi's Mansion, Paper Mario, Fire Emblem, Xenoblade, Pikmin, WarioWare, spin-offs de Pokémon
   - **Gacha:** Honkai: Star Rail, Zenless Zone Zero, Blue Archive, Fate/Grand Order, Pokémon Unite, Pokémon Masters, Dragon Ball Legends, Dokkan Battle
   - **HoYoverse (Genshin Impact y similares) y Uma Musume:** solo preguntas muy básicas. Uma Musume sirve para cruces con deportes (carreras de caballos).
+  - **Un jugador (solo preguntas muy básicas):** NieR, Detroit: Become Human, Until Dawn, Heavy Rain, Life is Strange, Death Stranding, Alan Wake, Control, Hades, Dead Cells, Ori, Omori, Doki Doki Literature Club, Danganronpa, Ace Attorney, Cult of the Lamb, Inscryption, Silksong, BioShock, Fallout, Mass Effect, Dragon Age, Cyberpunk 2077, Baldur's Gate 3, Ghost of Tsushima, Horizon. **Fuera:** Yakuza, Monster Hunter, Tales of, Ni no Kuni, Okami, Firewatch, Stanley Parable, Inside.
   - **Retro:** Pac-Man, Tetris, Space Invaders, Contra, Metal Slug, Pokémon de Game Boy, Tamagotchi y las consolas (Atari, NES, Super Nintendo)
   - **Deportes (para cruces ⚽):** FIFA, PES / Winning Eleven, Tony Hawk, Skate, Rocket League, Mario Strikers, Inazuma Eleven. **Fuera:** NBA 2K, Madden.
 - **A fondo (se valen ★★★):** Pokémon (juegos), Zelda, Mario y Mario Kart, Minecraft.
@@ -117,6 +123,9 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
 - **Fuera:** American Dragon, W.I.T.C.H., Seinfeld, Scrubs, New Girl, Community, Parks and Rec, The IT Crowd, What We Do in the Shadows, Abbott Elementary, Superstore, House of the Dragon, Rings of Power, Ozark, Mr. Robot, Severance, The Bear, The Crown, Succession
 - **Otros formatos:** true crime de Netflix (Dahmer, Tiger King), telenovelas clásicas (María la del Barrio, Teresa, Soy tu dueña), series de YouTube (Polícias de México, Enchufe.tv, Backdoor). **Fuera:** anime original de Netflix.
 - **Doblaje latino:** se valen todas las preguntas: actores de voz, frases que solo existen en el doblaje, nombres adaptados al español y openings cantados en español.
+- **Superhéroes:** Smallville, Arrow, The Flash, Agents of S.H.I.E.L.D., Gotham, The Umbrella Academy, Peacemaker, Lucifer, Sandman
+- **Juveniles latinas:** La CQ, Skimo, Patito Feo, Floricienta, Casi Ángeles, Violetta, Soy Luna, Cómplices al rescate, Amigos x siempre, Clase 406
+- **Fuera también:** Once Upon a Time, Merlin, Shadow and Bone, Locke & Key, Dark, 1899, Outer Banks, Teen Wolf
 - **Más recientes:** The Boys, Invincible, Merlina, Bridgerton, You, Chernobyl, True Detective, Westworld, Marvel de Disney+ (WandaVision, Loki, Moon Knight, Daredevil)
 
 **Series para preguntar a fondo** (se valen ★★★): Stranger Things, Breaking Bad, Better Call Saul, Game of Thrones, The Office, Friends, The Big Bang Theory, Ben 10, Gumball, Los Simpson, Futurama, Chespirito (El Chavo, El Chapulín, Los Caquitos), doblaje latino (actores de voz y frases), reality y concursos (La Academia, Big Brother, MasterChef, 100 mexicanos dijeron).

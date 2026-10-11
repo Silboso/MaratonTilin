@@ -19,11 +19,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué canción cantan los aficionados de México con «Ay, ay, ay, ay, canta y no llores»?",
+  "p": "¿Qué grupo canta «Cotton Eye Joe», que suena en los estadios?",
   "o": [
-   "«Cielito Lindo»",
-   "«México lindo y querido»",
-   "«El Rey»"
+   "Rednex",
+   "Vengaboys",
+   "Aqua"
   ]
  },
  {
@@ -55,11 +55,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué canción se baila en los estadios formando letras con los brazos?",
+  "p": "¿Qué grupo canta «Y.M.C.A.», que se baila en los estadios?",
   "o": [
-   "«Y.M.C.A.»",
-   "«Cotton Eye Joe»",
-   "«Saturday Night»"
+   "Village People",
+   "Bee Gees",
+   "Boney M."
   ]
  },
  {
@@ -144,11 +144,11 @@
   ]
  },
  {
-  "p": "¿Qué banda canta «Bohemian Rhapsody»?",
+  "p": "¿Qué banda canta «Basket Case»?",
   "o": [
-   "Queen",
-   "The Beatles",
-   "Led Zeppelin"
+   "Green Day",
+   "Blink-182",
+   "The Offspring"
   ]
  },
  {
@@ -296,11 +296,11 @@
   ]
  },
  {
-  "p": "¿Qué dúo de robots canta «Get Lucky»?",
+  "p": "¿Qué dúo francés canta «Get Lucky»?",
   "o": [
    "Daft Punk",
    "Justice",
-   "The Chemical Brothers"
+   "Air"
   ]
  },
  {
@@ -432,11 +432,11 @@
   ]
  },
  {
-  "p": "¿Quién canta «Gangnam Style»?",
+  "p": "¿Qué cantante de K-pop sacó «Gentleman» después de su gran éxito viral?",
   "o": [
    "PSY",
-   "BTS",
-   "Big Bang"
+   "G-Dragon",
+   "Rain"
   ]
  },
  {
@@ -704,11 +704,11 @@
   ]
  },
  {
-  "p": "¿De qué anime es el opening «Cha-La Head-Cha-La»?",
+  "p": "¿De qué anime es el opening «The Day»?",
   "o": [
-   "Dragon Ball Z",
-   "Los Caballeros del Zodiaco",
-   "Pokémon"
+   "My Hero Academia",
+   "Haikyuu!!",
+   "Black Clover"
   ]
  },
  {

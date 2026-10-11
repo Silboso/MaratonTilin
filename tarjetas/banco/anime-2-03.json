@@ -76,7 +76,7 @@
   ]
  },
  {
-  "p": "En la primera «Kung Fu Panda», ¿cómo se llama el villano leopardo?",
+  "p": "En la primera «Kung Fu Panda», ¿cómo se llama el villano?",
   "o": [
    "Tai Lung",
    "Lord Shen",
@@ -103,8 +103,8 @@
   "p": "En «Code Geass», ¿qué imperio conquista Japón?",
   "o": [
    "Britannia",
-   "Zeon",
-   "Marley"
+   "La Unión Euroasiática",
+   "La Federación China"
   ]
  },
  {
@@ -151,8 +151,8 @@
   "p": "En «Fullmetal Alchemist», ¿qué buscan los hermanos Elric?",
   "o": [
    "La piedra filosofal",
-   "Las esferas del dragón",
-   "La espada del rey"
+   "El círculo de transmutación perfecto",
+   "Un homúnculo"
   ]
  },
  {

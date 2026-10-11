@@ -44,11 +44,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama la mamá de Bart Simpson?",
+  "p": "En «Los Simpson», ¿cómo se llama el abuelo de Bart?",
   "o": [
-   "Marge",
-   "Lisa",
-   "Patty"
+   "Abraham",
+   "Herbert",
+   "Clancy"
   ]
  },
  {
@@ -84,11 +84,11 @@
   ]
  },
  {
-  "p": "En «Tom y Jerry», ¿qué animal es Jerry?",
+  "p": "En «Tom y Jerry», ¿cómo se llama el perro bulldog?",
   "o": [
-   "Un ratón",
-   "Un hámster",
-   "Una ardilla"
+   "Spike",
+   "Butch",
+   "Toodles"
   ]
  },
  {
@@ -103,8 +103,8 @@
   "p": "En «Hannah Montana», ¿qué secreto esconde Miley?",
   "o": [
    "Que es una estrella pop",
-   "Que es una princesa",
-   "Que tiene poderes"
+   "Que trabaja de niñera",
+   "Que se va a mudar"
   ]
  },
  {
@@ -140,11 +140,11 @@
   ]
  },
  {
-  "p": "En «The Big Bang Theory», ¿a qué se dedican Sheldon y Leonard?",
+  "p": "En «The Big Bang Theory», ¿quién es el ingeniero que vive con su mamá?",
   "o": [
-   "Son físicos",
-   "Son doctores",
-   "Son maestros"
+   "Howard",
+   "Raj",
+   "Leonard"
   ]
  },
  {

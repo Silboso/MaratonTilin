@@ -164,11 +164,11 @@
   ]
  },
  {
-  "p": "¿Cuál fue la primera película hecha por completo en computadora?",
+  "p": "En «Kill Bill», ¿cuál es el nombre clave de la Novia?",
   "o": [
-   "Toy Story",
-   "Shrek",
-   "Bichos"
+   "Mamba Negra",
+   "Boca de Algodón",
+   "Cabeza de Cobre"
   ]
  },
  {
@@ -188,11 +188,11 @@
   ]
  },
  {
-  "p": "¿Qué película de Alfonso Cuarón ganó el Óscar a Mejor Película Extranjera?",
+  "p": "¿Qué código aparece escondido en casi todas las películas de Pixar?",
   "o": [
-   "Roma",
-   "Gravity",
-   "Y tu mamá también"
+   "A113",
+   "B612",
+   "THX 1138"
   ]
  }
 ]

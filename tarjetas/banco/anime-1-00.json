@@ -49,11 +49,11 @@
   ]
  },
  {
-  "p": "¿Qué película de 1997 con Jack y Rose ganó 11 premios Óscar?",
+  "p": "¿Qué director hizo «Titanic» y «Avatar»?",
   "o": [
-   "Titanic",
-   "Armageddon",
-   "Pearl Harbor"
+   "James Cameron",
+   "Steven Spielberg",
+   "Christopher Nolan"
   ]
  },
  {

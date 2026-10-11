@@ -55,8 +55,8 @@
   "p": "¿Cómo se llama el perro de tres cabezas que cuida la piedra filosofal?",
   "o": [
    "Fluffy",
-   "Norberto",
-   "Aragog"
+   "Fang",
+   "Canuto"
   ]
  },
  {
@@ -116,11 +116,11 @@
   ]
  },
  {
-  "p": "¿A qué juego de mesa juegan Harry y Ron con piezas que se mueven solas?",
+  "p": "En Harry Potter, ¿cómo se llama el árbol que golpea a quien se le acerca?",
   "o": [
-   "Ajedrez mágico",
-   "Snap explosivo",
-   "Gobstones"
+   "El Sauce Boxeador",
+   "El Roble Furioso",
+   "El Árbol Rugiente"
   ]
  },
  {
@@ -135,16 +135,16 @@
   "p": "¿Cómo se llaman los árboles que hablan y caminan en «El Señor de los Anillos»?",
   "o": [
    "Los Ents",
-   "Los Uruk-hai",
-   "Los Istari"
+   "Los Beórnidas",
+   "Los Huargos"
   ]
  },
  {
-  "p": "¿Qué navegador tiene un logo circular rojo, amarillo, verde y azul?",
+  "p": "¿Qué buscador de internet es de Microsoft?",
   "o": [
-   "Chrome",
-   "Opera",
-   "Safari"
+   "Bing",
+   "Yahoo",
+   "DuckDuckGo"
   ]
  },
  {

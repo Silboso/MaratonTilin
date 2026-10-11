@@ -37,11 +37,11 @@
  },
  {
   "deporte": true,
-  "p": "En ajedrez, ¿cómo se le dice cuando el rey ya no tiene escapatoria?",
+  "p": "En la Fórmula 1, ¿qué bandera marca el final de la carrera?",
   "o": [
-   "Jaque mate",
-   "Tablas",
-   "Enroque"
+   "La bandera a cuadros",
+   "La bandera roja",
+   "La bandera azul"
   ]
  },
  {
@@ -73,11 +73,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué significa la «F» de F1?",
+  "p": "En la Fórmula 1, ¿qué significa la bandera amarilla?",
   "o": [
-   "Fórmula",
-   "Final",
-   "Fuerza"
+   "Peligro: no se puede rebasar",
+   "Última vuelta",
+   "Entrar a pits"
   ]
  },
  {
@@ -100,7 +100,7 @@
  },
  {
   "deporte": true,
-  "p": "En «Harry Potter y el cáliz de fuego», ¿qué torneo se celebra en Hogwarts?",
+  "p": "En «Harry Potter y el cáliz de fuego», ¿qué competencia se celebra en Hogwarts?",
   "o": [
    "El Torneo de los Tres Magos",
    "La Copa Mundial de Quidditch",
@@ -234,11 +234,11 @@
   ]
  },
  {
-  "p": "¿De qué color es la capa de Superman?",
+  "p": "¿Cómo se llama el periódico donde trabaja Clark Kent?",
   "o": [
-   "Roja",
-   "Azul",
-   "Negra"
+   "El Planeta Diario",
+   "El Clarín de Gótica",
+   "La Gaceta Central"
   ]
  },
  {
@@ -298,19 +298,19 @@
   ]
  },
  {
-  "p": "¿Qué arma usan los Jedi?",
+  "p": "En Star Wars, ¿qué tipo de criatura es Jabba?",
   "o": [
-   "El sable de luz",
-   "El bláster",
-   "El bastón eléctrico"
+   "Un hutt",
+   "Un jawa",
+   "Un gungan"
   ]
  },
  {
-  "p": "¿De qué color es el sable de luz de Darth Vader?",
+  "p": "¿Cómo se llama la novia pelirroja de Spider-Man que le dice «tigre»?",
   "o": [
-   "Rojo",
-   "Azul",
-   "Verde"
+   "Mary Jane",
+   "Gwen Stacy",
+   "Felicia Hardy"
   ]
  },
  {
@@ -346,11 +346,11 @@
   ]
  },
  {
-  "p": "En Star Wars, ¿cómo se llama la estación espacial que destruye planetas?",
+  "p": "En Star Wars, ¿cómo se llama la estación espacial del Imperio que destruye planetas?",
   "o": [
    "La Estrella de la Muerte",
-   "La Base Starkiller",
-   "El Ejecutor"
+   "El Ejecutor",
+   "La Base Eco"
   ]
  },
  {
@@ -466,7 +466,7 @@
   ]
  },
  {
-  "p": "En UNO, ¿con qué carta eliges color y además el siguiente tiene que comer cartas?",
+  "p": "En UNO, ¿con qué carta eliges color y el siguiente tiene que comer cartas?",
   "o": [
    "El comodín +4",
    "El +2",
@@ -493,8 +493,8 @@
   "p": "¿Qué juego de mesa mexicano es parecido al Monopoly?",
   "o": [
    "Turista",
-   "Lotería",
-   "Serpientes y escaleras"
+   "Maratón",
+   "Destreza"
   ]
  },
  {
@@ -506,11 +506,11 @@
   ]
  },
  {
-  "p": "¿Qué planeta es conocido como el planeta rojo?",
+  "p": "¿Cuál es el animal más grande del mundo?",
   "o": [
-   "Marte",
-   "Venus",
-   "Mercurio"
+   "La ballena azul",
+   "El elefante africano",
+   "El tiburón ballena"
   ]
  },
  {
@@ -554,15 +554,15 @@
   ]
  },
  {
-  "p": "¿Cuál es la fórmula química del agua?",
+  "p": "¿Qué científico propuso la teoría de la evolución de las especies?",
   "o": [
-   "H2O",
-   "CO2",
-   "O2"
+   "Charles Darwin",
+   "Gregor Mendel",
+   "Louis Pasteur"
   ]
  },
  {
-  "p": "¿Quién fundó Apple junto con Steve Wozniak?",
+  "p": "¿Quién fundó Apple junto con Wozniak?",
   "o": [
    "Steve Jobs",
    "Bill Gates",
@@ -570,11 +570,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama la tablet de Apple?",
+  "p": "¿Qué empresa fabrica los celulares Pixel?",
   "o": [
-   "iPad",
-   "iPod",
-   "iMac"
+   "Google",
+   "Motorola",
+   "Samsung"
   ]
  },
  {
@@ -610,11 +610,11 @@
   ]
  },
  {
-  "p": "¿Cómo se le dice a una foto que te tomas a ti mismo con el celular?",
+  "p": "¿Cómo se llama la app de Meta para publicar textos que compite con X?",
   "o": [
-   "Selfie",
-   "Story",
-   "Meme"
+   "Threads",
+   "Bluesky",
+   "Tumblr"
   ]
  },
  {
@@ -642,27 +642,27 @@
   ]
  },
  {
-  "p": "¿Cómo se llamaba la red social del pajarito azul antes de llamarse X?",
+  "p": "¿Qué red social nació a partir de la app Musical.ly?",
   "o": [
-   "Twitter",
-   "Tumblr",
-   "Threads"
+   "TikTok",
+   "Vine",
+   "Likee"
   ]
  },
  {
-  "p": "¿Qué app de música tiene un logo verde con tres rayas?",
+  "p": "¿Qué superhéroe de Marvel es Steve Rogers?",
   "o": [
-   "Spotify",
-   "Deezer",
-   "SoundCloud"
+   "El Capitán América",
+   "Iron Man",
+   "El Halcón"
   ]
  },
  {
-  "p": "¿Qué plataforma de streaming tiene una «N» roja de logo?",
+  "p": "¿Cómo se llama el mejor amigo de Peter Parker en las películas de Tom Holland?",
   "o": [
-   "Netflix",
-   "Nickelodeon",
-   "NBC"
+   "Ned",
+   "Harry Osborn",
+   "Flash Thompson"
   ]
  },
  {
@@ -682,19 +682,19 @@
   ]
  },
  {
-  "p": "¿Cuál es el dios más poderoso de la mitología griega en «God of War» y «Percy Jackson»?",
+  "p": "¿Qué héroe griego tenía el talón como único punto débil?",
   "o": [
-   "Zeus",
-   "Poseidón",
-   "Ares"
+   "Aquiles",
+   "Hércules",
+   "Perseo"
   ]
  },
  {
   "p": "¿Quién es el papá de Thor en Marvel y en la mitología nórdica?",
   "o": [
    "Odín",
-   "Zeus",
-   "Heimdall"
+   "Heimdall",
+   "Tyr"
   ]
  },
  {
@@ -730,19 +730,19 @@
   ]
  },
  {
-  "p": "¿Qué buscador de internet es el más usado del mundo?",
+  "p": "¿Cómo se llama el navegador de internet de Apple?",
   "o": [
-   "Google",
-   "Bing",
-   "Yahoo"
+   "Safari",
+   "Opera",
+   "Edge"
   ]
  },
  {
   "p": "¿Qué plataforma es famosa por ver transmisiones en vivo de videojuegos?",
   "o": [
    "Twitch",
-   "Spotify",
-   "Netflix"
+   "Discord",
+   "Steam"
   ]
  },
  {
@@ -770,19 +770,19 @@
   ]
  },
  {
-  "p": "¿Qué gas necesitamos respirar para vivir?",
+  "p": "¿Qué científico tiene una famosa foto sacando la lengua?",
   "o": [
-   "Oxígeno",
-   "Nitrógeno",
-   "Helio"
+   "Albert Einstein",
+   "Isaac Newton",
+   "Nikola Tesla"
   ]
  },
  {
-  "p": "¿Cuál es la estrella más cercana a la Tierra?",
+  "p": "¿Qué villano de los X-Men controla el metal?",
   "o": [
-   "El Sol",
-   "Sirio",
-   "La Estrella Polar"
+   "Magneto",
+   "Mística",
+   "Juggernaut"
   ]
  },
  {
@@ -821,8 +821,8 @@
   "p": "¿Qué tienen de especial los pies de los hobbits?",
   "o": [
    "Son grandes y peludos",
-   "Tienen seis dedos",
-   "Son azules"
+   "Son muy pequeños",
+   "Tienen garras"
   ]
  },
  {
@@ -850,11 +850,11 @@
   ]
  },
  {
-  "p": "¿Qué empresa creó el sistema operativo Windows?",
+  "p": "¿Qué combinación de teclas deshace lo último que hiciste?",
   "o": [
-   "Microsoft",
-   "Apple",
-   "IBM"
+   "Ctrl + Z",
+   "Ctrl + Y",
+   "Ctrl + X"
   ]
  },
  {
@@ -866,19 +866,19 @@
   ]
  },
  {
-  "p": "¿Cómo se llama la tienda de apps de los celulares Android?",
+  "p": "En «El Señor de los Anillos», ¿qué era Gollum antes de cambiar por el Anillo?",
   "o": [
-   "Play Store",
-   "App Store",
-   "Microsoft Store"
+   "Un hobbit",
+   "Un elfo",
+   "Un enano"
   ]
  },
  {
   "p": "¿Qué tipo de conector usan para cargar casi todos los celulares Android nuevos?",
   "o": [
    "USB-C",
-   "Lightning",
-   "Micro HDMI"
+   "Micro USB",
+   "Mini USB"
   ]
  }
 ]

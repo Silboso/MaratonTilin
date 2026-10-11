@@ -41,19 +41,19 @@
   ]
  },
  {
-  "p": "¿Qué banda virtual canta «Feel Good Inc.»?",
+  "p": "¿Qué banda canta «Feel Good Inc.»?",
   "o": [
    "Gorillaz",
-   "K/DA",
-   "Daft Punk"
+   "Blur",
+   "The Prodigy"
   ]
  },
  {
-  "p": "¿Quién canta «Rolling in the Deep» y «Hello»?",
+  "p": "¿Quién canta «Stay with Me» (2014)?",
   "o": [
-   "Adele",
-   "Lady Gaga",
-   "Amy Winehouse"
+   "Sam Smith",
+   "Lewis Capaldi",
+   "James Arthur"
   ]
  },
  {
@@ -82,11 +82,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué canción de Queen suena cuando alguien gana un campeonato?",
+  "p": "¿Con qué cantante de ópera grabó Freddie Mercury «Barcelona» para los Olímpicos de 1992?",
   "o": [
-   "We Are the Champions",
-   "We Will Rock You",
-   "Another One Bites the Dust"
+   "Montserrat Caballé",
+   "María Callas",
+   "Plácido Domingo"
   ]
  }
 ]

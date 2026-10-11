@@ -162,11 +162,11 @@
   ]
  },
  {
-  "p": "¿Cuántas Esferas del Dragón hay que reunir para invocar al dragón?",
+  "p": "En el doblaje latino de «Dragon Ball», ¿cómo se llama la esposa de Goku?",
   "o": [
-   "7",
-   "5",
-   "9"
+   "Milk",
+   "Bulma",
+   "Videl"
   ]
  },
  {
@@ -186,11 +186,11 @@
   ]
  },
  {
-  "p": "¿Cuál es el ataque más famoso de Goku?",
+  "p": "¿Cómo se llama la transformación que le pone el pelo dorado a Goku?",
   "o": [
-   "Kamehameha",
-   "Galick Ho",
-   "Makankosappo"
+   "Super Saiyajin",
+   "Kaioken",
+   "Ultra Instinto"
   ]
  },
  {
@@ -204,7 +204,7 @@
  {
   "p": "¿Qué maestro de Goku es un viejito que vive en una isla?",
   "o": [
-   "El Maestro Roshi",
+   "Roshi",
    "Kaio-sama",
    "Kami-sama"
   ]
@@ -285,8 +285,8 @@
   "p": "¿Qué técnica usa Naruto para hacer muchas copias de sí mismo?",
   "o": [
    "Clones de sombra",
-   "Rasengan",
-   "Chidori"
+   "Jutsu de transformación",
+   "Jutsu de sustitución"
   ]
  },
  {
@@ -370,19 +370,19 @@
   ]
  },
  {
-  "p": "¿Qué lleva siempre Luffy en la cabeza?",
+  "p": "En «One Piece», ¿cómo se llama el reno doctor de la tripulación de Luffy?",
   "o": [
-   "Un sombrero de paja",
-   "Una bandana",
-   "Unos goggles"
+   "Chopper",
+   "Brook",
+   "Franky"
   ]
  },
  {
-  "p": "En «Attack on Titan», ¿qué protege a la humanidad de los titanes?",
+  "p": "En «Attack on Titan», ¿qué usan los soldados para volar entre edificios?",
   "o": [
-   "Murallas gigantes",
-   "Un domo de energía",
-   "Un río de lava"
+   "El equipo de maniobras 3D",
+   "Alas mecánicas",
+   "Mochilas cohete"
   ]
  },
  {
@@ -437,8 +437,8 @@
   "p": "En «Demon Slayer», ¿qué les pasa a los demonios con la luz del sol?",
   "o": [
    "Mueren",
-   "Se hacen más fuertes",
-   "Se quedan dormidos"
+   "Se vuelven humanos",
+   "Pierden sus poderes un rato"
   ]
  },
  {
@@ -469,8 +469,8 @@
   "p": "En «My Hero Academia», ¿cómo se les dice a los superpoderes?",
   "o": [
    "Quirks (dones)",
-   "Nen",
-   "Chakra"
+   "Habilidades Plus",
+   "Despertares"
   ]
  },
  {
@@ -490,11 +490,11 @@
   ]
  },
  {
-  "p": "¿Cuántos golpes necesita Saitama para vencer a casi cualquiera?",
+  "p": "En «One Punch Man», ¿por qué Saitama se quedó calvo?",
   "o": [
-   "Uno",
-   "Tres",
-   "Cien"
+   "Por su entrenamiento",
+   "Por un monstruo",
+   "Por una enfermedad"
   ]
  },
  {
@@ -533,8 +533,8 @@
   "p": "En «Inuyasha», ¿qué buscan Inuyasha y Kagome?",
   "o": [
    "Los fragmentos de la Perla de Shikon",
-   "Las Esferas del Dragón",
-   "Las Gemas del Infinito"
+   "Las siete espadas sagradas",
+   "El espejo de Kikyo"
   ]
  },
  {
@@ -590,7 +590,7 @@
   "o": [
    "Totoro",
    "Kodama",
-   "Sin Cara"
+   "Jiji"
   ]
  },
  {
@@ -610,11 +610,11 @@
   ]
  },
  {
-  "p": "En «Toy Story», ¿cómo se llama el dinosaurio verde?",
+  "p": "En «Toy Story», ¿cómo se llama el vecino que destruye juguetes?",
   "o": [
-   "Rex",
-   "Hamm",
-   "Slinky"
+   "Sid",
+   "Al",
+   "Lenny"
   ]
  },
  {
@@ -722,11 +722,11 @@
   ]
  },
  {
-  "p": "En «Frozen», ¿cómo se llama el muñeco de nieve?",
+  "p": "En «Frozen», ¿cómo se llama el reino de Elsa y Anna?",
   "o": [
-   "Olaf",
-   "Sven",
-   "Kristoff"
+   "Arendelle",
+   "Corona",
+   "Atlántica"
   ]
  },
  {
@@ -858,11 +858,11 @@
   ]
  },
  {
-  "p": "¿Qué película de Pixar celebra el Día de Muertos?",
+  "p": "En «Coco», ¿cómo se llama el pueblo donde vive Miguel?",
   "o": [
-   "Coco",
-   "Encanto",
-   "Luca"
+   "Santa Cecilia",
+   "San Juan",
+   "Santa Rosa"
   ]
  },
  {

@@ -10,11 +10,11 @@
  },
  {
   "deporte": true,
-  "p": "¿De qué película es secuela la serie «Cobra Kai»?",
+  "p": "En «Rocket Power», ¿qué practican los amigos?",
   "o": [
-   "Karate Kid",
-   "Rocky",
-   "Kung Fu Panda"
+   "Deportes extremos",
+   "Fútbol",
+   "Béisbol"
   ]
  },
  {
@@ -46,11 +46,11 @@
  },
  {
   "deporte": true,
-  "p": "En «Los Simpson», ¿en qué se mueve siempre Bart?",
+  "p": "En «Los Picapiedra», ¿qué deporte juegan Pedro y Pablo en su liga?",
   "o": [
-   "En patineta",
-   "En bicicleta",
-   "En patines"
+   "Boliche",
+   "Golf",
+   "Béisbol"
   ]
  },
  {
@@ -178,11 +178,11 @@
   ]
  },
  {
-  "p": "¿Qué villano mono quiere vencer a Las Chicas Superpoderosas?",
+  "p": "En «Las Chicas Superpoderosas», ¿cuál es la más ruda de las tres?",
   "o": [
-   "Mojo Jojo",
-   "Él",
-   "Princesa"
+   "Bellota",
+   "Bombón",
+   "Burbuja"
   ]
  },
  {
@@ -202,11 +202,11 @@
   ]
  },
  {
-  "p": "¿Cuál es la comida favorita de Garfield?",
+  "p": "¿Cómo se llama el perro de Garfield?",
   "o": [
-   "La lasaña",
-   "La pizza",
-   "Las hamburguesas"
+   "Odie",
+   "Nermal",
+   "Pooky"
   ]
  },
  {
@@ -266,11 +266,11 @@
   ]
  },
  {
-  "p": "En «Samurai Jack», ¿cómo se llama el villano?",
+  "p": "En «Samurai Jack», ¿cómo se llama el villano principal?",
   "o": [
    "Aku",
-   "Mumm-Ra",
-   "Él"
+   "Scaramouche",
+   "Demongo"
   ]
  },
  {
@@ -293,8 +293,8 @@
   "p": "En «Phineas y Ferb», ¿cómo se llama el científico malvado?",
   "o": [
    "Doofenshmirtz",
-   "Mojo Jojo",
-   "Plankton"
+   "Rodney",
+   "Monograma"
   ]
  },
  {
@@ -362,11 +362,11 @@
   ]
  },
  {
-  "p": "¿Dónde vive Bob Esponja?",
+  "p": "En «Bob Esponja», ¿cómo se llama la ciudad donde vive?",
   "o": [
-   "En una piña debajo del mar",
-   "En una roca",
-   "En un barco hundido"
+   "Fondo de Bikini",
+   "Atlántida",
+   "Ciudad Coral"
   ]
  },
  {
@@ -378,11 +378,11 @@
   ]
  },
  {
-  "p": "¿Qué animal es Patricio, el mejor amigo de Bob Esponja?",
+  "p": "En «Bob Esponja», ¿cómo se llama la hamburguesa del Crustáceo Cascarudo?",
   "o": [
-   "Una estrella de mar",
-   "Un pulpo",
-   "Un cangrejo"
+   "Cangreburger",
+   "Plankburger",
+   "Burger Marina"
   ]
  },
  {
@@ -506,11 +506,11 @@
   ]
  },
  {
-  "p": "En «Power Rangers», ¿de qué color es el ranger líder?",
+  "p": "En «Power Rangers», ¿cómo se llama el robot gigante que forman al unirse?",
   "o": [
-   "Rojo",
-   "Azul",
-   "Negro"
+   "Megazord",
+   "Gigazord",
+   "Robozord"
   ]
  },
  {
@@ -525,8 +525,8 @@
   "p": "¿En qué pueblo pasa «Stranger Things»?",
   "o": [
    "Hawkins",
-   "Riverdale",
-   "Derry"
+   "Roanoke",
+   "Millbrook"
   ]
  },
  {
@@ -573,8 +573,8 @@
   "p": "En «Friends», ¿en qué cafetería se juntan?",
   "o": [
    "Central Perk",
-   "Starbucks",
-   "Monk's Café"
+   "Java Joe's",
+   "Coffee Corner"
   ]
  },
  {
@@ -594,11 +594,11 @@
   ]
  },
  {
-  "p": "¿Dónde trabaja Homero Simpson?",
+  "p": "En «Los Simpson», ¿cómo se llama el perro de la familia?",
   "o": [
-   "En la planta nuclear",
-   "En el Kwik-E-Mart",
-   "En la escuela"
+   "Ayudante de Santa",
+   "Bola de Nieve",
+   "Bobo"
   ]
  },
  {
@@ -674,11 +674,11 @@
   ]
  },
  {
-  "p": "¿Dónde vive el Chavo del 8?",
+  "p": "En «El Chapulín Colorado», ¿qué toma el Chapulín para hacerse pequeño?",
   "o": [
-   "En un barril",
-   "En una caja",
-   "En la azotea"
+   "Pastillas de chiquitolina",
+   "Un jarabe mágico",
+   "Polvos de hada"
   ]
  },
  {
@@ -717,16 +717,16 @@
   "p": "En «Rebelde», ¿cómo se llama la escuela?",
   "o": [
    "Elite Way School",
-   "Hollywood Arts",
-   "Las Encinas"
+   "Colegio Real",
+   "Instituto Mariano"
   ]
  },
  {
   "p": "En «Supernatural», ¿cómo se apellidan Sam y Dean?",
   "o": [
    "Winchester",
-   "Salvatore",
-   "Grimes"
+   "Campbell",
+   "Singer"
   ]
  },
  {
@@ -845,8 +845,8 @@
   "p": "¿Cómo se llama el niño humano de «Hora de Aventura»?",
   "o": [
    "Finn",
-   "Ben",
-   "Jake"
+   "Marshall",
+   "Billy"
   ]
  }
 ]

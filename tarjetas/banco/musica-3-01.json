@@ -46,11 +46,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué canción de Snoop Dogg y The Doors salió en Need for Speed Underground 2?",
+  "p": "¿Qué canción de The Doors remezclada con Snoop Dogg salió en Need for Speed Underground 2?",
   "o": [
    "«Riders on the Storm»",
-   "«Light My Fire»",
-   "«Drop It Like It's Hot»"
+   "«Break On Through»",
+   "«People Are Strange»"
   ]
  },
  {
@@ -136,7 +136,7 @@
  },
  {
   "deporte": true,
-  "p": "¿Cómo se llama la canción del Mundial Italia 90 de Gianna Nannini y Edoardo Bennato?",
+  "p": "¿Cómo se llama la canción del Mundial de 1990 de Gianna Nannini y Edoardo Bennato?",
   "o": [
    "«Un'estate italiana»",
    "«Volare»",
@@ -293,8 +293,8 @@
   "p": "¿En qué concierto benéfico de 1985 dio Queen una actuación legendaria?",
   "o": [
    "Live Aid",
-   "Woodstock",
-   "Rock in Rio"
+   "Live 8",
+   "Farm Aid"
   ]
  },
  {
@@ -618,19 +618,19 @@
   ]
  },
  {
-  "p": "¿A quién le dicen «el Sol de México»?",
+  "p": "¿Quién era el baterista de Linkin Park en la época de Chester?",
   "o": [
-   "Luis Miguel",
-   "Juan Gabriel",
-   "Alejandro Fernández"
+   "Rob Bourdon",
+   "Brad Delson",
+   "Dave Farrell"
   ]
  },
  {
-  "p": "¿A quién le dicen «el Divo de Juárez»?",
+  "p": "¿Cómo se llama el guitarrista de My Chemical Romance del pelo afro?",
   "o": [
-   "Juan Gabriel",
-   "José José",
-   "Vicente Fernández"
+   "Ray Toro",
+   "Frank Iero",
+   "Bob Bryar"
   ]
  },
  {
@@ -642,11 +642,11 @@
   ]
  },
  {
-  "p": "¿A quién le dicen «el Charro de Huentitán»?",
+  "p": "¿Cuál fue el primer sencillo de The Beatles?",
   "o": [
-   "Vicente Fernández",
-   "Pedro Infante",
-   "Antonio Aguilar"
+   "«Love Me Do»",
+   "«Please Please Me»",
+   "«She Loves You»"
   ]
  },
  {
@@ -730,11 +730,11 @@
   ]
  },
  {
-  "p": "¿Cuál es el disco más famoso de Nirvana, el del bebé en el agua?",
+  "p": "¿Qué integrante de Queen compuso «Radio Ga Ga»?",
   "o": [
-   "Nevermind",
-   "In Utero",
-   "Bleach"
+   "Roger Taylor",
+   "Freddie Mercury",
+   "Brian May"
   ]
  },
  {
@@ -746,11 +746,11 @@
   ]
  },
  {
-  "p": "¿Cuál es el nombre real de Bruno Mars?",
+  "p": "¿Qué bajista fundador de Paramore dejó la banda en 2015?",
   "o": [
-   "Peter Hernández",
-   "Bruno Fernández",
-   "Mario Bruno"
+   "Jeremy Davis",
+   "Josh Farro",
+   "Zac Farro"
   ]
  },
  {
@@ -762,19 +762,19 @@
   ]
  },
  {
-  "p": "¿Qué guitarrista de Guns N' Roses usa sombrero de copa?",
+  "p": "¿En qué ciudad nació Michael Jackson?",
   "o": [
-   "Slash",
-   "Izzy Stradlin",
-   "Duff McKagan"
+   "Gary, Indiana",
+   "Detroit",
+   "Chicago"
   ]
  },
  {
-  "p": "¿Qué disco de Pink Floyd tiene un prisma en la portada?",
+  "p": "¿Qué canción de Paramore ganó un Grammy en 2015?",
   "o": [
-   "The Dark Side of the Moon",
-   "The Wall",
-   "Wish You Were Here"
+   "«Ain't It Fun»",
+   "«Still Into You»",
+   "«Misery Business»"
   ]
  },
  {

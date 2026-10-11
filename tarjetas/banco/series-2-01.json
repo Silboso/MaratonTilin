@@ -434,11 +434,11 @@
   ]
  },
  {
-  "p": "En «Plaza Sésamo», ¿cómo se llama el monstruito rojo y peludo?",
+  "p": "En «Plaza Sésamo», ¿cómo se llama el gruñón que vive en un bote de basura?",
   "o": [
-   "Elmo",
-   "Beto",
-   "Abelardo"
+   "Óscar",
+   "Abelardo",
+   "Beto"
   ]
  },
  {
@@ -522,11 +522,11 @@
   ]
  },
  {
-  "p": "En «Los Simpson», ¿cómo se llama el jefe de Homero?",
+  "p": "En «Los Simpson», ¿cómo se llama el asistente del señor Burns?",
   "o": [
-   "El señor Burns",
    "Smithers",
-   "Moe"
+   "Lenny",
+   "Carl"
   ]
  },
  {
@@ -658,11 +658,11 @@
   ]
  },
  {
-  "p": "En «El Chavo del 8», ¿cómo se llama el maestro?",
+  "p": "En «El Chavo del 8», ¿qué número de departamento es el de Don Ramón?",
   "o": [
-   "El Profesor Jirafales",
-   "El Señor Barriga",
-   "Don Ramón"
+   "72",
+   "71",
+   "14"
   ]
  },
  {
@@ -722,11 +722,11 @@
   ]
  },
  {
-  "p": "En «Sherlock», ¿cómo se llama el compañero de Sherlock?",
+  "p": "En «Sherlock», ¿cómo se llama el gran enemigo de Sherlock?",
   "o": [
-   "John Watson",
-   "Lestrade",
-   "Mycroft"
+   "Moriarty",
+   "Mycroft",
+   "Lestrade"
   ]
  },
  {
@@ -742,7 +742,7 @@
   "o": [
    "Es asesino en serie",
    "Es narcotraficante",
-   "Es espía ruso"
+   "Es un estafador"
   ]
  },
  {
@@ -805,8 +805,8 @@
   "p": "En «Riverdale», ¿en qué restaurante se juntan los amigos?",
   "o": [
    "Pop's",
-   "Central Perk",
-   "El Krusty Burger"
+   "Archie's Diner",
+   "The Whyte Wyrm"
   ]
  },
  {

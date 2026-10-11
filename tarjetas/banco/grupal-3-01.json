@@ -1,7 +1,7 @@
 [
  {
   "deporte": true,
-  "p": "¿Qué mexicano ganó oro en taekwondo en Pekín 2008, además de María Espinoza?",
+  "p": "¿Qué taekwondoín mexicano ganó oro en Pekín 2008?",
   "o": [
    "Guillermo Pérez",
    "Rommel Pacheco",
@@ -48,7 +48,7 @@
   "deporte": true,
   "p": "¿Qué estadio es el primero en tener tres inauguraciones de Mundial?",
   "o": [
-   "El Estadio Azteca",
+   "El Azteca",
    "El Maracaná",
    "Wembley"
   ]
@@ -154,11 +154,11 @@
  },
  {
   "deporte": true,
-  "p": "¿En qué deporte ganó oro olímpico María del Rosario Espinoza?",
+  "p": "¿En cuántos Juegos Olímpicos seguidos ganó medalla María del Rosario Espinoza?",
   "o": [
-   "Taekwondo",
-   "Judo",
-   "Halterofilia"
+   "3",
+   "2",
+   "4"
   ]
  },
  {
@@ -171,11 +171,11 @@
   ]
  },
  {
-  "p": "¿De qué estado es el mole negro?",
+  "p": "¿Qué antivirus gratuito tenía un paraguas rojo de logo?",
   "o": [
-   "Oaxaca",
-   "Puebla",
-   "Tlaxcala"
+   "Avira",
+   "Avast",
+   "AVG"
   ]
  },
  {
@@ -187,19 +187,19 @@
   ]
  },
  {
-  "p": "¿Qué insectos tostados se comen en Oaxaca?",
+  "p": "¿Qué bebida espumosa de Oaxaca se hace con maíz, cacao y flor de cacao?",
   "o": [
-   "Chapulines",
-   "Escamoles",
-   "Jumiles"
+   "Tejate",
+   "Champurrado",
+   "Tascalate"
   ]
  },
  {
-  "p": "¿Qué bebida prehispánica se hace de maguey fermentado?",
+  "p": "¿Qué empresa hace las cervezas Indio y XX?",
   "o": [
-   "Pulque",
-   "Tepache",
-   "Tejuino"
+   "Heineken",
+   "Grupo Modelo",
+   "Constellation Brands"
   ]
  },
  {
@@ -211,11 +211,11 @@
   ]
  },
  {
-  "p": "¿Qué marca hace el Gansito y los Pingüinos?",
+  "p": "Completa el dicho: «Hijo de tigre…»",
   "o": [
-   "Marinela",
-   "Gamesa",
-   "Wonder"
+   "…pintito",
+   "…rayado",
+   "…manchado"
   ]
  },
  {
@@ -227,11 +227,11 @@
   ]
  },
  {
-  "p": "¿Qué dulce se hace con calabaza cocida en piloncillo?",
+  "p": "¿En qué película dicen «Me llamo Máximo Décimo Meridio»?",
   "o": [
-   "Calabaza en tacha",
-   "Cajeta",
-   "Ate"
+   "Gladiador",
+   "Troya",
+   "300"
   ]
  },
  {
@@ -299,19 +299,19 @@
   ]
  },
  {
-  "p": "¿Qué significa «hacer una vaca»?",
+  "p": "¿Qué chile fresco se llama «ancho» cuando se seca?",
   "o": [
-   "Juntar dinero entre todos",
-   "Faltar a clases",
-   "Comer de más"
+   "El poblano",
+   "El jalapeño",
+   "El serrano"
   ]
  },
  {
-  "p": "¿Qué significa que algo esté «de pelos»?",
+  "p": "¿De qué estado es la cecina de Yecapixtla?",
   "o": [
-   "Que está muy bien",
-   "Que está sucio",
-   "Que está difícil"
+   "Morelos",
+   "Puebla",
+   "Hidalgo"
   ]
  },
  {
@@ -347,11 +347,11 @@
   ]
  },
  {
-  "p": "¿En qué película dicen «La vida es como una caja de chocolates»?",
+  "p": "¿Qué personaje de «The Office» dice siempre «That's what she said»?",
   "o": [
-   "Forrest Gump",
-   "Titanic",
-   "Charlie y la fábrica de chocolate"
+   "Michael Scott",
+   "Dwight Schrute",
+   "Jim Halpert"
   ]
  },
  {
@@ -523,11 +523,11 @@
   ]
  },
  {
-  "p": "¿Qué es el «papel china»?",
+  "p": "¿Qué tasa de IVA se cobra en la franja fronteriza norte con el estímulo fiscal?",
   "o": [
-   "Papel delgadito de colores",
-   "Papel para envolver regalos",
-   "Papel cuadriculado"
+   "8%",
+   "16%",
+   "11%"
   ]
  },
  {
@@ -555,11 +555,11 @@
   ]
  },
  {
-  "p": "¿De qué colores veían algunos el vestido viral que otros veían azul y negro?",
+  "p": "¿Hasta qué día se presenta la declaración anual de personas físicas?",
   "o": [
-   "Blanco y dorado",
-   "Rosa y gris",
-   "Verde y café"
+   "El 30 de abril",
+   "El 31 de marzo",
+   "El 15 de mayo"
   ]
  },
  {
@@ -595,11 +595,11 @@
   ]
  },
  {
-  "p": "¿Qué chile seco es un jalapeño ahumado?",
+  "p": "¿Qué significan las siglas SAR?",
   "o": [
-   "Chipotle",
-   "Guajillo",
-   "Pasilla"
+   "Sistema de Ahorro para el Retiro",
+   "Servicio de Atención al Retirado",
+   "Seguro de Accidentes y Riesgos"
   ]
  },
  {
@@ -651,11 +651,11 @@
   ]
  },
  {
-  "p": "¿Qué platillo es tradicional de Guadalajara en caldo de chivo o res?",
+  "p": "¿Qué es una «Sofipo»?",
   "o": [
-   "Birria",
-   "Pozole",
-   "Menudo"
+   "Una sociedad financiera popular",
+   "Un tipo de seguro de gastos médicos",
+   "Un fondo del gobierno para vivienda"
   ]
  },
  {
@@ -675,11 +675,11 @@
   ]
  },
  {
-  "p": "¿Qué sopa se come para curar la cruda?",
+  "p": "¿Qué bebida fría de Tabasco y Chiapas se hace con cacao y masa de maíz?",
   "o": [
-   "Menudo",
-   "Sopa de fideo",
-   "Crema de elote"
+   "Pozol",
+   "Champurrado",
+   "Tejuino"
   ]
  },
  {
@@ -875,11 +875,11 @@
   ]
  },
  {
-  "p": "¿Cuál es la cadena de cines mexicana más grande?",
+  "p": "¿Qué significa que te «piquen los ojos»?",
   "o": [
-   "Cinépolis",
-   "Cinemex",
-   "Cinemark"
+   "Que te engañen",
+   "Que te hagan llorar",
+   "Que te desvelen"
   ]
  },
  {

@@ -12,7 +12,7 @@
   "o": [
    "Perry",
    "Pinky",
-   "Rufus"
+   "Peter"
   ]
  },
  {
@@ -52,8 +52,8 @@
   "p": "¿En qué ciudad viven Las Chicas Superpoderosas?",
   "o": [
    "Saltadilla",
-   "Ciudad Gótica",
-   "Springfield"
+   "Ciudad Central",
+   "Villa Alegre"
   ]
  },
  {
@@ -66,11 +66,11 @@
   ]
  },
  {
-  "p": "En «Los Simpson», ¿de qué color es el pelo de Marge?",
+  "p": "En «Los Simpson», ¿cómo se llama el dueño del Kwik-E-Mart?",
   "o": [
-   "Azul",
-   "Morado",
-   "Verde"
+   "Apu",
+   "Moe",
+   "Cletus"
   ]
  },
  {
@@ -93,32 +93,32 @@
   "p": "En «Los Simpson», ¿cómo se llama el bar al que va Homero?",
   "o": [
    "La taberna de Moe",
-   "El Kwik-E-Mart",
-   "El Krusty Burger"
+   "El bar de Barney",
+   "La cantina de Lenny"
   ]
  },
  {
-  "p": "En «Pinky y Cerebro», ¿qué intentan hacer cada noche?",
+  "p": "En «Animaniacs», ¿cómo se llaman los hermanos Warner?",
   "o": [
-   "Conquistar el mundo",
-   "Escapar del laboratorio",
-   "Robar todo el queso"
+   "Yakko, Wakko y Dot",
+   "Pinky, Cerebro y Dot",
+   "Buster, Babs y Plucky"
   ]
  },
  {
-  "p": "En «Los Picapiedra», ¿cómo se llama la mascota dinosaurio de Pedro?",
+  "p": "En «Los Picapiedra», ¿cómo se llama el mejor amigo de Pedro?",
   "o": [
-   "Dino",
-   "Rex",
-   "Bronto"
+   "Pablo Mármol",
+   "Bam-Bam",
+   "Señor Rajuela"
   ]
  },
  {
-  "p": "En Los Simpson, ¿quién dice «Hola-holita, vecinillo»?",
+  "p": "En «Los Simpson», ¿cómo se llama el vecino religioso de Homero?",
   "o": [
    "Ned Flanders",
-   "Moe",
-   "Lenny"
+   "Lenny",
+   "Moe"
   ]
  },
  {

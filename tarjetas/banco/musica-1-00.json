@@ -17,11 +17,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Quién canta «Waka Waka», la canción del Mundial 2010?",
+  "p": "¿Qué selección ganó el Mundial en el que sonó «Waka Waka»?",
   "o": [
-   "Shakira",
-   "Jennifer Lopez",
-   "Pitbull"
+   "España",
+   "Holanda",
+   "Alemania"
   ]
  },
  {
@@ -50,11 +50,11 @@
   ]
  },
  {
-  "p": "¿Quién canta «Thriller»?",
+  "p": "¿Quién canta «Halo» (2008)?",
   "o": [
-   "Michael Jackson",
-   "Prince",
-   "Lionel Richie"
+   "Beyoncé",
+   "Rihanna",
+   "Alicia Keys"
   ]
  },
  {

@@ -19,11 +19,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué juego de Nintendo 64 era de snowboard?",
+  "p": "¿Cuántas copas de carreras tiene Mario Kart Wii en total?",
   "o": [
-   "1080° Snowboarding",
-   "SSX",
-   "Cool Boarders"
+   "8",
+   "4",
+   "6"
   ]
  },
  {
@@ -44,7 +44,7 @@
   ]
  },
  {
-  "p": "¿De qué ciudad de Runaterra es Teemo?",
+  "p": "¿De qué lugar de Runaterra es Teemo?",
   "o": [
    "Ciudad de Bandle",
    "Piltover",
@@ -148,11 +148,11 @@
   ]
  },
  {
-  "p": "¿Qué empresa compró Minecraft en 2014?",
+  "p": "En LoL, ¿cuántos dragones elementales necesitas para el Alma del Dragón?",
   "o": [
-   "Microsoft",
-   "Sony",
-   "Nintendo"
+   "4",
+   "3",
+   "5"
   ]
  },
  {

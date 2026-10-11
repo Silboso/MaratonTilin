@@ -118,7 +118,7 @@
  },
  {
   "deporte": true,
-  "p": "En Mario Kart, ¿cómo se llama el turbo que ganas al derrapar en una curva?",
+  "p": "En Mario Kart, ¿cómo se llama el impulso que ganas al derrapar en una curva?",
   "o": [
    "Mini-turbo",
    "Súper salto",
@@ -525,7 +525,7 @@
   "p": "En Gears of War, ¿qué tiene el rifle Lancer?",
   "o": [
    "Una motosierra",
-   "Una bayoneta",
+   "Un lanzagranadas",
    "Un lanzallamas"
   ]
  },
@@ -562,11 +562,11 @@
   ]
  },
  {
-  "p": "¿En qué tierras pasa Elden Ring?",
+  "p": "¿Dónde pasa Elden Ring?",
   "o": [
-   "Las Tierras Intermedias",
-   "Lordran",
-   "Yharnam"
+   "En las Tierras Intermedias",
+   "En Lordran",
+   "En Yharnam"
   ]
  },
  {
@@ -586,7 +586,7 @@
   ]
  },
  {
-  "p": "¿Qué luchadora china de Street Fighter es famosa por sus patadas rápidas?",
+  "p": "¿Qué luchadora fue la primera mujer jugable de Street Fighter?",
   "o": [
    "Chun-Li",
    "Cammy",
@@ -709,8 +709,8 @@
   "p": "¿Cómo empieza el famoso código Konami?",
   "o": [
    "Arriba, arriba, abajo, abajo",
-   "A, B, A, B",
-   "Izquierda, derecha, izquierda, derecha"
+   "Abajo, abajo, arriba, arriba",
+   "A, B, A, B, Start"
   ]
  },
  {
@@ -834,7 +834,7 @@
   ]
  },
  {
-  "p": "¿Qué canción de DragonForce era la más difícil de Guitar Hero III?",
+  "p": "¿Qué canción era la más difícil de Guitar Hero III?",
   "o": [
    "«Through the Fire and Flames»",
    "«Cult of Personality»",
@@ -861,8 +861,8 @@
   "p": "En Mass Effect, ¿cómo se llama la nave del comandante Shepard?",
   "o": [
    "La Normandía",
-   "La Bebop",
-   "El Halcón Milenario"
+   "La Tempest",
+   "La Destiny Ascension"
   ]
  },
  {

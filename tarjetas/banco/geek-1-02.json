@@ -23,7 +23,7 @@
   "o": [
    "Blancas",
    "Negras",
-   "Las que elijas"
+   "Se echa un volado"
   ]
  },
  {
@@ -36,11 +36,11 @@
   ]
  },
  {
-  "p": "¿A qué superhéroe le dicen «el Hombre de Acero»?",
+  "p": "¿Cómo se llama la nube de Google para guardar archivos?",
   "o": [
-   "Superman",
-   "Iron Man",
-   "Capitán América"
+   "Drive",
+   "Dropbox",
+   "OneDrive"
   ]
  },
  {
@@ -76,11 +76,11 @@
   ]
  },
  {
-  "p": "¿Cuántas caras tiene un dado normal de juegos de mesa?",
+  "p": "En «Adivina quién», ¿cuántos personajes tiene el tablero de cada jugador?",
   "o": [
-   "6",
-   "8",
-   "12"
+   "24",
+   "20",
+   "30"
   ]
  },
  {
@@ -116,11 +116,11 @@
   ]
  },
  {
-  "p": "¿A qué temperatura hierve el agua al nivel del mar?",
+  "p": "¿Cómo se llama el cambio de estado cuando el hielo se vuelve agua?",
   "o": [
-   "100 °C",
-   "90 °C",
-   "120 °C"
+   "Fusión",
+   "Evaporación",
+   "Condensación"
   ]
  },
  {
@@ -135,8 +135,8 @@
   "p": "¿Qué app de Microsoft se usa para juntas y clases en línea?",
   "o": [
    "Teams",
-   "Meet",
-   "Webex"
+   "Zoom",
+   "Meet"
   ]
  },
  {
@@ -148,19 +148,19 @@
   ]
  },
  {
-  "p": "¿Con qué se mueve la flechita en la pantalla de una computadora?",
+  "p": "¿Qué red social es famosa por guardar ideas en tableros con «pines»?",
   "o": [
-   "Con el mouse",
-   "Con el teclado",
-   "Con el monitor"
+   "Pinterest",
+   "Tumblr",
+   "Flickr"
   ]
  },
  {
-  "p": "¿Qué significan las siglas IA?",
+  "p": "¿Qué marca de audífonos tiene una «b» de logo?",
   "o": [
-   "Inteligencia Artificial",
-   "Internet Avanzado",
-   "Interfaz Automática"
+   "Beats",
+   "Bose",
+   "JBL"
   ]
  },
  {

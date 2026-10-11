@@ -195,8 +195,8 @@
   "p": "En «Horimiya», ¿qué esconde Miyamura en la escuela?",
   "o": [
    "Sus tatuajes y piercings",
-   "Que es rico",
-   "Que es un idol"
+   "Que trabaja de mesero",
+   "Que dibuja manga"
   ]
  },
  {
@@ -387,8 +387,8 @@
   "p": "En «A Silent Voice», ¿qué le hacía Shoya a Shoko en la primaria?",
   "o": [
    "La molestaba",
-   "La protegía",
-   "Le copiaba la tarea"
+   "Le enseñaba señas",
+   "Era su novio"
   ]
  },
  {
@@ -435,8 +435,8 @@
   "p": "¿En qué ciudad pasa «Akira»?",
   "o": [
    "Neo-Tokyo",
-   "Night City",
-   "Ciudad Academia"
+   "Tokyo-3",
+   "Nueva Edo"
   ]
  },
  {
@@ -475,8 +475,8 @@
   "p": "En «Evangelion», ¿cómo se llama la organización que opera los EVA?",
   "o": [
    "NERV",
-   "Shocker",
-   "SOLDIER"
+   "SEELE",
+   "UNSC"
   ]
  },
  {
@@ -504,11 +504,11 @@
   ]
  },
  {
-  "p": "En «Attack on Titan», ¿qué cuerpo militar sale más allá de las murallas?",
+  "p": "En «Attack on Titan», ¿qué división sale más allá de las murallas?",
   "o": [
-   "El Cuerpo de Exploración",
+   "La Legión de Reconocimiento",
    "La Policía Militar",
-   "La Guarnición"
+   "Las Tropas de Guarnición"
   ]
  },
  {
@@ -640,7 +640,7 @@
   ]
  },
  {
-  "p": "En «Toy Story 3», ¿cómo se llama el oso villano?",
+  "p": "En «Toy Story 3», ¿cómo se llama el villano que manda en la guardería?",
   "o": [
    "Lotso",
    "Stinky Pete",
@@ -651,16 +651,16 @@
   "p": "En «Coco», ¿cómo se llama el cantante ídolo de Miguel?",
   "o": [
    "Ernesto de la Cruz",
-   "Héctor",
-   "Pedro Infante"
+   "Héctor Rivera",
+   "Chicharrón"
   ]
  },
  {
   "p": "En «Up», ¿cómo se llama el niño explorador?",
   "o": [
    "Russell",
-   "Kevin",
-   "Dug"
+   "Carl",
+   "Charles"
   ]
  },
  {
@@ -680,19 +680,19 @@
   ]
  },
  {
-  "p": "En «Frozen», ¿cómo se llama el reno de Kristoff?",
+  "p": "En «Frozen 2», ¿cómo se llama la salamandra del espíritu del fuego?",
   "o": [
-   "Sven",
-   "Olaf",
-   "Hans"
+   "Bruni",
+   "Gale",
+   "Nokk"
   ]
  },
  {
   "p": "En «Matrix», ¿cómo se llama el agente villano?",
   "o": [
    "Smith",
-   "Johnson",
-   "Morfeo"
+   "Anderson",
+   "Cypher"
   ]
  },
  {
@@ -768,11 +768,11 @@
   ]
  },
  {
-  "p": "¿Qué película mexicana de 2018, en blanco y negro, sigue a Cleo, trabajadora del hogar?",
+  "p": "¿Qué actriz protagonizó «Roma» de Alfonso Cuarón?",
   "o": [
-   "«Roma»",
-   "«Ya no estoy aquí»",
-   "«Amores perros»"
+   "Yalitza Aparicio",
+   "Marina de Tavira",
+   "Eiza González"
   ]
  },
  {

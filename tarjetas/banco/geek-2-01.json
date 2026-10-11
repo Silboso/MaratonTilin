@@ -40,8 +40,8 @@
   "p": "En ajedrez, ¿qué pasa cuando un peón llega a la última fila?",
   "o": [
    "Se corona en otra pieza",
-   "Sale del tablero",
-   "Regresa a su lugar"
+   "Puede moverse hacia atrás",
+   "Se vuelve rey"
   ]
  },
  {
@@ -353,11 +353,11 @@
   ]
  },
  {
-  "p": "En Harry Potter, ¿cómo se llama la calle de tiendas mágicas en Londres?",
+  "p": "En Harry Potter, ¿cómo se llama la calle donde compran sus útiles de Hogwarts?",
   "o": [
    "El Callejón Diagon",
-   "El Callejón Knockturn",
-   "Hogsmeade"
+   "Hogsmeade",
+   "La Calle de la Hilandera"
   ]
  },
  {
@@ -380,8 +380,8 @@
   "p": "En Harry Potter, ¿qué es un «muggle»?",
   "o": [
    "Una persona sin magia",
-   "Un mago malvado",
-   "Una criatura mágica"
+   "Un mago de sangre mestiza",
+   "Un hijo de muggles con magia"
   ]
  },
  {
@@ -505,11 +505,11 @@
   ]
  },
  {
-  "p": "¿Qué científico propuso la teoría de la relatividad?",
+  "p": "¿Qué científico mexicano ganó el Premio Nobel de Química en 1995?",
   "o": [
-   "Albert Einstein",
-   "Isaac Newton",
-   "Stephen Hawking"
+   "Mario Molina",
+   "Guillermo Haro",
+   "Luis E. Miramontes"
   ]
  },
  {
@@ -521,19 +521,19 @@
   ]
  },
  {
-  "p": "¿Cómo se llama nuestra galaxia?",
+  "p": "¿Quién fue el primer astronauta mexicano en ir al espacio?",
   "o": [
-   "La Vía Láctea",
-   "Andrómeda",
-   "La Nube de Magallanes"
+   "Rodolfo Neri Vela",
+   "José Hernández",
+   "Katya Echazarreta"
   ]
  },
  {
-  "p": "¿Cuál es el animal terrestre más rápido?",
+  "p": "¿Qué empresa de cohetes fundó Jeff Bezos?",
   "o": [
-   "El guepardo",
-   "El león",
-   "El caballo"
+   "Blue Origin",
+   "SpaceX",
+   "Virgin Galactic"
   ]
  },
  {
@@ -553,11 +553,11 @@
   ]
  },
  {
-  "p": "¿Qué significa la «e» de «e-mail»?",
+  "p": "¿Qué red social tenía un límite de 140 caracteres por mensaje?",
   "o": [
-   "Electrónico",
-   "Exprés",
-   "Externo"
+   "Twitter",
+   "Tumblr",
+   "Facebook"
   ]
  },
  {
@@ -609,7 +609,7 @@
   ]
  },
  {
-  "p": "¿Qué marca finlandesa hizo el famoso celular 3310?",
+  "p": "¿Qué marca hizo el famoso celular 3310, «el indestructible»?",
   "o": [
    "Nokia",
    "Motorola",
@@ -657,11 +657,11 @@
   ]
  },
  {
-  "p": "¿Qué significan las siglas PC?",
+  "p": "¿Qué empresa creó el formato de archivo PDF?",
   "o": [
-   "Personal Computer",
-   "Power Center",
-   "Program Control"
+   "Adobe",
+   "Microsoft",
+   "Apple"
   ]
  },
  {
@@ -673,11 +673,11 @@
   ]
  },
  {
-  "p": "¿Para qué sirve un «captcha» en internet?",
+  "p": "¿Cómo se llama el robot con forma de perro de Boston Dynamics?",
   "o": [
-   "Para comprobar que eres humano",
-   "Para guardar contraseñas",
-   "Para bloquear anuncios"
+   "Spot",
+   "Atlas",
+   "Rex"
   ]
  },
  {
@@ -689,11 +689,11 @@
   ]
  },
  {
-  "p": "¿Qué conexión inalámbrica usan casi todos los audífonos sin cable?",
+  "p": "¿Qué app de mensajería compró Facebook en 2014?",
   "o": [
-   "Bluetooth",
-   "Infrarrojo",
-   "NFC"
+   "WhatsApp",
+   "Telegram",
+   "Snapchat"
   ]
  },
  {
@@ -724,8 +724,8 @@
   "p": "En la mitología nórdica de Marvel y «God of War», ¿qué es el Ragnarök?",
   "o": [
    "El fin del mundo",
-   "El palacio de Odín",
-   "El martillo de Thor"
+   "El inicio del mundo",
+   "El juicio de los muertos"
   ]
  },
  {
@@ -753,7 +753,7 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el espíritu zorro de la mitología japonesa que sale en muchos animes?",
+  "p": "¿Cómo se llama el espíritu zorro japonés que sale en muchos animes?",
   "o": [
    "Kitsune",
    "Tanuki",
@@ -833,11 +833,11 @@
   ]
  },
  {
-  "p": "¿Qué empresa es la dueña de la marca Galaxy de celulares?",
+  "p": "¿Qué empresa hace los lentes de realidad virtual Quest?",
   "o": [
-   "Samsung",
-   "Motorola",
-   "Huawei"
+   "Meta",
+   "Sony",
+   "HTC"
   ]
  },
  {
@@ -857,19 +857,19 @@
   ]
  },
  {
-  "p": "¿Qué extensión de archivo es de imagen?",
+  "p": "¿Qué empresa diseña los chips de la serie M de las Mac?",
   "o": [
-   ".jpg",
-   ".mp3",
-   ".docx"
+   "Apple",
+   "Intel",
+   "Qualcomm"
   ]
  },
  {
-  "p": "¿Qué formato de archivo es de música?",
+  "p": "¿Qué significa el «4K» de una pantalla?",
   "o": [
-   "MP3",
-   "PDF",
-   "PNG"
+   "Que tiene unos 4,000 píxeles de ancho",
+   "Que brilla 4 veces más",
+   "Que tiene 4 núcleos"
   ]
  },
  {

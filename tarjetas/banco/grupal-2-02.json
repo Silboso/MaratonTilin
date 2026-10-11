@@ -28,11 +28,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué país ganó el Mundial 2022?",
+  "p": "¿Qué equipo ganó el Super Bowl de 2025?",
   "o": [
-   "Argentina",
-   "Francia",
-   "Brasil"
+   "Águilas de Filadelfia",
+   "Jefes de Kansas City",
+   "49ers de San Francisco"
   ]
  },
  {
@@ -76,19 +76,19 @@
   ]
  },
  {
-  "p": "¿Qué es un «chamaco»?",
+  "p": "¿Qué inversión te da intereses por dejar tu dinero un tiempo fijo?",
   "o": [
-   "Un niño",
-   "Un perro",
-   "Un trabajador"
+   "Un pagaré a plazo",
+   "Una cuenta de cheques",
+   "Una tarjeta departamental"
   ]
  },
  {
-  "p": "¿Qué significa que alguien sea «codo»?",
+  "p": "¿Qué refresco usaba el lema «Destapa la felicidad»?",
   "o": [
-   "Que es tacaño",
-   "Que es chismoso",
-   "Que es flojo"
+   "Coca-Cola",
+   "Pepsi",
+   "Jarritos"
   ]
  },
  {
@@ -108,11 +108,11 @@
   ]
  },
  {
-  "p": "¿Quién grita «¡Yabba Dabba Doo!»?",
+  "p": "¿Qué significa que alguien sea «fijado»?",
   "o": [
-   "Pedro Picapiedra",
-   "Pablo Mármol",
-   "Scooby-Doo"
+   "Que se fija en todo y critica",
+   "Que es muy puntual",
+   "Que no cambia de opinión"
   ]
  },
  {
@@ -156,19 +156,19 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el arte japonés de doblar papel?",
+  "p": "En Año Nuevo, ¿qué se hace con una maleta para viajar el próximo año?",
   "o": [
-   "Origami",
-   "Ikebana",
-   "Bonsái"
+   "Darle la vuelta a la cuadra",
+   "Guardarle dinero",
+   "Dejarla en la puerta"
   ]
  },
  {
-  "p": "¿Cómo se llama la ropa tradicional japonesa?",
+  "p": "En Año Nuevo, ¿de qué color se usan los calzones para atraer el amor?",
   "o": [
-   "Kimono",
-   "Sari",
-   "Hanbok"
+   "Rojos",
+   "Amarillos",
+   "Blancos"
   ]
  },
  {

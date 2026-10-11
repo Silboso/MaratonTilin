@@ -1,20 +1,20 @@
 [
  {
   "deporte": true,
-  "p": "En Mario Kart, ¿qué objeto te hace invencible por unos segundos?",
+  "p": "En Mario Kart, ¿qué objeto llena de tinta la pantalla de los rivales?",
   "o": [
-   "La estrella",
-   "El hongo dorado",
+   "El Blooper",
+   "La bomba",
    "El caparazón verde"
   ]
  },
  {
   "deporte": true,
-  "p": "En Mario Kart, ¿qué objeto se deja en la pista para que otros se resbalen?",
+  "p": "En Mario Kart, ¿cuántas vueltas tiene una carrera normal?",
   "o": [
-   "Un plátano",
-   "Una bomba",
-   "Un rayo"
+   "3",
+   "5",
+   "2"
   ]
  },
  {
@@ -73,11 +73,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué rival de Mario en los 90 compite con él en juegos olímpicos?",
+  "p": "En Mario Kart Wii, ¿qué vehículos se agregaron además de los karts?",
   "o": [
-   "Sonic",
-   "Crash",
-   "Mega Man"
+   "Motos",
+   "Lanchas",
+   "Aviones"
   ]
  },
  {
@@ -291,19 +291,19 @@
   ]
  },
  {
-  "p": "¿A qué princesa rescata Mario casi siempre?",
+  "p": "En Fall Guys, ¿qué forma tienen los personajes?",
   "o": [
-   "Peach",
-   "Daisy",
-   "Zelda"
+   "De frijolito",
+   "De huevo",
+   "De gomita"
   ]
  },
  {
-  "p": "¿Cómo se llama el villano tortuga de Mario?",
+  "p": "En Luigi's Mansion, ¿qué científico le da la aspiradora a Luigi?",
   "o": [
-   "Bowser",
-   "Wario",
-   "Koopa Troopa"
+   "El profesor E. Gadd",
+   "El doctor Light",
+   "Toadsworth"
   ]
  },
  {
@@ -547,11 +547,11 @@
   ]
  },
  {
-  "p": "En Angry Birds, ¿a quiénes atacan los pájaros?",
+  "p": "En Angry Birds, ¿qué les roban los cerdos a los pájaros?",
   "o": [
-   "A los cerdos",
-   "A los gatos",
-   "A los ratones"
+   "Los huevos",
+   "La comida",
+   "Las plumas"
   ]
  },
  {
@@ -563,11 +563,11 @@
   ]
  },
  {
-  "p": "En Subway Surfers, ¿quién te persigue?",
+  "p": "En Subway Surfers, ¿qué hace el protagonista al inicio para que lo persigan?",
   "o": [
-   "Un policía y su perro",
-   "Un tren",
-   "Un perro callejero"
+   "Pinta un grafiti en un tren",
+   "Se roba una patineta",
+   "Se cuela sin boleto"
   ]
  },
  {
@@ -635,11 +635,11 @@
   ]
  },
  {
-  "p": "¿Qué colecciona Sonic durante sus niveles?",
+  "p": "¿Qué empresa creó Minecraft originalmente?",
   "o": [
-   "Anillos",
-   "Monedas",
-   "Estrellas"
+   "Mojang",
+   "Microsoft",
+   "Valve"
   ]
  },
  {
@@ -755,19 +755,19 @@
   ]
  },
  {
-  "p": "¿Qué persigue a Pac-Man?",
+  "p": "En Pac-Man, ¿qué fruta da puntos extra en el primer nivel?",
   "o": [
-   "Fantasmas",
-   "Monstruos",
-   "Calaveras"
+   "La cereza",
+   "La fresa",
+   "La naranja"
   ]
  },
  {
-  "p": "¿En qué juego clásico caen piezas que hay que acomodar en líneas?",
+  "p": "¿De qué país era el creador de Tetris?",
   "o": [
-   "Tetris",
-   "Pac-Man",
-   "Space Invaders"
+   "De la Unión Soviética",
+   "De Japón",
+   "De Estados Unidos"
   ]
  },
  {
@@ -811,11 +811,11 @@
   ]
  },
  {
-  "p": "En Pokémon, ¿qué usas para atrapar a los Pokémon?",
+  "p": "¿Qué Pokémon de tipo Fantasma de la primera generación tiene una gran sonrisa?",
   "o": [
-   "La Pokébola",
-   "La Pokédex",
-   "El Digivice"
+   "Gengar",
+   "Haunter",
+   "Misdreavus"
   ]
  },
  {

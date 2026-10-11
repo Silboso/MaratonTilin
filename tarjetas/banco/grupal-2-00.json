@@ -33,11 +33,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué luchador es «El Enmascarado de Plata»?",
+  "p": "¿Cuántos anillos de la NBA ganó Michael Jordan?",
   "o": [
-   "El Santo",
-   "Blue Demon",
-   "Mil Máscaras"
+   "6",
+   "5",
+   "4"
   ]
  },
  {

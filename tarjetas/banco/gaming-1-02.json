@@ -4,39 +4,39 @@
   "p": "En Need for Speed: Most Wanted, ¿quién te persigue en las carreras?",
   "o": [
    "La policía",
-   "Los zombis",
-   "El ejército"
+   "Una pandilla rival",
+   "Un cazarrecompensas"
   ]
  },
  {
   "deporte": true,
-  "p": "En Wii Sports, ¿en qué deporte lanzas una bola para tirar pinos?",
+  "p": "¿Qué juego de Konami se jugaba en un tapete de baile con flechas?",
   "o": [
-   "Boliche",
-   "Golf",
-   "Béisbol"
+   "Dance Dance Revolution",
+   "Just Dance",
+   "Guitar Hero"
   ]
  },
  {
   "deporte": true,
-  "p": "En Wii Sports, ¿qué deporte se juega con palos y hoyos?",
+  "p": "En Need for Speed: Underground, ¿qué le hacías a tu auto además de correr?",
   "o": [
-   "Golf",
-   "Tenis",
-   "Béisbol"
+   "Tunearlo",
+   "Venderlo por piezas",
+   "Pintarlo de patrulla"
   ]
  },
  {
   "deporte": true,
-  "p": "En Rocket League, ¿qué empujan los autos para meter gol?",
+  "p": "¿Qué saga de snowboard de EA tenía pistas imposibles y trucos «Über»?",
   "o": [
-   "Un balón gigante",
-   "Un disco",
-   "Una caja"
+   "SSX",
+   "Amped",
+   "Cool Boarders"
   ]
  },
  {
-  "p": "En Pac-Man, ¿qué te comes para poder comerte a los fantasmas?",
+  "p": "En Pac-Man, ¿qué te comes para que los fantasmas se vuelvan azules?",
   "o": [
    "Una pastilla de poder",
    "Una cereza",
@@ -52,11 +52,11 @@
   ]
  },
  {
-  "p": "¿Qué animal es Sonic?",
+  "p": "¿Cómo se llama el erizo negro rival de Sonic?",
   "o": [
-   "Un erizo",
-   "Un zorro",
-   "Un armadillo"
+   "Shadow",
+   "Silver",
+   "Knuckles"
   ]
  },
  {
@@ -100,11 +100,11 @@
   ]
  },
  {
-  "p": "¿Qué héroe de Overwatch es un soldado veterano con rifle y visor?",
+  "p": "¿Qué héroe de Overwatch fue el comandante de Overwatch y usa un rifle de pulsos?",
   "o": [
    "Soldado: 76",
-   "Cassidy",
-   "Bastion"
+   "Reaper",
+   "Cassidy"
   ]
  },
  {
@@ -124,11 +124,11 @@
   ]
  },
  {
-  "p": "¿Qué Pokémon amarillo y eléctrico es la mascota de Pokémon?",
+  "p": "¿Qué Pokémon evoluciona en Charizard?",
   "o": [
-   "Pikachu",
-   "Raichu",
-   "Pichu"
+   "Charmeleon",
+   "Charmander",
+   "Dragonite"
   ]
  },
  {
@@ -172,19 +172,19 @@
   ]
  },
  {
-  "p": "¿Qué juego de peleas de Nintendo junta a todos sus personajes?",
+  "p": "En Super Mario Sunshine, ¿quién ensucia la isla con un pincel mágico?",
   "o": [
-   "Super Smash Bros.",
-   "Mario Party",
-   "Pokkén"
+   "Bowser Jr.",
+   "Kamek",
+   "Wario"
   ]
  },
  {
-  "p": "¿En qué juego lanzas pájaros con una resortera?",
+  "p": "¿Qué juego de celular de Supercell tiene peleas de 3 contra 3 por gemas?",
   "o": [
-   "Angry Birds",
-   "Flappy Bird",
-   "Cut the Rope"
+   "Brawl Stars",
+   "Clash Royale",
+   "Boom Beach"
   ]
  },
  {

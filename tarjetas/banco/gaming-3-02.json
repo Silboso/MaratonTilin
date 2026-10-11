@@ -218,11 +218,11 @@
   ]
  },
  {
-  "p": "En la primera temporada de Arcane, ¿quién adopta a Jinx?",
+  "p": "En Arcane, ¿quién cría a Powder después de la muerte de Vander?",
   "o": [
    "Silco",
-   "Vander",
-   "Singed"
+   "Singed",
+   "Sevika"
   ]
  },
  {
@@ -394,7 +394,7 @@
   ]
  },
  {
-  "p": "¿Qué personaje de Smash viene de EarthBound además de Ness?",
+  "p": "¿Qué personaje de Smash viene de Mother 3?",
   "o": [
    "Lucas",
    "Ninten",
@@ -482,7 +482,7 @@
   ]
  },
  {
-  "p": "En Pokémon Rojo y Azul, ¿quién es el campeón de la Liga?",
+  "p": "En la primera generación de Pokémon, ¿quién es el campeón de la Liga?",
   "o": [
    "Tu rival, Azul",
    "Lance",
@@ -794,11 +794,11 @@
   ]
  },
  {
-  "p": "¿Qué juego del NES se jugaba con la pistola Zapper y tenía un perro que se reía de ti?",
+  "p": "En Super Mario Bros. 3, ¿qué traje te deja convertirte en estatua?",
   "o": [
-   "Duck Hunt",
-   "Hogan's Alley",
-   "Wild Gunman"
+   "El traje Tanooki",
+   "El traje de rana",
+   "El traje de martillo"
   ]
  },
  {

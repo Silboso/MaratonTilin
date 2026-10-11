@@ -1,26 +1,26 @@
 [
  {
-  "p": "¿Qué pan se come el 6 de enero?",
+  "p": "¿Qué villana de Disney dice «Espejito, espejito»?",
   "o": [
-   "Rosca de Reyes",
-   "Pan de muerto",
-   "Concha"
+   "La Reina Malvada",
+   "Maléfica",
+   "Úrsula"
   ]
  },
  {
-  "p": "¿Quién dice «¡Al infinito y más allá!»?",
+  "p": "¿Qué personaje de «Up» grita «¡Ardilla!» cada que se distrae?",
   "o": [
-   "Buzz Lightyear",
-   "Woody",
-   "Rayo McQueen"
+   "Dug",
+   "Kevin",
+   "Russell"
   ]
  },
  {
-  "p": "¿Quién dice «¡No contaban con mi astucia!»?",
+  "p": "¿Quién dice «¡Se me chispoteó!»?",
   "o": [
-   "El Chapulín Colorado",
    "El Chavo",
-   "Don Ramón"
+   "Quico",
+   "La Chilindrina"
   ]
  },
  {
@@ -72,27 +72,27 @@
   ]
  },
  {
-  "p": "En WhatsApp, ¿qué significan las dos palomitas azules?",
+  "p": "¿A quién llaman cuando dicen «¿Y ahora quién podrá defendernos?»?",
   "o": [
-   "Que ya leyeron tu mensaje",
-   "Que el mensaje no se envió",
-   "Que te bloquearon"
+   "Al Chapulín Colorado",
+   "Al Chavo",
+   "Al Doctor Chapatín"
   ]
  },
  {
-  "p": "¿Qué cadena de café tiene una sirena verde en su logo?",
+  "p": "¿En qué película dicen «Toto, creo que ya no estamos en Kansas»?",
   "o": [
-   "Starbucks",
-   "Punta del Cielo",
-   "The Italian Coffee"
+   "El mago de Oz",
+   "Alicia en el país de las maravillas",
+   "Twister"
   ]
  },
  {
-  "p": "En japonés, ¿qué significa «kawaii»?",
+  "p": "¿Qué significa «stalkear» a alguien?",
   "o": [
-   "Lindo o tierno",
-   "Tonto",
-   "Delicioso"
+   "Revisar su perfil a escondidas",
+   "Bloquearlo",
+   "Etiquetarlo en fotos"
   ]
  }
 ]

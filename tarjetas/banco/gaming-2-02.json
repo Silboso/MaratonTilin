@@ -13,8 +13,8 @@
   "p": "¿Qué saga de carreras de Xbox compite con Gran Turismo?",
   "o": [
    "Forza",
-   "Need for Speed",
-   "Project Gotham"
+   "Burnout",
+   "Need for Speed"
   ]
  },
  {
@@ -84,11 +84,11 @@
   ]
  },
  {
-  "p": "¿Contra qué alianza de alienígenas pelea el Jefe Maestro en Halo?",
+  "p": "¿Contra qué alianza religiosa de alienígenas pelea el Jefe Maestro en Halo?",
   "o": [
    "El Covenant",
-   "Los Locust",
-   "Los Strogg"
+   "El Flood",
+   "Los Prometeos"
   ]
  },
  {
@@ -151,8 +151,8 @@
   "p": "En Among Us, ¿qué pasa cuando reportas un cuerpo?",
   "o": [
    "Se llama a una reunión",
-   "Ganas la partida",
-   "Te vuelves impostor"
+   "Se revela quién es el impostor",
+   "El cuerpo desaparece"
   ]
  },
  {

@@ -52,19 +52,19 @@
   ]
  },
  {
-  "p": "En «Naruto», ¿de qué color es el pelo de Sakura?",
+  "p": "En «Solo Leveling», ¿qué rango de cazador tiene el protagonista al inicio?",
   "o": [
-   "Rosa",
-   "Rojo",
-   "Morado"
+   "Rango E",
+   "Rango S",
+   "Rango B"
   ]
  },
  {
   "p": "¿Qué Pokémon tortuga es el inicial de tipo Agua en Kanto?",
   "o": [
    "Squirtle",
-   "Totodile",
-   "Piplup"
+   "Turtwig",
+   "Totodile"
   ]
  },
  {
@@ -100,19 +100,19 @@
   ]
  },
  {
-  "p": "En «Attack on Titan», ¿qué comen los titanes?",
+  "p": "En «Attack on Titan», ¿cómo se llama el capitán al que le dicen el soldado más fuerte?",
   "o": [
-   "Humanos",
-   "Animales",
-   "Árboles"
+   "Levi",
+   "Erwin",
+   "Hange"
   ]
  },
  {
-  "p": "En «Demon Slayer», ¿con qué pelean los cazadores de demonios?",
+  "p": "En «Demon Slayer», ¿en qué carga Tanjiro a Nezuko en la espalda?",
   "o": [
-   "Con espadas",
-   "Con pistolas",
-   "Con arcos"
+   "En una caja de madera",
+   "En una canasta",
+   "En una mochila"
   ]
  },
  {
@@ -156,11 +156,11 @@
   ]
  },
  {
-  "p": "En «Monsters, Inc.», ¿cómo se llama el monstruo verde de un solo ojo?",
+  "p": "En «Monsters, Inc.», ¿qué juntan los monstruos para darle energía a su ciudad?",
   "o": [
-   "Mike Wazowski",
-   "Sulley",
-   "Randall"
+   "Los gritos de los niños",
+   "Los sueños",
+   "Las lágrimas"
   ]
  },
  {
@@ -172,11 +172,11 @@
   ]
  },
  {
-  "p": "En «Frozen», ¿cómo se llama la hermana de Elsa?",
+  "p": "En «Shrek», ¿qué animal es la pareja de Burro?",
   "o": [
-   "Anna",
-   "Ariel",
-   "Aurora"
+   "Una dragona",
+   "Una yegua",
+   "Una burra"
   ]
  },
  {
@@ -188,11 +188,11 @@
   ]
  },
  {
-  "p": "¿Qué película de Pixar trata de un pez payaso perdido?",
+  "p": "En «Los Increíbles», ¿cómo se llama la diseñadora de trajes bajita?",
   "o": [
-   "Buscando a Nemo",
-   "Luca",
-   "Elementos"
+   "Edna Moda",
+   "Mirage",
+   "Helen"
   ]
  }
 ]

@@ -73,11 +73,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué número usó Michael Jordan casi toda su carrera con los Bulls?",
+  "p": "Desde 1994, ¿en qué ronda se quedaba México en cada Mundial?",
   "o": [
-   "23",
-   "24",
-   "33"
+   "En octavos de final",
+   "En cuartos de final",
+   "En fase de grupos"
   ]
  },
  {
@@ -100,11 +100,11 @@
  },
  {
   "deporte": true,
-  "p": "¿De qué universidad es el equipo de los Pumas?",
+  "p": "¿Qué piloto mexicano corre en IndyCar con el equipo McLaren?",
   "o": [
-   "La UNAM",
-   "El IPN",
-   "La UANL"
+   "Pato O'Ward",
+   "Esteban Gutiérrez",
+   "Sergio Pérez"
   ]
  },
  {
@@ -154,19 +154,19 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué selección le metió 7 goles a Brasil en su propio Mundial de 2014?",
+  "p": "¿En qué deporte compite la mexicana Alexa Moreno?",
   "o": [
-   "Alemania",
-   "Holanda",
-   "Argentina"
+   "Gimnasia",
+   "Clavados",
+   "Taekwondo"
   ]
  },
  {
-  "p": "¿En qué estado está el pueblo de Tequila?",
+  "p": "¿De qué estado es el pozole verde?",
   "o": [
+   "Guerrero",
    "Jalisco",
-   "Michoacán",
-   "Nayarit"
+   "Sinaloa"
   ]
  },
  {
@@ -266,11 +266,11 @@
   ]
  },
  {
-  "p": "¿Qué comediante interpretaba a «Armando Hoyos» y a «Ludovico P. Luche»?",
+  "p": "¿Qué comediante hacía el programa «¿Qué nos pasa?»?",
   "o": [
-   "Eugenio Derbez",
-   "Omar Chaparro",
-   "Adrián Uribe"
+   "Héctor Suárez",
+   "Polo Polo",
+   "Jorge Ortiz de Pinedo"
   ]
  },
  {
@@ -290,19 +290,19 @@
   ]
  },
  {
-  "p": "¿Qué se celebra el 5 de mayo?",
+  "p": "¿Qué significa estar «como agua para chocolate»?",
   "o": [
-   "La Batalla de Puebla",
-   "La Independencia",
-   "La Revolución"
+   "Estar furioso",
+   "Estar enamorado",
+   "Estar dormido"
   ]
  },
  {
-  "p": "¿Qué se celebra el 20 de noviembre?",
+  "p": "¿Qué significa «hacerse guaje»?",
   "o": [
-   "La Revolución Mexicana",
-   "La Independencia",
-   "La Batalla de Puebla"
+   "Fingir que no sabe",
+   "Emborracharse",
+   "Enojarse"
   ]
  },
  {
@@ -322,11 +322,11 @@
   ]
  },
  {
-  "p": "En México, ¿qué significa realmente «ahorita»?",
+  "p": "¿A quién le dicen «godín»?",
   "o": [
-   "En un rato… o nunca",
-   "En este mismo segundo",
-   "Mañana temprano"
+   "A un oficinista",
+   "A un taxista",
+   "A un estudiante"
   ]
  },
  {
@@ -338,19 +338,19 @@
   ]
  },
  {
-  "p": "¿Qué significa «me late»?",
+  "p": "¿Qué villano de Disney dice «Estoy rodeado de idiotas»?",
   "o": [
-   "Me gusta o me parece bien",
-   "Me duele",
-   "Me da miedo"
+   "Scar",
+   "Jafar",
+   "Hades"
   ]
  },
  {
-  "p": "¿Qué es un «gorrón»?",
+  "p": "¿En qué película dice Thanos «Yo soy inevitable»?",
   "o": [
-   "Alguien que se aprovecha sin pagar",
-   "Alguien que usa gorra",
-   "Alguien muy dormilón"
+   "Avengers: Endgame",
+   "Avengers: Infinity War",
+   "Guardianes de la Galaxia"
   ]
  },
  {
@@ -362,19 +362,19 @@
   ]
  },
  {
-  "p": "Completa el dicho: «Perro que ladra…»",
+  "p": "¿Qué significa «senpai»?",
   "o": [
-   "…no muerde",
-   "…no come",
-   "…no duerme"
+   "Compañero mayor",
+   "Maestro",
+   "Mejor amigo"
   ]
  },
  {
   "p": "Completa el dicho: «En casa del herrero…»",
   "o": [
    "…cuchillo de palo",
-   "…martillo de oro",
-   "…fuego sin leña"
+   "…cazuela de barro",
+   "…puerta sin llave"
   ]
  },
  {
@@ -386,11 +386,11 @@
   ]
  },
  {
-  "p": "¿Quién le dice a Peter Parker «Un gran poder conlleva una gran responsabilidad»?",
+  "p": "¿Qué juguetes de Hasbro eran robots que se convierten en autos?",
   "o": [
-   "El tío Ben",
-   "La tía May",
-   "Tony Stark"
+   "Transformers",
+   "GoBots",
+   "Zords"
   ]
  },
  {
@@ -434,11 +434,11 @@
   ]
  },
  {
-  "p": "¿En qué película dicen «¡Wakanda por siempre!»?",
+  "p": "¿Qué muñecos de los 2000 tenían el pelo parado de colores?",
   "o": [
-   "Black Panther",
-   "Thor",
-   "Avengers: Infinity War"
+   "Los Trolls",
+   "Los Pitufos",
+   "Los Furbys"
   ]
  },
  {
@@ -477,7 +477,7 @@
   "p": "¿Qué red social, antes de Facebook, tenía «testimonios» de tus amigos?",
   "o": [
    "Hi5",
-   "MySpace",
+   "Sonico",
    "Twitter"
   ]
  },
@@ -578,11 +578,11 @@
   ]
  },
  {
-  "p": "¿Qué significa «konnichiwa»?",
+  "p": "¿Qué es un «bento»?",
   "o": [
-   "Hola",
-   "Gracias",
-   "Adiós"
+   "Una caja de comida",
+   "Un postre de arroz",
+   "Un tipo de té"
   ]
  },
  {
@@ -594,11 +594,11 @@
   ]
  },
  {
-  "p": "¿Qué se hace en Japón para saludar con respeto?",
+  "p": "En internet, ¿qué significa «IRL»?",
   "o": [
-   "Una reverencia",
-   "Un beso en la mejilla",
-   "Chocar los puños"
+   "En la vida real",
+   "Ahora mismo",
+   "Por si acaso"
   ]
  },
  {
@@ -642,11 +642,11 @@
   ]
  },
  {
-  "p": "¿Qué carritos de metal de Mattel coleccionaban todos de niños?",
+  "p": "¿Cómo se llamaba el examen de la SEP de primaria y secundaria de los 2000?",
   "o": [
-   "Hot Wheels",
-   "Tamiya",
-   "Majorette"
+   "ENLACE",
+   "PISA",
+   "EXANI"
   ]
  },
  {
@@ -658,11 +658,11 @@
   ]
  },
  {
-  "p": "¿Qué chocolate traía un juguete para armar dentro de una cápsula amarilla?",
+  "p": "¿De qué se hace el tepache?",
   "o": [
-   "Kinder Sorpresa",
-   "Ferrero Rocher",
-   "Huevo de Pascua"
+   "De cáscara de piña fermentada",
+   "De maíz fermentado",
+   "De maguey fermentado"
   ]
  },
  {
@@ -754,7 +754,7 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el pago extra de 25% por tus días de vacaciones?",
+  "p": "¿Cómo se llama el 25% extra que te pagan sobre tus días de descanso anual?",
   "o": [
    "Prima vacacional",
    "Aguinaldo",
@@ -770,7 +770,7 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el impuesto anual por tener auto en algunos estados?",
+  "p": "¿Cómo se llama el impuesto anual por ser dueño de un vehículo en algunos estados?",
   "o": [
    "Tenencia",
    "Predial",
@@ -778,7 +778,7 @@
   ]
  },
  {
-  "p": "¿Qué documento te permite ejercer tu profesión al terminar la carrera?",
+  "p": "¿Qué documento de la SEP necesitas para ejercer legalmente tu carrera?",
   "o": [
    "La cédula profesional",
    "El título de bachiller",
@@ -794,11 +794,11 @@
   ]
  },
  {
-  "p": "¿Qué comida japonesa son fideos en caldo?",
+  "p": "¿Qué significa que algo te «valga gorro»?",
   "o": [
-   "Ramen",
-   "Sushi",
-   "Onigiri"
+   "Que no te importa",
+   "Que te encanta",
+   "Que te costó mucho"
   ]
  },
  {
@@ -826,11 +826,11 @@
   ]
  },
  {
-  "p": "¿Qué significa «LOL» en internet?",
+  "p": "¿Qué significa que alguien «se haga pato»?",
   "o": [
-   "Laughing out loud",
-   "Lots of love",
-   "Lord of Legends"
+   "Que finge que no sabe",
+   "Que se asusta",
+   "Que se va sin pagar"
   ]
  },
  {
@@ -842,19 +842,19 @@
   ]
  },
  {
-  "p": "¿Cuántos años dura la primaria en México?",
+  "p": "¿Quién dice «¡Lo sospeché desde un principio!»?",
   "o": [
-   "6",
-   "5",
-   "3"
+   "El Chapulín Colorado",
+   "El Chavo",
+   "Don Ramón"
   ]
  },
  {
-  "p": "¿Qué agua fresca se hace con arroz y canela?",
+  "p": "¿Cómo se llaman los arcos rojos de los templos sintoístas?",
   "o": [
-   "Horchata",
-   "Jamaica",
-   "Tamarindo"
+   "Torii",
+   "Pagodas",
+   "Ryokan"
   ]
  },
  {
@@ -866,11 +866,11 @@
   ]
  },
  {
-  "p": "¿Qué es una michelada?",
+  "p": "¿Qué tradición del 2 de febrero se hace con el Niño Dios de la Navidad?",
   "o": [
-   "Cerveza preparada con limón y salsas",
-   "Un coctel de tequila",
-   "Un agua fresca"
+   "Vestirlo y llevarlo a bendecir",
+   "Romperlo como piñata",
+   "Esconderlo en la rosca"
   ]
  },
  {

@@ -333,8 +333,8 @@
   "p": "¿Qué cristal le da poder a los sables de luz?",
   "o": [
    "Kyber",
-   "Kriptonita",
-   "Vibranium"
+   "Beskar",
+   "Coaxium"
   ]
  },
  {
@@ -690,11 +690,11 @@
   ]
  },
  {
-  "p": "¿Qué científico formuló las leyes del movimiento y de la gravedad?",
+  "p": "¿Qué sonda espacial es el objeto hecho por humanos más lejano de la Tierra?",
   "o": [
-   "Isaac Newton",
-   "Galileo Galilei",
-   "Nikola Tesla"
+   "Voyager 1",
+   "Pioneer 10",
+   "New Horizons"
   ]
  },
  {
@@ -706,11 +706,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el cráter del meteorito que extinguió a los dinosaurios?",
+  "p": "¿Con qué galaxia vecina chocará la Vía Láctea en unos miles de millones de años?",
   "o": [
-   "Chicxulub",
-   "Tunguska",
-   "Barringer"
+   "Andrómeda",
+   "Triángulo",
+   "Sombrero"
   ]
  },
  {

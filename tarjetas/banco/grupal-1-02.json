@@ -1,11 +1,11 @@
 [
  {
   "deporte": true,
-  "p": "¿De qué color es la camiseta clásica de la Selección Mexicana?",
+  "p": "¿En qué deporte destacó Ana Guevara?",
   "o": [
-   "Verde",
-   "Blanca",
-   "Roja"
+   "Atletismo",
+   "Natación",
+   "Clavados"
   ]
  },
  {
@@ -19,11 +19,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Cuánto dura un partido de fútbol sin tiempo extra?",
+  "p": "¿En qué deporte destacó Fernando Valenzuela?",
   "o": [
-   "90 minutos",
-   "60 minutos",
-   "120 minutos"
+   "Béisbol",
+   "Box",
+   "Fútbol americano"
   ]
  },
  {
@@ -36,11 +36,11 @@
   ]
  },
  {
-  "p": "¿Qué le pones a los tacos además de cebolla?",
+  "p": "En el anime, ¿qué indica el «-chan» al final de un nombre?",
   "o": [
-   "Cilantro",
-   "Lechuga",
-   "Zanahoria"
+   "Cariño o confianza",
+   "Respeto a un jefe",
+   "Que es un maestro"
   ]
  },
  {
@@ -60,11 +60,11 @@
   ]
  },
  {
-  "p": "¿Qué se dice en México al brindar?",
+  "p": "¿Qué botana de cerdo en vinagre se vendía en bolsita afuera de las escuelas?",
   "o": [
-   "¡Salud!",
-   "¡Provecho!",
-   "¡Bravo!"
+   "Cueritos",
+   "Chicharrones",
+   "Duros"
   ]
  },
  {
@@ -84,19 +84,19 @@
   ]
  },
  {
-  "p": "En internet, ¿qué significa «xD»?",
+  "p": "¿Qué juego de celular llenaba Facebook de solicitudes de «vidas»?",
   "o": [
-   "Una carita riéndose",
-   "Un error",
-   "«Por favor»"
+   "Candy Crush",
+   "Angry Birds",
+   "Temple Run"
   ]
  },
  {
-  "p": "¿Qué significa «BFF»?",
+  "p": "¿Qué botana de harina frita tiene forma de ruedita y se come con salsa Valentina?",
   "o": [
-   "Mejores amigos para siempre",
-   "Muy buena fiesta",
-   "Novio de fin de semana"
+   "Duros",
+   "Cueritos",
+   "Chicharrones de cerdo"
   ]
  },
  {
@@ -108,11 +108,11 @@
   ]
  },
  {
-  "p": "¿Qué se paga cada mes por vivir en un depa que no es tuyo?",
+  "p": "¿Qué dulce de tamarindo se exprime desde un tubito?",
   "o": [
-   "La renta",
-   "El predial",
-   "La tenencia"
+   "Pelón Pelo Rico",
+   "Pulparindo",
+   "Rockaleta"
   ]
  },
  {
@@ -124,19 +124,19 @@
   ]
  },
  {
-  "p": "¿Con qué se come en Japón?",
+  "p": "¿Cómo se llama la galleta con vida de «Shrek» en el doblaje latino?",
   "o": [
-   "Con palillos",
-   "Con tenedor",
-   "Con las manos"
+   "Jengi",
+   "Galletín",
+   "Pan Dulce"
   ]
  },
  {
-  "p": "¿Qué significa «sayonara» en japonés?",
+  "p": "¿Qué es pedir un «aventón»?",
   "o": [
-   "Adiós",
-   "Hola",
-   "Gracias"
+   "Que te lleven gratis en un auto",
+   "Que te presten dinero",
+   "Que te ayuden a cargar algo"
   ]
  },
  {
@@ -148,51 +148,51 @@
   ]
  },
  {
-  "p": "¿Con qué bolitas de vidrio se jugaba en el recreo?",
+  "p": "¿Qué pan se come para pasar un susto?",
   "o": [
-   "Canicas",
-   "Tazos",
-   "Matatenas"
+   "El bolillo",
+   "La concha",
+   "El cuerno"
   ]
  },
  {
-  "p": "¿Cómo se llama la muñeca rubia más famosa de Mattel?",
+  "p": "¿Qué es un «puente» en México?",
   "o": [
-   "Barbie",
-   "Polly Pocket",
-   "Bratz"
+   "Un fin de semana largo por festivo",
+   "Un préstamo entre amigos",
+   "El día que cae la quincena"
   ]
  },
  {
-  "p": "¿Qué marca de tenis tiene tres rayas?",
+  "p": "¿Qué significa «¡Qué oso!»?",
   "o": [
-   "Adidas",
-   "Nike",
-   "Puma"
+   "¡Qué vergüenza!",
+   "¡Qué miedo!",
+   "¡Qué flojera!"
   ]
  },
  {
-  "p": "¿Qué marca de tenis tiene una «palomita»?",
+  "p": "¿Con qué galletas se hace el pay de limón casero?",
   "o": [
-   "Nike",
-   "Adidas",
-   "Reebok"
+   "Marías",
+   "Chokis",
+   "Emperador"
   ]
  },
  {
-  "p": "¿Qué app de videos cortos se volvió famosa por los bailes en 2020?",
+  "p": "¿Qué juego de patio consiste en tocar a los demás para dejarlos congelados?",
   "o": [
-   "TikTok",
-   "Vine",
-   "Snapchat"
+   "Encantados",
+   "Stop",
+   "Avioncito"
   ]
  },
  {
   "p": "¿Qué se le pone al pozole?",
   "o": [
    "Rábano, lechuga y orégano",
-   "Crema y queso",
-   "Piña y cilantro"
+   "Cebolla, cilantro y piña",
+   "Crema, queso y aguacate"
   ]
  }
 ]

@@ -84,6 +84,8 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
   - **Más Nintendo:** Luigi's Mansion, Paper Mario, Fire Emblem, Xenoblade, Pikmin, WarioWare, spin-offs de Pokémon
   - **Gacha:** Honkai: Star Rail, Zenless Zone Zero, Blue Archive, Fate/Grand Order, Pokémon Unite, Pokémon Masters, Dragon Ball Legends, Dokkan Battle
   - **HoYoverse (Genshin Impact y similares) y Uma Musume:** solo preguntas muy básicas. Uma Musume sirve para cruces con deportes (carreras de caballos).
+  - **Retro:** Pac-Man, Tetris, Space Invaders, Contra, Metal Slug, Pokémon de Game Boy, Tamagotchi y las consolas (Atari, NES, Super Nintendo)
+  - **Deportes (para cruces ⚽):** FIFA, PES / Winning Eleven, Tony Hawk, Skate, Rocket League, Mario Strikers, Inazuma Eleven. **Fuera:** NBA 2K, Madden.
 - **A fondo (se valen ★★★):** Pokémon (juegos), Zelda, Mario y Mario Kart, Minecraft.
 - **League of Legends:** avanzado del juego (campeones, habilidades, objetos, lore) y de todo lo que lo rodea (Arcane, K/DA, himnos de Worlds). La escena de eSports, de medio a básico.
 - **Overwatch:** nivel medio (héroes, habilidades, mapas, un poco de la Overwatch League).
@@ -113,6 +115,8 @@ Solo 2 de 6 saben de fútbol, así que la mayoría van cruzadas con lo que sí c
 - **Mexicanas:** Nosotros los guapos, Vecinos, Como dice el dicho, Mujer, casos de la vida real, Control Z, ¿Quién mató a Sara?, La casa de las flores, Narcos México, El Chema, El Señor de los Cielos
 - **Asiáticas y animación adulta:** Alice in Borderland, All of Us Are Dead, los live action de Netflix (One Piece, Avatar, Cowboy Bebop), Hazbin Hotel, Helluva Boss, Castlevania, Love, Death & Robots
 - **Fuera:** American Dragon, W.I.T.C.H., Seinfeld, Scrubs, New Girl, Community, Parks and Rec, The IT Crowd, What We Do in the Shadows, Abbott Elementary, Superstore, House of the Dragon, Rings of Power, Ozark, Mr. Robot, Severance, The Bear, The Crown, Succession
+- **Otros formatos:** true crime de Netflix (Dahmer, Tiger King), telenovelas clásicas (María la del Barrio, Teresa, Soy tu dueña), series de YouTube (Polícias de México, Enchufe.tv, Backdoor). **Fuera:** anime original de Netflix.
+- **Doblaje latino:** se valen todas las preguntas: actores de voz, frases que solo existen en el doblaje, nombres adaptados al español y openings cantados en español.
 - **Más recientes:** The Boys, Invincible, Merlina, Bridgerton, You, Chernobyl, True Detective, Westworld, Marvel de Disney+ (WandaVision, Loki, Moon Knight, Daredevil)
 
 **Series para preguntar a fondo** (se valen ★★★): Stranger Things, Breaking Bad, Better Call Saul, Game of Thrones, The Office, Friends, The Big Bang Theory, Ben 10, Gumball, Los Simpson, Futurama, Chespirito (El Chavo, El Chapulín, Los Caquitos), doblaje latino (actores de voz y frases), reality y concursos (La Academia, Big Brother, MasterChef, 100 mexicanos dijeron).

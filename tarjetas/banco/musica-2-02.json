@@ -68,19 +68,19 @@
   ]
  },
  {
-  "p": "¿Qué canción hizo Queen junto con David Bowie?",
+  "p": "¿Con qué estrella grabó Freddie Mercury el demo de «State of Shock»?",
   "o": [
-   "«Under Pressure»",
-   "«Killer Queen»",
-   "«I Want to Break Free»"
+   "Michael Jackson",
+   "David Bowie",
+   "Elton John"
   ]
  },
  {
-  "p": "¿Quién era el baterista de Queen?",
+  "p": "¿Qué integrante de Queen canta «'39»?",
   "o": [
+   "Brian May",
    "Roger Taylor",
-   "John Deacon",
-   "Brian May"
+   "John Deacon"
   ]
  },
  {
@@ -100,9 +100,9 @@
   ]
  },
  {
-  "p": "¿Qué Beatle compuso «Yesterday»?",
+  "p": "¿Qué Beatle canta «Yellow Submarine»?",
   "o": [
-   "Paul McCartney",
+   "Ringo Starr",
    "John Lennon",
    "George Harrison"
   ]
@@ -132,11 +132,11 @@
   ]
  },
  {
-  "p": "¿Qué personaje hizo Michael Jackson en la película «The Wiz» (1978)?",
+  "p": "¿Cómo se llama el corto en 3D de Michael Jackson que pasaban en Disneyland?",
   "o": [
-   "El Espantapájaros",
-   "El Hombre de Hojalata",
-   "El León"
+   "Captain EO",
+   "Ghosts",
+   "Moonwalker"
   ]
  },
  {
@@ -148,11 +148,11 @@
   ]
  },
  {
-  "p": "¿Qué instrumento indio toca George Harrison en «Norwegian Wood»?",
+  "p": "¿A qué país viajaron The Beatles en 1968 para aprender meditación?",
   "o": [
-   "El sitar",
-   "La tabla",
-   "El armonio"
+   "India",
+   "Nepal",
+   "Japón"
   ]
  },
  {

@@ -19,11 +19,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué canción cantó Paul McCartney en la inauguración de Londres 2012?",
+  "p": "¿Quién cantó «We Will Rock You» con Queen en la clausura de Londres 2012?",
   "o": [
-   "«Hey Jude»",
-   "«Let It Be»",
-   "«Yesterday»"
+   "Jessie J",
+   "Adele",
+   "Ellie Goulding"
   ]
  },
  {
@@ -55,29 +55,29 @@
  },
  {
   "deporte": true,
-  "p": "¿En qué estadio de béisbol dieron The Beatles un concierto histórico en 1965?",
+  "p": "¿En qué estadio de béisbol dieron The Beatles su último concierto de gira, en 1966?",
   "o": [
-   "Shea Stadium",
-   "Yankee Stadium",
-   "Fenway Park"
+   "Candlestick Park",
+   "Dodger Stadium",
+   "Wrigley Field"
   ]
  },
  {
   "deporte": true,
-  "p": "¿En qué video de Michael Jackson sale Michael Jordan jugando básquetbol?",
+  "p": "¿Qué basquetbolista rapea en «2 Bad», de Michael Jackson?",
   "o": [
-   "«Jam»",
-   "«Black or White»",
-   "«Remember the Time»"
+   "Shaquille O'Neal",
+   "Kobe Bryant",
+   "Magic Johnson"
   ]
  },
  {
   "deporte": true,
-  "p": "¿En qué estadio de fútbol grabó Queen su famoso concierto de 1986?",
+  "p": "¿En qué ciudad mexicana tocó Queen en un estadio de béisbol en 1981?",
   "o": [
-   "Wembley",
-   "Old Trafford",
-   "Anfield"
+   "Puebla",
+   "Monterrey",
+   "Guadalajara"
   ]
  },
  {
@@ -162,11 +162,11 @@
   ]
  },
  {
-  "p": "¿Qué integrante de Linkin Park es el que rapea?",
+  "p": "¿Qué video de Linkin Park está animado al estilo anime?",
   "o": [
-   "Mike Shinoda",
-   "Chester Bennington",
-   "Brad Delson"
+   "«Breaking the Habit»",
+   "«Numb»",
+   "«Faint»"
   ]
  },
  {
@@ -242,19 +242,19 @@
   ]
  },
  {
-  "p": "¿Qué cómic creó Gerard Way, que luego fue serie de Netflix?",
+  "p": "¿En qué recinto mexicano grabó MCR el disco en vivo «The Black Parade Is Dead!»?",
   "o": [
-   "The Umbrella Academy",
-   "The Boys",
-   "Locke & Key"
+   "Palacio de los Deportes",
+   "Foro Sol",
+   "Auditorio Nacional"
   ]
  },
  {
-  "p": "¿Qué canción de Paramore salió en «Crepúsculo»?",
+  "p": "¿Quién es el bajista de Green Day?",
   "o": [
-   "«Decode»",
-   "«Misery Business»",
-   "«The Only Exception»"
+   "Mike Dirnt",
+   "Tré Cool",
+   "Jason White"
   ]
  },
  {
@@ -282,43 +282,43 @@
   ]
  },
  {
-  "p": "¿Qué guitarrista de Queen es astrofísico?",
+  "p": "¿Qué integrante de Queen se retiró de la música en 1997?",
   "o": [
-   "Brian May",
    "John Deacon",
-   "Roger Taylor"
+   "Roger Taylor",
+   "Brian May"
   ]
  },
  {
-  "p": "¿En qué concierto benéfico de 1985 dio Queen una actuación legendaria?",
+  "p": "¿De qué película de 1980 hizo Queen toda la banda sonora?",
   "o": [
-   "Live Aid",
-   "Live 8",
-   "Farm Aid"
+   "Flash Gordon",
+   "Highlander",
+   "Tron"
   ]
  },
  {
-  "p": "¿Qué actor ganó el Óscar por interpretar a Freddie Mercury?",
+  "p": "¿Quién interpreta a Brian May en la película «Bohemian Rhapsody»?",
   "o": [
-   "Rami Malek",
-   "Sacha Baron Cohen",
+   "Gwilym Lee",
+   "Ben Hardy",
    "Joseph Mazzello"
   ]
  },
  {
-  "p": "¿Cuál era el nombre real de Freddie Mercury?",
+  "p": "¿En qué disco de Queen viene «Don't Stop Me Now»?",
   "o": [
-   "Farrokh Bulsara",
-   "Frederick Mercer",
-   "Fahad Bulsara"
+   "Jazz",
+   "The Game",
+   "News of the World"
   ]
  },
  {
-  "p": "¿En qué disco de Queen viene «Bohemian Rhapsody»?",
+  "p": "¿Qué integrante de Queen compuso casi toda «The Show Must Go On»?",
   "o": [
-   "A Night at the Opera",
-   "News of the World",
-   "The Game"
+   "Brian May",
+   "Freddie Mercury",
+   "Roger Taylor"
   ]
  },
  {
@@ -338,19 +338,19 @@
   ]
  },
  {
-  "p": "¿En qué disco de Michael Jackson de 1987 viene «Smooth Criminal»?",
+  "p": "En «Smooth Criminal», ¿a quién le preguntan si está bien?",
   "o": [
-   "Bad",
-   "Thriller",
-   "Dangerous"
+   "A Annie",
+   "A Billie Jean",
+   "A Diana"
   ]
  },
  {
-  "p": "¿Cómo se llamaba el chimpancé de Michael Jackson?",
+  "p": "¿Qué niño actor sale al inicio del video de «Black or White»?",
   "o": [
-   "Bubbles",
-   "Bobo",
-   "Max"
+   "Macaulay Culkin",
+   "Elijah Wood",
+   "Haley Joel Osment"
   ]
  },
  {
@@ -370,51 +370,51 @@
   ]
  },
  {
-  "p": "¿Con qué rapero canta Hayley Williams «Airplanes»?",
+  "p": "¿Con qué cantante grabó Hayley Williams «Castles Crumbling» (2023)?",
   "o": [
-   "B.o.B",
-   "Flo Rida",
-   "Kanye West"
+   "Taylor Swift",
+   "Olivia Rodrigo",
+   "Billie Eilish"
   ]
  },
  {
-  "p": "¿Qué Beatle compuso «Here Comes the Sun»?",
+  "p": "¿En qué programa de TV debutaron The Beatles en Estados Unidos en 1964?",
   "o": [
-   "George Harrison",
-   "John Lennon",
-   "Paul McCartney"
+   "El show de Ed Sullivan",
+   "The Tonight Show",
+   "American Bandstand"
   ]
  },
  {
-  "p": "¿En qué año se separaron The Beatles?",
+  "p": "¿Frente a qué edificio de Nueva York asesinaron a John Lennon?",
   "o": [
-   "1970",
-   "1965",
-   "1980"
+   "El Dakota",
+   "El Chelsea Hotel",
+   "El Waldorf Astoria"
   ]
  },
  {
-  "p": "¿En qué disco de The Beatles viene «Lucy in the Sky with Diamonds»?",
+  "p": "¿Cómo se llama la primera película de The Beatles (1964)?",
   "o": [
-   "Sgt. Pepper's Lonely Hearts Club Band",
-   "Abbey Road",
-   "Rubber Soul"
+   "A Hard Day's Night",
+   "Help!",
+   "Magical Mystery Tour"
   ]
  },
  {
-  "p": "¿A qué productor le dicen «el quinto Beatle»?",
+  "p": "¿Quién fue el mánager de The Beatles hasta su muerte en 1967?",
   "o": [
-   "George Martin",
    "Brian Epstein",
-   "Phil Spector"
+   "George Martin",
+   "Allen Klein"
   ]
  },
  {
-  "p": "¿Quién canta «Cha-La Head-Cha-La» en japonés?",
+  "p": "¿Cómo se llama el ending de la saga de Majin Buu en DBZ?",
   "o": [
-   "Hironobu Kageyama",
-   "Masaaki Endoh",
-   "Ichiro Mizuki"
+   "«Boku-tachi wa Tenshi Datta»",
+   "«Detekoi Tobikiri Zenkai Power!»",
+   "«Hitori Janai»"
   ]
  },
  {
@@ -426,19 +426,19 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el opening de Dragon Ball GT?",
+  "p": "¿Qué grupo canta «Don't You See!», ending de Dragon Ball GT?",
   "o": [
-   "«Dan Dan Kokoro Hikareteku»",
-   "«We Gotta Power»",
-   "«Makafushigi Adventure!»"
+   "ZARD",
+   "WANDS",
+   "DEEN"
   ]
  },
  {
-  "p": "¿Cómo se llama el primer opening de Dragon Ball, el original?",
+  "p": "¿Qué banda canta «the WORLD», primer opening de Death Note?",
   "o": [
-   "«Makafushigi Adventure!»",
-   "«Cha-La Head-Cha-La»",
-   "«Dan Dan Kokoro Hikareteku»"
+   "Nightmare",
+   "Maximum the Hormone",
+   "SiM"
   ]
  },
  {
@@ -450,11 +450,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el primer opening japonés de Pokémon?",
+  "p": "¿Quién compuso la música de los primeros juegos de Pokémon?",
   "o": [
-   "«Mezase Pokémon Master»",
-   "«Pokémon Ieru Kana?»",
-   "«Type: Wild»"
+   "Junichi Masuda",
+   "Koji Kondo",
+   "Nobuo Uematsu"
   ]
  },
  {
@@ -530,27 +530,27 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el ending de Evangelion, un clásico del jazz?",
+  "p": "¿Quién compuso la música de «Neon Genesis Evangelion»?",
   "o": [
-   "«Fly Me to the Moon»",
-   "«The Girl from Ipanema»",
-   "«Take Five»"
+   "Shiro Sagisu",
+   "Joe Hisaishi",
+   "Yoko Kanno"
   ]
  },
  {
-  "p": "¿Qué compositor hizo la música de Super Mario y Zelda?",
+  "p": "¿Quién compuso el tema principal de Halo?",
   "o": [
-   "Koji Kondo",
-   "Nobuo Uematsu",
-   "Yoko Shimomura"
+   "Martin O'Donnell",
+   "Jeremy Soule",
+   "Lena Raine"
   ]
  },
  {
-  "p": "¿Qué compositor hizo la música clásica de Final Fantasy?",
+  "p": "¿De qué Final Fantasy es «Eyes on Me», cantada por Faye Wong?",
   "o": [
-   "Nobuo Uematsu",
-   "Koji Kondo",
-   "Hans Zimmer"
+   "Final Fantasy VIII",
+   "Final Fantasy VII",
+   "Final Fantasy X"
   ]
  },
  {
@@ -634,27 +634,27 @@
   ]
  },
  {
-  "p": "¿Dónde nació Freddie Mercury?",
+  "p": "¿Qué religión practicaba la familia de Freddie Mercury?",
   "o": [
-   "Zanzíbar",
-   "Bombay",
-   "Londres"
+   "El zoroastrismo",
+   "El hinduismo",
+   "El islam"
   ]
  },
  {
-  "p": "¿Cuál fue el primer sencillo de The Beatles?",
+  "p": "¿En qué club de Liverpool tocaron The Beatles cientos de veces?",
   "o": [
-   "«Love Me Do»",
-   "«Please Please Me»",
-   "«She Loves You»"
+   "The Cavern Club",
+   "The Star-Club",
+   "The Marquee"
   ]
  },
  {
-  "p": "¿De qué país es Soda Stereo?",
+  "p": "¿Cómo se llamó la gira de regreso de Soda Stereo en 2007?",
   "o": [
-   "Argentina",
-   "Chile",
-   "España"
+   "«Me Verás Volver»",
+   "«Gracias Totales»",
+   "«Nada Personal»"
   ]
  },
  {
@@ -674,11 +674,11 @@
   ]
  },
  {
-  "p": "¿De qué ciudad colombiana es Shakira?",
+  "p": "¿Con qué disco de 1995 se dio a conocer Shakira?",
   "o": [
-   "Barranquilla",
-   "Medellín",
-   "Cartagena"
+   "Pies descalzos",
+   "Dónde están los ladrones",
+   "Laundry Service"
   ]
  },
  {
@@ -690,19 +690,19 @@
   ]
  },
  {
-  "p": "¿En qué video de Queen salen sus integrantes vestidos de amas de casa?",
+  "p": "¿Qué video de Queen usa escenas de la película «Metropolis»?",
   "o": [
-   "«I Want to Break Free»",
    "«Radio Ga Ga»",
-   "«Bicycle Race»"
+   "«Bicycle Race»",
+   "«A Kind of Magic»"
   ]
  },
  {
-  "p": "¿Quién es el líder de BTS?",
+  "p": "¿Quién es el integrante de mayor edad de BTS?",
   "o": [
-   "RM",
+   "Jin",
    "Suga",
-   "Jin"
+   "J-Hope"
   ]
  },
  {
@@ -714,19 +714,19 @@
   ]
  },
  {
-  "p": "¿Qué integrante de Blackpink es de Tailandia?",
+  "p": "¿Qué integrante de Blackpink creció en Australia?",
   "o": [
-   "Lisa",
    "Rosé",
+   "Jennie",
    "Jisoo"
   ]
  },
  {
-  "p": "¿Qué canción cantó Michael Jackson como solista en «Motown 25» (1983)?",
+  "p": "¿Con qué hermana canta Michael Jackson «Scream»?",
   "o": [
-   "«Billie Jean»",
-   "«Beat It»",
-   "«Thriller»"
+   "Janet",
+   "La Toya",
+   "Rebbie"
   ]
  },
  {
@@ -738,9 +738,9 @@
   ]
  },
  {
-  "p": "¿Cuál es el nombre real de Lady Gaga?",
+  "p": "¿Cuál es el nombre real de Rihanna?",
   "o": [
-   "Stefani Germanotta",
+   "Robyn Fenty",
    "Alecia Moore",
    "Katheryn Hudson"
   ]
@@ -762,11 +762,11 @@
   ]
  },
  {
-  "p": "¿En qué ciudad nació Michael Jackson?",
+  "p": "¿Para qué consola de 1990 salió el juego «Moonwalker» de Michael Jackson?",
   "o": [
-   "Gary, Indiana",
-   "Detroit",
-   "Chicago"
+   "Sega Genesis",
+   "Super Nintendo",
+   "NES"
   ]
  },
  {
@@ -810,10 +810,10 @@
   ]
  },
  {
-  "p": "¿Qué guitarrista toca el solo de «Beat It»?",
+  "p": "¿Qué guitarrista toca en «Give In to Me», de Michael Jackson?",
   "o": [
-   "Eddie Van Halen",
    "Slash",
+   "Eddie Van Halen",
    "Steve Vai"
   ]
  },
@@ -826,19 +826,19 @@
   ]
  },
  {
-  "p": "¿En qué año murió Freddie Mercury?",
+  "p": "¿En qué ciudad suiza está la estatua de Freddie Mercury?",
   "o": [
-   "1991",
-   "1985",
-   "1997"
+   "Montreux",
+   "Ginebra",
+   "Zúrich"
   ]
  },
  {
-  "p": "¿En qué año murió Michael Jackson?",
+  "p": "¿En qué ciudad iba a dar Michael Jackson los conciertos de «This Is It»?",
   "o": [
-   "2009",
-   "2006",
-   "2012"
+   "Londres",
+   "Las Vegas",
+   "Los Ángeles"
   ]
  },
  {

@@ -1,0 +1,590 @@
+[
+ {
+  "deporte": true,
+  "p": "En «Supercampeones», ¿a qué isla se va Steve Hyuga a entrenar en el mar?",
+  "o": [
+   "Okinawa",
+   "Hokkaido",
+   "Kyushu"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Supercampeones», ¿en qué portero se inspira Ricardo Espadas, de México?",
+  "o": [
+   "Jorge Campos",
+   "Oswaldo Sánchez",
+   "Adolfo Ríos"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Supercampeones», ¿de qué país es el crack Juan Díaz?",
+  "o": [
+   "Argentina",
+   "Uruguay",
+   "Brasil"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Supercampeones», ¿cómo se llama el equipo de Oliver en la primaria?",
+  "o": [
+   "New Team",
+   "Toho",
+   "Furano"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Hajime no Ippo», ¿a quién vence Takamura para ganar su primer título mundial?",
+  "o": [
+   "Bryan Hawk",
+   "David Eagle",
+   "Richard Bison"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Hajime no Ippo», ¿a quién le gana Ippo el título pluma de Japón?",
+  "o": [
+   "Takeshi Sendo",
+   "Eiji Date",
+   "Ryo Mashiba"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Hajime no Ippo», ¿con qué animal pelea Takamura en el campamento de la montaña?",
+  "o": [
+   "Un oso",
+   "Un jabalí",
+   "Un toro"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En DBZ, ¿quién manda a Goku y a Piccolo a sacar su licencia de manejo?",
+  "o": [
+   "Milk",
+   "Bulma",
+   "Kami-sama"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Pokémon», ¿para qué se queda Primeape lejos de Ash?",
+  "o": [
+   "Para entrenar como peleador",
+   "Para cuidar a su manada",
+   "Para proteger un bosque"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Rocky V», ¿cómo se llama el pupilo que traiciona a Rocky?",
+  "o": [
+   "Tommy Gunn",
+   "Mason Dixon",
+   "Clubber Lang"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Creed» (2015), ¿en qué ciudad pelea Adonis al inicio de la película?",
+  "o": [
+   "Tijuana",
+   "Las Vegas",
+   "Filadelfia"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Karate Kid II», ¿cómo se llama el rival de Daniel en Okinawa?",
+  "o": [
+   "Chozen",
+   "Johnny Lawrence",
+   "Mike Barnes"
+  ]
+ },
+ {
+  "p": "En «Dragon Ball», ¿qué quería pedirle a Shenlong el líder de la Patrulla Roja?",
+  "o": [
+   "Ser más alto",
+   "Ser inmortal",
+   "Dominar el mundo"
+  ]
+ },
+ {
+  "p": "En «Dragon Ball», ¿quién es el peleador enmascarado del palacio de Baba?",
+  "o": [
+   "El abuelo Gohan",
+   "El Maestro Roshi",
+   "El Maestro Grulla"
+  ]
+ },
+ {
+  "p": "En DBZ, ¿cuántos Saibaiman siembran Vegeta y Nappa al llegar a la Tierra?",
+  "o": [
+   "6",
+   "5",
+   "8"
+  ]
+ },
+ {
+  "p": "En DBZ, ¿hasta qué nivel sube Goku el Kaioken contra Vegeta en la Tierra?",
+  "o": [
+   "x4",
+   "x3",
+   "x10"
+  ]
+ },
+ {
+  "p": "En DBZ, ¿de cuánto dice Freezer que es su poder de pelea en su primera forma?",
+  "o": [
+   "530,000",
+   "1,000,000",
+   "180,000"
+  ]
+ },
+ {
+  "p": "En DBZ, ¿cuántos Cell Jr. crea Cell en sus juegos?",
+  "o": [
+   "7",
+   "5",
+   "10"
+  ]
+ },
+ {
+  "p": "En DBZ, ¿qué mago creó originalmente a Majin Buu, hace millones de años?",
+  "o": [
+   "Bibidi",
+   "Babidi",
+   "Dabura"
+  ]
+ },
+ {
+  "p": "En DBZ, ¿cuántas generaciones atrás vivió el Kaiosama sellado en la Espada Z?",
+  "o": [
+   "15",
+   "5",
+   "10"
+  ]
+ },
+ {
+  "p": "En DBZ, ¿cuánto dura la fusión que se logra con la danza?",
+  "o": [
+   "30 minutos",
+   "Una hora",
+   "Diez minutos"
+  ]
+ },
+ {
+  "p": "En DBZ, ¿quién le corta la cola a Vegeta cuando se vuelve mono gigante?",
+  "o": [
+   "Yajirobe",
+   "Gohan",
+   "Krilin"
+  ]
+ },
+ {
+  "p": "En «Dragon Ball GT», ¿de qué raza es Baby?",
+  "o": [
+   "Tsufur",
+   "Namekiano",
+   "Yardrat"
+  ]
+ },
+ {
+  "p": "En «Dragon Ball GT», ¿quién convierte a Goku en niño con las esferas?",
+  "o": [
+   "Pilaf",
+   "Babidi",
+   "El Dr. Myuu"
+  ]
+ },
+ {
+  "p": "En «Dragon Ball Super», ¿quién es el padre de Whis y Vados?",
+  "o": [
+   "El Gran Sacerdote",
+   "Zeno-sama",
+   "El Supremo Kaiosama"
+  ]
+ },
+ {
+  "p": "En «Dragon Ball Super: Broly», ¿cómo se llama la mamá de Goku?",
+  "o": [
+   "Gine",
+   "Seripa",
+   "Kale"
+  ]
+ },
+ {
+  "p": "En «Dragon Ball Super: Super Hero», ¿de quién es nieto el Dr. Hedo?",
+  "o": [
+   "Del Dr. Gero",
+   "Del Dr. Myuu",
+   "Del Dr. Brief"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿qué número de campo de entrenamiento es el Bosque de la Muerte?",
+  "o": [
+   "44",
+   "13",
+   "7"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿quién aplica el examen escrito de los exámenes chunin?",
+  "o": [
+   "Ibiki Morino",
+   "Anko Mitarashi",
+   "Hayate Gekko"
+  ]
+ },
+ {
+  "p": "En la final de los exámenes chunin, ¿contra quién se rinde Shikamaru?",
+  "o": [
+   "Temari",
+   "Kankuro",
+   "Kin Tsuchi"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿qué miembro del Cuarteto del Sonido pelea tocando una flauta?",
+  "o": [
+   "Tayuya",
+   "Kidomaru",
+   "Jirobo"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿cómo termina la pelea de Kimimaro contra Gaara y Lee?",
+  "o": [
+   "Muere por su enfermedad",
+   "Lo aplasta Gaara",
+   "Lo noquea Rock Lee"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿cómo se llama el perro ninja pug de Kakashi?",
+  "o": [
+   "Pakkun",
+   "Akamaru",
+   "Kuromaru"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿cómo se llama la cerdita de Shizune?",
+  "o": [
+   "Tonton",
+   "Katsuyu",
+   "Pakkun"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿cómo se llamaba el papá de Neji?",
+  "o": [
+   "Hizashi",
+   "Hiashi",
+   "Hiruzen"
+  ]
+ },
+ {
+  "p": "En «Naruto Shippuden», ¿cómo se llama la abuela de Sasori?",
+  "o": [
+   "Chiyo",
+   "Koharu",
+   "Tsunade"
+  ]
+ },
+ {
+  "p": "En «Naruto Shippuden», ¿qué sapo anciano pelea junto a Jiraiya contra Pain?",
+  "o": [
+   "Fukasaku",
+   "Gamabunta",
+   "Gamakichi"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿de dónde viene el nombre de Naruto?",
+  "o": [
+   "De una novela de Jiraiya",
+   "De un Hokage",
+   "De su abuelo"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿quién inventó la técnica de revivir muertos Edo Tensei?",
+  "o": [
+   "El Segundo Hokage",
+   "Orochimaru",
+   "Kabuto"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿cómo se llama la bestia de cuatro colas?",
+  "o": [
+   "Son Goku",
+   "Isobu",
+   "Saiken"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿qué apodo tenía el papá de Kakashi?",
+  "o": [
+   "El Colmillo Blanco",
+   "El Destello Amarillo",
+   "El Dios de los Shinobi"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿cuántos cascabeles usa Kakashi en la prueba del Equipo 7?",
+  "o": [
+   "2",
+   "3",
+   "1"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿cómo se llama el entrenador que abandonó a Charmander?",
+  "o": [
+   "Damian",
+   "Ritchie",
+   "A.J."
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿qué Pokémon de Ash se le echa encima al Profesor Oak cada que lo ve?",
+  "o": [
+   "Muk",
+   "Snorlax",
+   "Bayleef"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿por qué aprendió a hablar el Meowth del Equipo Rocket?",
+  "o": [
+   "Para conquistar a una Meowth",
+   "Para entrar al Equipo Rocket",
+   "Para que Giovanni lo quisiera"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿qué Pokémon de James se la pasa tragándose su cabeza?",
+  "o": [
+   "Victreebel",
+   "Weezing",
+   "Cacnea"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿con qué profesora se queda Brock en las Islas Naranja?",
+  "o": [
+   "La Profesora Ivy",
+   "La Profesora Juniper",
+   "La Profesora Magnolia"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿cómo consigue Ash la medalla de Sabrina?",
+  "o": [
+   "Haunter la hace reír",
+   "Pikachu la vence",
+   "Ella se la regala"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿contra quién pierde Ash en la Liga Johto?",
+  "o": [
+   "Harrison",
+   "Tyson",
+   "Gary"
+  ]
+ },
+ {
+  "p": "En «Pokémon 2: El poder de uno», ¿qué coleccionista atrapa a las aves legendarias?",
+  "o": [
+   "Lawrence III",
+   "Giovanni",
+   "Butch"
+  ]
+ },
+ {
+  "p": "En «Pokémon 3», ¿qué Pokémon se hace pasar por el papá de Molly?",
+  "o": [
+   "Entei",
+   "Raikou",
+   "Suicune"
+  ]
+ },
+ {
+  "p": "En «Pokémon 4ever», ¿quién es en realidad Sam, el niño que viaja en el tiempo?",
+  "o": [
+   "El Profesor Oak",
+   "Giovanni",
+   "El papá de Ash"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿quién le regala a Ash su Bulbasaur en la Aldea Oculta?",
+  "o": [
+   "Melanie",
+   "Daisy",
+   "Duplica"
+  ]
+ },
+ {
+  "p": "En la final de la Liga Naranja, ¿qué Pokémon de Ash vence al Dragonite rival?",
+  "o": [
+   "Pikachu",
+   "Charizard",
+   "Tauros"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿qué Pokémon de Jessie se cambió por error por Wobbuffet?",
+  "o": [
+   "Lickitung",
+   "Arbok",
+   "Dustox"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿qué miembro del Equipo Rocket se enoja porque nadie dice bien su nombre?",
+  "o": [
+   "Butch",
+   "Cassidy",
+   "James"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿qué Pokémon de Ash se queda con su manada en Johto?",
+  "o": [
+   "Lapras",
+   "Totodile",
+   "Kingler"
+  ]
+ },
+ {
+  "p": "En «Digimon Adventure», ¿qué villano convierte a los niños en llaveros?",
+  "o": [
+   "Piedmon",
+   "Puppetmon",
+   "Machinedramon"
+  ]
+ },
+ {
+  "p": "En «Digimon Adventure», ¿qué Digimon muere protegiendo a Kari de Myotismon?",
+  "o": [
+   "Wizardmon",
+   "Leomon",
+   "Piximon"
+  ]
+ },
+ {
+  "p": "En «Digimon Tamers», ¿quién mata a Leomon, el compañero de Jeri?",
+  "o": [
+   "Beelzemon",
+   "Makuramon",
+   "Zhuqiaomon"
+  ]
+ },
+ {
+  "p": "En «Digimon Tamers», ¿cómo nace Guilmon?",
+  "o": [
+   "De un dibujo de Takato",
+   "De un digihuevo",
+   "De un virus de internet"
+  ]
+ },
+ {
+  "p": "En «Digimon 02», ¿quiénes se fusionan por DNA para formar a Paildramon?",
+  "o": [
+   "ExVeemon y Stingmon",
+   "ExVeemon y Ankylomon",
+   "Aquilamon y Gatomon"
+  ]
+ },
+ {
+  "p": "En «Digimon 02», ¿con qué digihuevo se vuelve Veemon en Flamedramon?",
+  "o": [
+   "El del Valor",
+   "El de la Amistad",
+   "El de los Milagros"
+  ]
+ },
+ {
+  "p": "En «Digimon Adventure», ¿en qué se convierte Greymon cuando Tai lo fuerza?",
+  "o": [
+   "SkullGreymon",
+   "BlackWarGreymon",
+   "MetalGreymon"
+  ]
+ },
+ {
+  "p": "En «Hajime no Ippo», ¿cómo se llama el perro de Ippo?",
+  "o": [
+   "Wanpo",
+   "Taro",
+   "Kuro"
+  ]
+ },
+ {
+  "p": "En «Digimon Adventure», ¿en qué digievoluciona Ikkakumon a nivel perfecto?",
+  "o": [
+   "Zudomon",
+   "MegaKabuterimon",
+   "WereGarurumon"
+  ]
+ },
+ {
+  "p": "En «Digimon Adventure», ¿en qué zona de Tokio viven los niños elegidos?",
+  "o": [
+   "Odaiba",
+   "Shinjuku",
+   "Shibuya"
+  ]
+ },
+ {
+  "p": "En «Digimon Adventure», ¿qué instrumento toca Matt?",
+  "o": [
+   "La armónica",
+   "La flauta",
+   "El violín"
+  ]
+ },
+ {
+  "p": "En «Digimon Frontier», ¿en qué Digimon se convierte Takuya?",
+  "o": [
+   "Agunimon",
+   "Lobomon",
+   "Flamedramon"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el último villano de la primera temporada de «Digimon»?",
+  "o": [
+   "Apocalymon",
+   "Piedmon",
+   "Diaboromon"
+  ]
+ },
+ {
+  "p": "En «Digimon 02», ¿cómo se llama el Digimon compañero de Ken Ichijoji?",
+  "o": [
+   "Wormmon",
+   "Hawkmon",
+   "Armadillomon"
+  ]
+ },
+ {
+  "p": "En «Digimon Tamers», ¿cuál es el Digimon compañero de Kazu?",
+  "o": [
+   "Guardromon",
+   "MarineAngemon",
+   "Calumon"
+  ]
+ }
+]

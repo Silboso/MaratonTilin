@@ -1,29 +1,29 @@
 [
  {
   "deporte": true,
-  "p": "En «Cobra Kai», ¿cómo se llama el sensei villano que regresa de «Karate Kid»?",
+  "p": "En «Cobra Kai», ¿quién gana el torneo All Valley de la 1.ª temporada?",
   "o": [
-   "John Kreese",
-   "Terry Silver",
-   "Chozen"
+   "Miguel Díaz",
+   "Robby Keene",
+   "Hawk"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Karate Kid» y «Cobra Kai», ¿cómo se llama el torneo de karate?",
+  "p": "En «Cobra Kai», ¿en qué país se celebra el torneo Sekai Taikai?",
   "o": [
-   "All Valley",
-   "Sekai Taikai",
-   "Valley Open"
+   "España",
+   "Japón",
+   "Corea del Sur"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Cobra Kai», ¿cómo se apoda Eli después de cambiar de look?",
+  "p": "En «Cobra Kai», ¿quién le gana a Sam la final femenil del All Valley en la 4.ª temporada?",
   "o": [
-   "Halcón",
-   "Cuervo",
-   "Cobra"
+   "Tory Nichols",
+   "Devon Lee",
+   "Yasmine"
   ]
  },
  {
@@ -46,11 +46,11 @@
  },
  {
   "deporte": true,
-  "p": "En «High School Musical», ¿quién es el papá de Troy Bolton?",
+  "p": "En «High School Musical», ¿contra quién juegan los Wildcats la final de básquet?",
   "o": [
-   "El entrenador de básquetbol",
-   "El director",
-   "El maestro de teatro"
+   "Los Knights de West High",
+   "Los Rams de North High",
+   "Los Eagles de South High"
   ]
  },
  {
@@ -64,11 +64,11 @@
  },
  {
   "deporte": true,
-  "p": "¿A qué personaje de «Game of Thrones» interpretó Hafþór Björnsson, el hombre más fuerte?",
+  "p": "¿Contra quién peleó box en 2022 Hafþór Björnsson, la Montaña de «Game of Thrones»?",
   "o": [
-   "Gregor Clegane",
-   "Hodor",
-   "Khal Drogo"
+   "Eddie Hall",
+   "Brian Shaw",
+   "Žydrūnas Savickas"
   ]
  },
  {
@@ -100,11 +100,11 @@
  },
  {
   "deporte": true,
-  "p": "En «Ted Lasso», ¿qué letrero pega Ted en el vestidor?",
+  "p": "En «Ted Lasso», ¿cómo se llama el club de consejos de Ted y Beard?",
   "o": [
-   "BELIEVE",
-   "WIN",
-   "TEAM"
+   "Diamond Dogs",
+   "Wolf Pack",
+   "Richmond Hounds"
   ]
  },
  {
@@ -145,20 +145,20 @@
  },
  {
   "deporte": true,
-  "p": "En «Ted Lasso», ¿cómo se llama el delantero estrella y egocéntrico?",
+  "p": "En «Ted Lasso», ¿en qué reality de citas aparece Jamie Tartt?",
   "o": [
-   "Jamie Tartt",
-   "Roy Kent",
-   "Dani Rojas"
+   "Lust Conquers All",
+   "Love Island",
+   "Too Hot to Handle"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Ted Lasso», ¿cómo se llama el capitán veterano y gruñón?",
+  "p": "En «Ted Lasso», ¿cómo se llama la sobrina de Roy Kent?",
   "o": [
-   "Roy Kent",
-   "Jamie Tartt",
-   "Sam Obisanya"
+   "Phoebe",
+   "Nora",
+   "Bex"
   ]
  },
  {
@@ -187,19 +187,19 @@
   ]
  },
  {
-  "p": "En «Stranger Things», ¿qué canción salva a Max de Vecna?",
+  "p": "En «Stranger Things» 2, ¿qué bailan Once y Mike en el Baile de Nieve?",
   "o": [
-   "«Running Up That Hill»",
-   "«Master of Puppets»",
-   "«Should I Stay or Should I Go»"
+   "«Every Breath You Take»",
+   "«Time After Time»",
+   "«Take My Breath Away»"
   ]
  },
  {
-  "p": "En la tercera temporada de «Stranger Things», ¿cómo se llama el centro comercial?",
+  "p": "En «Stranger Things» 3, ¿qué alcalde de Hawkins trabaja con los rusos?",
   "o": [
-   "Starcourt",
-   "Hawkins Mall",
-   "Scoops Ahoy"
+   "Larry Kline",
+   "Tom Holloway",
+   "Sam Owens"
   ]
  },
  {
@@ -211,11 +211,11 @@
   ]
  },
  {
-  "p": "¿Cuál es el nombre real de Once en «Stranger Things»?",
+  "p": "En «Stranger Things», ¿cómo se llama la mamá biológica de Once?",
   "o": [
-   "Jane",
-   "Kali",
-   "Nancy"
+   "Terry Ives",
+   "Becky Ives",
+   "Karen Wheeler"
   ]
  },
  {
@@ -235,83 +235,83 @@
   ]
  },
  {
-  "p": "En «Breaking Bad», ¿cómo se llama el cuñado de Walter que trabaja en la DEA?",
+  "p": "En «Breaking Bad», ¿cómo se llama la cerveza casera de Hank?",
   "o": [
-   "Hank Schrader",
-   "Steve Gomez",
-   "Mike Ehrmantraut"
+   "Schraderbräu",
+   "Heisenbräu",
+   "Albuquerbräu"
   ]
  },
  {
-  "p": "En «Breaking Bad», ¿cuál es el apellido de Mike, el hombre de Gus?",
+  "p": "En «Breaking Bad», ¿cómo se llama la nieta de Mike?",
   "o": [
-   "Ehrmantraut",
-   "Salamanca",
-   "Varga"
+   "Kaylee",
+   "Stacey",
+   "Holly"
   ]
  },
  {
-  "p": "¿En qué ciudad pasan «Breaking Bad» y «Better Call Saul»?",
+  "p": "En «Better Call Saul», ¿en qué ciudad se esconde Jimmy como Gene?",
   "o": [
-   "Albuquerque",
-   "Las Vegas",
-   "El Paso"
+   "Omaha",
+   "Cicero",
+   "Des Moines"
   ]
  },
  {
-  "p": "En «Better Call Saul», ¿cómo se llama el hermano de Jimmy?",
+  "p": "En «Better Call Saul», ¿cómo se llama la exesposa de Chuck McGill?",
   "o": [
-   "Chuck",
-   "Howard",
-   "Nacho"
+   "Rebecca",
+   "Francesca",
+   "Stacey"
   ]
  },
  {
-  "p": "En «Breaking Bad», ¿qué narco en silla de ruedas se comunica con una campanita?",
+  "p": "En «Breaking Bad», ¿cómo se llaman los gemelos sicarios que buscan a Walt?",
   "o": [
-   "Héctor Salamanca",
-   "Gus Fring",
-   "Tuco Salamanca"
+   "Leonel y Marco",
+   "Lalo y Tuco",
+   "Joaquín y Domingo"
   ]
  },
  {
-  "p": "En «Game of Thrones», ¿cómo se llama la espada de Arya?",
+  "p": "En «Game of Thrones», ¿quién le da a Jon Snow su espada de acero valyrio?",
   "o": [
-   "Aguja",
-   "Garra",
-   "Hielo"
+   "Jeor Mormont",
+   "Ned Stark",
+   "Benjen Stark"
   ]
  },
  {
-  "p": "En «Game of Thrones», ¿qué significa la frase «Valar Morghulis»?",
+  "p": "En «Game of Thrones», ¿cómo se llama el templo de los Hombres sin Rostro?",
   "o": [
-   "«Todos los hombres deben morir»",
-   "«Se acerca el invierno»",
-   "«Fuego y sangre»"
+   "La Casa de Blanco y Negro",
+   "El Templo Rojo",
+   "La Casa de los Eternos"
   ]
  },
  {
-  "p": "En «Game of Thrones», ¿quién mata al Rey de la Noche?",
+  "p": "En «Game of Thrones», ¿quién le da a Arya la daga con que mata al Rey de la Noche?",
   "o": [
-   "Arya",
+   "Bran",
    "Jon Snow",
-   "Daenerys"
+   "Sansa"
   ]
  },
  {
-  "p": "En «Game of Thrones», ¿en qué boda muere Robb Stark?",
+  "p": "En «Game of Thrones», ¿qué canción tocan al empezar la masacre de la Boda Roja?",
   "o": [
-   "La Boda Roja",
-   "La Boda Púrpura",
-   "La Boda Negra"
+   "«Las lluvias de Castamere»",
+   "«El oso y la doncella»",
+   "«Jenny de Piedraantigua»"
   ]
  },
  {
-  "p": "En «Game of Thrones», ¿quién envenena al rey Joffrey?",
+  "p": "En «Game of Thrones», ¿dónde iba escondido el veneno que mató a Joffrey?",
   "o": [
-   "Olenna Tyrell",
-   "Sansa Stark",
-   "Tyrion Lannister"
+   "En el collar de Sansa",
+   "En el anillo de Margaery",
+   "En el pastel de bodas"
   ]
  },
  {
@@ -323,67 +323,67 @@
   ]
  },
  {
-  "p": "En «Game of Thrones», ¿quién es la mamá de Jon Snow?",
+  "p": "En «Game of Thrones», ¿cuál es el verdadero nombre de Jon Snow?",
   "o": [
-   "Lyanna Stark",
-   "Catelyn Stark",
-   "Ashara Dayne"
+   "Aegon Targaryen",
+   "Rhaegar Targaryen",
+   "Viserys Targaryen"
   ]
  },
  {
-  "p": "En «The Office», ¿cómo se llama la novia de Michael que trabaja en Recursos Humanos?",
+  "p": "En «The Office», ¿a qué sucursal transfieren a Holly Flax?",
   "o": [
-   "Holly Flax",
-   "Jan Levinson",
-   "Carol Stills"
+   "Nashua",
+   "Stamford",
+   "Utica"
   ]
  },
  {
-  "p": "En «The Office», ¿qué empresa compra Dunder Mifflin?",
+  "p": "En «The Office», ¿cómo se llama la directora general de Sabre?",
   "o": [
-   "Sabre",
-   "Staples",
-   "Michael Scott Paper Company"
+   "Jo Bennett",
+   "Nellie Bertram",
+   "Jan Levinson"
   ]
  },
  {
-  "p": "En «The Office», ¿quién es el de Recursos Humanos al que Michael odia?",
+  "p": "En «The Office», ¿a qué país se muda Toby cuando deja la oficina?",
   "o": [
-   "Toby",
-   "Creed",
-   "Gabe"
+   "Costa Rica",
+   "Honduras",
+   "Panamá"
   ]
  },
  {
-  "p": "En «Friends», ¿qué canción famosa compone Phoebe?",
+  "p": "En «Friends», ¿con quién se casa Phoebe al final?",
   "o": [
-   "«Smelly Cat»",
-   "«Ugly Cat»",
-   "«Fat Cat»"
+   "Mike Hannigan",
+   "David",
+   "Gary"
   ]
  },
  {
-  "p": "En «Friends», ¿qué dice siempre Ross para defenderse con Rachel?",
+  "p": "En «Friends», ¿con quién se acuesta Ross la noche que «se dan un tiempo»?",
   "o": [
-   "«¡Estábamos en un descanso!»",
-   "«¡No fue mi culpa!»",
-   "«¡Pivot!»"
+   "Chloe",
+   "Bonnie",
+   "Julie"
   ]
  },
  {
-  "p": "En «Friends», ¿cuántas veces se casa Ross?",
+  "p": "En «Friends», ¿en qué ciudad se casan Ross y Emily?",
   "o": [
-   "3",
-   "2",
-   "4"
+   "Londres",
+   "Edimburgo",
+   "Dublín"
   ]
  },
  {
-  "p": "¿Cuál es el apellido de Rachel en «Friends»?",
+  "p": "En «Friends», ¿cómo se llama el novio al que Rachel deja plantado en el altar?",
   "o": [
-   "Green",
-   "Geller",
-   "Bing"
+   "Barry",
+   "Paolo",
+   "Joshua"
   ]
  },
  {
@@ -395,27 +395,27 @@
   ]
  },
  {
-  "p": "¿Qué versión de «piedra, papel o tijera» inventa Sheldon?",
+  "p": "En «The Big Bang Theory», ¿cuál es el número favorito de Sheldon?",
   "o": [
-   "Piedra, papel, tijera, lagarto, Spock",
-   "Piedra, papel, tijera, fuego, agua",
-   "Piedra, papel, tijera, pistola, escudo"
+   "73",
+   "42",
+   "37"
   ]
  },
  {
-  "p": "En «The Big Bang Theory», ¿cómo se llama la novia de Sheldon?",
+  "p": "En «The Big Bang Theory», ¿qué estudia Amy Farrah Fowler?",
   "o": [
-   "Amy Farrah Fowler",
-   "Bernadette",
-   "Leslie Winkle"
+   "Neurobiología",
+   "Microbiología",
+   "Astrofísica"
   ]
  },
  {
-  "p": "En «The Big Bang Theory», ¿qué número de departamento tienen Sheldon y Leonard?",
+  "p": "En «The Big Bang Theory», ¿en qué avenida está el edificio de Sheldon?",
   "o": [
-   "4A",
-   "4B",
-   "3A"
+   "Los Robles",
+   "Colorado",
+   "Lake"
   ]
  },
  {
@@ -443,19 +443,19 @@
   ]
  },
  {
-  "p": "En «El increíble mundo de Gumball», ¿cómo se llama la hermana genio?",
+  "p": "En «El increíble mundo de Gumball», ¿cuántos años tiene Anais?",
   "o": [
-   "Anais",
-   "Nicole",
-   "Penny"
+   "4",
+   "6",
+   "8"
   ]
  },
  {
-  "p": "¿En qué ciudad vive Gumball?",
+  "p": "En «El increíble mundo de Gumball», ¿qué era Darwin antes de que le salieran piernas?",
   "o": [
-   "Elmore",
-   "Springfield",
-   "Dimmsdale"
+   "El pez mascota de la familia",
+   "Un pez del lago de Elmore",
+   "El pez del salón de clases"
   ]
  },
  {
@@ -475,11 +475,11 @@
   ]
  },
  {
-  "p": "En «Los Simpson», ¿quién le disparó al señor Burns?",
+  "p": "En «¿Quién le disparó al Sr. Burns?», ¿qué hay debajo de la primaria de Springfield?",
   "o": [
-   "Maggie",
-   "Smithers",
-   "Homero"
+   "Petróleo",
+   "Oro",
+   "Uranio"
   ]
  },
  {
@@ -491,11 +491,11 @@
   ]
  },
  {
-  "p": "En «Los Simpson», ¿cómo se llaman las hermanas gemelas de Marge?",
+  "p": "En «Los Simpson», ¿cómo se llama la iguana de Selma?",
   "o": [
-   "Patty y Selma",
-   "Sherri y Terri",
-   "Lisa y Maggie"
+   "Jub-Jub",
+   "Bola de Nieve",
+   "Ayudante de Santa"
   ]
  },
  {
@@ -507,27 +507,27 @@
   ]
  },
  {
-  "p": "En «Futurama», ¿cómo se llama la empresa de entregas?",
+  "p": "En «Futurama», ¿qué trabajo tiene Hermes Conrad en Planet Express?",
   "o": [
-   "Planet Express",
-   "MomCorp",
-   "Slurm"
+   "Es el contador",
+   "Es el piloto",
+   "Es el médico"
   ]
  },
  {
-  "p": "En «Futurama», ¿qué parentesco tiene el Profesor Farnsworth con Fry?",
+  "p": "En «Futurama», ¿cómo se llama el clon del Profesor Farnsworth?",
   "o": [
-   "Es su descendiente",
-   "Es su abuelo",
-   "Es su tío"
+   "Cubert",
+   "Dwight",
+   "Igner"
   ]
  },
  {
-  "p": "En «Futurama», ¿cómo se llama el perro de Fry?",
+  "p": "En «Futurama», ¿cuántos años esperó Seymour a Fry afuera de la pizzería?",
   "o": [
-   "Seymour",
-   "Nibbler",
-   "Scruffy"
+   "12",
+   "3",
+   "20"
   ]
  },
  {
@@ -595,11 +595,11 @@
   ]
  },
  {
-  "p": "¿Qué actor mexicano le dio voz al Burro en «Shrek» en latino?",
+  "p": "¿Quién le da voz a Fiona en el doblaje latino de «Shrek»?",
   "o": [
-   "Eugenio Derbez",
-   "Adal Ramones",
-   "Omar Chaparro"
+   "Dulce Guerrero",
+   "Rossy Aguirre",
+   "Patricia Palestino"
   ]
  },
  {
@@ -667,19 +667,19 @@
   ]
  },
  {
-  "p": "En «Kim Possible», ¿cómo se llama el genio de las computadoras que la ayuda?",
+  "p": "En «Kim Possible», ¿cómo se llama el restaurante de comida rápida favorito de Ron?",
   "o": [
-   "Wade",
-   "Ron",
-   "Drakken"
+   "Bueno Nacho",
+   "Taco Loco",
+   "Nacho Libre"
   ]
  },
  {
-  "p": "En «La Casa de Papel», ¿quién es el hermano del Profesor?",
+  "p": "En «La Casa de Papel», ¿cuál es el nombre real del Profesor?",
   "o": [
-   "Berlín",
-   "Río",
-   "Denver"
+   "Sergio Marquina",
+   "Andrés de Fonollosa",
+   "Martín Berrote"
   ]
  },
  {
@@ -691,11 +691,11 @@
   ]
  },
  {
-  "p": "En «Futurama», ¿cuál es el nombre de pila de Fry?",
+  "p": "En «Futurama», ¿en qué fecha queda congelado Fry?",
   "o": [
-   "Philip",
-   "Hubert",
-   "Turanga"
+   "31 de diciembre de 1999",
+   "1 de enero de 2000",
+   "24 de diciembre de 1999"
   ]
  },
  {
@@ -739,91 +739,91 @@
   ]
  },
  {
-  "p": "En «Better Call Saul», ¿a qué dice ser alérgico Chuck McGill?",
+  "p": "En «Better Call Saul», ¿cómo muere Chuck McGill?",
   "o": [
-   "A la electricidad",
-   "A la luz del sol",
-   "Al ruido"
+   "En un incendio",
+   "De un infarto",
+   "Lo mata Lalo"
   ]
  },
  {
-  "p": "En «Better Call Saul», ¿qué nombre usa Jimmy cuando trabaja en Cinnabon?",
+  "p": "En «Better Call Saul», ¿qué nombre falso usa Kim en las estafas con Jimmy?",
   "o": [
-   "Gene Takovic",
-   "Ed Galbraith",
-   "Ted Beneke"
+   "Giselle St. Clair",
+   "Francesca Liddy",
+   "Wendy Sinclair"
   ]
  },
  {
-  "p": "En «Better Call Saul», ¿quién mata a Howard Hamlin?",
+  "p": "En «Better Call Saul», ¿dónde quedan enterrados Howard y Lalo?",
   "o": [
-   "Lalo Salamanca",
-   "Nacho Varga",
-   "Mike Ehrmantraut"
+   "Bajo el superlaboratorio",
+   "En el desierto",
+   "Bajo el autolavado"
   ]
  },
  {
-  "p": "En «Friends», ¿cómo se llama la primera esposa de Ross?",
+  "p": "En «Friends», ¿cómo se llama el papá de Ross y Monica?",
   "o": [
-   "Carol",
-   "Emily",
-   "Susan"
+   "Jack",
+   "Richard",
+   "Frank"
   ]
  },
  {
-  "p": "En «Friends», ¿cómo se llama el doctor que interpreta Joey en la telenovela?",
+  "p": "En «Friends», ¿cómo muere el Dr. Drake Ramoray en la telenovela de Joey?",
   "o": [
-   "Drake Ramoray",
-   "Mac Machiavelli",
-   "Johnny Ramoray"
+   "Cae por el hueco del elevador",
+   "Lo atropella un auto",
+   "En un incendio"
   ]
  },
  {
-  "p": "En «Friends», ¿cómo se llama la novia de Chandler famosa por su «Oh. My. God»?",
+  "p": "En «Friends», ¿qué especialidad médica tiene Richard, el novio mayor de Monica?",
   "o": [
-   "Janice",
-   "Kathy",
-   "Mona"
+   "Oftalmología",
+   "Odontología",
+   "Pediatría"
   ]
  },
  {
-  "p": "En «The Big Bang Theory», ¿qué canción le cantan a Sheldon cuando está enfermo?",
+  "p": "En «The Big Bang Theory», ¿para qué farmacéutica trabaja Penny como vendedora?",
   "o": [
-   "«Soft Kitty»",
-   "«Little Star»",
-   "«Sleepy Bear»"
+   "Zangen",
+   "Pfizer",
+   "Novartis"
   ]
  },
  {
-  "p": "En «Breaking Bad», ¿qué nombre prefiere usar Walter Jr.?",
+  "p": "En «Breaking Bad», ¿qué condición tiene Walter Jr.?",
   "o": [
-   "Flynn",
-   "Jesse",
-   "Brock"
+   "Parálisis cerebral",
+   "Distrofia muscular",
+   "Esclerosis múltiple"
   ]
  },
  {
-  "p": "En «Los Simpson», ¿cómo se llama el director de la primaria?",
+  "p": "En «Los Simpson», ¿cuál es el verdadero nombre del director Skinner?",
   "o": [
-   "Skinner",
-   "Chalmers",
-   "Hoover"
+   "Armin Tamzarian",
+   "Artie Ziff",
+   "Hans Topo"
   ]
  },
  {
-  "p": "¿Cuál es el lema oficial de la Casa Lannister en «Game of Thrones»?",
+  "p": "En «Game of Thrones», ¿cuál es el lema de la Casa Greyjoy?",
   "o": [
-   "«¡Oye mi rugido!»",
-   "«Nuestra es la furia»",
-   "«Crecer con fuerza»"
+   "«Nosotros no sembramos»",
+   "«Fuego y sangre»",
+   "«Se acerca el invierno»"
   ]
  },
  {
-  "p": "En «Game of Thrones», ¿quién le dice a Jon «No sabes nada, Jon Snow»?",
+  "p": "En «Game of Thrones», ¿quién mata a Ygritte con una flecha?",
   "o": [
-   "Ygritte",
-   "Melisandre",
-   "Daenerys"
+   "Olly",
+   "Alliser Thorne",
+   "Janos Slynt"
   ]
  }
 ]

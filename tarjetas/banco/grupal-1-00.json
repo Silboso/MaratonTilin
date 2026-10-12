@@ -1,10 +1,10 @@
 [
  {
-  "p": "¿De qué estado es la cochinita pibil?",
+  "p": "¿Qué condimento le da su color rojo a la cochinita pibil?",
   "o": [
-   "Yucatán",
-   "Oaxaca",
-   "Puebla"
+   "Achiote",
+   "Chile guajillo",
+   "Pimentón"
   ]
  },
  {
@@ -16,69 +16,69 @@
   ]
  },
  {
-  "p": "¿Cómo se llama la rana verde del meme «Feels good man»?",
+  "p": "¿De qué país es la telenovela del meme de la señora confundida entre fórmulas?",
   "o": [
-   "Pepe",
-   "Kermit",
-   "Freddy"
+   "Brasil",
+   "México",
+   "Colombia"
   ]
  },
  {
-  "p": "Por ley, ¿cuánto es lo mínimo de aguinaldo?",
+  "p": "Por ley, si solo trabajaste medio año, ¿cuánto aguinaldo te toca como mínimo?",
   "o": [
+   "7.5 días de salario",
    "15 días de salario",
-   "10 días de salario",
-   "30 días de salario"
+   "Nada, solo si cumples el año"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Cuántos anillos de la NBA ganó Michael Jordan?",
+  "p": "¿Qué número usó Michael Jordan al volver de su primer retiro, en 1995?",
   "o": [
-   "6",
-   "5",
-   "4"
+   "45",
+   "33",
+   "32"
   ]
  },
  {
-  "p": "¿Qué personaje grita «It's over 9000!» en el famoso meme?",
+  "p": "En el doblaje latino, ¿de más de cuánto dice Vegeta que es el poder de Goku?",
   "o": [
-   "Vegeta",
-   "Goku",
-   "Freezer"
+   "8000",
+   "9000",
+   "10 000"
   ]
  },
  {
-  "p": "En Japón, ¿cuándo se dice «itadakimasu»?",
+  "p": "En Japón, ¿qué se dice al terminar de comer?",
   "o": [
-   "Antes de comer",
-   "Al llegar a casa",
-   "Al despedirse"
+   "«Gochisōsama»",
+   "«Itadakimasu»",
+   "«Otsukaresama»"
   ]
  },
  {
-  "p": "En japonés, ¿qué es un «senpai»?",
+  "p": "En el anime, ¿qué honorífico es más respetuoso que «-san»?",
   "o": [
-   "Alguien con más antigüedad que tú",
-   "Un maestro",
-   "Un hermano menor"
+   "-sama",
+   "-chan",
+   "-kun"
   ]
  },
  {
-  "p": "¿Qué comida japonesa son bolitas rellenas de pulpo?",
+  "p": "¿De qué se hace la masa del mochi japonés?",
   "o": [
-   "Takoyaki",
-   "Onigiri",
-   "Gyozas"
+   "Arroz glutinoso",
+   "Frijol rojo",
+   "Harina de trigo"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué luchador mexicano hizo famoso el «619» en la WWE?",
+  "p": "¿A qué se refiere el «619» de Rey Mysterio?",
   "o": [
-   "Rey Mysterio",
-   "Místico",
-   "Sin Cara"
+   "A la lada de San Diego",
+   "A su fecha de cumpleaños",
+   "A su peso en libras"
   ]
  },
  {
@@ -90,11 +90,11 @@
   ]
  },
  {
-  "p": "¿Qué institución da créditos para vivienda a los trabajadores formales?",
+  "p": "¿Qué crédito del Infonavit te deja comprar casa junto con otra persona?",
   "o": [
-   "Infonavit",
-   "La Afore",
-   "El SAT"
+   "Unamos Crédito",
+   "Cofinavit",
+   "Mejoravit"
   ]
  }
 ]

@@ -1,11 +1,11 @@
 [
  {
   "deporte": true,
-  "p": "En Mario Kart, ¿qué caparazón va directo contra el que va en primer lugar?",
+  "p": "¿En qué Mario Kart se estrenaron las motos?",
   "o": [
-   "El caparazón azul",
-   "El caparazón rojo",
-   "El caparazón verde"
+   "Mario Kart Wii",
+   "Mario Kart DS",
+   "Mario Kart 7"
   ]
  },
  {
@@ -73,20 +73,20 @@
  },
  {
   "deporte": true,
-  "p": "En FIFA, ¿cómo se llama el modo donde armas tu equipo con cartas de jugadores?",
+  "p": "En Rocket League, ¿cómo se llama el modo de hockey con un disco?",
   "o": [
-   "Ultimate Team",
-   "Liga Máster",
-   "Volta"
+   "Snow Day",
+   "Hoops",
+   "Dropshot"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué futbolista salió en la portada de FIFA del 13 al 16?",
+  "p": "En Mario Strikers Charged, ¿qué personaje es el portero de todos los equipos?",
   "o": [
-   "Lionel Messi",
-   "Cristiano Ronaldo",
-   "Neymar"
+   "Kritter",
+   "Boo",
+   "Toad"
   ]
  },
  {
@@ -136,20 +136,20 @@
  },
  {
   "deporte": true,
-  "p": "¿Cómo se llaman los muñequitos que juegan en Wii Sports?",
+  "p": "En el béisbol de Wii Sports, ¿cuántas entradas dura un partido?",
   "o": [
-   "Miis",
-   "Avatares",
-   "Sims"
+   "3",
+   "5",
+   "9"
   ]
  },
  {
   "deporte": true,
-  "p": "En FIFA 20, ¿qué modo nuevo era de fútbol callejero?",
+  "p": "¿Con qué nombre sigue la saga FIFA de EA desde 2023?",
   "o": [
-   "Volta",
-   "Ultimate Team",
-   "Clubes Pro"
+   "EA Sports FC",
+   "EA Sports Football",
+   "FIFA Ultimate"
   ]
  },
  {
@@ -162,19 +162,19 @@
   ]
  },
  {
-  "p": "¿Qué escritor de «Game of Thrones» colaboró en Elden Ring?",
+  "p": "En Elden Ring, ¿cómo se llama tu caballo espectral?",
   "o": [
-   "George R. R. Martin",
-   "Stephen King",
-   "Neil Gaiman"
+   "Torrente",
+   "Melina",
+   "Ranni"
   ]
  },
  {
-  "p": "En Persona 5, ¿qué gato acompaña al protagonista?",
+  "p": "En Persona 5, ¿cómo se llama el café donde vive el protagonista?",
   "o": [
-   "Morgana",
-   "Ryuji",
-   "Futaba"
+   "Leblanc",
+   "Crossroads",
+   "Velvet"
   ]
  },
  {
@@ -226,11 +226,11 @@
   ]
  },
  {
-  "p": "En LoL, ¿con qué pelea Vi?",
+  "p": "¿Qué campeona de LoL renace de un huevo al morir?",
   "o": [
-   "Con guanteletes gigantes",
-   "Con una ametralladora",
-   "Con un martillo"
+   "Anivia",
+   "Quinn",
+   "Xayah"
   ]
  },
  {
@@ -338,11 +338,11 @@
   ]
  },
  {
-  "p": "¿Qué personaje de Smash viene de la saga Metroid?",
+  "p": "Además de Fox y Falco, ¿qué personaje de Star Fox pelea en Smash?",
   "o": [
-   "Samus",
-   "Fox",
-   "Ness"
+   "Wolf",
+   "Slippy",
+   "Peppy"
   ]
  },
  {
@@ -402,35 +402,35 @@
   ]
  },
  {
-  "p": "¿Cómo se llama la versión malvada de Mario que usa una «W»?",
+  "p": "En Super Mario Sunshine, ¿quién se disfraza de Mario para ensuciar la isla?",
   "o": [
+   "Bowser Jr.",
    "Wario",
-   "Waluigi",
-   "Bowser Jr."
+   "Kamek"
   ]
  },
  {
-  "p": "En Zelda, ¿cómo se llama la espada legendaria de Link?",
+  "p": "En Ocarina of Time, ¿quién le encarga a Link su primera misión?",
   "o": [
-   "La Espada Maestra",
-   "La Espada Biggoron",
-   "La Hoja Divina"
+   "El Gran Árbol Deku",
+   "La Gran Hada",
+   "Kaepora Gaebora"
   ]
  },
  {
-  "p": "En Zelda, ¿cómo se llama el dinero?",
+  "p": "En «Ocarina of Time», ¿cuántas piezas de corazón forman un contenedor?",
   "o": [
-   "Rupias",
-   "Monedas",
-   "Gil"
+   "4",
+   "5",
+   "3"
   ]
  },
  {
-  "p": "¿En qué evoluciona Eevee con una Piedra Agua?",
+  "p": "¿Con qué piedra evoluciona Growlithe a Arcanine?",
   "o": [
-   "Vaporeon",
-   "Jolteon",
-   "Flareon"
+   "Piedra Fuego",
+   "Piedra Solar",
+   "Piedra Lunar"
   ]
  },
  {
@@ -482,11 +482,11 @@
   ]
  },
  {
-  "p": "En Resident Evil, ¿cómo se llama la empresa malvada?",
+  "p": "En Resident Evil, ¿cómo se llama la unidad de policía de élite de Jill y Chris?",
   "o": [
-   "Umbrella",
-   "Aperture",
-   "Abstergo"
+   "S.T.A.R.S.",
+   "B.S.A.A.",
+   "U.B.C.S."
   ]
  },
  {
@@ -498,11 +498,11 @@
   ]
  },
  {
-  "p": "En The Last of Us, ¿qué causa la infección?",
+  "p": "En The Last of Us, ¿cómo se llaman los infectados ciegos que se guían por el sonido?",
   "o": [
-   "Un hongo",
-   "Un virus",
-   "Un parásito alienígena"
+   "Chasqueadores",
+   "Corredores",
+   "Acechadores"
   ]
  },
  {
@@ -586,19 +586,19 @@
   ]
  },
  {
-  "p": "¿Qué luchadora fue la primera mujer jugable de Street Fighter?",
+  "p": "¿Qué villano de Street Fighter usa el Psycho Power?",
   "o": [
-   "Chun-Li",
-   "Cammy",
-   "Juri"
+   "M. Bison",
+   "Akuma",
+   "Vega"
   ]
  },
  {
-  "p": "¿Qué ninja de Mortal Kombat viste de azul y es rival de Scorpion?",
+  "p": "¿Qué personaje de Mortal Kombat lanza su sombrero filoso?",
   "o": [
-   "Sub-Zero",
-   "Smoke",
-   "Noob Saibot"
+   "Kung Lao",
+   "Liu Kang",
+   "Kenshi"
   ]
  },
  {
@@ -626,11 +626,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama la moneda de Fortnite?",
+  "p": "¿Cómo se llama el modo de Fortnite contra monstruos que salió antes del Battle Royale?",
   "o": [
-   "Pavos (V-Bucks)",
-   "Robux",
-   "Monedas de oro"
+   "Salvar el mundo",
+   "Modo Creativo",
+   "LEGO Fortnite"
   ]
  },
  {
@@ -666,19 +666,19 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el protagonista de Final Fantasy VII?",
+  "p": "En Final Fantasy VII, ¿cómo se llama el grupo ecoterrorista de Barret?",
   "o": [
-   "Cloud Strife",
-   "Squall Leonhart",
-   "Tidus"
+   "Avalancha",
+   "Los Turcos",
+   "Shinra"
   ]
  },
  {
-  "p": "En Skyrim, ¿qué le pasó al guardia que «fue aventurero como tú»?",
+  "p": "En Skyrim, ¿al jarl de qué ciudad avisas del ataque del dragón al inicio?",
   "o": [
-   "Le dieron un flechazo en la rodilla",
-   "Lo mordió un dragón",
-   "Se rompió una pierna"
+   "Carrera Blanca",
+   "Soledad",
+   "Ventalia"
   ]
  },
  {
@@ -706,11 +706,11 @@
   ]
  },
  {
-  "p": "¿Cómo empieza el famoso código Konami?",
+  "p": "En Contra, ¿qué letra trae el arma que dispara en abanico?",
   "o": [
-   "Arriba, arriba, abajo, abajo",
-   "Abajo, abajo, arriba, arriba",
-   "A, B, A, B, Start"
+   "S",
+   "M",
+   "L"
   ]
  },
  {
@@ -722,11 +722,11 @@
   ]
  },
  {
-  "p": "¿En qué región pasa Pokémon Rojo y Azul?",
+  "p": "¿Qué Pokémon inicial de Johto es de tipo Fuego?",
   "o": [
-   "Kanto",
-   "Johto",
-   "Hoenn"
+   "Cyndaquil",
+   "Torchic",
+   "Chimchar"
   ]
  },
  {
@@ -746,11 +746,11 @@
   ]
  },
  {
-  "p": "¿Quién es el villano principal de Batman: Arkham Asylum?",
+  "p": "En Batman: Arkham Asylum, ¿qué villano te hace alucinar con su gas del miedo?",
   "o": [
-   "El Guasón",
    "El Espantapájaros",
-   "Bane"
+   "Hiedra Venenosa",
+   "El Sombrerero Loco"
   ]
  },
  {
@@ -778,11 +778,11 @@
   ]
  },
  {
-  "p": "En Metal Gear Solid, ¿dónde se esconde Snake?",
+  "p": "En Metal Gear Solid, ¿cómo se llama el hermano gemelo villano de Snake?",
   "o": [
-   "En una caja de cartón",
-   "En un bote de basura",
-   "En un armario"
+   "Liquid Snake",
+   "Solidus Snake",
+   "Revolver Ocelot"
   ]
  },
  {
@@ -882,11 +882,11 @@
   ]
  },
  {
-  "p": "En Ace Attorney, ¿qué grita Phoenix Wright en el juicio?",
+  "p": "En Ace Attorney, ¿cómo se llama la asistente médium de Phoenix Wright?",
   "o": [
-   "«¡Protesto!»",
-   "«¡Silencio!»",
-   "«¡Culpable!»"
+   "Maya Fey",
+   "Franziska von Karma",
+   "Ema Skye"
   ]
  },
  {

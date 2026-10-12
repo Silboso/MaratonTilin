@@ -36,11 +36,11 @@
   ]
  },
  {
-  "p": "¿De qué estado es el aguachile?",
+  "p": "¿Qué es el chilorio sinaloense?",
   "o": [
-   "Sinaloa",
-   "Yucatán",
-   "Oaxaca"
+   "Cerdo deshebrado en chile",
+   "Un ceviche de camarón",
+   "Un dulce de tamarindo"
   ]
  },
  {
@@ -52,11 +52,11 @@
   ]
  },
  {
-  "p": "¿Qué hierba se le pone a los frijoles de olla y a los esquites?",
+  "p": "¿Qué hierba de olor fuerte lleva la cemita poblana?",
   "o": [
+   "Pápalo",
    "Epazote",
-   "Hoja santa",
-   "Pápalo"
+   "Hoja santa"
   ]
  },
  {
@@ -100,35 +100,35 @@
   ]
  },
  {
-  "p": "¿A quiénes se festeja el 3 de mayo, Día de la Santa Cruz?",
+  "p": "¿Qué día se llevan los animales a bendecir a la iglesia, por San Antonio Abad?",
   "o": [
-   "A los albañiles",
-   "A los maestros",
-   "A los carteros"
+   "17 de enero",
+   "2 de febrero",
+   "3 de mayo"
   ]
  },
  {
-  "p": "Completa el dicho: «Más vale paso que dure…»",
+  "p": "Completa el dicho: «Más vale malo por conocido…»",
   "o": [
-   "…y no trote que canse",
-   "…que carrera corta",
-   "…que caballo flaco"
+   "…que bueno por conocer",
+   "…que nuevo por probar",
+   "…que nada por perder"
   ]
  },
  {
-  "p": "Completa el dicho: «Agua que no has de beber…»",
+  "p": "Completa el refrán: «Arrieros somos…»",
   "o": [
-   "…déjala correr",
-   "…no la sirvas",
-   "…tírala al mar"
+   "…y en el camino andamos",
+   "…y a la mula seguimos",
+   "…y no nos rajamos"
   ]
  },
  {
-  "p": "En «Ratatouille», ¿quién decía «Cualquiera puede cocinar»?",
+  "p": "En «Ratatouille», ¿quién quiere usar la cara de Gusteau para vender congelados?",
   "o": [
-   "Gusteau",
-   "Remy",
-   "Anton Ego"
+   "Skinner",
+   "Anton Ego",
+   "Horst"
   ]
  },
  {

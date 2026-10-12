@@ -1,0 +1,590 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Qué equipos jugaron el primer partido oficial de la NFL en el Estadio Azteca, en 2005?",
+  "o": [
+   "Cardenales y 49ers",
+   "Raiders y Texanos",
+   "Jefes y Cargadores"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Rocky III», ¿qué responde Clubber Lang cuando le piden su pronóstico?",
+  "o": [
+   "«Dolor»",
+   "«Nocaut»",
+   "«Sangre»"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Space Jam», ¿cómo se llama el jefe del parque de diversiones alienígena?",
+  "o": [
+   "Swackhammer",
+   "Pound",
+   "Nawt"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En Qatar 2022, ¿a qué rival le dijo Messi «¿Qué mirás, bobo?»?",
+  "o": [
+   "Wout Weghorst",
+   "Memphis Depay",
+   "Virgil van Dijk"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué evento se tomó la foto del meme «Crying Jordan»?",
+  "o": [
+   "Su entrada al Salón de la Fama",
+   "Su primer retiro, en 1993",
+   "Su primer título, en 1991"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué piloto de F1 respondió por radio «Déjame en paz, sé lo que hago»?",
+  "o": [
+   "Kimi Räikkönen",
+   "Sebastian Vettel",
+   "Fernando Alonso"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué ciclista impulsó las pulseras amarillas de silicón «Livestrong»?",
+  "o": [
+   "Lance Armstrong",
+   "Alberto Contador",
+   "Miguel Induráin"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quién era Chuck Taylor, el que da nombre a los Converse clásicos?",
+  "o": [
+   "Un basquetbolista",
+   "Un tenista",
+   "Un corredor olímpico"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué basquetbolista es la cara que se ríe burlona en los rage comics?",
+  "o": [
+   "Yao Ming",
+   "Shaquille O'Neal",
+   "Dwyane Wade"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llamaban las patinetas de dedo más famosas de los 2000?",
+  "o": [
+   "Tech Deck",
+   "Flick Trix",
+   "Fingerskate"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué tenis de los 2000 te dejaban deslizarte con una rueda escondida?",
+  "o": [
+   "Heelys",
+   "Skechers",
+   "Etnies"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué equipo prometió LeBron «no uno, no dos, no tres…» títulos?",
+  "o": [
+   "Miami Heat",
+   "Cleveland Cavaliers",
+   "Los Angeles Lakers"
+  ]
+ },
+ {
+  "p": "En «Shrek», ¿quién dice que algunos morirán, pero es un sacrificio que acepta?",
+  "o": [
+   "Lord Farquaad",
+   "El Príncipe Encantador",
+   "El Hada Madrina"
+  ]
+ },
+ {
+  "p": "En «Mean Girls», ¿quién intenta poner de moda la palabra «fetch»?",
+  "o": [
+   "Gretchen Wieners",
+   "Karen Smith",
+   "Cady Heron"
+  ]
+ },
+ {
+  "p": "En «Monsters Inc.», ¿quién le reclama a Mike que no entregó su papeleo?",
+  "o": [
+   "Roz",
+   "Celia",
+   "Fungus"
+  ]
+ },
+ {
+  "p": "En «Intensa-Mente», ¿quién pide «Llévala a la luna por mí»?",
+  "o": [
+   "Bing Bong",
+   "Alegría",
+   "Tristeza"
+  ]
+ },
+ {
+  "p": "En «Kung Fu Panda», ¿quién revela que la sopa no tiene ingrediente secreto?",
+  "o": [
+   "El Sr. Ping",
+   "El Maestro Shifu",
+   "El Maestro Oogway"
+  ]
+ },
+ {
+  "p": "¿Quién le dice a Elizabeth que el código pirata «es más bien una guía»?",
+  "o": [
+   "Barbossa",
+   "Jack Sparrow",
+   "Davy Jones"
+  ]
+ },
+ {
+  "p": "En «Jurassic Park», ¿quién dice «Chica lista» al ver al raptor que lo emboscó?",
+  "o": [
+   "Robert Muldoon",
+   "Dennis Nedry",
+   "Donald Gennaro"
+  ]
+ },
+ {
+  "p": "En «Matrix», ¿quién dice que la ignorancia es felicidad mientras come un filete?",
+  "o": [
+   "Cypher",
+   "Tanque",
+   "Switch"
+  ]
+ },
+ {
+  "p": "En «Crepúsculo», ¿quién llama «estúpida» a la oveja de la que se enamoró el león?",
+  "o": [
+   "Bella",
+   "Edward",
+   "Alice"
+  ]
+ },
+ {
+  "p": "En «Los Juegos del Hambre», ¿quién abre la cosecha del Distrito 12 deseando suerte?",
+  "o": [
+   "Effie Trinket",
+   "Caesar Flickerman",
+   "Haymitch Abernathy"
+  ]
+ },
+ {
+  "p": "En «El Señor de los Anillos», ¿qué hobbit pregunta por el «segundo desayuno»?",
+  "o": [
+   "Pippin",
+   "Merry",
+   "Sam"
+  ]
+ },
+ {
+  "p": "¿Quién le dice a Star-Lord que Ego fue su padre, pero no su papi?",
+  "o": [
+   "Yondu",
+   "Rocket",
+   "Kraglin"
+  ]
+ },
+ {
+  "p": "En «Resident Evil», ¿quién le dice a Jill que casi termina como «sándwich de Jill»?",
+  "o": [
+   "Barry Burton",
+   "Chris Redfield",
+   "Albert Wesker"
+  ]
+ },
+ {
+  "p": "En «Metal Gear Solid», ¿quién grita «¡Snake! ¡SNAAAKE!» cuando pierdes?",
+  "o": [
+   "El Coronel Campbell",
+   "Otacon",
+   "Meryl"
+  ]
+ },
+ {
+  "p": "En «Halo 3», ¿quién dice «Despiértame cuando me necesites»?",
+  "o": [
+   "El Jefe Maestro",
+   "Cortana",
+   "El Inquisidor"
+  ]
+ },
+ {
+  "p": "En «Los Simpson», ¿quién se presenta con «Tal vez me recuerden de…»?",
+  "o": [
+   "Troy McClure",
+   "Krusty",
+   "Lionel Hutz"
+  ]
+ },
+ {
+  "p": "En «Los Simpson», ¿quién da la bienvenida en la tele a los nuevos amos insectos?",
+  "o": [
+   "Kent Brockman",
+   "El Director Skinner",
+   "Homero"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿a quién le dice Walter que él es «el que toca a la puerta»?",
+  "o": [
+   "Skyler",
+   "Jesse",
+   "Hank"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿a quién le exige Walter «Di mi nombre»?",
+  "o": [
+   "Declan",
+   "Gus Fring",
+   "Tuco Salamanca"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿qué dice Light, con toda la intensidad, que tomará y se comerá?",
+  "o": [
+   "Una papa frita",
+   "Una manzana",
+   "Un pastelito"
+  ]
+ },
+ {
+  "p": "En «Las dos torres», ¿quién grita que se llevan a los hobbits a Isengard?",
+  "o": [
+   "Legolas",
+   "Aragorn",
+   "Gimli"
+  ]
+ },
+ {
+  "p": "En «Ratatouille», ¿quién le pide «perspectiva» al mesero como si fuera un platillo?",
+  "o": [
+   "Anton Ego",
+   "Gusteau",
+   "Colette"
+  ]
+ },
+ {
+  "p": "¿En qué año cerró Microsoft el Messenger para mandar a todos a Skype?",
+  "o": [
+   "2013",
+   "2011",
+   "2015"
+  ]
+ },
+ {
+  "p": "En MySpace, ¿quién era el amigo que todos tenían agregado desde el inicio?",
+  "o": [
+   "Tom",
+   "Mark",
+   "Chris"
+  ]
+ },
+ {
+  "p": "¿En qué celular de Nokia apareció por primera vez el juego Snake?",
+  "o": [
+   "Nokia 6110",
+   "Nokia 3310",
+   "Nokia 1100"
+  ]
+ },
+ {
+  "p": "¿Cuántos caracteres tenía el PIN de BlackBerry para agregarte en el BBM?",
+  "o": [
+   "8",
+   "6",
+   "10"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el gato del meme de la mujer que le grita en una cena?",
+  "o": [
+   "Smudge",
+   "Tardar Sauce",
+   "Lil Bub"
+  ]
+ },
+ {
+  "p": "¿De qué estado era Rubí, la de los XV años virales de 2016?",
+  "o": [
+   "San Luis Potosí",
+   "Zacatecas",
+   "Durango"
+  ]
+ },
+ {
+  "p": "¿De qué marca era el comercial de la niña que dice «¿Por qué no los dos?»?",
+  "o": [
+   "Old El Paso",
+   "Taco Bell",
+   "Doritos"
+  ]
+ },
+ {
+  "p": "En «Charlie bit my finger», ¿cómo se llama el hermano al que muerden?",
+  "o": [
+   "Harry",
+   "Jack",
+   "Tom"
+  ]
+ },
+ {
+  "p": "¿En qué evento se tomó la foto viral de Bernie Sanders sentado con guantes?",
+  "o": [
+   "La toma de protesta de Biden",
+   "Un debate presidencial",
+   "Un mitin de campaña"
+  ]
+ },
+ {
+  "p": "En Club Penguin, ¿cómo se llamaban las mascotas peludas que podías adoptar?",
+  "o": [
+   "Puffles",
+   "Pookies",
+   "Fluffles"
+  ]
+ },
+ {
+  "p": "¿De qué año es la caricatura del meme de los Spider-Man señalándose?",
+  "o": [
+   "1967",
+   "1981",
+   "1994"
+  ]
+ },
+ {
+  "p": "¿Hasta cuántas UMA de tu aguinaldo están exentas de ISR?",
+  "o": [
+   "30",
+   "15",
+   "90"
+  ]
+ },
+ {
+  "p": "¿Hasta qué día deben pagar el reparto de utilidades las empresas (personas morales)?",
+  "o": [
+   "El 30 de mayo",
+   "El 30 de abril",
+   "El 31 de julio"
+  ]
+ },
+ {
+  "p": "Con la reforma de 2023, ¿cuántos días de vacaciones te tocan en tu quinto año?",
+  "o": [
+   "20",
+   "18",
+   "22"
+  ]
+ },
+ {
+  "p": "¿De cuánto es el salario mínimo general diario en 2026 (fuera de la frontera)?",
+  "o": [
+   "$315.04",
+   "$278.80",
+   "$248.93"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el sistema de Banxico para transferir con solo un número de celular?",
+  "o": [
+   "DiMo",
+   "CoDi",
+   "SPEI"
+  ]
+ },
+ {
+  "p": "¿Tras cuántos años se borra del Buró de Crédito una deuda de más de mil UDIS?",
+  "o": [
+   "6",
+   "4",
+   "10"
+  ]
+ },
+ {
+  "p": "¿A qué plazo es la emisión más corta de Cetes?",
+  "o": [
+   "28 días",
+   "7 días",
+   "14 días"
+  ]
+ },
+ {
+  "p": "¿Qué % de tus ingresos es el tope general de tus deducciones personales?",
+  "o": [
+   "15%",
+   "10%",
+   "25%"
+  ]
+ },
+ {
+  "p": "Al pedir factura, ¿qué clave de uso de CFDI es «Gastos en general»?",
+  "o": [
+   "G03",
+   "G01",
+   "D01"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba antes la contraseña del SAT?",
+  "o": [
+   "CIEC",
+   "FIEL",
+   "NIP"
+  ]
+ },
+ {
+  "p": "¿Desde qué día sin empleo puedes retirar de tu Afore por desempleo?",
+  "o": [
+   "Desde el día 46",
+   "Desde el día 30",
+   "Desde el día 90"
+  ]
+ },
+ {
+  "p": "¿Cuántos días de salario por año trabajado da la prima de antigüedad?",
+  "o": [
+   "12",
+   "15",
+   "20"
+  ]
+ },
+ {
+  "p": "En una incapacidad por enfermedad general, ¿desde qué día te paga el IMSS?",
+  "o": [
+   "Desde el cuarto día",
+   "Desde el primer día",
+   "Desde el octavo día"
+  ]
+ },
+ {
+  "p": "¿En qué grado de primaria se llevaba el libro «La entidad donde vivo»?",
+  "o": [
+   "Tercero",
+   "Cuarto",
+   "Segundo"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba el libro de matemáticas de la SEP de los 2010?",
+  "o": [
+   "«Desafíos matemáticos»",
+   "«Retos matemáticos»",
+   "«Aventuras matemáticas»"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama oficialmente la tiendita de la escuela?",
+  "o": [
+   "La cooperativa escolar",
+   "La tienda comunitaria",
+   "La parcela escolar"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la estrategia de 2025 que sacó la comida chatarra de las escuelas?",
+  "o": [
+   "«Vive saludable, vive feliz»",
+   "«Escuela sana, niño feliz»",
+   "«Come bien, aprende más»"
+  ]
+ },
+ {
+  "p": "¿Cuál es la calificación más baja que puede aparecer en una boleta de la SEP?",
+  "o": [
+   "5",
+   "0",
+   "1"
+  ]
+ },
+ {
+  "p": "¿De qué atributo era Drago, el Bakugan de Dan?",
+  "o": [
+   "Pyrus",
+   "Aquos",
+   "Haos"
+  ]
+ },
+ {
+  "p": "¿Qué empresa lanzó al Furby en 1998?",
+  "o": [
+   "Tiger Electronics",
+   "Bandai",
+   "Mattel"
+  ]
+ },
+ {
+  "p": "En la caricatura del 2000, ¿cuál era el nombre real de Max Steel?",
+  "o": [
+   "Josh McGrath",
+   "Max McGrath",
+   "Berto Martínez"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba la Bratz rubia del grupo original de cuatro?",
+  "o": [
+   "Cloe",
+   "Yasmin",
+   "Jade"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el truco de yo-yo en el que lo dejas rodar por el piso?",
+  "o": [
+   "El perrito",
+   "El columpio",
+   "La vuelta al mundo"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaban las pulseras de liga con forma de animalitos de 2010?",
+  "o": [
+   "Silly Bandz",
+   "Loom Bands",
+   "Jelly Bands"
+  ]
+ },
+ {
+  "p": "¿Qué tema de película convirtió en éxito el ringtone de Crazy Frog en 2005?",
+  "o": [
+   "«Axel F»",
+   "«Eye of the Tiger»",
+   "«Ghostbusters»"
+  ]
+ },
+ {
+  "p": "¿Qué decía en código Morse el tono de mensaje clásico de los Nokia?",
+  "o": [
+   "SMS",
+   "SOS",
+   "OK"
+  ]
+ },
+ {
+  "p": "¿Qué canción sonaba en casi todos los videos del Mannequin Challenge?",
+  "o": [
+   "«Black Beatles»",
+   "«Panda»",
+   "«Juju on That Beat»"
+  ]
+ }
+]

@@ -1,20 +1,20 @@
 [
  {
   "deporte": true,
-  "p": "En «Cars», ¿qué fue Doc Hudson antes de ser juez del pueblo?",
+  "p": "En «Cars», ¿qué marca patrocina a Rayo McQueen?",
   "o": [
-   "Un campeón de carreras",
-   "Un policía de caminos",
-   "Un piloto de avión"
+   "Rust-eze",
+   "Dinoco",
+   "Hostile Takeover"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué película de 2023 cuenta la historia real de un gamer que se volvió piloto?",
+  "p": "En «Gran Turismo» (2023), ¿qué actor es el ingeniero que entrena a Jann?",
   "o": [
-   "«Gran Turismo»",
-   "«Need for Speed»",
-   "«Días de trueno»"
+   "David Harbour",
+   "Orlando Bloom",
+   "Djimon Hounsou"
   ]
  },
  {
@@ -109,29 +109,29 @@
  },
  {
   "deporte": true,
-  "p": "Al final de «Los Increíbles», ¿en qué compite Dash?",
+  "p": "En «Cars 3», ¿cómo se llama el novato que desplaza a Rayo en las pistas?",
   "o": [
-   "En una carrera de atletismo",
-   "En un partido de fútbol",
-   "En natación"
+   "Jackson Storm",
+   "Chick Hicks",
+   "Francesco Bernoulli"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué actor es el cocinero luchador de «Nacho Libre»?",
+  "p": "En «Nacho Libre», ¿cómo le dicen al compañero de lucha de Nacho?",
   "o": [
-   "Jack Black",
-   "Will Ferrell",
-   "Adam Sandler"
+   "Esqueleto",
+   "Ramsés",
+   "Chuy"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Volver al futuro II», ¿qué usa Biff para hacerse rico apostando?",
+  "p": "En «Volver al futuro II», ¿qué equipo gana la Serie Mundial de 2015?",
   "o": [
-   "Un almanaque deportivo",
-   "Un periódico del futuro",
-   "Una computadora del futuro"
+   "Cachorros de Chicago",
+   "Yanquis de Nueva York",
+   "Medias Rojas de Boston"
   ]
  },
  {
@@ -224,19 +224,19 @@
   ]
  },
  {
-  "p": "En «Yu-Gi-Oh!», ¿cuál es el monstruo favorito de Kaiba?",
+  "p": "En «Yu-Gi-Oh!», ¿qué artículo armó Yugi y despertó al faraón?",
   "o": [
-   "Dragón Blanco de Ojos Azules",
-   "Mago Oscuro",
-   "Dragón Negro de Ojos Rojos"
+   "Rompecabezas del Milenio",
+   "Ojo del Milenio",
+   "Anillo del Milenio"
   ]
  },
  {
-  "p": "En «Ranma ½», ¿qué le pasa a Ranma cuando le cae agua fría?",
+  "p": "En «Ranma ½», ¿en qué se convierte Ryoga con agua fría?",
   "o": [
-   "Se convierte en mujer",
-   "Se convierte en panda",
-   "Se convierte en gato"
+   "En un cerdito",
+   "En un pato",
+   "En un gato"
   ]
  },
  {
@@ -256,11 +256,11 @@
   ]
  },
  {
-  "p": "En «Black Clover», ¿qué quiere llegar a ser Asta?",
+  "p": "En «Black Clover», ¿cómo se llama el rival y amigo de la infancia de Asta?",
   "o": [
-   "Rey Mago",
-   "Capitán de los Toros Negros",
-   "Caballero Real"
+   "Yuno",
+   "Noelle",
+   "Magna"
   ]
  },
  {
@@ -384,11 +384,11 @@
   ]
  },
  {
-  "p": "En «A Silent Voice», ¿qué le hacía Shoya a Shoko en la primaria?",
+  "p": "En «A Silent Voice», ¿qué ve Shoya sobre la cara de la gente?",
   "o": [
-   "La molestaba",
-   "Le enseñaba señas",
-   "Era su novio"
+   "Una X",
+   "Una máscara",
+   "Un círculo"
   ]
  },
  {
@@ -416,27 +416,27 @@
   ]
  },
  {
-  "p": "En «K-On!», ¿qué forman las chicas del club de música ligera?",
+  "p": "En «K-On!», ¿qué instrumento toca Yui Hirasawa?",
   "o": [
-   "Una banda",
-   "Un grupo idol",
-   "Un coro"
+   "La guitarra",
+   "El bajo",
+   "La batería"
   ]
  },
  {
-  "p": "¿De qué trata «Kakegurui»?",
+  "p": "¿Cómo se llama la protagonista de «Kakegurui»?",
   "o": [
-   "De apuestas en una escuela",
-   "De duelos de cartas",
-   "De peleas callejeras"
+   "Yumeko Jabami",
+   "Kirari Momobami",
+   "Mary Saotome"
   ]
  },
  {
-  "p": "¿En qué ciudad pasa «Akira»?",
+  "p": "En «Akira», ¿cómo se llama el amigo de Kaneda que despierta poderes?",
   "o": [
-   "Neo-Tokyo",
-   "Tokyo-3",
-   "Nueva Edo"
+   "Tetsuo",
+   "Kai",
+   "Yamagata"
   ]
  },
  {
@@ -480,11 +480,11 @@
   ]
  },
  {
-  "p": "En «Mirai Nikki», ¿qué hace el diario de Yukiteru?",
+  "p": "En «Mirai Nikki», ¿cuántos dueños de diarios compiten en el juego?",
   "o": [
-   "Predice el futuro",
-   "Mata a quien escribes",
-   "Borra recuerdos"
+   "12",
+   "10",
+   "7"
   ]
  },
  {
@@ -504,27 +504,27 @@
   ]
  },
  {
-  "p": "En «Attack on Titan», ¿qué división sale más allá de las murallas?",
+  "p": "En «Attack on Titan», ¿quién resulta ser el Titán Acorazado?",
   "o": [
-   "La Legión de Reconocimiento",
-   "La Policía Militar",
-   "Las Tropas de Guarnición"
+   "Reiner",
+   "Bertholdt",
+   "Annie"
   ]
  },
  {
-  "p": "En «Jujutsu Kaisen», ¿qué se come Itadori al principio?",
+  "p": "En «Jujutsu Kaisen», ¿en qué club de la escuela estaba Itadori?",
   "o": [
-   "Un dedo de Sukuna",
-   "Una fruta maldita",
-   "Un ojo de demonio"
+   "En el de ocultismo",
+   "En el de atletismo",
+   "En el de literatura"
   ]
  },
  {
-  "p": "En «Demon Slayer», ¿qué respiración usa Tanjiro al inicio?",
+  "p": "En «Demon Slayer», ¿quién entrena a Tanjiro para la Selección Final?",
   "o": [
-   "Agua",
-   "Fuego",
-   "Trueno"
+   "Sakonji Urokodaki",
+   "Jigoro Kuwajima",
+   "Shinjuro Rengoku"
   ]
  },
  {
@@ -536,11 +536,11 @@
   ]
  },
  {
-  "p": "En «My Hero Academia», ¿quién le hereda su poder a Deku?",
+  "p": "En «My Hero Academia», ¿cómo se llama el Quirk de Uraraka?",
   "o": [
-   "All Might",
-   "Endeavor",
-   "Aizawa"
+   "Gravedad Cero",
+   "Telequinesis",
+   "Levitación"
   ]
  },
  {
@@ -584,11 +584,11 @@
   ]
  },
  {
-  "p": "En DBZ, ¿quién derrota a Cell?",
+  "p": "En DBZ, ¿qué androide le pide a Gohan que proteja la naturaleza?",
   "o": [
-   "Gohan",
-   "Goku",
-   "Vegeta"
+   "El 16",
+   "El 17",
+   "El 18"
   ]
  },
  {
@@ -648,11 +648,11 @@
   ]
  },
  {
-  "p": "En «Coco», ¿cómo se llama el cantante ídolo de Miguel?",
+  "p": "En «Coco», ¿a qué se dedica la familia Rivera?",
   "o": [
-   "Ernesto de la Cruz",
-   "Héctor Rivera",
-   "Chicharrón"
+   "A hacer zapatos",
+   "A hacer pan",
+   "A hacer alebrijes"
   ]
  },
  {
@@ -664,11 +664,11 @@
   ]
  },
  {
-  "p": "En «Shrek», ¿cómo se llama el villano bajito que quiere casarse con Fiona?",
+  "p": "En «Shrek 2», ¿cómo se llama el reino de los papás de Fiona?",
   "o": [
-   "Lord Farquaad",
-   "El Príncipe Encantador",
-   "Rumpelstiltskin"
+   "Muy Muy Lejano",
+   "Duloc",
+   "Nunca Jamás"
   ]
  },
  {
@@ -688,51 +688,51 @@
   ]
  },
  {
-  "p": "En «Matrix», ¿cómo se llama el agente villano?",
+  "p": "En «Matrix», ¿quién traiciona a Morfeo para volver a la Matrix?",
   "o": [
-   "Smith",
-   "Anderson",
-   "Cypher"
+   "Cypher",
+   "Tank",
+   "Switch"
   ]
  },
  {
-  "p": "En «Volver al futuro», ¿a qué velocidad tiene que ir el DeLorean para viajar?",
+  "p": "En «Volver al futuro», ¿a qué año viaja Marty desde 1985?",
   "o": [
-   "88 millas por hora",
-   "100 millas por hora",
-   "60 millas por hora"
+   "1955",
+   "1965",
+   "1945"
   ]
  },
  {
-  "p": "En «Jurassic Park», ¿qué dinosaurios cazan en grupo y abren puertas?",
+  "p": "En «Jurassic Park», ¿qué dinosaurio enfermo encuentran en el recorrido?",
   "o": [
-   "Los velocirraptores",
-   "Los dilofosaurios",
-   "Los triceratops"
+   "Un triceratops",
+   "Un estegosaurio",
+   "Un braquiosaurio"
   ]
  },
  {
-  "p": "En «Piratas del Caribe», ¿qué capitán tiene cara de pulpo?",
+  "p": "En «Piratas del Caribe», ¿cómo se llama el mono de Barbossa?",
   "o": [
-   "Davy Jones",
-   "Barbossa",
-   "Barbanegra"
+   "Jack",
+   "Will",
+   "Davy"
   ]
  },
  {
-  "p": "¿Qué actor interpreta a Ethan Hunt en «Misión Imposible»?",
+  "p": "¿Qué actor interpreta a Luther Stickell en «Misión Imposible»?",
   "o": [
-   "Tom Cruise",
-   "Matt Damon",
-   "Brad Pitt"
+   "Ving Rhames",
+   "Simon Pegg",
+   "Jeremy Renner"
   ]
  },
  {
-  "p": "En «Los Juegos del Hambre», ¿de qué distrito es Katniss?",
+  "p": "En «Los Juegos del Hambre», ¿de qué distrito es Rue?",
   "o": [
-   "Del 12",
-   "Del 1",
-   "Del 13"
+   "Del 11",
+   "Del 4",
+   "Del 7"
   ]
  },
  {
@@ -760,19 +760,19 @@
   ]
  },
  {
-  "p": "¿Quién dirigió «El laberinto del fauno»?",
+  "p": "En «El laberinto del fauno», ¿cómo se llama el padrastro de Ofelia?",
   "o": [
-   "Guillermo del Toro",
-   "Alfonso Cuarón",
-   "Alejandro González Iñárritu"
+   "El capitán Vidal",
+   "El doctor Ferreiro",
+   "Pedro"
   ]
  },
  {
-  "p": "¿Qué actriz interpreta a Cleo en «Roma» de Alfonso Cuarón?",
+  "p": "En «No se aceptan devoluciones», ¿en qué trabaja Valentín en Los Ángeles?",
   "o": [
-   "Yalitza Aparicio",
-   "Eiza González",
-   "Kate del Castillo"
+   "De doble de acción",
+   "De mesero",
+   "De jardinero"
   ]
  },
  {
@@ -784,19 +784,19 @@
   ]
  },
  {
-  "p": "En «Mean Girls», ¿de qué color se visten los miércoles?",
+  "p": "En «Mean Girls», ¿a qué equipo de concursos se une Cady?",
   "o": [
-   "Rosa",
-   "Negro",
-   "Rojo"
+   "Al de matemáticas",
+   "Al de debate",
+   "Al de ortografía"
   ]
  },
  {
-  "p": "En «Kill Bill», ¿de qué color es el traje de la Novia?",
+  "p": "En «Kill Bill», al despertar del coma, ¿qué se esfuerza en mover la Novia?",
   "o": [
-   "Amarillo",
-   "Negro",
-   "Rojo"
+   "El dedo gordo del pie",
+   "Los dedos de la mano",
+   "Los párpados"
   ]
  },
  {

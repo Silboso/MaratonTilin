@@ -10,11 +10,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué piloto brasileño murió en Imola en 1994?",
+  "p": "¿Con qué escudería ganó Ayrton Senna sus tres títulos de F1?",
   "o": [
-   "Ayrton Senna",
-   "Nelson Piquet",
-   "Rubens Barrichello"
+   "McLaren",
+   "Williams",
+   "Lotus"
   ]
  },
  {
@@ -36,11 +36,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el planeta natal de Thanos?",
+  "p": "¿Qué actor le da vida a Thanos en el UCM?",
   "o": [
-   "Titán",
-   "Vormir",
-   "Xandar"
+   "Josh Brolin",
+   "Dave Bautista",
+   "Lee Pace"
   ]
  },
  {
@@ -76,35 +76,35 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el papá biológico de Superman?",
+  "p": "¿Qué actor es Superman en la película «Superman» de 2025?",
   "o": [
-   "Jor-El",
-   "Jonathan Kent",
-   "Zod"
+   "David Corenswet",
+   "Henry Cavill",
+   "Tom Welling"
   ]
  },
  {
-  "p": "¿En qué planeta encuentra Rey a Luke Skywalker escondido?",
+  "p": "¿Qué criaturitas aves viven en la isla de Luke en «Los últimos Jedi»?",
   "o": [
-   "Ahch-To",
-   "Jakku",
-   "Exegol"
+   "Porgs",
+   "Vulptex",
+   "Convors"
   ]
  },
  {
-  "p": "¿Qué droide imperial reprogramado acompaña a Cassian Andor en «Rogue One»?",
+  "p": "¿Qué guerrero ciego de «Rogue One» repite «Soy uno con la Fuerza»?",
   "o": [
-   "K-2SO",
-   "IG-88",
-   "Chopper"
+   "Chirrut Îmwe",
+   "Baze Malbus",
+   "Bodhi Rook"
   ]
  },
  {
-  "p": "¿Quién era el dueño del Halcón Milenario antes que Han Solo?",
+  "p": "¿En menos de cuántos pársecs dice Han que hizo la carrera de Kessel?",
   "o": [
-   "Lando Calrissian",
-   "Boba Fett",
-   "Chewbacca"
+   "12",
+   "10",
+   "20"
   ]
  },
  {
@@ -116,11 +116,11 @@
   ]
  },
  {
-  "p": "¿Qué criatura es Fawkes, la mascota de Dumbledore?",
+  "p": "¿En qué fecha cumple años Harry Potter?",
   "o": [
-   "Un fénix",
-   "Una lechuza",
-   "Un hipogrifo"
+   "31 de julio",
+   "31 de octubre",
+   "1 de septiembre"
   ]
  },
  {
@@ -140,11 +140,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama la espada reforjada de Aragorn?",
+  "p": "¿Quién le lleva Andúril a Aragorn en «El retorno del Rey»?",
   "o": [
-   "Andúril",
-   "Dardo",
-   "Glamdring"
+   "Elrond",
+   "Arwen",
+   "Gandalf"
   ]
  },
  {
@@ -180,19 +180,19 @@
   ]
  },
  {
-  "p": "¿Qué titán robó el fuego para dárselo a los humanos?",
+  "p": "En el videojuego «Hades», ¿quién te recibe con burlas cada vez que mueres?",
   "o": [
-   "Prometeo",
-   "Atlas",
-   "Cronos"
+   "Hipnos",
+   "Tánatos",
+   "Caronte"
   ]
  },
  {
-  "p": "En «Avengers: Endgame», ¿a qué año van Tony y Steve tras perder el Teseracto en Nueva York?",
+  "p": "En «Endgame», ¿a qué planeta van Rhodey y Nebula por la Gema del Poder?",
   "o": [
-   "1970",
-   "1983",
-   "1945"
+   "Morag",
+   "Xandar",
+   "Knowhere"
   ]
  }
 ]

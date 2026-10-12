@@ -28,11 +28,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Quién anotó el gol de México contra Alemania en el Mundial 2018?",
+  "p": "En el México 1-0 Alemania de 2018, ¿quién le dio el pase del gol a Lozano?",
   "o": [
-   "Hirving «Chucky» Lozano",
-   "Javier «Chicharito» Hernández",
-   "Carlos Vela"
+   "«Chicharito» Hernández",
+   "Carlos Vela",
+   "Andrés Guardado"
   ]
  },
  {
@@ -64,11 +64,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Contra quién perdió Canelo su primera pelea profesional?",
+  "p": "¿Quién le ganó a Canelo por decisión unánime en septiembre de 2025?",
   "o": [
-   "Floyd Mayweather",
-   "Dmitry Bivol",
-   "Gennady Golovkin"
+   "Terence Crawford",
+   "William Scull",
+   "Jermell Charlo"
   ]
  },
  {
@@ -82,7 +82,7 @@
  },
  {
   "deporte": true,
-  "p": "¿Contra quién peleó Julio César Chávez ante 132 mil personas en el Estadio Azteca?",
+  "p": "¿Contra quién peleó Chávez ante 132 mil personas en el Azteca?",
   "o": [
    "Greg Haugen",
    "Meldrick Taylor",
@@ -211,11 +211,11 @@
   ]
  },
  {
-  "p": "Completa el dicho: «Hijo de tigre…»",
+  "p": "Completa el refrán: «El que nace para maceta…»",
   "o": [
-   "…pintito",
-   "…rayado",
-   "…manchado"
+   "…no pasa del corredor",
+   "…nunca sale del patio",
+   "…no da más flores"
   ]
  },
  {
@@ -227,11 +227,11 @@
   ]
  },
  {
-  "p": "¿En qué película dicen «Me llamo Máximo Décimo Meridio»?",
+  "p": "En «Gladiador», ¿quién mata al emperador Marco Aurelio?",
   "o": [
-   "Gladiador",
-   "Troya",
-   "300"
+   "Su hijo Cómodo",
+   "Máximo",
+   "El senador Graco"
   ]
  },
  {
@@ -275,27 +275,27 @@
   ]
  },
  {
-  "p": "¿Qué figura se quema el Sábado de Gloria?",
+  "p": "¿Qué se acostumbraba hacer en la calle el Sábado de Gloria?",
   "o": [
-   "Un Judas",
-   "Una piñata",
-   "Un Diablo"
+   "Mojar a la gente con agua",
+   "Pedir calaverita",
+   "Vestir a los niños de inditos"
   ]
  },
  {
-  "p": "En la tradición del Día de Muertos, ¿qué día se recuerda a los niños?",
+  "p": "¿Cómo se llama la pasta de azúcar de las calaveritas tradicionales?",
   "o": [
-   "El 1 de noviembre",
-   "El 2 de noviembre",
-   "El 31 de octubre"
+   "Alfeñique",
+   "Jamoncillo",
+   "Mazapán"
   ]
  },
  {
-  "p": "¿Qué perro guía a las almas en la tradición mexicana?",
+  "p": "En Día de Muertos, ¿qué es la «calabaza en tacha»?",
   "o": [
-   "El xoloitzcuintle",
-   "El chihuahua",
-   "El coyote"
+   "Calabaza en piloncillo",
+   "Calabaza rellena de mole",
+   "Sopa de flor de calabaza"
   ]
  },
  {
@@ -315,107 +315,107 @@
   ]
  },
  {
-  "p": "¿Qué es la «cruda moral»?",
+  "p": "¿Qué significa «darle vuelo a la hilacha»?",
   "o": [
-   "Arrepentirte de lo que hiciste",
-   "Una resaca muy fuerte",
-   "Un desayuno de recalentado"
+   "Divertirse sin freno",
+   "Hablar sin parar",
+   "Huir de un problema"
   ]
  },
  {
-  "p": "¿Qué significa «darle el avión» a alguien?",
+  "p": "¿Qué significa que alguien «dio el viejazo»?",
   "o": [
-   "Fingir que le haces caso",
-   "Invitarlo a viajar",
-   "Despedirte de prisa"
+   "Que envejeció de golpe",
+   "Que anduvo con alguien mayor",
+   "Que se puso de mal humor"
   ]
  },
  {
-  "p": "Completa el refrán: «Al nopal nomás se le arriman…»",
+  "p": "Completa el refrán: «Donde manda capitán…»",
   "o": [
-   "…cuando tiene tunas",
-   "…cuando está en flor",
-   "…los que tienen sed"
+   "…no gobierna marinero",
+   "…obedece el soldado",
+   "…no hay quien reme"
   ]
  },
  {
-  "p": "Completa el dicho: «Dime con quién andas…»",
+  "p": "Completa el dicho: «Al mal paso…»",
   "o": [
-   "…y te diré quién eres",
-   "…y te diré a dónde vas",
-   "…y te diré qué comes"
+   "…darle prisa",
+   "…buena cara",
+   "…ponerle pausa"
   ]
  },
  {
-  "p": "¿Qué personaje de Star Wars dice «Siempre hay un pez más grande»?",
+  "p": "En Star Wars, ¿quién le grita a Mace Windu «¡Yo soy el Senado!»?",
   "o": [
-   "Qui-Gon Jinn",
-   "Obi-Wan Kenobi",
-   "Yoda"
+   "Palpatine",
+   "El Conde Dooku",
+   "Anakin Skywalker"
   ]
  },
  {
-  "p": "En «Game of Thrones», ¿quién le repite a Jon Snow que no sabe nada?",
+  "p": "En «Game of Thrones», ¿quién dice que «el caos es una escalera»?",
   "o": [
-   "Ygritte",
-   "Melisandre",
-   "Daenerys"
+   "Meñique",
+   "Varys",
+   "Tyrion Lannister"
   ]
  },
  {
-  "p": "¿En qué película preguntan «¿Hablas conmigo?» frente al espejo?",
+  "p": "¿En qué película gritan «¡Aquí está Johnny!» tras romper una puerta con un hacha?",
   "o": [
-   "Taxi Driver",
-   "El Padrino",
-   "Scarface"
+   "El resplandor",
+   "Psicosis",
+   "El exorcista"
   ]
  },
  {
-  "p": "En «Matrix», ¿quién le dice a Neo «No hay cuchara»?",
+  "p": "En «Matrix», ¿quién le dice a Neo «Señor Anderson» con desprecio?",
   "o": [
-   "Un niño en casa del Oráculo",
-   "Morfeo en el entrenamiento",
-   "El Oráculo en su cocina"
+   "El Agente Smith",
+   "Morfeo",
+   "El Oráculo"
   ]
  },
  {
-  "p": "¿Qué Vengador dice «Puedo hacer esto todo el día»?",
+  "p": "¿Qué Vengador confiesa que su secreto es que «siempre está enojado»?",
   "o": [
-   "Capitán América",
+   "Bruce Banner",
    "Thor",
-   "Spider-Man"
+   "Ojo de Halcón"
   ]
  },
  {
-  "p": "¿Quién le dice «Te amo 3000» a Tony Stark?",
+  "p": "¿A quién le advierte Tony Stark «Nosotros tenemos un Hulk»?",
   "o": [
-   "Su hija Morgan",
-   "Pepper Potts",
-   "Peter Parker"
+   "A Loki",
+   "A Thanos",
+   "A Ultrón"
   ]
  },
  {
-  "p": "¿Quién grita «¡Por el poder de Grayskull!»?",
+  "p": "¿Qué grita She-Ra para transformarse?",
   "o": [
-   "He-Man",
-   "Thundercats",
-   "Voltron"
+   "«¡Por el honor de Grayskull!»",
+   "«¡Por la espada de Eternia!»",
+   "«¡Por el poder de Etheria!»"
   ]
  },
  {
-  "p": "¿Cómo se llama el señor del meme que sonríe mientras oculta su dolor?",
+  "p": "¿De qué país es el señor del meme «Hide the Pain Harold»?",
   "o": [
-   "Harold",
-   "Brian",
-   "Gordon"
+   "Hungría",
+   "Polonia",
+   "República Checa"
   ]
  },
  {
-  "p": "¿Qué rapero sale en el meme de rechazar una cosa y aprobar otra?",
+  "p": "¿Qué rapero sale en el meme «Yo dawg, I heard you like…»?",
   "o": [
-   "Drake",
-   "Kanye West",
-   "Eminem"
+   "Xzibit",
+   "Snoop Dogg",
+   "Ice Cube"
   ]
  },
  {
@@ -435,11 +435,11 @@
   ]
  },
  {
-  "p": "¿De qué empresa era Hotmail?",
+  "p": "¿A qué servicio de Microsoft se mudaron las cuentas de Hotmail en 2013?",
   "o": [
-   "Microsoft",
-   "Yahoo",
-   "Google"
+   "Outlook.com",
+   "Windows Live Mail",
+   "Office 365"
   ]
  },
  {
@@ -627,11 +627,11 @@
   ]
  },
  {
-  "p": "En «Kung Fu Panda», ¿quién insiste en que los accidentes no existen?",
+  "p": "Oogway: «Ayer es historia, mañana es un misterio, pero hoy es un…»",
   "o": [
-   "El Maestro Oogway",
-   "El Maestro Shifu",
-   "Tigresa"
+   "…regalo",
+   "…milagro",
+   "…comienzo"
   ]
  },
  {
@@ -787,19 +787,19 @@
   ]
  },
  {
-  "p": "¿En qué juego los sacerdotes convierten unidades enemigas diciendo «Wololo»?",
+  "p": "En «Age of Empires II», ¿qué aparece con el truco «how do you turn this on»?",
   "o": [
-   "Age of Empires",
-   "Warcraft",
-   "StarCraft"
+   "Un auto con ametralladora",
+   "Un dragón que escupe fuego",
+   "Un tanque"
   ]
  },
  {
-  "p": "En MSN Messenger, ¿qué emoticón salía al escribir (L)?",
+  "p": "En MSN Messenger, ¿qué emoticón salía al escribir (H)?",
   "o": [
-   "Un corazón",
-   "Un foco",
-   "Un pulgar arriba"
+   "Una carita con lentes oscuros",
+   "Una casita",
+   "Un corazón roto"
   ]
  },
  {
@@ -859,11 +859,11 @@
   ]
  },
  {
-  "p": "En «Buscando a Nemo», ¿quién dirige el grupo de tiburones que no comen peces?",
+  "p": "En «Buscando a Nemo», ¿cómo se llama la sobrina del dentista?",
   "o": [
-   "Bruce",
-   "Gill",
-   "Crush"
+   "Darla",
+   "Penny",
+   "Molly"
   ]
  },
  {
@@ -883,7 +883,7 @@
   ]
  },
  {
-  "p": "¿Qué documento del SAT empezaron a pedir las empresas para timbrar tu nómina en 2022?",
+  "p": "¿Qué documento del SAT pedían las empresas en 2022 para timbrar la nómina?",
   "o": [
    "Constancia de Situación Fiscal",
    "Acuse de la e.firma",

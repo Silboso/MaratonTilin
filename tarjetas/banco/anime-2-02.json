@@ -19,20 +19,20 @@
  },
  {
   "deporte": true,
-  "p": "En «Hajime no Ippo», ¿de qué país es Ricardo Martínez, el campeón mundial pluma?",
+  "p": "En «Hajime no Ippo», ¿cómo se llama el golpe de Ippo que sale con un salto?",
   "o": [
-   "México",
-   "Venezuela",
-   "Tailandia"
+   "Gazelle Punch",
+   "Dempsey Roll",
+   "Smash"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Rocky», ¿cómo se llama el viejo entrenador de Rocky?",
+  "p": "En «Rocky II», ¿qué persigue Rocky para entrenar su velocidad?",
   "o": [
-   "Mickey",
-   "Duke",
-   "Paulie"
+   "Una gallina",
+   "Un perro",
+   "Un cerdo"
   ]
  },
  {
@@ -127,11 +127,11 @@
  },
  {
   "deporte": true,
-  "p": "En «Cars», ¿qué trofeo disputan Rayo, El Rey y Chick Hicks?",
+  "p": "En «Cars», ¿en qué año tuvo Doc Hudson el choque que lo retiró?",
   "o": [
-   "La Copa Pistón",
-   "La Copa Dinoco",
-   "La Copa Turbo"
+   "1954",
+   "1962",
+   "1948"
   ]
  },
  {
@@ -200,27 +200,27 @@
   ]
  },
  {
-  "p": "En «Naruto», ¿cómo se llama el zorro de nueve colas?",
+  "p": "En «Naruto», ¿quién tuvo al Kyubi dentro antes que Kushina?",
   "o": [
-   "Kurama",
-   "Shukaku",
-   "Matatabi"
+   "Mito",
+   "Tsunade",
+   "Kaguya"
   ]
  },
  {
-  "p": "¿Qué Hokage es el papá de Naruto?",
+  "p": "En «Naruto», ¿cómo se llama el Segundo Hokage?",
   "o": [
-   "El Cuarto",
-   "El Tercero",
-   "El Primero"
+   "Tobirama",
+   "Hashirama",
+   "Hiruzen"
   ]
  },
  {
-  "p": "En «Naruto», ¿quién acabó con el clan Uchiha?",
+  "p": "En «Naruto», ¿cómo se llamaba el mejor amigo de Itachi en el clan?",
   "o": [
-   "Itachi",
-   "Madara",
-   "Danzo"
+   "Shisui",
+   "Obito",
+   "Izuna"
   ]
  },
  {
@@ -632,11 +632,11 @@
   ]
  },
  {
-  "p": "En «Volver al futuro», ¿cuánta energía necesita el condensador de flujo?",
+  "p": "En «Volver al futuro», ¿qué músico oye por teléfono la canción que toca Marty?",
   "o": [
-   "1.21 gigawatts",
-   "2.5 gigawatts",
-   "88 gigawatts"
+   "Chuck Berry",
+   "Elvis Presley",
+   "Little Richard"
   ]
  },
  {

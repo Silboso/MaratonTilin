@@ -1,10 +1,10 @@
 [
  {
-  "p": "En «El Chavo del 8», ¿cómo se llama el perro de Doña Clotilde?",
+  "p": "En «El Chavo del 8», ¿cuál es el nombre de pila del Profesor Jirafales?",
   "o": [
-   "Satanás",
-   "Firulais",
-   "Lucifer"
+   "Inocencio",
+   "Ignacio",
+   "Raimundo"
   ]
  },
  {
@@ -24,27 +24,27 @@
   ]
  },
  {
-  "p": "En «Futurama», ¿en qué país fue fabricado Bender?",
+  "p": "En «Futurama», ¿en qué planeta tienen su rancho los papás de Amy Wong?",
   "o": [
-   "México",
-   "Japón",
-   "China"
+   "Marte",
+   "Venus",
+   "Mercurio"
   ]
  },
  {
-  "p": "En «Game of Thrones», ¿cómo se llama la loba huargo de Arya?",
+  "p": "En «Game of Thrones», ¿a quién muerde la loba Nymeria?",
   "o": [
-   "Nymeria",
-   "Dama",
-   "Verano"
+   "A Joffrey",
+   "A Tommen",
+   "A Sandor Clegane"
   ]
  },
  {
-  "p": "En «Friends», ¿cómo se llama la gemela de Phoebe?",
+  "p": "En «Friends», ¿cómo se llama el medio hermano menor de Phoebe?",
   "o": [
-   "Ursula",
-   "Leslie",
-   "Amy"
+   "Frank Jr.",
+   "Mike",
+   "David"
   ]
  },
  {
@@ -64,19 +64,19 @@
   ]
  },
  {
-  "p": "En «The Big Bang Theory», ¿cómo se llama el dueño de la tienda de cómics?",
+  "p": "En «The Big Bang Theory», ¿qué instrumento toca Leonard?",
   "o": [
-   "Stuart",
-   "Barry",
-   "Wil"
+   "El chelo",
+   "El violín",
+   "El piano"
   ]
  },
  {
-  "p": "¿Quién conducía «100 mexicanos dijeron» cuando empezó?",
+  "p": "¿Quién condujo la primera temporada de «Big Brother México», en 2002?",
   "o": [
-   "Marco Antonio Regil",
-   "Adal Ramones",
-   "Andrés García"
+   "Adela Micha",
+   "Verónica Castro",
+   "Galilea Montijo"
   ]
  }
 ]

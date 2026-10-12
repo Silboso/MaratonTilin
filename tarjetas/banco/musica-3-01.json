@@ -1,0 +1,590 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Qué banda canta «Under Star», primer opening de «Hajime no Ippo»?",
+  "o": [
+   "Shocking Lemon",
+   "Saber Tiger",
+   "Last Alliance"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quién canta el opening en español latino de «Supercampeones»?",
+  "o": [
+   "Ricardo Silva",
+   "Adrián Barba",
+   "Aarón Montalvo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quién canta «Running in the 90s», eurobeat clásico de «Initial D»?",
+  "o": [
+   "Max Coveri",
+   "Dave Rodgers",
+   "Manuel"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué canción de Fatboy Slim sonaba en el intro de FIFA 99?",
+  "o": [
+   "«The Rockafeller Skank»",
+   "«Praise You»",
+   "«Right Here, Right Now»"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué canción de Goldfinger es emblema del primer Tony Hawk's Pro Skater?",
+  "o": [
+   "«Superman»",
+   "«99 Red Balloons»",
+   "«Here in Your Bedroom»"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué canción de Lil Jon era el tema de Need for Speed Underground?",
+  "o": [
+   "«Get Low»",
+   "«Snap Yo Fingers»",
+   "«Turn Down for What»"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué compositor griego hizo el himno oficial del Mundial Corea-Japón 2002?",
+  "o": [
+   "Vangelis",
+   "Yanni",
+   "Mikis Theodorakis"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué premiación de 1999 cantó Ricky Martin «La Copa de la Vida» y explotó?",
+  "o": [
+   "Los Grammy",
+   "Los MTV VMA",
+   "Los American Music Awards"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quién grabó «Colors», el himno de Coca-Cola del Mundial 2018?",
+  "o": [
+   "Jason Derulo",
+   "Nicky Jam",
+   "Pitbull"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué banda canta «Imagination», primer opening de «Haikyuu!!»?",
+  "o": [
+   "SPYAIR",
+   "BURNOUT SYNDROMES",
+   "SUPER BEAVER"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué banda canta «Can Do», primer opening de «Kuroko no Basket»?",
+  "o": [
+   "GRANRODEO",
+   "OLDCODEX",
+   "SPYAIR"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué banda canta «Chaos ga Kiwamaru», opening de «Blue Lock»?",
+  "o": [
+   "UNISON SQUARE GARDEN",
+   "BURNOUT SYNDROMES",
+   "King Gnu"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Mi corazón encantado», opening latino de Dragon Ball GT?",
+  "o": [
+   "Aarón Montalvo",
+   "Ricardo Silva",
+   "Adrián Barba"
+  ]
+ },
+ {
+  "p": "¿Quién canta «El poder nuestro es», segundo opening latino de DBZ?",
+  "o": [
+   "Adrián Barba",
+   "Ricardo Silva",
+   "Aarón Montalvo"
+  ]
+ },
+ {
+  "p": "¿Quién canta el opening latino de la primera temporada de Pokémon?",
+  "o": [
+   "Óscar Roa",
+   "Aarón Montalvo",
+   "Adrián Barba"
+  ]
+ },
+ {
+  "p": "¿Quién cantaba el primer opening de «Caballeros del Zodiaco» que se oyó en México?",
+  "o": [
+   "Amado Jaén",
+   "Mauren Mendo",
+   "Ricardo Silva"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Detekoi Tobikiri Zenkai Power!», primer ending de DBZ?",
+  "o": [
+   "MANNA",
+   "Hironobu Kageyama",
+   "Ayumi Miyazaki"
+  ]
+ },
+ {
+  "p": "¿Quién era el baterista de My Chemical Romance antes de Bob Bryar?",
+  "o": [
+   "Matt Pelissier",
+   "Frank Iero",
+   "Mikey Way"
+  ]
+ },
+ {
+  "p": "¿Qué canción suena durante el Tercer Impacto en «The End of Evangelion»?",
+  "o": [
+   "«Komm, süsser Tod»",
+   "«Thanatos»",
+   "«Fly Me to the Moon»"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Wind», primer ending de Naruto?",
+  "o": [
+   "Akeboshi",
+   "Ikimonogakari",
+   "Home Made Kazoku"
+  ]
+ },
+ {
+  "p": "¿Qué grupo canta «Blue Bird», opening de Naruto Shippuden?",
+  "o": [
+   "Ikimonogakari",
+   "KANA-BOON",
+   "FLOW"
+  ]
+ },
+ {
+  "p": "¿Quién canta «The Biggest Dreamer», opening de Digimon Tamers?",
+  "o": [
+   "Kouji Wada",
+   "Ayumi Miyazaki",
+   "AiM"
+  ]
+ },
+ {
+  "p": "¿Quién canta «I wish», primer ending de Digimon Adventure?",
+  "o": [
+   "AiM",
+   "Ayumi Miyazaki",
+   "Kouji Wada"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Chōzetsu☆Dynamic!», primer opening de Dragon Ball Super?",
+  "o": [
+   "Kazuya Yoshii",
+   "Takayoshi Tanimoto",
+   "Hironobu Kageyama"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Limit Break x Survivor», segundo opening de Dragon Ball Super?",
+  "o": [
+   "Kiyoshi Hikawa",
+   "Hironobu Kageyama",
+   "Takayoshi Tanimoto"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Makafushigi Adventure!», opening del Dragon Ball original?",
+  "o": [
+   "Hiroki Takahashi",
+   "Hironobu Kageyama",
+   "Ichiro Mizuki"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Hitori Janai», primer ending de Dragon Ball GT?",
+  "o": [
+   "DEEN",
+   "FIELD OF VIEW",
+   "WANDS"
+  ]
+ },
+ {
+  "p": "¿Quién canta el tema original en inglés de Pokémon (1998)?",
+  "o": [
+   "Jason Paige",
+   "Russell Velázquez",
+   "Ben Dixon"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el primer ending de Saint Seiya, también de MAKE-UP?",
+  "o": [
+   "«Blue Forever»",
+   "«Blue Dream»",
+   "«Soldier Dream»"
+  ]
+ },
+ {
+  "p": "¿Qué cantante estadounidense le da voz a Evelynn en «POP/STARS» de K/DA?",
+  "o": [
+   "Madison Beer",
+   "Jaira Burns",
+   "Bea Miller"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el EP que sacó K/DA en 2020?",
+  "o": [
+   "ALL OUT",
+   "MORE",
+   "THE BADDEST"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el primer disco de Pentakill (2014)?",
+  "o": [
+   "Smite and Ignite",
+   "Grasp of the Undying",
+   "Lost Chapter"
+  ]
+ },
+ {
+  "p": "¿Qué campeón toca la batería en Pentakill?",
+  "o": [
+   "Olaf",
+   "Mordekaiser",
+   "Yorick"
+  ]
+ },
+ {
+  "p": "En «GIANTS» (2019) de True Damage, ¿a qué campeona le da voz Becky G?",
+  "o": [
+   "Qiyana",
+   "Senna",
+   "Akali"
+  ]
+ },
+ {
+  "p": "¿Qué cantante mexicana es Qiyana en «Know My Name», el himno de Worlds 2026?",
+  "o": [
+   "Sofía Reyes",
+   "Danna Paola",
+   "Kenia OS"
+  ]
+ },
+ {
+  "p": "¿Qué DJ hizo «Ignite», el himno del Mundial de LoL 2016?",
+  "o": [
+   "Zedd",
+   "Alan Walker",
+   "Martin Garrix"
+  ]
+ },
+ {
+  "p": "¿Qué banda canta «Burn It All Down», himno del Mundial de LoL 2021?",
+  "o": [
+   "PVRIS",
+   "Against The Current",
+   "Imagine Dragons"
+  ]
+ },
+ {
+  "p": "¿Qué canción de Linkin Park fue el himno del Mundial de LoL 2024?",
+  "o": [
+   "«Heavy Is the Crown»",
+   "«The Emptiness Machine»",
+   "«Two Faced»"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Paint the Town Blue», la canción de Jinx en Arcane 2?",
+  "o": [
+   "Ashnikko",
+   "Bea Miller",
+   "Hailee Steinfeld"
+  ]
+ },
+ {
+  "p": "En Ocarina of Time, ¿qué canción te enseña Malon en el Rancho Lon Lon?",
+  "o": [
+   "«Canción de Epona»",
+   "«Canción de Saria»",
+   "«Canción del Sol»"
+  ]
+ },
+ {
+  "p": "En Ocarina of Time, ¿qué melodía te enseña Sheik en el Templo del Tiempo?",
+  "o": [
+   "«Preludio de la luz»",
+   "«Minueto del bosque»",
+   "«Nocturno de la sombra»"
+  ]
+ },
+ {
+  "p": "¿Qué personaje canta «Jump Up, Super Star!» en Super Mario Odyssey?",
+  "o": [
+   "Pauline",
+   "Peach",
+   "Rosalina"
+  ]
+ },
+ {
+  "p": "¿Quién compuso la música de Super Mario RPG (1996)?",
+  "o": [
+   "Yoko Shimomura",
+   "Koji Kondo",
+   "Nobuo Uematsu"
+  ]
+ },
+ {
+  "p": "¿Quién compuso «Pigstep», el disco de música del Nether en Minecraft?",
+  "o": [
+   "Lena Raine",
+   "C418",
+   "Aaron Cherof"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿qué disco de música se arma con nueve fragmentos?",
+  "o": [
+   "«5»",
+   "«11»",
+   "«13»"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el primer volumen de la banda sonora de Minecraft de C418?",
+  "o": [
+   "Volume Alpha",
+   "Volume Beta",
+   "Volume Gamma"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre real de C418, compositor de Minecraft?",
+  "o": [
+   "Daniel Rosenfeld",
+   "Samuel Åberg",
+   "Aaron Cherof"
+  ]
+ },
+ {
+  "p": "En Undertale, ¿en qué batalla suena «Death by Glamour»?",
+  "o": [
+   "Contra Mettaton EX",
+   "Contra Undyne",
+   "Contra Asgore"
+  ]
+ },
+ {
+  "p": "En Undertale, ¿qué canción suena al pelear con Undyne en la ruta neutral?",
+  "o": [
+   "«Spear of Justice»",
+   "«Bonetrousle»",
+   "«Death by Glamour»"
+  ]
+ },
+ {
+  "p": "¿Qué canción suena en la batalla final de la ruta pacifista de Undertale?",
+  "o": [
+   "«Hopes and Dreams»",
+   "«Megalovania»",
+   "«ASGORE»"
+  ]
+ },
+ {
+  "p": "¿Qué guitarrista virtuoso tocó en el tema principal de Halo 2?",
+  "o": [
+   "Steve Vai",
+   "Joe Satriani",
+   "Slash"
+  ]
+ },
+ {
+  "p": "¿Qué banda grabó «Blow Me Away» para el soundtrack de Halo 2?",
+  "o": [
+   "Breaking Benjamin",
+   "Three Days Grace",
+   "Evanescence"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el protagonista de la ópera rock «American Idiot», de Green Day?",
+  "o": [
+   "Jesus of Suburbia",
+   "Whatsername",
+   "Extraordinary Girl"
+  ]
+ },
+ {
+  "p": "¿En qué disco de Fall Out Boy viene «Sugar, We're Goin Down»?",
+  "o": [
+   "From Under the Cork Tree",
+   "Infinity on High",
+   "Take This to Your Grave"
+  ]
+ },
+ {
+  "p": "¿Con qué canción cierra el «MTV Unplugged in New York» de Nirvana?",
+  "o": [
+   "Where Did You Sleep Last Night",
+   "All Apologies",
+   "The Man Who Sold the World"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el documental de Metallica sobre su terapia de grupo?",
+  "o": [
+   "Some Kind of Monster",
+   "Through the Never",
+   "Cunning Stunts"
+  ]
+ },
+ {
+  "p": "¿Con qué orquesta grabó Metallica el disco en vivo «S&M» (1999)?",
+  "o": [
+   "La Sinfónica de San Francisco",
+   "La Filarmónica de Berlín",
+   "La Sinfónica de Londres"
+  ]
+ },
+ {
+  "p": "¿Qué película animada de Leiji Matsumoto se hizo con el disco «Discovery»?",
+  "o": [
+   "Interstella 5555",
+   "Electroma",
+   "Galaxy Express 999"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el video con el que Daft Punk anunció su separación en 2021?",
+  "o": [
+   "«Epilogue»",
+   "«Contact»",
+   "«Touch»"
+  ]
+ },
+ {
+  "p": "¿Qué dibujante de «Tank Girl» creó Gorillaz con Damon Albarn?",
+  "o": [
+   "Jamie Hewlett",
+   "Frank Miller",
+   "Dave McKean"
+  ]
+ },
+ {
+  "p": "¿En qué disco de Arctic Monkeys viene «505»?",
+  "o": [
+   "Favourite Worst Nightmare",
+   "AM",
+   "Humbug"
+  ]
+ },
+ {
+  "p": "¿Cómo le dicen al personaje de Eminem en «8 Mile»?",
+  "o": [
+   "B-Rabbit",
+   "Papa Doc",
+   "Future"
+  ]
+ },
+ {
+  "p": "¿Con qué canción debutó BTS en 2013?",
+  "o": [
+   "«No More Dream»",
+   "«N.O»",
+   "«Danger»"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el primer disco de estudio de Blackpink?",
+  "o": [
+   "The Album",
+   "Born Pink",
+   "Square Up"
+  ]
+ },
+ {
+  "p": "¿Quién era el baterista de Soda Stereo?",
+  "o": [
+   "Charly Alberti",
+   "Zeta Bosio",
+   "Richard Coleman"
+  ]
+ },
+ {
+  "p": "¿En qué disco de Café Tacvba viene su versión de «Chilanga banda»?",
+  "o": [
+   "Avalancha de éxitos",
+   "Re",
+   "Cuatro caminos"
+  ]
+ },
+ {
+  "p": "¿En qué disco de Héroes del Silencio viene «Entre dos tierras»?",
+  "o": [
+   "Senderos de traición",
+   "El espíritu del vino",
+   "Avalancha"
+  ]
+ },
+ {
+  "p": "¿Cuál era el nombre real de Juan Gabriel?",
+  "o": [
+   "Alberto Aguilera Valadez",
+   "Gabriel Aguilera Valdez",
+   "Juan Alberto Valadez"
+  ]
+ },
+ {
+  "p": "¿Qué número usa Corey Taylor en Slipknot?",
+  "o": [
+   "8",
+   "0",
+   "6"
+  ]
+ },
+ {
+  "p": "¿Quién canta con Amy Lee en «Bring Me to Life», de Evanescence?",
+  "o": [
+   "Paul McCoy",
+   "Chester Bennington",
+   "Chad Kroeger"
+  ]
+ },
+ {
+  "p": "¿A quién le rinde homenaje el disco «Back in Black» de AC/DC?",
+  "o": [
+   "A Bon Scott",
+   "A Malcolm Young",
+   "A Brian Johnson"
+  ]
+ },
+ {
+  "p": "¿En qué disco de Panic! at the Disco viene «I Write Sins Not Tragedies»?",
+  "o": [
+   "A Fever You Can't Sweat Out",
+   "Pretty. Odd.",
+   "Death of a Bachelor"
+  ]
+ }
+]

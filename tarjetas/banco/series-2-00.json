@@ -1,27 +1,27 @@
 [
  {
-  "p": "En «Friends», ¿cómo se llama el mono de Ross?",
+  "p": "En «Friends», ¿qué hermana de Rachel sale con Ross?",
   "o": [
-   "Marcel",
-   "Bobo",
-   "Jorge"
+   "Jill",
+   "Amy",
+   "Emily"
   ]
  },
  {
-  "p": "En «Game of Thrones», ¿cómo se llama el lobo huargo de Jon Snow?",
+  "p": "En «Game of Thrones», ¿cómo bautiza Brienne la espada que le regala Jaime?",
   "o": [
-   "Fantasma",
-   "Verano",
-   "Viento Gris"
+   "Guardajuramentos",
+   "Lamento de Viuda",
+   "Garra"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Ted Lasso», ¿qué deporte entrenaba Ted antes de llegar a Inglaterra?",
+  "p": "En «Ted Lasso», ¿qué equipo universitario entrenaba Ted en Estados Unidos?",
   "o": [
-   "Fútbol americano",
-   "Básquetbol",
-   "Béisbol"
+   "Wichita State",
+   "Kansas State",
+   "Notre Dame"
   ]
  },
  {
@@ -33,27 +33,27 @@
   ]
  },
  {
-  "p": "En «Coraje, el perro cobarde», ¿cómo se llaman sus dueños?",
+  "p": "En «Coraje, el perro cobarde», ¿qué villano es un pato estafador francés?",
   "o": [
-   "Muriel y Justo",
-   "Doris y Pancho",
-   "Marta y Fermín"
+   "Le Quack",
+   "Katz",
+   "Di Lung"
   ]
  },
  {
-  "p": "En «Ed, Edd y Eddy», ¿qué dulce siempre quieren comprar?",
+  "p": "En «Ed, Edd y Eddy», ¿cuál de las hermanas Kanker está loca por Edd?",
   "o": [
-   "Rompemuelas",
-   "Paletas de cajeta",
-   "Chicles"
+   "Marie",
+   "Lee",
+   "May"
   ]
  },
  {
-  "p": "En «The Office», ¿cómo se llaman los premios que Michael entrega a sus empleados?",
+  "p": "En «The Office», ¿cómo se llama el esposo de Phyllis?",
   "o": [
-   "Los Dundies",
-   "Los Scotties",
-   "Los Mifflins"
+   "Bob Vance",
+   "Roy Anderson",
+   "Hank Tate"
   ]
  },
  {
@@ -65,11 +65,11 @@
   ]
  },
  {
-  "p": "En «Stranger Things», ¿quién muere protegiendo a Joyce y los niños en la temporada 2?",
+  "p": "En «Stranger Things» 3, ¿qué sabor de Slurpee le encanta a Alexei?",
   "o": [
-   "Bob Newby",
-   "Billy Hargrove",
-   "Barb Holland"
+   "Cereza",
+   "Uva",
+   "Fresa"
   ]
  }
 ]

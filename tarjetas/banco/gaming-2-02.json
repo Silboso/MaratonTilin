@@ -1,20 +1,20 @@
 [
  {
   "deporte": true,
-  "p": "En Mario Kart 64, ¿cuántos corredores hay en cada carrera?",
+  "p": "¿A qué personaje de Super Mario Kart reemplazó Donkey Kong en Mario Kart 64?",
   "o": [
-   "8",
-   "12",
-   "6"
+   "Donkey Kong Jr.",
+   "Koopa Troopa",
+   "Toad"
   ]
  },
  {
   "deporte": true,
-  "p": "En Mario Kart 8, ¿cuántos corredores hay en cada carrera?",
+  "p": "En Mario Kart World, ¿cuántos corredores hay en cada carrera?",
   "o": [
-   "12",
-   "8",
-   "16"
+   "24",
+   "16",
+   "18"
   ]
  },
  {
@@ -73,29 +73,29 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué truco legendario logró Tony Hawk en 1999 y sale en sus juegos?",
+  "p": "¿En qué ciudad ficticia pasa el primer «Skate» de EA?",
   "o": [
-   "El 900",
-   "El 1080",
-   "El kickflip doble"
+   "San Vanelona",
+   "Port Carverton",
+   "Rockport"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Cuál es el auto más icónico de Rocket League?",
+  "p": "En Rocket League, ¿cuánto dura un partido normal sin tiempo extra?",
   "o": [
-   "Octane",
-   "Dominus",
-   "Batmóvil"
+   "5 minutos",
+   "3 minutos",
+   "10 minutos"
   ]
  },
  {
   "deporte": true,
-  "p": "En el tenis de Wii Sports, ¿cuántos jugadores tiene cada lado de la cancha?",
+  "p": "En Wii Sports, ¿qué deporte se juega con el Nunchuk además del Wiimote?",
   "o": [
-   "2",
-   "1",
-   "4"
+   "Box",
+   "Béisbol",
+   "Boliche"
   ]
  },
  {
@@ -210,19 +210,19 @@
   ]
  },
  {
-  "p": "En Arcane, ¿quién es el padre adoptivo de Vi y Powder?",
+  "p": "En Arcane, ¿quién lidera la resistencia que se esconde en un árbol gigante?",
   "o": [
-   "Vander",
-   "Silco",
-   "Singed"
+   "Ekko",
+   "Sevika",
+   "Vander"
   ]
  },
  {
-  "p": "En Arcane, ¿quién cría a Powder después de la muerte de Vander?",
+  "p": "En Arcane, ¿cómo se llama la mano derecha de Silco que tiene un brazo mecánico?",
   "o": [
-   "Silco",
-   "Singed",
-   "Sevika"
+   "Sevika",
+   "Ambessa",
+   "Renni"
   ]
  },
  {
@@ -234,19 +234,19 @@
   ]
  },
  {
-  "p": "¿Cuál es el nombre de Jinx antes de convertirse en Jinx?",
+  "p": "En Arcane, ¿qué les pasa a Mylo y Claggor en la temporada 1?",
   "o": [
-   "Powder",
-   "Violet",
-   "Mel"
+   "Mueren en una explosión",
+   "Se unen a Silco",
+   "Los encierra Marcus"
   ]
  },
  {
-  "p": "En Arcane, ¿cómo se llama la tecnología mágica que inventan Jayce y Viktor?",
+  "p": "En Arcane, ¿qué consejera de Piltover viene de una familia de Noxus?",
   "o": [
-   "Hextech",
-   "Quimtech",
-   "Runatech"
+   "Mel Medarda",
+   "Cassandra Kiramman",
+   "Grayson"
   ]
  },
  {
@@ -314,11 +314,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llaman los siete jefes de Super Mario Bros. 3, como Larry y Ludwig?",
+  "p": "¿Cuál de los Koopalings es la única chica?",
   "o": [
-   "Los Koopalings",
-   "Los Koopa Troopa",
-   "Los Boom Boom"
+   "Wendy",
+   "Lemmy",
+   "Iggy"
   ]
  },
  {
@@ -346,11 +346,11 @@
   ]
  },
  {
-  "p": "¿Qué raza de Zelda está formada casi solo por mujeres?",
+  "p": "En Breath of the Wild, ¿cómo logra entrar Link a Ciudad Gerudo?",
   "o": [
-   "Los Gerudo",
-   "Los Sheikah",
-   "Los Rito"
+   "Vestido de mujer",
+   "Por un túnel secreto",
+   "Con un pase de la reina"
   ]
  },
  {
@@ -506,11 +506,11 @@
   ]
  },
  {
-  "p": "¿Qué Pokémon legendario sale en la portada de Pokémon Plata?",
+  "p": "¿En qué lugar de Johto se captura a Ho-Oh en Pokémon Oro?",
   "o": [
-   "Lugia",
-   "Ho-Oh",
-   "Suicune"
+   "Torre Hojalata",
+   "Torre Quemada",
+   "Islas Remolino"
   ]
  },
  {
@@ -538,11 +538,11 @@
   ]
  },
  {
-  "p": "En Pokémon Rojo y Azul, ¿qué objeto despierta a Snorlax?",
+  "p": "En Pokémon Rojo y Azul, ¿en qué ciudad está la tienda de bicicletas?",
   "o": [
-   "La Pokéflauta",
-   "El Silph Scope",
-   "La Bicicleta"
+   "Ciudad Celeste",
+   "Ciudad Carmín",
+   "Ciudad Azulona"
   ]
  },
  {
@@ -554,27 +554,27 @@
   ]
  },
  {
-  "p": "En Zelda: Ocarina of Time, ¿cómo se llama el hada de Link?",
+  "p": "En Majora's Mask, ¿cómo se llama el hada que acompaña a Link?",
   "o": [
-   "Navi",
    "Tatl",
-   "Midna"
+   "Tael",
+   "Ciela"
   ]
  },
  {
-  "p": "En Minecraft, ¿qué pones en el portal para activarlo hacia el End?",
+  "p": "En Minecraft, ¿con qué se crea un ojo de Ender?",
   "o": [
-   "Ojos de Ender",
-   "Perlas de Ender",
-   "Polvo de blaze"
+   "Perla y polvo de blaze",
+   "Perla y polvo de redstone",
+   "Perla y lágrima de ghast"
   ]
  },
  {
-  "p": "¿En qué juego de Zelda una luna está a punto de caer?",
+  "p": "En Majora's Mask, ¿qué máscara te dan los niños de la luna?",
   "o": [
-   "Majora's Mask",
-   "Twilight Princess",
-   "Wind Waker"
+   "La de la Fiera Deidad",
+   "La de Majora",
+   "La de Kafei"
   ]
  },
  {
@@ -650,19 +650,19 @@
   ]
  },
  {
-  "p": "En Minecraft, ¿de qué mascota huyen los creepers?",
+  "p": "En Minecraft, ¿qué le pasa a un creeper si le cae un rayo?",
   "o": [
-   "De los gatos",
-   "De los lobos",
-   "De los loros"
+   "Se vuelve creeper cargado",
+   "Explota al instante",
+   "Se vuelve invisible"
   ]
  },
  {
-  "p": "¿Qué jefe de Minecraft se invoca con tres cráneos y arena de almas?",
+  "p": "En Minecraft, ¿sobre qué bloque se cultivan las verrugas del Nether?",
   "o": [
-   "El Wither",
-   "El Ender Dragon",
-   "El Guardián Anciano"
+   "Arena de almas",
+   "Netherrack",
+   "Tierra de almas"
   ]
  },
  {
@@ -746,11 +746,11 @@
   ]
  },
  {
-  "p": "¿Qué animal es Knuckles?",
+  "p": "¿En qué juego debutó Knuckles?",
   "o": [
-   "Un equidna",
-   "Un erizo",
-   "Un armadillo"
+   "Sonic 3",
+   "Sonic 2",
+   "Sonic & Knuckles"
   ]
  },
  {
@@ -762,19 +762,19 @@
   ]
  },
  {
-  "p": "¿Quién es el dios del trueno en Mortal Kombat?",
+  "p": "¿Qué peleador de Mortal Kombat tiene un ojo láser y es del clan Black Dragon?",
   "o": [
-   "Raiden",
-   "Shao Kahn",
-   "Fujin"
+   "Kano",
+   "Jax",
+   "Kabal"
   ]
  },
  {
-  "p": "En Super Mario 64, ¿cómo entras a los niveles del castillo?",
+  "p": "En Super Mario 64, ¿cuántas veces peleas contra Bowser?",
   "o": [
-   "Saltando a los cuadros",
-   "Por tuberías",
-   "Por puertas de colores"
+   "3",
+   "4",
+   "7"
   ]
  },
  {
@@ -794,11 +794,11 @@
   ]
  },
  {
-  "p": "En Super Mario Bros. 3, ¿qué traje te deja convertirte en estatua?",
+  "p": "En Super Mario Bros. 3, ¿dentro de qué se mete Mario en el nivel 5-3?",
   "o": [
-   "El traje Tanooki",
-   "El traje de rana",
-   "El traje de martillo"
+   "Un zapato de Goomba",
+   "Un caparazón de Koopa",
+   "Una burbuja"
   ]
  },
  {
@@ -810,11 +810,11 @@
   ]
  },
  {
-  "p": "En Arcane, ¿qué agente de la ley se vuelve pareja de Vi?",
+  "p": "En Arcane, ¿cómo se llama la mamá de Caitlyn?",
   "o": [
-   "Caitlyn",
-   "Mel",
-   "Sevika"
+   "Cassandra",
+   "Ambessa",
+   "Grayson"
   ]
  },
  {

@@ -1,27 +1,27 @@
 [
  {
-  "p": "¿Qué significan las siglas USB?",
+  "p": "¿Qué tipo de conector USB se puede enchufar por cualquier lado?",
   "o": [
-   "Universal Serial Bus",
-   "Unified System Bridge",
-   "Universal Storage Base"
+   "USB-C",
+   "Micro-USB",
+   "USB-A"
   ]
  },
  {
-  "p": "¿En qué año cambió Twitter su nombre a X?",
+  "p": "¿Cómo se llamaba el pajarito azul del logo de Twitter?",
   "o": [
-   "2023",
-   "2021",
-   "2025"
+   "Larry",
+   "Jack",
+   "Tweety"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué tecnología para revisar jugadas debutó en el Mundial de Rusia 2018?",
+  "p": "¿En qué Mundial se usó por primera vez el fuera de lugar semiautomático?",
   "o": [
-   "El VAR",
-   "El Ojo de Halcón",
-   "El balón con chip"
+   "Qatar 2022",
+   "Rusia 2018",
+   "Brasil 2014"
   ]
  },
  {
@@ -33,19 +33,19 @@
   ]
  },
  {
-  "p": "¿Qué empresa compró YouTube en 2006?",
+  "p": "¿Cuál era el lema original de YouTube debajo de su logo?",
   "o": [
-   "Google",
-   "Microsoft",
-   "Yahoo"
+   "«Broadcast Yourself»",
+   "«Just Watch It»",
+   "«Share Your World»"
   ]
  },
  {
-  "p": "¿Qué juego de rol de mesa tiene como símbolo el dado de 20 caras?",
+  "p": "En D&D, ¿qué alineamiento tiene un personaje bueno que se salta las reglas?",
   "o": [
-   "Dungeons & Dragons",
-   "Warhammer",
-   "Magic: The Gathering"
+   "Caótico bueno",
+   "Legal bueno",
+   "Neutral bueno"
   ]
  },
  {
@@ -59,27 +59,27 @@
  },
  {
   "deporte": true,
-  "p": "En «Volver al futuro II», ¿en qué escapa Marty de Griff?",
+  "p": "¿De qué marca es la patineta voladora rosa de Marty en «Volver al futuro II»?",
   "o": [
-   "Una patineta voladora",
-   "Una moto voladora",
-   "Unos patines a reacción"
+   "Mattel",
+   "Pit Bull",
+   "Nike"
   ]
  },
  {
-  "p": "¿Qué superhéroe de DC es Barry Allen?",
+  "p": "¿Qué superhéroe de DC es Victor Stone?",
   "o": [
-   "Flash",
-   "Linterna Verde",
-   "Aquaman"
+   "Cyborg",
+   "Átomo",
+   "Detective Marciano"
   ]
  },
  {
-  "p": "¿Qué significan las siglas PDF?",
+  "p": "¿Qué significan las siglas de la tarjeta SIM del celular?",
   "o": [
-   "Portable Document Format",
-   "Printable Data File",
-   "Public Document Form"
+   "Subscriber Identity Module",
+   "Secure Internet Module",
+   "System Identity Memory"
   ]
  },
  {

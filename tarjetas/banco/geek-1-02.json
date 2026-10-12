@@ -10,29 +10,29 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué piloto español ganó dos campeonatos de F1 con Renault?",
+  "p": "¿En qué escudería corre Fernando Alonso desde 2023?",
   "o": [
-   "Fernando Alonso",
-   "Carlos Sainz",
-   "Pedro de la Rosa"
+   "Aston Martin",
+   "Alpine",
+   "Williams"
   ]
  },
  {
   "deporte": true,
-  "p": "En ajedrez, ¿qué significa quedar en «tablas»?",
+  "p": "En ajedrez, ¿cómo se llama cuando no puedes mover nada y no estás en jaque?",
   "o": [
-   "Empatar",
-   "Perder",
-   "Rendirse"
+   "Rey ahogado",
+   "Jaque perpetuo",
+   "Zugzwang"
   ]
  },
  {
   "deporte": true,
-  "p": "En su primer partido de Quidditch, ¿cómo atrapa Harry la Snitch?",
+  "p": "¿Quién es la árbitra de los partidos de Quidditch en Hogwarts?",
   "o": [
-   "Casi se la traga",
-   "Con su varita",
-   "Con los pies"
+   "Madame Hooch",
+   "Madame Pomfrey",
+   "La profesora Sprout"
   ]
  },
  {
@@ -44,11 +44,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llaman los nueve jinetes negros que persiguen a Frodo?",
+  "p": "¿Qué criatura de fuego enfrenta Gandalf en el puente de Khazad-dûm?",
   "o": [
-   "Los Nazgûl",
-   "Los Uruk-hai",
-   "Los trasgos"
+   "Un Balrog",
+   "Un dragón",
+   "Un troll de las cavernas"
   ]
  },
  {
@@ -60,11 +60,11 @@
   ]
  },
  {
-  "p": "¿Qué villano de Spider-Man vuela en un planeador?",
+  "p": "¿Qué villano de Spider-Man es el doctor Curt Connors?",
   "o": [
-   "El Duende Verde",
-   "Mysterio",
-   "El Lagarto"
+   "El Lagarto",
+   "El Buitre",
+   "Electro"
   ]
  },
  {
@@ -84,19 +84,19 @@
   ]
  },
  {
-  "p": "¿Qué personaje pierde una mano en «El Imperio contraataca»?",
+  "p": "En «El Imperio contraataca», ¿qué le contesta Han a Leia cuando ella le dice «Te amo»?",
   "o": [
-   "Luke Skywalker",
-   "Han Solo",
-   "Darth Vader"
+   "«Lo sé»",
+   "«Yo también»",
+   "«Ya lo sabía»"
   ]
  },
  {
-  "p": "¿Qué criatura gorda tiene prisionera a Leia en «El regreso del Jedi»?",
+  "p": "¿Qué monstruo vive en el foso debajo del trono de Jabba?",
   "o": [
-   "Jabba el Hutt",
-   "Watto",
-   "Sebulba"
+   "El Rancor",
+   "El Sarlacc",
+   "El Wampa"
   ]
  },
  {
@@ -108,11 +108,11 @@
   ]
  },
  {
-  "p": "¿Qué objeto usa Hermione para ir a varias clases a la misma hora?",
+  "p": "¿Cómo se llama la tienda de bromas que abren Fred y George?",
   "o": [
-   "Un giratiempo",
-   "Un traslador",
-   "Un pensadero"
+   "Sortilegios Weasley",
+   "Zonko",
+   "Honeydukes"
   ]
  },
  {
@@ -124,11 +124,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llama la región donde viven los hobbits?",
+  "p": "¿Cuántos años cumple Bilbo en la fiesta del inicio de «La Comunidad del Anillo»?",
   "o": [
-   "La Comarca",
-   "Rivendel",
-   "Mordor"
+   "111",
+   "100",
+   "120"
   ]
  },
  {
@@ -140,59 +140,59 @@
   ]
  },
  {
-  "p": "¿Qué buscador de internet es de Microsoft?",
+  "p": "¿Qué navegador de los 90 tenía un timón de barco en su logo?",
   "o": [
-   "Bing",
-   "Yahoo",
-   "DuckDuckGo"
+   "Netscape Navigator",
+   "Opera",
+   "Mosaic"
   ]
  },
  {
-  "p": "¿Qué significa «QR» en código QR?",
+  "p": "¿En qué país se inventó el código QR?",
   "o": [
-   "Quick Response",
-   "Quality Read",
-   "Quick Record"
+   "Japón",
+   "Corea del Sur",
+   "China"
   ]
  },
  {
-  "p": "¿Qué empresa es dueña de Marvel desde 2009?",
+  "p": "¿Qué estudio tiene los derechos para hacer películas de Spider-Man?",
   "o": [
-   "Disney",
-   "Warner Bros.",
-   "Sony"
+   "Sony Pictures",
+   "Universal",
+   "Paramount"
   ]
  },
  {
-  "p": "¿Qué marca china perdió las apps de Google en sus celulares por un veto de EE. UU.?",
+  "p": "¿Qué marca fabrica los celulares Pixel?",
   "o": [
-   "Huawei",
-   "Xiaomi",
-   "Oppo"
+   "Google",
+   "Motorola",
+   "OnePlus"
   ]
  },
  {
-  "p": "¿Cuál es el órgano más grande del cuerpo humano?",
+  "p": "¿Qué parte del ojo le da su color?",
   "o": [
-   "La piel",
-   "El hígado",
-   "Los pulmones"
+   "El iris",
+   "La pupila",
+   "La retina"
   ]
  },
  {
-  "p": "¿Qué planeta tiene la Gran Mancha Roja?",
+  "p": "¿Qué planeta es considerado el «gemelo» de la Tierra por su tamaño?",
   "o": [
-   "Júpiter",
+   "Venus",
    "Marte",
-   "Saturno"
+   "Mercurio"
   ]
  },
  {
-  "p": "¿Qué dios griego es el dios del sol y la música?",
+  "p": "En «Percy Jackson», ¿de qué diosa es hija Annabeth?",
   "o": [
-   "Apolo",
-   "Ares",
-   "Hermes"
+   "Atenea",
+   "Afrodita",
+   "Deméter"
   ]
  }
 ]

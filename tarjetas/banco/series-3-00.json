@@ -1,0 +1,590 @@
+[
+ {
+  "deporte": true,
+  "p": "En «Homero al bate», ¿qué beisbolista termina creyéndose gallina por hipnosis?",
+  "o": [
+   "Roger Clemens",
+   "Ken Griffey Jr.",
+   "Don Mattingly"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Los Simpson», ¿qué selecciones juegan el aburrido partido que acaba en motín?",
+  "o": [
+   "México y Portugal",
+   "México y Brasil",
+   "Brasil y Portugal"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Los Simpson», ¿a qué ciudad querían mudar en secreto a los Isótopos?",
+  "o": [
+   "Albuquerque",
+   "Capital City",
+   "Shelbyville"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "Si Lisa aún quería a Homero, ¿qué equipo ganaría el Super Bowl según su predicción?",
+  "o": [
+   "Washington",
+   "Buffalo",
+   "Dallas"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Futurama», ¿en qué disciplina olímpica competía Hermes Conrad?",
+  "o": [
+   "Limbo",
+   "Salto de altura",
+   "Lanzamiento de bala"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En la película «El Chanfle», ¿de qué equipo es utilero Chespirito?",
+  "o": [
+   "Club América",
+   "Pumas",
+   "Cruz Azul"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "Antes de la fama, ¿qué deporte practicó Chespirito como amateur?",
+  "o": [
+   "Box",
+   "Lucha libre",
+   "Béisbol"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Ben 10: Fuerza Alienígena», ¿qué deporte juega Julie, la novia de Ben?",
+  "o": [
+   "Tenis",
+   "Voleibol",
+   "Natación"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué actor mexicano le da voz a Rayo McQueen en el doblaje latino de «Cars»?",
+  "o": [
+   "Kuno Becker",
+   "Diego Luna",
+   "Gael García Bernal"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quién fue por más tiempo la voz latina de Oliver Atom en «Supercampeones»?",
+  "o": [
+   "Jorge Roig Jr.",
+   "Mario Castañeda",
+   "Humberto Vélez"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quién dobló a Bugs Bunny en el doblaje mexicano de «Space Jam» (1996)?",
+  "o": [
+   "Alfonso Obregón",
+   "Mario Castañeda",
+   "Humberto Vélez"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué exfutbolista de Cruz Azul y Pumas llegó a la final de «MasterChef Celebrity» 2023?",
+  "o": [
+   "Paco Palencia",
+   "Jorge Campos",
+   "Cuauhtémoc Blanco"
+  ]
+ },
+ {
+  "p": "¿Qué cómico del cine de oro era hermano de Ramón Valdés, Don Ramón?",
+  "o": [
+   "Tin Tan",
+   "Cantinflas",
+   "Clavillazo"
+  ]
+ },
+ {
+  "p": "En «The Office», ¿cómo se llama el gato de Angela que Dwight mete al congelador?",
+  "o": [
+   "Sprinkles",
+   "Bandit",
+   "Princess Lady"
+  ]
+ },
+ {
+  "p": "¿Qué parentesco tenía Chespirito con el actor que hacía a Godínez?",
+  "o": [
+   "Era su hermano",
+   "Era su primo",
+   "Era su hijo"
+  ]
+ },
+ {
+  "p": "En «El Chapulín Colorado», ¿a qué villano interpretaba Carlos Villagrán?",
+  "o": [
+   "El Cuajináis",
+   "El Tripaseca",
+   "El Rascabuches"
+  ]
+ },
+ {
+  "p": "Según Chespirito, ¿qué guardaba el Doctor Chapatín en su bolsa de papel?",
+  "o": [
+   "Rencores y envidias",
+   "Sus medicinas",
+   "Pan para las palomas"
+  ]
+ },
+ {
+  "p": "En «El Chavo del 8», ¿de qué pueblo es Jaimito el cartero?",
+  "o": [
+   "Tangamandapio",
+   "Tlaquepaque",
+   "Zinapécuaro"
+  ]
+ },
+ {
+  "p": "En «El Chavo del 8», ¿con qué familiar llega Paty a vivir a la vecindad?",
+  "o": [
+   "Con su tía Gloria",
+   "Con su abuela Nieves",
+   "Con su prima Popis"
+  ]
+ },
+ {
+  "p": "¿De qué material son las antenitas del Chapulín Colorado?",
+  "o": [
+   "De vinil",
+   "De hule",
+   "De peluche"
+  ]
+ },
+ {
+  "p": "En «Futurama», ¿quién resulta ser el verdadero padre de Igner, hijo de Mamá?",
+  "o": [
+   "El Profesor Farnsworth",
+   "El Profesor Wernstrom",
+   "Walt"
+  ]
+ },
+ {
+  "p": "En «Futurama», ¿cómo se llaman los papás de Leela?",
+  "o": [
+   "Morris y Munda",
+   "Leo e Inez",
+   "Hermes y LaBarbara"
+  ]
+ },
+ {
+  "p": "En «Futurama», ¿de qué planeta es el Doctor Zoidberg?",
+  "o": [
+   "Decápodo 10",
+   "Omicron Persei 8",
+   "Amphibios 9"
+  ]
+ },
+ {
+  "p": "En «Futurama», ¿cómo se llama el hermano mayor de Fry?",
+  "o": [
+   "Yancy",
+   "Hubert",
+   "Cubert"
+  ]
+ },
+ {
+  "p": "En «Futurama», ¿para qué pizzería repartía Fry en 1999?",
+  "o": [
+   "Panucci's",
+   "Pizza Planet",
+   "Fishy Joe's"
+  ]
+ },
+ {
+  "p": "En «Futurama», ¿quién es el jefe de la mafia de robots?",
+  "o": [
+   "Donbot",
+   "Clamps",
+   "Joey Mousepad"
+  ]
+ },
+ {
+  "p": "En «Futurama», ¿cómo se llama el chef de cuatro brazos que grita «¡Bam!»?",
+  "o": [
+   "Elzar",
+   "Hedonismbot",
+   "Calculón"
+  ]
+ },
+ {
+  "p": "En «Ben 10: Fuerza Alienígena», ¿de qué raza es la abuela de Gwen?",
+  "o": [
+   "Anodita",
+   "Kineceleran",
+   "Galvan"
+  ]
+ },
+ {
+  "p": "En «Futurama», ¿por qué Fry es inmune a los Cerebros?",
+  "o": [
+   "Le falta la onda delta",
+   "Tiene el cráneo de metal",
+   "Estuvo congelado mil años"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el osito de peluche de la infancia del señor Burns?",
+  "o": [
+   "Bobo",
+   "Teddy",
+   "Pompón"
+  ]
+ },
+ {
+  "p": "En «Los Simpson», ¿qué nuevo compañero de Homero lo odia y muere electrocutado?",
+  "o": [
+   "Frank Grimes",
+   "Gil",
+   "Herman"
+  ]
+ },
+ {
+  "p": "En «Los Simpson», ¿qué estafador le vende un monorriel a Springfield?",
+  "o": [
+   "Lyle Lanley",
+   "Hank Scorpio",
+   "Artie Ziff"
+  ]
+ },
+ {
+  "p": "En «Los Simpson», ¿cuántos bebés tuvieron Apu y Manjula de un solo parto?",
+  "o": [
+   "8",
+   "6",
+   "9"
+  ]
+ },
+ {
+  "p": "En «La casita del horror VII», ¿cómo se llama el siamés de Bart escondido en el ático?",
+  "o": [
+   "Hugo",
+   "Herbert",
+   "Rod"
+  ]
+ },
+ {
+  "p": "En el doblaje latino clásico, ¿qué terminación le pone Ned Flanders a sus palabras?",
+  "o": [
+   "«-irijillo»",
+   "«-ijito»",
+   "«-irrín»"
+  ]
+ },
+ {
+  "p": "En «Ben 10», ¿a qué especie alienígena pertenece Diamante?",
+  "o": [
+   "Petrosapien",
+   "Tetramand",
+   "Pyronita"
+  ]
+ },
+ {
+  "p": "En «Ben 10», ¿de qué especie es Kevin Levin, que absorbe energía y materia?",
+  "o": [
+   "Osmosiano",
+   "Galvan",
+   "Tetramand"
+  ]
+ },
+ {
+  "p": "En «Ben 10», ¿qué es Verdona, la abuela de Gwen?",
+  "o": [
+   "Una anodita",
+   "Una osmosiana",
+   "Una galvan"
+  ]
+ },
+ {
+  "p": "En «Ben 10», ¿qué científico galvan creó el Omnitrix?",
+  "o": [
+   "Azmuth",
+   "Vilgax",
+   "Max Tennyson"
+  ]
+ },
+ {
+  "p": "En «Ben 10», ¿qué ayudante de Azmuth acaba atrapado en un clon de Ben?",
+  "o": [
+   "Albedo",
+   "Kevin Levin",
+   "Dr. Animo"
+  ]
+ },
+ {
+  "p": "En «Ben 10», Ship, la mascota de Julie, es de la misma especie que ¿qué alien de Ben?",
+  "o": [
+   "Ultra T",
+   "Materia Gris",
+   "XLR8"
+  ]
+ },
+ {
+  "p": "En «Ben 10», ¿de qué planeta es Vilgax?",
+  "o": [
+   "Vilgaxia",
+   "Petropia",
+   "Galvan Prime"
+  ]
+ },
+ {
+  "p": "En «Ben 10», ¿cómo se hace llamar Ben ya adulto en el futuro?",
+  "o": [
+   "Ben 10,000",
+   "Ben 23",
+   "Ben Prime"
+  ]
+ },
+ {
+  "p": "En «Game of Thrones», ¿cómo se llama el lobo huargo de Rickon?",
+  "o": [
+   "Peludo",
+   "Verano",
+   "Viento Gris"
+  ]
+ },
+ {
+  "p": "En «El increíble mundo de Gumball», ¿con quién tiene un romance la maestra Simian?",
+  "o": [
+   "Con el director Brown",
+   "Con el señor Small",
+   "Con Rocky"
+  ]
+ },
+ {
+  "p": "En «El increíble mundo de Gumball», ¿qué compañero de la escuela es un globo?",
+  "o": [
+   "Alan",
+   "Bobert",
+   "Banana Joe"
+  ]
+ },
+ {
+  "p": "En «El increíble mundo de Gumball», ¿cómo se llama la roca que trabaja en todos lados?",
+  "o": [
+   "Larry",
+   "Rocky",
+   "Hector"
+  ]
+ },
+ {
+  "p": "En «El increíble mundo de Gumball», ¿qué es Anton?",
+  "o": [
+   "Un pan tostado",
+   "Una papa",
+   "Una galleta"
+  ]
+ },
+ {
+  "p": "En «El increíble mundo de Gumball», ¿cómo se llama la mamá de Richard?",
+  "o": [
+   "Jojo",
+   "Margaret",
+   "Mildred"
+  ]
+ },
+ {
+  "p": "En «El increíble mundo de Gumball», ¿qué compañera es un tiranosaurio?",
+  "o": [
+   "Tina",
+   "Masami",
+   "Teri"
+  ]
+ },
+ {
+  "p": "En «Gumball», ¿qué personaje olvidado escapa del Vacío y se vuelve el villano?",
+  "o": [
+   "Rob",
+   "Bobert",
+   "Tobias"
+  ]
+ },
+ {
+  "p": "En «El increíble mundo de Gumball», ¿cómo se llama la hermana de Tobias?",
+  "o": [
+   "Rachel",
+   "Carrie",
+   "Sarah"
+  ]
+ },
+ {
+  "p": "¿Quién ganó «Big Brother VIP», la versión de famosos de 2002?",
+  "o": [
+   "Galilea Montijo",
+   "Facundo",
+   "Arath de la Torre"
+  ]
+ },
+ {
+  "p": "¿A qué se dedicaba Alan Rangel, primer ganador de «MasterChef México»?",
+  "o": [
+   "Era lavaplatos",
+   "Era mesero",
+   "Era taxista"
+  ]
+ },
+ {
+  "p": "¿Quién conducía «MasterChef México» en sus primeras temporadas?",
+  "o": [
+   "Anette Michel",
+   "Ingrid Coronado",
+   "Rebecca de Alba"
+  ]
+ },
+ {
+  "p": "En la primera generación de «La Academia», ¿quién salió justo antes de la final?",
+  "o": [
+   "Toñita",
+   "Myriam",
+   "Nadia"
+  ]
+ },
+ {
+  "p": "¿Quién le ganó a Yuridia la final de la cuarta generación de «La Academia»?",
+  "o": [
+   "Erasmo Catarino",
+   "Carlos Rivera",
+   "Yahir"
+  ]
+ },
+ {
+  "p": "En «100 mexicanos dijeron», ¿cómo se llama la ronda final de dos jugadores?",
+  "o": [
+   "Dinero rápido",
+   "Muerte súbita",
+   "El robo"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de Adrián Uribe conducía «100 mexicanos dijeron»?",
+  "o": [
+   "El Vítor",
+   "Poncho Aurelio",
+   "Carmelo"
+  ]
+ },
+ {
+  "p": "¿Quién conduce «100 mexicanos» desde que pasó a TV Azteca en 2024?",
+  "o": [
+   "El Capi Pérez",
+   "Adrián Uribe",
+   "Marco Antonio Regil"
+  ]
+ },
+ {
+  "p": "¿A qué personaje de «Dragon Ball Z» le da voz Carlos Segundo en latino?",
+  "o": [
+   "Piccolo",
+   "Freezer",
+   "Krilin"
+  ]
+ },
+ {
+  "p": "¿A qué personaje de «Dragon Ball Z» le da voz Lalo Garza en latino?",
+  "o": [
+   "Krilin",
+   "Gohan",
+   "Yamcha"
+  ]
+ },
+ {
+  "p": "¿A qué actor de Hollywood dobla Mario Filio desde hace más de 20 años?",
+  "o": [
+   "Will Smith",
+   "Denzel Washington",
+   "Eddie Murphy"
+  ]
+ },
+ {
+  "p": "¿Qué personaje de «Don Gato y su pandilla» dobló Jorge «El Tata» Arvizu?",
+  "o": [
+   "Benito Bodoque",
+   "Don Gato",
+   "Matute"
+  ]
+ },
+ {
+  "p": "En el doblaje latino de «Rugrats», ¿cómo se llama Chuckie?",
+  "o": [
+   "Carlitos",
+   "Pepito",
+   "Chuchito"
+  ]
+ },
+ {
+  "p": "Además de Homero, ¿a qué villano de «Shrek» le dio voz Humberto Vélez?",
+  "o": [
+   "Lord Farquaad",
+   "El Príncipe Encantador",
+   "Rumpelstiltskin"
+  ]
+ },
+ {
+  "p": "¿Qué comediante mexicano dobló a Mike Wazowski en «Monsters, Inc.»?",
+  "o": [
+   "Andrés Bustamante",
+   "Víctor Trujillo",
+   "Eugenio Derbez"
+  ]
+ },
+ {
+  "p": "¿Quién fue la voz latina original de Ash Ketchum en «Pokémon»?",
+  "o": [
+   "Gabriel Ramos",
+   "Miguel Ángel Leal",
+   "Mario Castañeda"
+  ]
+ },
+ {
+  "p": "¿Qué cantante dobló a Hércules en la película de Disney de 1997?",
+  "o": [
+   "Ricky Martin",
+   "Ricardo Montaner",
+   "Cristian Castro"
+  ]
+ },
+ {
+  "p": "¿Qué cantante mexicana le dio voz a Megara en el doblaje latino de «Hércules»?",
+  "o": [
+   "Tatiana",
+   "Lucero",
+   "Thalía"
+  ]
+ },
+ {
+  "p": "¿Quién canta «Dos mundos» en la versión en español de «Tarzán»?",
+  "o": [
+   "Phil Collins",
+   "Ricardo Montaner",
+   "Cristian Castro"
+  ]
+ },
+ {
+  "p": "¿Quién dobla a Woody en latino desde «Toy Story 3»?",
+  "o": [
+   "Arturo Mercado Jr.",
+   "Alfonso Obregón",
+   "Mario Filio"
+  ]
+ }
+]

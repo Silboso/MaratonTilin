@@ -1,0 +1,590 @@
+[
+ {
+  "deporte": true,
+  "p": "En «Ted Lasso», ¿cómo se llama el estadio del AFC Richmond?",
+  "o": [
+   "Nelson Road",
+   "Craven Cottage",
+   "Richmond Park"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Ted Lasso», ¿de qué club estaba prestado Jamie Tartt al Richmond?",
+  "o": [
+   "Manchester City",
+   "Chelsea",
+   "Tottenham"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Ted Lasso», ¿de qué país es el jugador Sam Obisanya?",
+  "o": [
+   "Nigeria",
+   "Ghana",
+   "Costa de Marfil"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Ted Lasso», ¿qué mata Dani Rojas por accidente al cobrar un penal?",
+  "o": [
+   "A Earl, el perro mascota",
+   "A una paloma del estadio",
+   "Al perico de Coach Beard"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Ted Lasso», ¿qué club compra Rupert en la tercera temporada?",
+  "o": [
+   "West Ham United",
+   "Chelsea",
+   "Crystal Palace"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Stranger Things», ¿cómo se llaman los equipos de la prepa de Hawkins?",
+  "o": [
+   "Los Tigres",
+   "Las Panteras",
+   "Los Halcones"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Breaking Bad», ¿qué auto deportivo le regala Walt a su hijo?",
+  "o": [
+   "Un Dodge Challenger",
+   "Un Ford Mustang",
+   "Un Chevrolet Camaro"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «The Office», ¿quién gana la pelea de karate en el dojo de Dwight?",
+  "o": [
+   "Michael",
+   "Dwight",
+   "Termina en empate"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «The Office», ¿con qué traje se queda Andy flotando en el lago?",
+  "o": [
+   "De luchador de sumo",
+   "De buzo",
+   "De botarga de pollo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Friends», ¿por qué a Rachel le da pena salir a correr con Phoebe?",
+  "o": [
+   "Corre agitando los brazos",
+   "Corre demasiado rápido",
+   "Corre cantando en voz alta"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Friends», ¿qué no se atreve a cancelar Chandler por más que lo intenta?",
+  "o": [
+   "Su membresía del gimnasio",
+   "Su suscripción a la revista",
+   "Su cuenta del banco"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «The Big Bang Theory», ¿contra quién juega Sheldon un torneo de boliche?",
+  "o": [
+   "Wil Wheaton",
+   "Barry Kripke",
+   "Leslie Winkle"
+  ]
+ },
+ {
+  "p": "En «Stranger Things» 3, ¿cómo bautiza Dustin a la radio gigante que construye?",
+  "o": [
+   "Cerebro",
+   "Halcón Milenario",
+   "Skynet"
+  ]
+ },
+ {
+  "p": "En «Stranger Things» 3, ¿qué canción cantan Dustin y Suzie por radio?",
+  "o": [
+   "«The NeverEnding Story»",
+   "«Take On Me»",
+   "«Africa»"
+  ]
+ },
+ {
+  "p": "En «Stranger Things» 2, ¿qué mascota de Dustin se come Dart?",
+  "o": [
+   "Su gato",
+   "Su tortuga",
+   "Su perico"
+  ]
+ },
+ {
+  "p": "¿Cuál es el apellido de Max en «Stranger Things»?",
+  "o": [
+   "Mayfield",
+   "Hargrove",
+   "Sinclair"
+  ]
+ },
+ {
+  "p": "En «Stranger Things», ¿qué periodista conspiranoico ayuda a Nancy?",
+  "o": [
+   "Murray Bauman",
+   "Scott Clarke",
+   "Sam Owens"
+  ]
+ },
+ {
+  "p": "En «Stranger Things» 2, ¿a qué ciudad viaja Once para encontrar a Kali?",
+  "o": [
+   "Chicago",
+   "Indianápolis",
+   "Nueva York"
+  ]
+ },
+ {
+  "p": "En «Stranger Things», ¿cómo se llamaba la hija de Hopper que murió?",
+  "o": [
+   "Sara",
+   "Barbara",
+   "Holly"
+  ]
+ },
+ {
+  "p": "En «Stranger Things» 4, ¿en qué parte de Rusia está preso Hopper?",
+  "o": [
+   "Kamchatka",
+   "Moscú",
+   "Leningrado"
+  ]
+ },
+ {
+  "p": "En «Stranger Things», ¿qué número tenía Henry Creel en el laboratorio?",
+  "o": [
+   "Uno",
+   "Doce",
+   "Nueve"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿qué empresa fundó Walt con Elliott y Gretchen?",
+  "o": [
+   "Gray Matter Technologies",
+   "Beneke Fabricators",
+   "Sandia Labs"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿cuál es la dirección de la casa de los White?",
+  "o": [
+   "308 Negra Arroyo Lane",
+   "9809 Margo Street",
+   "512 Rio Bravo Lane"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿a quién degüella Gus con un cúter frente a Walt y Jesse?",
+  "o": [
+   "A Victor",
+   "A Tyrus",
+   "A Gale"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿qué pureza tiene la metanfetamina de Walt?",
+  "o": [
+   "99.1 %",
+   "96 %",
+   "70 %"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿qué empresa alemana es dueña de Los Pollos Hermanos?",
+  "o": [
+   "Madrigal Electromotive",
+   "Hoffmann Chemie",
+   "Lindemann Industrie"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿cómo se llama la novia de Jesse que muere frente a Walt?",
+  "o": [
+   "Jane Margolis",
+   "Andrea Cantillo",
+   "Wendy"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿qué bicho persigue Walt en el laboratorio durante todo un episodio?",
+  "o": [
+   "Una mosca",
+   "Una cucaracha",
+   "Un mosquito"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el último episodio de «Breaking Bad»?",
+  "o": [
+   "«Felina»",
+   "«Ozymandias»",
+   "«Granite State»"
+  ]
+ },
+ {
+  "p": "En «Breaking Bad», ¿dónde le pone Walt la ricina a Lydia?",
+  "o": [
+   "En su stevia",
+   "En su café",
+   "En su ensalada"
+  ]
+ },
+ {
+  "p": "En «Better Call Saul», ¿en qué área de HHM trabajaba Jimmy antes de ser abogado?",
+  "o": [
+   "En el correo",
+   "En la recepción",
+   "En el archivo"
+  ]
+ },
+ {
+  "p": "En «Better Call Saul», ¿de qué universidad sacó Jimmy su título de abogado?",
+  "o": [
+   "La de Samoa Americana",
+   "La de Nuevo México",
+   "La de Chicago"
+  ]
+ },
+ {
+  "p": "En «Better Call Saul», ¿qué banco es el gran cliente que consigue Kim?",
+  "o": [
+   "Mesa Verde",
+   "Ventana Federal",
+   "Banco Sandía"
+  ]
+ },
+ {
+  "p": "En «Better Call Saul», ¿qué negocio tiene el papá de Nacho Varga?",
+  "o": [
+   "Una tapicería",
+   "Una carnicería",
+   "Un taller mecánico"
+  ]
+ },
+ {
+  "p": "Al final de «Better Call Saul», ¿a cuántos años de prisión condenan a Jimmy?",
+  "o": [
+   "86 años",
+   "7 años y medio",
+   "25 años"
+  ]
+ },
+ {
+  "p": "En «Better Call Saul», ¿en qué estado creció Kim Wexler?",
+  "o": [
+   "Nebraska",
+   "Kansas",
+   "Nuevo México"
+  ]
+ },
+ {
+  "p": "En «Better Call Saul», ¿cómo se llamaba el hijo policía de Mike?",
+  "o": [
+   "Matty",
+   "Danny",
+   "Fred"
+  ]
+ },
+ {
+  "p": "¿De qué frase en inglés sale el nombre «Saul Goodman»?",
+  "o": [
+   "«S'all good, man»",
+   "«So good, man»",
+   "«Soul good, man»"
+  ]
+ },
+ {
+  "p": "En «Game of Thrones», ¿cuál es el nombre real de Hodor?",
+  "o": [
+   "Wylis",
+   "Wyman",
+   "Wendel"
+  ]
+ },
+ {
+  "p": "En «Game of Thrones», ¿qué dragón revive el Rey de la Noche como no muerto?",
+  "o": [
+   "Viserion",
+   "Rhaegal",
+   "Drogon"
+  ]
+ },
+ {
+  "p": "En «Game of Thrones», ¿qué se le dice al dios de la muerte, según Arya?",
+  "o": [
+   "«Hoy no»",
+   "«Valar Dohaeris»",
+   "«Un hombre no tiene nombre»"
+  ]
+ },
+ {
+  "p": "En «Game of Thrones», ¿a quién quema Stannis en una hoguera como sacrificio?",
+  "o": [
+   "A su hija Shireen",
+   "A su esposa Selyse",
+   "A Ser Davos"
+  ]
+ },
+ {
+  "p": "En «Game of Thrones», ¿quién pelea por Tyrion contra la Montaña?",
+  "o": [
+   "Oberyn Martell",
+   "Bronn",
+   "Jaime Lannister"
+  ]
+ },
+ {
+  "p": "En «Game of Thrones», ¿qué se revela cuando Melisandre se quita el collar?",
+  "o": [
+   "Que es una anciana",
+   "Que es un hombre",
+   "Que está ciega"
+  ]
+ },
+ {
+  "p": "¿Cuántos episodios tiene «Game of Thrones» en total?",
+  "o": [
+   "73",
+   "80",
+   "67"
+  ]
+ },
+ {
+  "p": "En «Game of Thrones», ¿cómo apodan a Davos Seaworth?",
+  "o": [
+   "El Caballero de la Cebolla",
+   "El Caballero de las Flores",
+   "El Caballero Negro"
+  ]
+ },
+ {
+  "p": "En «Game of Thrones», ¿de qué ciudad es Syrio Forel, maestro de Arya?",
+  "o": [
+   "Braavos",
+   "Volantis",
+   "Pentos"
+  ]
+ },
+ {
+  "p": "En «The Office», ¿cómo se llama el primo raro de Dwight que vive en la granja?",
+  "o": [
+   "Mose",
+   "Hank",
+   "Nate"
+  ]
+ },
+ {
+  "p": "En «The Office», ¿cómo se apoda a sí mismo Andy Bernard?",
+  "o": [
+   "Nard Dog",
+   "Big Tuna",
+   "Plop"
+  ]
+ },
+ {
+  "p": "En «The Office», ¿cómo se llamaba la banda de Kevin?",
+  "o": [
+   "Scrantonicity",
+   "Kevin & the Malones",
+   "Electric City"
+  ]
+ },
+ {
+  "p": "En «The Office», ¿cómo se llama la marca de velas de Jan?",
+  "o": [
+   "Serenity by Jan",
+   "Velas Levinson",
+   "Jan's Candles"
+  ]
+ },
+ {
+  "p": "En «The Office», ¿qué superhéroe ecológico interpreta Dwight?",
+  "o": [
+   "Recyclops",
+   "Capitán Basura",
+   "Green Arrow-Man"
+  ]
+ },
+ {
+  "p": "En «The Office», ¿cómo se llama la primera hija de Jim y Pam?",
+  "o": [
+   "Cece",
+   "Astrid",
+   "Sasha"
+  ]
+ },
+ {
+  "p": "En «The Office», ¿qué día del año es el favorito de Stanley?",
+  "o": [
+   "El Día del Pretzel",
+   "El Día de la Pizza",
+   "El Día del Chili"
+  ]
+ },
+ {
+  "p": "En «The Office», ¿cómo se llama la red social que funda Ryan?",
+  "o": [
+   "WUPHF",
+   "Athlead",
+   "Sabre"
+  ]
+ },
+ {
+  "p": "En «The Office», imitando a Dwight, ¿qué oso dice Jim que es el mejor?",
+  "o": [
+   "El oso negro",
+   "El oso pardo",
+   "El oso polar"
+  ]
+ },
+ {
+  "p": "En «Friends», ¿cómo se llama el pingüino de peluche de Joey?",
+  "o": [
+   "Hugsy",
+   "Snuggles",
+   "Mr. Waddles"
+  ]
+ },
+ {
+  "p": "En «Friends», ¿qué identidad falsa usa Phoebe para engañar a otros?",
+  "o": [
+   "Regina Phalange",
+   "Jill Green",
+   "Nora Bing"
+  ]
+ },
+ {
+  "p": "En «Friends», ¿cómo se llaman los gemelos que adoptan Monica y Chandler?",
+  "o": [
+   "Jack y Erica",
+   "Ben y Emma",
+   "Jack y Judy"
+  ]
+ },
+ {
+  "p": "En «Friends», ¿qué concepto de karate dice dominar Ross?",
+  "o": [
+   "Unagi",
+   "Kaizen",
+   "Bushido"
+  ]
+ },
+ {
+  "p": "En «Friends», ¿de dónde salió la receta de galletas de la abuela de Phoebe?",
+  "o": [
+   "De Nestlé Toll House",
+   "De Betty Crocker",
+   "De Martha Stewart"
+  ]
+ },
+ {
+  "p": "En «Friends», ¿cómo se llama la agente de actuación de Joey?",
+  "o": [
+   "Estelle",
+   "Janine",
+   "Kathy"
+  ]
+ },
+ {
+  "p": "En «Friends», ¿en qué marca de moda trabaja Rachel tras Bloomingdale's?",
+  "o": [
+   "Ralph Lauren",
+   "Gucci",
+   "Calvin Klein"
+  ]
+ },
+ {
+  "p": "En «Friends», ¿cómo se llama el roomie psicópata que tiene Chandler?",
+  "o": [
+   "Eddie",
+   "Paolo",
+   "Pete"
+  ]
+ },
+ {
+  "p": "En «The Big Bang Theory», ¿cómo se llama la hija de Howard y Bernadette?",
+  "o": [
+   "Halley",
+   "Leia",
+   "Stella"
+  ]
+ },
+ {
+  "p": "En «The Big Bang Theory», ¿cómo se llama la perrita de Raj?",
+  "o": [
+   "Cinnamon",
+   "Cookie",
+   "Pepper"
+  ]
+ },
+ {
+  "p": "En «The Big Bang Theory», ¿con qué teoría ganan Sheldon y Amy el Nobel?",
+  "o": [
+   "La superasimetría",
+   "La teoría de cuerdas",
+   "Los monopolos magnéticos"
+  ]
+ },
+ {
+  "p": "En «The Big Bang Theory», ¿cómo se llama el videopodcast de Sheldon y Amy?",
+  "o": [
+   "Fun with Flags",
+   "Bazinga Time",
+   "Physics for Fun"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la hermana gemela de Sheldon en «The Big Bang Theory»?",
+  "o": [
+   "Missy",
+   "Mary",
+   "Connie"
+  ]
+ },
+ {
+  "p": "En «The Big Bang Theory», ¿por qué está descompuesto el elevador?",
+  "o": [
+   "Un experimento de Leonard",
+   "Un robot de Howard",
+   "Un temblor"
+  ]
+ },
+ {
+  "p": "En «The Big Bang Theory», ¿qué rival de Sheldon no puede pronunciar la erre?",
+  "o": [
+   "Barry Kripke",
+   "Leslie Winkle",
+   "Bert"
+  ]
+ },
+ {
+  "p": "En «The Big Bang Theory», ¿qué apodo le ponen a Howard en el espacio?",
+  "o": [
+   "Froot Loops",
+   "Cheerios",
+   "Lucky Charms"
+  ]
+ }
+]

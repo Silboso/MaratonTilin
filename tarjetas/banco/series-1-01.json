@@ -19,20 +19,20 @@
  },
  {
   "deporte": true,
-  "p": "En «Euphoria», ¿qué deporte juega Nate Jacobs?",
+  "p": "En «Euphoria», ¿qué posición juega Nate Jacobs en su equipo?",
   "o": [
-   "Fútbol americano",
-   "Básquetbol",
-   "Lucha"
+   "Mariscal de campo",
+   "Receptor abierto",
+   "Pateador"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Riverdale», ¿qué deporte juega Archie Andrews?",
+  "p": "En «Riverdale», ¿cómo se llama el equipo de la preparatoria de Archie?",
   "o": [
-   "Fútbol americano",
-   "Béisbol",
-   "Hockey"
+   "Los Bulldogs",
+   "Los Vikingos",
+   "Los Halcones"
   ]
  },
  {
@@ -64,11 +64,11 @@
  },
  {
   "deporte": true,
-  "p": "En «Cobra Kai», ¿quién dirige el dojo Miyagi-Do?",
+  "p": "En «Cobra Kai», ¿quién deja a Miguel en el hospital al final de la 2.ª temporada?",
   "o": [
-   "Daniel LaRusso",
-   "Johnny Lawrence",
-   "John Kreese"
+   "Robby Keene",
+   "Hawk",
+   "Kyler"
   ]
  },
  {
@@ -170,11 +170,11 @@
   ]
  },
  {
-  "p": "¿Qué ingrediente extra usó el Profesor Utonio para crear a Las Chicas Superpoderosas?",
+  "p": "En «Las Chicas Superpoderosas», ¿quién es la asistente del Alcalde sin cara visible?",
   "o": [
-   "La Sustancia X",
-   "Polvo de estrellas",
-   "Kriptonita"
+   "La señorita Bello",
+   "La señorita Keane",
+   "Sedusa"
   ]
  },
  {
@@ -234,11 +234,11 @@
   ]
  },
  {
-  "p": "En «Samurai Jack», ¿a dónde manda Aku a Jack?",
+  "p": "En la 5.ª temporada de «Samurai Jack», ¿qué ha perdido Jack?",
   "o": [
-   "Al futuro",
-   "Al pasado",
-   "A otro planeta"
+   "Su espada",
+   "Su memoria",
+   "Un ojo"
   ]
  },
  {
@@ -250,19 +250,19 @@
   ]
  },
  {
-  "p": "En «Un show más», ¿dónde trabajan Mordecai y Rigby?",
+  "p": "En «Un show más», ¿qué criatura es Skips?",
   "o": [
-   "En un parque",
-   "En un café",
-   "En un videoclub"
+   "Un yeti",
+   "Un gorila",
+   "Un fantasma"
   ]
  },
  {
-  "p": "En «Steven Universe», ¿cómo se llama el grupo de Garnet, Amatista y Perla?",
+  "p": "En «Steven Universe», ¿qué dos gemas forman la fusión de Garnet?",
   "o": [
-   "Las Gemas de Cristal",
-   "Las Diamantes",
-   "Las Rubíes"
+   "Rubí y Zafiro",
+   "Rubí y Perla",
+   "Amatista y Jaspe"
   ]
  },
  {
@@ -290,11 +290,11 @@
   ]
  },
  {
-  "p": "¿Qué cantante es el papá de Miley en «Hannah Montana» y en la vida real?",
+  "p": "En «Hannah Montana», ¿qué identidad usa Lilly para acompañar a Hannah?",
   "o": [
-   "Billy Ray Cyrus",
-   "Johnny Cash",
-   "Garth Brooks"
+   "Lola Luftnagle",
+   "Mikayla",
+   "Traci Van Horn"
   ]
  },
  {
@@ -370,11 +370,11 @@
   ]
  },
  {
-  "p": "En «Rugrats», ¿cómo se llama la prima mandona de Tommy?",
+  "p": "En «Rugrats», ¿cómo se llama la muñeca favorita de Angélica?",
   "o": [
-   "Angélica",
-   "Susie",
-   "Lil"
+   "Cynthia",
+   "Lulú",
+   "Polly"
   ]
  },
  {
@@ -426,83 +426,83 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el Teletubbie morado?",
+  "p": "En «Teletubbies», ¿qué objeto carga siempre Tinky Winky?",
   "o": [
-   "Tinky Winky",
-   "Dipsy",
-   "Po"
+   "Un bolso rojo",
+   "Una pelota",
+   "Un sombrero"
   ]
  },
  {
-  "p": "En «Plaza Sésamo», ¿cómo se llama el gruñón que vive en un bote de basura?",
+  "p": "En «Plaza Sésamo» de México, ¿qué animal es Abelardo?",
   "o": [
-   "Óscar",
-   "Abelardo",
-   "Beto"
+   "Un perico",
+   "Un pato",
+   "Un guajolote"
   ]
  },
  {
-  "p": "En «Stranger Things», ¿cómo se llama el lugar donde queda atrapado Will?",
+  "p": "En «Stranger Things», ¿qué arma usa Steve contra los monstruos?",
   "o": [
-   "El Mundo del Revés",
-   "El Más Allá",
-   "La Zona Oscura"
+   "Un bate con clavos",
+   "Una escopeta",
+   "Un hacha"
   ]
  },
  {
-  "p": "En «Stranger Things», ¿qué usa Joyce para hablar con Will por las paredes?",
+  "p": "En «Stranger Things», ¿cómo se llama la hermana menor de Lucas?",
   "o": [
-   "Luces de Navidad",
-   "Una tabla ouija",
-   "Un walkie-talkie"
+   "Erica",
+   "Holly",
+   "Robin"
   ]
  },
  {
-  "p": "En «Breaking Bad», ¿cómo se llama el socio de Walter White?",
+  "p": "En «Breaking Bad», ¿a quién mata Jesse por orden de Walt al final de la 3.ª temporada?",
   "o": [
-   "Jesse Pinkman",
-   "Saul Goodman",
-   "Hank Schrader"
+   "A Gale",
+   "A Victor",
+   "A Krazy-8"
   ]
  },
  {
-  "p": "En «Game of Thrones», ¿cuántos dragones tiene Daenerys?",
+  "p": "En «Game of Thrones», ¿cómo se llama el hermano que vende a Daenerys a Khal Drogo?",
   "o": [
-   "3",
-   "2",
-   "4"
+   "Viserys",
+   "Rhaegar",
+   "Aegon"
   ]
  },
  {
-  "p": "En «Game of Thrones», ¿quién es el hijo bastardo criado en Winterfell?",
+  "p": "En «Game of Thrones», ¿quién empuja a Bran desde la torre en el primer episodio?",
   "o": [
-   "Jon Snow",
+   "Jaime Lannister",
    "Theon Greyjoy",
-   "Ramsay Bolton"
+   "Joffrey Baratheon"
   ]
  },
  {
-  "p": "En «The Office», ¿cómo se llama la recepcionista que se enamora de Jim?",
+  "p": "En «The Office», ¿a qué sucursal se transfiere Jim en la 3.ª temporada?",
   "o": [
-   "Pam",
-   "Angela",
-   "Kelly"
+   "Stamford",
+   "Utica",
+   "Nashua"
   ]
  },
  {
-  "p": "En «The Office», ¿qué tiene Dwight además de su trabajo en la oficina?",
+  "p": "En «The Office», ¿a quién atropella Michael con su auto?",
   "o": [
-   "Una granja de betabeles",
-   "Un dojo de karate",
-   "Una tienda de papel"
+   "A Meredith",
+   "A Phyllis",
+   "A Angela"
   ]
  },
  {
-  "p": "En «Friends», ¿a qué se dedica Ross?",
+  "p": "En «Friends», ¿cómo se llama el hijo de Ross con Carol?",
   "o": [
-   "Es paleontólogo",
-   "Es chef",
-   "Es actor"
+   "Ben",
+   "Jack",
+   "Emma"
   ]
  },
  {
@@ -514,11 +514,11 @@
   ]
  },
  {
-  "p": "En «The Big Bang Theory», ¿cuántas veces toca Sheldon diciendo «Penny»?",
+  "p": "En «The Big Bang Theory», ¿en qué restaurante es mesera Penny?",
   "o": [
-   "3",
-   "2",
-   "5"
+   "The Cheesecake Factory",
+   "Applebee's",
+   "Denny's"
   ]
  },
  {
@@ -570,11 +570,11 @@
   ]
  },
  {
-  "p": "En «El Juego del Calamar», ¿qué número tiene el protagonista?",
+  "p": "En «El Juego del Calamar», ¿qué figura le toca a Gi-hun en el juego del panal?",
   "o": [
-   "456",
-   "001",
-   "067"
+   "El paraguas",
+   "La estrella",
+   "El triángulo"
   ]
  },
  {
@@ -586,11 +586,11 @@
   ]
  },
  {
-  "p": "¿Qué canción italiana cantan en «La Casa de Papel»?",
+  "p": "En la 1.ª temporada de «La Casa de Papel», ¿qué lugar asaltan?",
   "o": [
-   "«Bella Ciao»",
-   "«Volare»",
-   "«Ti amo»"
+   "La Fábrica de Moneda",
+   "El Banco de España",
+   "La Bolsa de Madrid"
   ]
  },
  {
@@ -626,11 +626,11 @@
   ]
  },
  {
-  "p": "En «Brooklyn Nine-Nine», ¿cómo se llama el detective bromista protagonista?",
+  "p": "En «Brooklyn Nine-Nine», ¿cómo se llama el perro del capitán Holt?",
   "o": [
-   "Jake Peralta",
-   "Charles Boyle",
-   "Terry Jeffords"
+   "Cheddar",
+   "Brie",
+   "Gouda"
   ]
  },
  {
@@ -642,11 +642,11 @@
   ]
  },
  {
-  "p": "¿Qué actor interpreta a Kelso en «That '70s Show»?",
+  "p": "¿En qué pueblo de Wisconsin pasa «That '70s Show»?",
   "o": [
-   "Ashton Kutcher",
-   "Topher Grace",
-   "Wilmer Valderrama"
+   "Point Place",
+   "Hawkins",
+   "Pawnee"
   ]
  },
  {
@@ -698,11 +698,11 @@
   ]
  },
  {
-  "p": "En «The Walking Dead», ¿cómo se llama el bat de Negan?",
+  "p": "En «The Walking Dead», ¿cómo se llama la hija bebé de Lori?",
   "o": [
-   "Lucille",
-   "Martha",
-   "Betty"
+   "Judith",
+   "Sophia",
+   "Lizzie"
   ]
  },
  {
@@ -722,11 +722,11 @@
   ]
  },
  {
-  "p": "En «Sherlock», ¿cómo se llama el gran enemigo de Sherlock?",
+  "p": "En «Sherlock», ¿cómo se llama la casera de Sherlock y Watson?",
   "o": [
-   "Moriarty",
-   "Mycroft",
-   "Lestrade"
+   "La señora Hudson",
+   "Molly Hooper",
+   "Irene Adler"
   ]
  },
  {
@@ -738,11 +738,11 @@
   ]
  },
  {
-  "p": "¿Qué esconde Dexter Morgan detrás de su trabajo en la policía?",
+  "p": "En «Dexter», ¿cómo se llama la hermana policía de Dexter?",
   "o": [
-   "Es asesino en serie",
-   "Es narcotraficante",
-   "Es un estafador"
+   "Debra",
+   "Rita",
+   "Lumen"
   ]
  },
  {
@@ -778,27 +778,27 @@
   ]
  },
  {
-  "p": "En «The Good Doctor», ¿qué condición tiene Shaun Murphy?",
+  "p": "En «The Good Doctor», ¿en qué hospital trabaja Shaun Murphy?",
   "o": [
-   "Autismo",
-   "Ceguera",
-   "Amnesia"
+   "St. Bonaventure",
+   "Seattle Grace",
+   "Princeton-Plainsboro"
   ]
  },
  {
-  "p": "En «Glee», ¿qué club forman los protagonistas?",
+  "p": "En «Glee», ¿cómo se llama el coro de la preparatoria McKinley?",
   "o": [
-   "Un club de coro",
-   "Un club de teatro",
-   "Un club de baile"
+   "New Directions",
+   "Vocal Adrenaline",
+   "The Warblers"
   ]
  },
  {
-  "p": "¿En qué ciudad pasa «Gossip Girl»?",
+  "p": "Al final de «Gossip Girl», ¿quién resulta ser Gossip Girl?",
   "o": [
-   "Nueva York",
-   "Los Ángeles",
-   "Chicago"
+   "Dan Humphrey",
+   "Georgina Sparks",
+   "Jenny Humphrey"
   ]
  },
  {
@@ -842,11 +842,11 @@
   ]
  },
  {
-  "p": "En «All of Us Are Dead», ¿dónde empieza el brote zombi?",
+  "p": "En «All of Us Are Dead», ¿quién crea el virus que causa el brote?",
   "o": [
-   "En una preparatoria",
-   "En un hospital",
-   "En un tren"
+   "Un maestro de ciencias",
+   "Un alumno de la escuela",
+   "Un médico del hospital"
   ]
  },
  {
@@ -858,11 +858,11 @@
   ]
  },
  {
-  "p": "En «Lucifer», ¿en qué ciudad vive Lucifer?",
+  "p": "En «Lucifer», ¿cómo se llama el club nocturno de Lucifer?",
   "o": [
-   "Los Ángeles",
-   "Nueva York",
-   "Las Vegas"
+   "Lux",
+   "Eden",
+   "Inferno"
   ]
  },
  {

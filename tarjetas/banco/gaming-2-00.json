@@ -1,18 +1,18 @@
 [
  {
-  "p": "¿Qué canción de Ocarina of Time te enseña el hombre del molino?",
+  "p": "En «Ocarina of Time», ¿quién despierta como Sabia del Agua?",
   "o": [
-   "Canción de la Tormenta",
-   "Canción del Sol",
-   "Canción de Epona"
+   "Ruto",
+   "Nabooru",
+   "Saria"
   ]
  },
  {
-  "p": "¿Qué campeona de LoL forma K/DA junto a Ahri, Akali y Evelynn?",
+  "p": "¿Qué campeona de LoL forma parte de True Damage junto a Akali y Senna?",
   "o": [
-   "Kai'Sa",
-   "Miss Fortune",
-   "Lux"
+   "Qiyana",
+   "Seraphine",
+   "Kai'Sa"
   ]
  },
  {
@@ -32,28 +32,28 @@
   ]
  },
  {
-  "p": "¿Qué campeón de LoL dice «La muerte es como el viento, siempre a mi lado»?",
+  "p": "¿Qué campeona de LoL caza junto a un águila llamada Valor?",
   "o": [
-   "Yasuo",
-   "Yone",
-   "Zed"
+   "Quinn",
+   "Ashe",
+   "Vayne"
   ]
  },
  {
   "deporte": true,
-  "p": "En Tony Hawk's Pro Skater 2, ¿qué superhéroe era personaje secreto?",
+  "p": "¿Qué villano de Star Wars era personaje secreto en Tony Hawk's Pro Skater 3?",
   "o": [
-   "Spider-Man",
-   "Batman",
-   "Superman"
+   "Darth Maul",
+   "Boba Fett",
+   "Darth Vader"
   ]
  },
  {
-  "p": "¿Qué Pokémon legendario sale en la portada de Pokémon Esmeralda?",
+  "p": "¿Quién es el campeón de la Liga Pokémon en Pokémon Esmeralda?",
   "o": [
-   "Rayquaza",
-   "Groudon",
-   "Latios"
+   "Plubio",
+   "Máximo",
+   "Norman"
   ]
  },
  {
@@ -66,11 +66,11 @@
  },
  {
   "deporte": true,
-  "p": "En «Mario Kart 8», ¿cuál es la cilindrada más rápida?",
+  "p": "¿Qué Mario Kart fue el primero con carreras en línea?",
   "o": [
-   "200cc",
-   "150cc",
-   "250cc"
+   "Mario Kart DS",
+   "Mario Kart Wii",
+   "Double Dash!!"
   ]
  }
 ]

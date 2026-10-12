@@ -1,10 +1,10 @@
 [
  {
-  "p": "¿Qué significan las siglas GPU?",
+  "p": "¿Qué empresa de tarjetas gráficas compró AMD en 2006?",
   "o": [
-   "Graphics Processing Unit",
-   "General Power Unit",
-   "Game Process Utility"
+   "ATI",
+   "Matrox",
+   "3dfx"
   ]
  },
  {
@@ -16,19 +16,19 @@
   ]
  },
  {
-  "p": "¿En qué planeta volcánico pelean Obi-Wan y Anakin?",
+  "p": "¿En qué lugar muere Padmé Amidala tras dar a luz?",
   "o": [
+   "Polis Massa",
    "Mustafar",
-   "Geonosis",
-   "Kamino"
+   "Naboo"
   ]
  },
  {
-  "p": "¿De qué es el núcleo de la varita de Harry Potter?",
+  "p": "¿De qué madera es la varita de Harry Potter?",
   "o": [
-   "Pluma de fénix",
-   "Pelo de unicornio",
-   "Fibra de corazón de dragón"
+   "Acebo",
+   "Tejo",
+   "Saúco"
   ]
  },
  {
@@ -41,19 +41,19 @@
  },
  {
   "deporte": true,
-  "p": "En la Fórmula 1, ¿qué significa DRS?",
+  "p": "En la F1, ¿cuántos puntos se lleva el ganador de un Gran Premio?",
   "o": [
-   "Drag Reduction System",
-   "Dynamic Racing Speed",
-   "Driver Response System"
+   "25",
+   "20",
+   "10"
   ]
  },
  {
-  "p": "En Star Wars, ¿qué orden usó Palpatine para eliminar a los Jedi?",
+  "p": "¿Qué comandante clon ordena dispararle a Obi-Wan en Utapau?",
   "o": [
-   "La Orden 66",
-   "La Orden 99",
-   "La Orden 101"
+   "Cody",
+   "Rex",
+   "Bly"
   ]
  },
  {
@@ -66,11 +66,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué número usaba Checo Pérez en la Fórmula 1?",
+  "p": "¿En qué circuito urbano ganó Checo Pérez en 2021 y en 2023?",
   "o": [
-   "11",
-   "33",
-   "15"
+   "Bakú",
+   "Mónaco",
+   "Singapur"
   ]
  }
 ]

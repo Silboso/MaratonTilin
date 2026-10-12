@@ -40,11 +40,11 @@
   ]
  },
  {
-  "p": "En «Rick and Morty», ¿en qué se convierte Rick en uno de sus episodios más famosos?",
+  "p": "En «Rick and Morty», ¿qué hace un Mr. Meeseeks al cumplir lo que le piden?",
   "o": [
-   "En un pepinillo",
-   "En una rata",
-   "En un auto"
+   "Desaparece",
+   "Se vuelve humano",
+   "Pide otra tarea"
   ]
  },
  {
@@ -65,11 +65,11 @@
   ]
  },
  {
-  "p": "En «Suits», ¿cuál es el gran secreto de Mike Ross?",
+  "p": "En la 1.ª temporada de «Suits», ¿cómo se llama el despacho de Harvey?",
   "o": [
-   "Nunca estudió Derecho",
-   "Es hijo de Harvey",
-   "Trabaja para la policía"
+   "Pearson Hardman",
+   "Pearson Darby",
+   "Zane Specter Litt"
   ]
  },
  {

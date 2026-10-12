@@ -10,11 +10,11 @@
  },
  {
   "deporte": true,
-  "p": "En «Blue Lock», ¿la selección de qué país quieren hacer campeona?",
+  "p": "En «Blue Lock», ¿quién es el primer amigo de Isagi dentro del proyecto?",
   "o": [
-   "Japón",
-   "Brasil",
-   "Alemania"
+   "Meguru Bachira",
+   "Rensuke Kunigami",
+   "Hyoma Chigiri"
   ]
  },
  {
@@ -36,19 +36,19 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el villano rosa de Dragon Ball Z?",
+  "p": "En DBZ, ¿qué rey de los demonios trabaja para Babidi?",
   "o": [
-   "Majin Buu",
-   "Babidi",
-   "Dabura"
+   "Dabura",
+   "Pui Pui",
+   "Yakon"
   ]
  },
  {
-  "p": "¿Qué técnica hace Goku juntando la energía de todos los seres vivos?",
+  "p": "En DBZ, ¿cómo se llama el disco de energía cortante de Krilin?",
   "o": [
-   "La Genkidama",
-   "El Kaioken",
-   "El Kamehameha"
+   "Kienzan",
+   "Masenko",
+   "Taiyoken"
   ]
  },
  {
@@ -148,19 +148,19 @@
   ]
  },
  {
-  "p": "En «Fullmetal Alchemist», ¿qué buscan los hermanos Elric?",
+  "p": "En «Fullmetal Alchemist», ¿quién le hace los automails a Ed?",
   "o": [
-   "La piedra filosofal",
-   "El círculo de transmutación perfecto",
-   "Un homúnculo"
+   "Winry",
+   "Riza",
+   "Rose"
   ]
  },
  {
-  "p": "¿Cómo se llama la brujita repartidora de Studio Ghibli?",
+  "p": "En «Kiki: entregas a domicilio», ¿cómo se llama el gato negro de Kiki?",
   "o": [
-   "Kiki",
-   "Chihiro",
-   "Sophie"
+   "Jiji",
+   "Muta",
+   "Kuro"
   ]
  },
  {
@@ -172,11 +172,11 @@
   ]
  },
  {
-  "p": "En «Matrix», ¿a quién le dicen «el Elegido»?",
+  "p": "En «Matrix», ¿qué le ofrece el Oráculo a Neo mientras platican?",
   "o": [
-   "A Neo",
-   "A Morfeo",
-   "A Trinity"
+   "Una galleta",
+   "Un té",
+   "Un dulce"
   ]
  },
  {

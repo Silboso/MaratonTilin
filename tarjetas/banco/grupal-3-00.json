@@ -1,0 +1,590 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Cuál era el nombre real del Santo, el Enmascarado de Plata?",
+  "o": [
+   "Rodolfo Guzmán Huerta",
+   "Alejandro Muñoz Moreno",
+   "Daniel García Arteaga"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En el aniversario del CMLL de 2014, ¿quién le quitó la máscara a Último Guerrero?",
+  "o": [
+   "Atlantis",
+   "Místico",
+   "Volador Jr."
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quién le quitó la máscara a Dr. Wagner Jr. en Triplemanía XXV?",
+  "o": [
+   "Psycho Clown",
+   "Pentagón Jr.",
+   "L.A. Park"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué luchador mexicano ganó el Royal Rumble de 2011?",
+  "o": [
+   "Alberto del Río",
+   "Rey Mysterio",
+   "Sin Cara"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué round noqueó Juan Manuel Márquez a Pacquiao en 2012?",
+  "o": [
+   "En el sexto",
+   "En el noveno",
+   "En el doceavo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quién le dio su primera derrota a Julio César Chávez, en 1994?",
+  "o": [
+   "Frankie Randall",
+   "Pernell Whitaker",
+   "Oscar de la Hoya"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo terminó la primera pelea entre Canelo y Golovkin, en 2017?",
+  "o": [
+   "En empate",
+   "Ganó Canelo por decisión",
+   "Ganó Golovkin por decisión"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quién anotó el gol de México contra Holanda en el Mundial 2014?",
+  "o": [
+   "Giovani dos Santos",
+   "Rafael Márquez",
+   "Oribe Peralta"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué selección eliminó a México en penales en el Mundial de Estados Unidos 94?",
+  "o": [
+   "Bulgaria",
+   "Italia",
+   "Irlanda"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué deporte ganó Prisca Awiti la plata para México en París 2024?",
+  "o": [
+   "Judo",
+   "Taekwondo",
+   "Lucha grecorromana"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "Hasta su salida de Red Bull, ¿cuántas carreras de F1 había ganado Checo Pérez?",
+  "o": [
+   "6",
+   "4",
+   "9"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué pitcher mexicano sacó el último out de la Serie Mundial 2020?",
+  "o": [
+   "Julio Urías",
+   "Víctor González",
+   "Sergio Romo"
+  ]
+ },
+ {
+  "p": "¿Qué actor interpretó a Luis Fernando de la Vega en «María la del Barrio»?",
+  "o": [
+   "Fernando Colunga",
+   "Eduardo Capetillo",
+   "Arturo Peniche"
+  ]
+ },
+ {
+  "p": "En «Soy tu dueña», ¿cómo se llama la villana que interpreta Gabriela Spanic?",
+  "o": [
+   "Ivana Dorantes",
+   "Paola Bracho",
+   "Catalina Creel"
+  ]
+ },
+ {
+  "p": "En «La fea más bella», ¿cómo se llama la empresa donde trabaja Lety?",
+  "o": [
+   "Conceptos",
+   "Ecomoda",
+   "Imagen y Estilo"
+  ]
+ },
+ {
+  "p": "En «La fea más bella», ¿qué actor interpretó a Fernando Mendiola?",
+  "o": [
+   "Jaime Camil",
+   "William Levy",
+   "Sebastián Rulli"
+  ]
+ },
+ {
+  "p": "En «La hora pico», ¿qué actriz interpretaba a Nacaranda?",
+  "o": [
+   "Consuelo Duval",
+   "Lorena de la Garza",
+   "Anabel Ferreira"
+  ]
+ },
+ {
+  "p": "En «Teresa» (2010), ¿qué actor interpretó al abogado Arturo de la Barrera?",
+  "o": [
+   "Sebastián Rulli",
+   "Aarón Díaz",
+   "William Levy"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la protagonista de «Cuidado con el ángel», hecha por Maite Perroni?",
+  "o": [
+   "Marichuy",
+   "Marimar",
+   "Maricruz"
+  ]
+ },
+ {
+  "p": "¿Quién conduce el programa de chistes «Me caigo de risa»?",
+  "o": [
+   "Faisy",
+   "Mauricio Castillo",
+   "Adrián Uribe"
+  ]
+ },
+ {
+  "p": "¿En qué año se estrenó «La Rosa de Guadalupe»?",
+  "o": [
+   "2008",
+   "2004",
+   "2011"
+  ]
+ },
+ {
+  "p": "En «El Chavo del 8», ¿cómo se llama la muñeca de la Popis?",
+  "o": [
+   "Serafina",
+   "Panchita",
+   "Rosita"
+  ]
+ },
+ {
+  "p": "En «Los Caquitos», ¿quién era el compañero del Chómpiras antes que el Botija?",
+  "o": [
+   "El Peterete",
+   "El Cuajináis",
+   "El Tripaseca"
+  ]
+ },
+ {
+  "p": "Según la tradición, ¿a quiénes se recibe en la ofrenda el 28 de octubre?",
+  "o": [
+   "A los muertos en accidentes",
+   "A las mascotas",
+   "A los niños sin bautizar"
+  ]
+ },
+ {
+  "p": "En la ofrenda de Día de Muertos, ¿qué elemento representa el papel picado?",
+  "o": [
+   "El aire",
+   "El fuego",
+   "La tierra"
+  ]
+ },
+ {
+  "p": "En una boda, ¿cuántas monedas lleva el juego de arras?",
+  "o": [
+   "13",
+   "12",
+   "10"
+  ]
+ },
+ {
+  "p": "¿A qué santo ponen de cabeza para conseguir novio?",
+  "o": [
+   "San Antonio",
+   "San Judas Tadeo",
+   "San Valentín"
+  ]
+ },
+ {
+  "p": "En el pan de muerto, ¿qué representa la bolita de arriba?",
+  "o": [
+   "El cráneo",
+   "Una lágrima",
+   "Una vela"
+  ]
+ },
+ {
+  "p": "En los XV años, ¿qué le cambia el papá a la quinceañera durante la fiesta?",
+  "o": [
+   "Los zapatos",
+   "Los aretes",
+   "El ramo"
+  ]
+ },
+ {
+  "p": "¿Qué verdura se talla en Oaxaca cada 23 de diciembre para un concurso famoso?",
+  "o": [
+   "El rábano",
+   "La calabaza",
+   "El chayote"
+  ]
+ },
+ {
+  "p": "¿Qué frutita amarilla, como manzana chiquita, no puede faltar en el ponche?",
+  "o": [
+   "El tejocote",
+   "El chabacano",
+   "El nanche"
+  ]
+ },
+ {
+  "p": "¿En qué mes se celebra la Guelaguetza?",
+  "o": [
+   "Julio",
+   "Mayo",
+   "Noviembre"
+  ]
+ },
+ {
+  "p": "¿Qué significa «echarse un coyotito»?",
+  "o": [
+   "Tomar una siesta",
+   "Comer a escondidas",
+   "Irse sin pagar"
+  ]
+ },
+ {
+  "p": "¿Qué significa «hacer de chivo los tamales»?",
+  "o": [
+   "Engañar a alguien",
+   "Cocinar sin ganas",
+   "Hablar sin parar"
+  ]
+ },
+ {
+  "p": "¿Qué significa «hacerla de tos»?",
+  "o": [
+   "Hacer un drama por algo",
+   "Fingir que estás enfermo",
+   "Interrumpir a alguien"
+  ]
+ },
+ {
+  "p": "¿Qué significa que te «agarren en curva»?",
+  "o": [
+   "Que te tomen desprevenido",
+   "Que te alcancen corriendo",
+   "Que te cobren de más"
+  ]
+ },
+ {
+  "p": "¿Qué significa que algo te den «de pilón»?",
+  "o": [
+   "De regalo, además",
+   "Con mucha prisa",
+   "De mala gana"
+  ]
+ },
+ {
+  "p": "¿Qué es una «mosca muerta»?",
+  "o": [
+   "Alguien que se hace inocente",
+   "Alguien muy flojo",
+   "Alguien muy chismoso"
+  ]
+ },
+ {
+  "p": "¿Qué significa «echar aguas»?",
+  "o": [
+   "Avisar si viene alguien",
+   "Ponerse a llorar",
+   "Pedir perdón"
+  ]
+ },
+ {
+  "p": "Completa el refrán: «Ahora es cuando, chile verde…»",
+  "o": [
+   "…le has de dar sabor al caldo",
+   "…te vas a enchilar",
+   "…que se te acaba el tiempo"
+  ]
+ },
+ {
+  "p": "Completa el refrán: «El que nace pa' tamal…»",
+  "o": [
+   "…del cielo le caen las hojas",
+   "…en la olla ha de acabar",
+   "…nunca deja de ser masa"
+  ]
+ },
+ {
+  "p": "Completa el refrán: «Ni tanto que queme al santo…»",
+  "o": [
+   "…ni tanto que no lo alumbre",
+   "…ni tan poco que se apague",
+   "…ni tan cerca de la vela"
+  ]
+ },
+ {
+  "p": "Completa el refrán: «Tanto peca el que mata la vaca…»",
+  "o": [
+   "…como el que le agarra la pata",
+   "…como el que se la come",
+   "…como el que la vende"
+  ]
+ },
+ {
+  "p": "Completa el refrán: «El muerto al pozo…»",
+  "o": [
+   "…y el vivo al gozo",
+   "…y el vivo a la casa",
+   "…y el llanto al olvido"
+  ]
+ },
+ {
+  "p": "¿Qué empresa hace el Pulparindo?",
+  "o": [
+   "De la Rosa",
+   "Sonric's",
+   "Vero"
+  ]
+ },
+ {
+  "p": "¿Qué empresa es dueña del Pelón Pelo Rico?",
+  "o": [
+   "Hershey's",
+   "Mars",
+   "Ricolino"
+  ]
+ },
+ {
+  "p": "¿Qué empresa estadounidense es dueña de los dulces Lucas?",
+  "o": [
+   "Mars",
+   "Hershey's",
+   "PepsiCo"
+  ]
+ },
+ {
+  "p": "¿Qué empresa hace el refresco Manzanita Sol?",
+  "o": [
+   "PepsiCo",
+   "Coca-Cola",
+   "Peñafiel"
+  ]
+ },
+ {
+  "p": "¿Qué empresa hace el Boing?",
+  "o": [
+   "Pascual",
+   "Jumex",
+   "Del Valle"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el café de marca propia de los Oxxo?",
+  "o": [
+   "Andatti",
+   "Cielito Querido",
+   "Punta del Cielo"
+  ]
+ },
+ {
+  "p": "¿Qué grupo opera en México Starbucks, Domino's y Vips?",
+  "o": [
+   "Alsea",
+   "FEMSA",
+   "Grupo Bimbo"
+  ]
+ },
+ {
+  "p": "¿Qué representan los tres puntos del logo de Domino's?",
+  "o": [
+   "Sus tres primeras tiendas",
+   "Sus tres fundadores",
+   "Sus tres ingredientes"
+  ]
+ },
+ {
+  "p": "¿Qué pan dulce es un aro de hojaldre con un centro de panqué?",
+  "o": [
+   "Ojo de buey",
+   "Banderilla",
+   "Polvorón"
+  ]
+ },
+ {
+  "p": "¿Qué antojito chilango es una quesadilla larguísima, de hasta un metro?",
+  "o": [
+   "El machete",
+   "El huarache",
+   "El tlacoyo"
+  ]
+ },
+ {
+  "p": "¿Qué inmigrantes trajeron el trompo que dio origen a los tacos al pastor?",
+  "o": [
+   "Los libaneses",
+   "Los griegos",
+   "Los italianos"
+  ]
+ },
+ {
+  "p": "¿Qué pan se usa en la torta ahogada?",
+  "o": [
+   "Birote salado",
+   "Bolillo",
+   "Telera"
+  ]
+ },
+ {
+  "p": "¿De qué sabor es la mermelada del Gansito?",
+  "o": [
+   "Fresa",
+   "Zarzamora",
+   "Piña"
+  ]
+ },
+ {
+  "p": "¿Qué personaje morado acompaña a Ronald McDonald?",
+  "o": [
+   "Grimace",
+   "Hamburglar",
+   "Birdie"
+  ]
+ },
+ {
+  "p": "¿Qué nombre le puso Bimbo al pastelito «Negrito» en 2013?",
+  "o": [
+   "Nito",
+   "Bimbito",
+   "Chocolatín"
+  ]
+ },
+ {
+  "p": "¿Qué tienda lanzó la campaña «Soy totalmente…»?",
+  "o": [
+   "El Palacio de Hierro",
+   "Liverpool",
+   "Sears"
+  ]
+ },
+ {
+  "p": "¿Qué empresario fundó Farmacias Similares y creó al Dr. Simi?",
+  "o": [
+   "Víctor González Torres",
+   "Carlos Slim",
+   "Ricardo Salinas Pliego"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el gallo de las Corn Flakes de Kellogg's?",
+  "o": [
+   "Cornelio",
+   "Kikirí",
+   "Gallardo"
+  ]
+ },
+ {
+  "p": "¿Qué grita el Hombre Kool-Aid cuando atraviesa una pared?",
+  "o": [
+   "«¡Oh, yeah!»",
+   "«¡Kool!»",
+   "«¡Refréscate!»"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el muñeco hecho de llantas de Michelin?",
+  "o": [
+   "Bibendum",
+   "Michelito",
+   "Goodyman"
+  ]
+ },
+ {
+  "p": "¿Qué actriz aparece en el empaque del chocolate Abuelita?",
+  "o": [
+   "Sara García",
+   "Prudencia Grifell",
+   "Carmen Montejo"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la mascota de Choco Milk?",
+  "o": [
+   "Pancho Pantera",
+   "Tito Tigre",
+   "Leo León"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama en México el calvo de los productos Mr. Clean?",
+  "o": [
+   "Maestro Limpio",
+   "Don Limpio",
+   "Mr. Músculo"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el tucán de los Froot Loops?",
+  "o": [
+   "Sam",
+   "Tuki",
+   "Pepe"
+  ]
+ },
+ {
+  "p": "¿Cómo se llaman los duendes de Rice Krispies en México?",
+  "o": [
+   "Pim, Pum y Pam",
+   "Tic, Tac y Toc",
+   "Zip, Zap y Zop"
+  ]
+ },
+ {
+  "p": "¿Qué compañía usaba el lema «Todo México es territorio…»?",
+  "o": [
+   "Telcel",
+   "Movistar",
+   "Iusacell"
+  ]
+ },
+ {
+  "p": "Si renuncias, ¿cuántos años de antigüedad necesitas como mínimo para que te paguen la prima de antigüedad?",
+  "o": [
+   "15",
+   "10",
+   "5"
+  ]
+ },
+ {
+  "p": "¿Qué cereal intenta robarse siempre un conejo en sus comerciales?",
+  "o": [
+   "Trix",
+   "Lucky Charms",
+   "Froot Loops"
+  ]
+ }
+]

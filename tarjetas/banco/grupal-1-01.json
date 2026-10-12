@@ -10,20 +10,20 @@
  },
  {
   "deporte": true,
-  "p": "¿En qué deporte fue número uno del mundo Lorena Ochoa?",
+  "p": "¿Cuántas medallas de oro ganó México en París 2024?",
   "o": [
-   "Golf",
-   "Tenis",
-   "Clavados"
+   "Ninguna",
+   "Una",
+   "Dos"
   ]
  },
  {
   "deporte": true,
-  "p": "En la lucha libre, ¿qué apuesta un luchador sin máscara en una lucha de apuestas?",
+  "p": "En la lucha libre tradicional, ¿a cuántas caídas son las luchas?",
   "o": [
-   "La cabellera",
-   "El cinturón",
-   "La bolsa"
+   "A dos de tres",
+   "A una sola",
+   "A tres de cinco"
   ]
  },
  {
@@ -46,11 +46,11 @@
  },
  {
   "deporte": true,
-  "p": "¿En qué equipo de la NBA ha jugado toda su carrera Stephen Curry?",
+  "p": "¿Qué número usa Stephen Curry en los Warriors?",
   "o": [
-   "Golden State Warriors",
-   "Los Angeles Lakers",
-   "Boston Celtics"
+   "30",
+   "11",
+   "23"
   ]
  },
  {
@@ -64,20 +64,20 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué defensa mexicano fue capitán del Tri y jugó en el Barcelona?",
+  "p": "¿En qué equipo mexicano debutó Rafa Márquez?",
   "o": [
-   "Rafael Márquez",
-   "Carlos Salcido",
-   "Ricardo Osorio"
+   "Atlas",
+   "Chivas",
+   "América"
   ]
  },
  {
   "deporte": true,
-  "p": "Desde 1994, ¿en qué ronda se quedaba México en cada Mundial?",
+  "p": "¿En qué Mundial se cortó la racha de México de llegar siempre a octavos?",
   "o": [
-   "En octavos de final",
-   "En cuartos de final",
-   "En fase de grupos"
+   "Qatar 2022",
+   "Rusia 2018",
+   "Brasil 2014"
   ]
  },
  {
@@ -91,11 +91,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué equipo de la Liga MX es «La Máquina»?",
+  "p": "¿A qué equipo le ganó Cruz Azul la final de 2021 que cortó su sequía?",
   "o": [
-   "Cruz Azul",
-   "Monterrey",
-   "Toluca"
+   "Santos Laguna",
+   "América",
+   "León"
   ]
  },
  {
@@ -109,20 +109,20 @@
  },
  {
   "deporte": true,
-  "p": "¿Cómo se le dice al partido América contra Chivas?",
+  "p": "¿Qué equipos juegan el «Clásico Joven» de la Liga MX?",
   "o": [
-   "El Clásico Nacional",
-   "El Clásico Regio",
-   "El Clásico Capitalino"
+   "América y Cruz Azul",
+   "América y Pumas",
+   "Cruz Azul y Pumas"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué basquetbolista gritas al lanzar una bola de papel al bote de basura?",
+  "p": "Además del 24, ¿qué otro número usó Kobe Bryant con los Lakers?",
   "o": [
-   "¡Kobe!",
-   "¡Jordan!",
-   "¡LeBron!"
+   "8",
+   "23",
+   "33"
   ]
  },
  {
@@ -145,11 +145,11 @@
  },
  {
   "deporte": true,
-  "p": "En la NFL, ¿cuántos puntos vale un gol de campo?",
+  "p": "En la NFL, ¿cuántos puntos vale un «safety»?",
   "o": [
-   "3",
    "2",
-   "6"
+   "1",
+   "3"
   ]
  },
  {
@@ -162,27 +162,27 @@
   ]
  },
  {
-  "p": "¿De qué estado es el pozole verde?",
+  "p": "En Guerrero, ¿qué día de la semana es tradición comer pozole?",
   "o": [
-   "Guerrero",
-   "Jalisco",
-   "Sinaloa"
+   "El jueves",
+   "El domingo",
+   "El viernes"
   ]
  },
  {
-  "p": "¿De qué planta se hace el tequila?",
+  "p": "¿Cómo se llama el corazón del agave que se cuece para hacer tequila?",
   "o": [
-   "Agave azul",
-   "Maguey pulquero",
-   "Nopal"
+   "La piña",
+   "El quiote",
+   "La penca"
   ]
  },
  {
-  "p": "¿De qué estado son las tlayudas?",
+  "p": "¿Cómo le dicen en Oaxaca al queso Oaxaca?",
   "o": [
-   "Oaxaca",
-   "Chiapas",
-   "Guerrero"
+   "Quesillo",
+   "Asadero",
+   "Panela"
   ]
  },
  {
@@ -194,27 +194,27 @@
   ]
  },
  {
-  "p": "¿Qué es el tejuino?",
+  "p": "¿Con qué se sirve tradicionalmente el tejuino en Jalisco?",
   "o": [
-   "Una bebida de maíz fermentado",
-   "Un pan de elote",
-   "Un dulce de leche"
+   "Con nieve de limón",
+   "Con crema batida",
+   "Con leche condensada"
   ]
  },
  {
-  "p": "¿Qué dulce se hace con leche de cabra quemada?",
+  "p": "¿De dónde viene el nombre de la cajeta?",
   "o": [
-   "Cajeta",
-   "Jamoncillo",
-   "Glorias"
+   "De su envase de madera",
+   "De la ciudad de Cajeme",
+   "Del apellido de su creador"
   ]
  },
  {
-  "p": "¿De qué ciudad es famosa la cajeta?",
+  "p": "¿Qué ciudad es famosa por su ate?",
   "o": [
+   "Morelia",
    "Celaya",
-   "Puebla",
-   "Toluca"
+   "Puebla"
   ]
  },
  {
@@ -250,11 +250,11 @@
   ]
  },
  {
-  "p": "¿Qué actriz protagonizó «La Usurpadora»?",
+  "p": "En «La Usurpadora», ¿cómo se llaman las gemelas Bracho?",
   "o": [
-   "Gabriela Spanic",
-   "Thalía",
-   "Lucero"
+   "Paola y Paulina",
+   "Rubí y Maribel",
+   "Marimar y Angélica"
   ]
  },
  {
@@ -290,59 +290,59 @@
   ]
  },
  {
-  "p": "¿Qué significa estar «como agua para chocolate»?",
+  "p": "¿Qué significa «hacer changuitos»?",
   "o": [
-   "Estar furioso",
-   "Estar enamorado",
-   "Estar dormido"
+   "Cruzar los dedos por suerte",
+   "Hacer travesuras",
+   "Hacer muecas para burlarse"
   ]
  },
  {
-  "p": "¿Qué significa «hacerse guaje»?",
+  "p": "¿Qué es un «gorrón»?",
   "o": [
-   "Fingir que no sabe",
-   "Emborracharse",
-   "Enojarse"
+   "Quien vive a costa de otros",
+   "Alguien muy presumido",
+   "Alguien que siempre llega tarde"
   ]
  },
  {
-  "p": "¿Cuántas posadas se hacen antes de Navidad?",
+  "p": "¿Qué día empiezan las posadas?",
   "o": [
-   "9",
-   "12",
-   "7"
+   "El 16 de diciembre",
+   "El 12 de diciembre",
+   "El 1 de diciembre"
   ]
  },
  {
-  "p": "En las posadas, ¿cómo se le dice a la bolsita de dulces que te regalan?",
+  "p": "¿Cuántos picos tiene la piñata tradicional de posada?",
   "o": [
-   "El aguinaldo",
-   "La calaverita",
-   "La colecta"
+   "7",
+   "5",
+   "9"
   ]
  },
  {
-  "p": "¿A quién le dicen «godín»?",
+  "p": "¿A quién le dicen «mirrey»?",
   "o": [
-   "A un oficinista",
-   "A un taxista",
-   "A un estudiante"
+   "A un junior presumido",
+   "A un señor muy elegante",
+   "A un fan de la realeza"
   ]
  },
  {
-  "p": "¿Qué significa que algo «esté cañón»?",
+  "p": "¿Qué significa «ni maíz, paloma»?",
   "o": [
-   "Que está difícil",
-   "Que está ruidoso",
-   "Que está bonito"
+   "Que de ninguna manera",
+   "Que da lo mismo",
+   "Que tienes hambre"
   ]
  },
  {
-  "p": "¿Qué villano de Disney dice «Estoy rodeado de idiotas»?",
+  "p": "¿Qué villana de Disney le pide a Kronk que jale la palanca?",
   "o": [
-   "Scar",
-   "Jafar",
-   "Hades"
+   "Yzma",
+   "Úrsula",
+   "Cruella de Vil"
   ]
  },
  {
@@ -354,83 +354,83 @@
   ]
  },
  {
-  "p": "Completa el dicho: «Más vale pájaro en mano…»",
+  "p": "Completa el dicho: «Del plato a la boca…»",
   "o": [
-   "…que ciento volando",
-   "…que dos en el árbol",
-   "…que nada en el plato"
+   "…se cae la sopa",
+   "…se enfría el caldo",
+   "…hay mucho trecho"
   ]
  },
  {
-  "p": "¿Qué significa «senpai»?",
+  "p": "En el anime, ¿cómo se le dice al compañero menor de un senpai?",
   "o": [
-   "Compañero mayor",
-   "Maestro",
-   "Mejor amigo"
+   "Kōhai",
+   "Sensei",
+   "Otaku"
   ]
  },
  {
-  "p": "Completa el dicho: «En casa del herrero…»",
+  "p": "Completa el dicho: «Muerto el perro…»",
   "o": [
-   "…cuchillo de palo",
-   "…cazuela de barro",
-   "…puerta sin llave"
+   "…se acabó la rabia",
+   "…se van las pulgas",
+   "…ladra el vecino"
   ]
  },
  {
-  "p": "¿Quién dice «¡Por qué tú, pequeño…!» mientras estrangula a su hijo?",
+  "p": "En «Los Simpson», ¿quién califica todo como «lo peor de la historia»?",
   "o": [
-   "Homero Simpson",
-   "Peter Griffin",
-   "Don Ramón"
+   "El de la tienda de cómics",
+   "El Director Skinner",
+   "Apu"
   ]
  },
  {
-  "p": "¿Qué juguetes de Hasbro eran robots que se convierten en autos?",
+  "p": "¿Qué Decepticon siempre quiere quitarle el mando a Megatron?",
   "o": [
-   "Transformers",
-   "GoBots",
-   "Zords"
+   "Starscream",
+   "Soundwave",
+   "Shockwave"
   ]
  },
  {
-  "p": "¿Qué villano pregunta «¿Por qué tan serio?»?",
+  "p": "En «El caballero de la noche», ¿quién dice primero «O mueres como héroe…»?",
   "o": [
-   "El Guasón",
-   "Bane",
-   "Thanos"
+   "Harvey Dent",
+   "Alfred",
+   "El comisionado Gordon"
   ]
  },
  {
-  "p": "¿En qué misión se dijo «Houston, tenemos un problema»?",
+  "p": "¿En qué película dicen «Vas a necesitar un barco más grande»?",
   "o": [
-   "Apolo 13",
-   "Apolo 11",
-   "Challenger"
+   "Tiburón",
+   "Titanic",
+   "Waterworld"
   ]
  },
  {
-  "p": "¿En qué película gritan «¡Esto es Esparta!»?",
+  "p": "En «300», ¿qué contestan cuando les dicen que las flechas taparán el sol?",
   "o": [
-   "300",
-   "Gladiador",
-   "Troya"
+   "«Pelearemos en la sombra»",
+   "«Que llueva, pues»",
+   "«Traigan más escudos»"
   ]
  },
  {
-  "p": "¿De qué videojuego es la frase «Do a barrel roll!»?",
+  "p": "En «Star Fox 64», ¿quién te grita «Do a barrel roll!»?",
   "o": [
-   "Star Fox",
-   "F-Zero",
-   "Kid Icarus"
+   "Peppy",
+   "Falco",
+   "Slippy"
   ]
  },
  {
-  "p": "En «Toy Story», ¿qué juguete dice «¡Hay una serpiente en mi bota!»?",
+  "p": "En «Toy Story», ¿quiénes veneran a «la garra» de la máquina de premios?",
   "o": [
-   "Woody",
-   "Jessie",
-   "Buzz Lightyear"
+   "Los aliens de tres ojos",
+   "Los soldaditos verdes",
+   "Los Señores Cara de Papa"
   ]
  },
  {
@@ -466,11 +466,11 @@
   ]
  },
  {
-  "p": "¿Qué red social tenía «Top Friends» y música en el perfil?",
+  "p": "En MSN Messenger, ¿qué estado ponías para que no te vieran conectado?",
   "o": [
-   "MySpace",
-   "Hi5",
-   "Facebook"
+   "Aparecer sin conexión",
+   "Ausente",
+   "Ocupado"
   ]
  },
  {
@@ -490,27 +490,27 @@
   ]
  },
  {
-  "p": "¿Para qué sirve la Afore?",
+  "p": "¿Cuál es la única Afore pública, del gobierno?",
   "o": [
-   "Para tu ahorro para el retiro",
-   "Para pagar impuestos",
-   "Para tu servicio médico"
+   "PENSIONISSSTE",
+   "Afore Coppel",
+   "Afore Azteca"
   ]
  },
  {
-  "p": "¿Qué número de 11 dígitos te asigna el IMSS?",
+  "p": "¿Cuántos caracteres tiene la CURP?",
   "o": [
-   "El NSS",
-   "El RFC",
-   "La CURP"
+   "18",
+   "13",
+   "11"
   ]
  },
  {
-  "p": "¿Qué es el «finiquito»?",
+  "p": "Si renuncias, ¿qué de esto NO te toca en tu finiquito?",
   "o": [
-   "Lo que te pagan al dejar un trabajo",
-   "El último pago de un crédito",
-   "Un bono de fin de año"
+   "La indemnización",
+   "El aguinaldo proporcional",
+   "Tus vacaciones pendientes"
   ]
  },
  {
@@ -522,51 +522,51 @@
   ]
  },
  {
-  "p": "¿En qué mes hacen su declaración anual las personas físicas?",
+  "p": "En tu declaración anual, ¿qué quiere decir que te salga «saldo a favor»?",
   "o": [
-   "Abril",
-   "Enero",
-   "Diciembre"
+   "Que el SAT te devuelve dinero",
+   "Que le debes al SAT",
+   "Que te van a multar"
   ]
  },
  {
-  "p": "¿Qué es el Buró de Crédito?",
+  "p": "¿Cada cuánto puedes pedir gratis tu reporte del Buró de Crédito?",
   "o": [
-   "Un registro de cómo pagas tus deudas",
-   "Un banco del gobierno",
-   "Una oficina para pedir préstamos"
+   "Cada 12 meses",
+   "Cada mes",
+   "Cada 6 meses"
   ]
  },
  {
-  "p": "¿Qué son los Cetes?",
+  "p": "¿Qué significan las siglas de los «Cetes»?",
   "o": [
-   "Bonos del gobierno para invertir",
-   "Tarjetas de crédito",
-   "Billetes conmemorativos"
+   "Certificados de la Tesorería",
+   "Cuentas del Erario Estatal",
+   "Créditos de Estímulo"
   ]
  },
  {
-  "p": "¿Qué es una transferencia SPEI?",
+  "p": "¿En qué horario se pueden hacer transferencias SPEI?",
   "o": [
-   "Un envío de dinero entre bancos",
-   "Un pago en efectivo",
-   "Un retiro en cajero"
+   "Las 24 horas, todos los días",
+   "Solo en horario bancario",
+   "De lunes a viernes"
   ]
  },
  {
-  "p": "¿Cómo se llama la cuota mensual que pagas en un edificio por las áreas comunes?",
+  "p": "En el «gas LP» de los cilindros, ¿qué significa «LP»?",
   "o": [
-   "Mantenimiento",
-   "Predial",
-   "Tenencia"
+   "Licuado de petróleo",
+   "Ligero y presurizado",
+   "Líquido purificado"
   ]
  },
  {
-  "p": "Al rentar, ¿qué es un «aval»?",
+  "p": "Al rentar, ¿qué se puede contratar en lugar de tener un aval?",
   "o": [
-   "Quien responde si no pagas",
-   "El dueño del depa",
-   "El que cobra la renta"
+   "Una póliza jurídica",
+   "Una carta de recomendación",
+   "Un seguro de gastos médicos"
   ]
  },
  {
@@ -578,11 +578,11 @@
   ]
  },
  {
-  "p": "¿Qué es un «bento»?",
+  "p": "¿Qué bebida japonesa es un té verde en polvo?",
   "o": [
-   "Una caja de comida",
-   "Un postre de arroz",
-   "Un tipo de té"
+   "Matcha",
+   "Ramune",
+   "Calpis"
   ]
  },
  {
@@ -594,19 +594,19 @@
   ]
  },
  {
-  "p": "En internet, ¿qué significa «IRL»?",
+  "p": "En redes sociales, ¿qué es un «TBT»?",
   "o": [
-   "En la vida real",
-   "Ahora mismo",
-   "Por si acaso"
+   "Un recuerdo publicado en jueves",
+   "Una foto sin filtros",
+   "Una transmisión en vivo"
   ]
  },
  {
-  "p": "¿Cómo se llama el tren bala de Japón?",
+  "p": "En Japón, ¿qué se dice al llegar a casa?",
   "o": [
-   "Shinkansen",
-   "Maglev",
-   "Tokaido"
+   "«Tadaima»",
+   "«Okaeri»",
+   "«Ittekimasu»"
   ]
  },
  {
@@ -658,35 +658,35 @@
   ]
  },
  {
-  "p": "¿De qué se hace el tepache?",
+  "p": "En una pulquería, ¿qué es un «curado»?",
   "o": [
-   "De cáscara de piña fermentada",
-   "De maíz fermentado",
-   "De maguey fermentado"
+   "Pulque con fruta o semillas",
+   "Pulque añejado en barrica",
+   "Pulque destilado"
   ]
  },
  {
-  "p": "¿Qué consola portátil sacó Nintendo en 1989?",
+  "p": "En América, ¿qué juego venía incluido con el Game Boy original?",
   "o": [
-   "Game Boy",
-   "Game Gear",
-   "Nintendo DS"
+   "Tetris",
+   "Super Mario Land",
+   "Pokémon Rojo"
   ]
  },
  {
-  "p": "¿Qué celular de concha de Motorola fue famosísimo en los 2000?",
+  "p": "¿Qué iPod era un cuadrito sin pantalla con clip?",
   "o": [
-   "El RAZR V3",
-   "El StarTAC",
-   "El Moto G"
+   "iPod Shuffle",
+   "iPod Nano",
+   "iPod Mini"
   ]
  },
  {
-  "p": "¿Qué baile viral de 2013 empezaba con uno solo y luego todos disfrazados?",
+  "p": "¿Qué productor hizo la canción «Harlem Shake» que se volvió reto viral?",
   "o": [
-   "Harlem Shake",
-   "Gangnam Style",
-   "Macarena"
+   "Baauer",
+   "Diplo",
+   "Skrillex"
   ]
  },
  {
@@ -698,11 +698,11 @@
   ]
  },
  {
-  "p": "¿Cómo se les dice a los pantalones entubados que se pusieron de moda?",
+  "p": "¿Para qué marca de calzado son los dijes «Jibbitz»?",
   "o": [
-   "Skinny jeans",
-   "Acampanados",
-   "Cargo"
+   "Crocs",
+   "Vans",
+   "Converse"
   ]
  },
  {
@@ -714,19 +714,19 @@
   ]
  },
  {
-  "p": "¿Qué institución del gobierno emite los billetes en México?",
+  "p": "¿Qué animal sale en el reverso del billete de 500 pesos actual?",
   "o": [
-   "El Banco de México",
-   "La SHCP",
-   "El SAT"
+   "La ballena gris",
+   "El jaguar",
+   "El águila real"
   ]
  },
  {
-  "p": "¿Cuál es la moneda de Japón?",
+  "p": "¿Con qué alga se envuelve el onigiri?",
   "o": [
-   "El yen",
-   "El won",
-   "El yuan"
+   "Nori",
+   "Wakame",
+   "Kombu"
   ]
  },
  {
@@ -746,67 +746,67 @@
   ]
  },
  {
-  "p": "¿Qué día es el Día del Trabajo en México?",
+  "p": "Si trabajas en un día de descanso obligatorio, ¿cuánto te pagan ese día en total?",
   "o": [
-   "1 de mayo",
-   "15 de mayo",
-   "1 de septiembre"
+   "Salario triple",
+   "Salario doble",
+   "Salario y medio"
   ]
  },
  {
-  "p": "¿Cómo se llama el 25% extra que te pagan sobre tus días de descanso anual?",
+  "p": "Por ley, ¿de cuánto es como mínimo la prima dominical?",
   "o": [
-   "Prima vacacional",
-   "Aguinaldo",
-   "PTU"
+   "25% del salario diario",
+   "50% del salario diario",
+   "Un día extra de salario"
   ]
  },
  {
-  "p": "¿Qué es el PTU?",
+  "p": "¿Qué porcentaje de sus utilidades reparte una empresa como PTU?",
   "o": [
-   "Tu parte de las ganancias de la empresa",
-   "Un seguro de gastos médicos",
-   "Un crédito para vivienda"
+   "10%",
+   "5%",
+   "15%"
   ]
  },
  {
-  "p": "¿Cómo se llama el impuesto anual por ser dueño de un vehículo en algunos estados?",
+  "p": "En CDMX, ¿cada cuánto se verifica un auto con holograma 0?",
   "o": [
-   "Tenencia",
-   "Predial",
-   "Verificación"
+   "Cada seis meses",
+   "Cada año",
+   "Cada dos años"
   ]
  },
  {
-  "p": "¿Qué documento de la SEP necesitas para ejercer legalmente tu carrera?",
+  "p": "¿Qué dependencia expide el pasaporte mexicano?",
   "o": [
-   "La cédula profesional",
-   "El título de bachiller",
-   "La CURP"
+   "La SRE",
+   "La Segob",
+   "El INM"
   ]
  },
  {
-  "p": "¿Qué es el «predial»?",
+  "p": "En tu recibo de CFE, ¿qué significa la tarifa DAC?",
   "o": [
-   "El impuesto de tu casa o terreno",
-   "El recibo del agua",
-   "La cuota del condominio"
+   "Doméstica de Alto Consumo",
+   "Descuento por Ahorro",
+   "Doméstica de Apoyo Común"
   ]
  },
  {
-  "p": "¿Qué significa que algo te «valga gorro»?",
+  "p": "¿Qué significa «echarle la sal» a alguien?",
   "o": [
-   "Que no te importa",
-   "Que te encanta",
-   "Que te costó mucho"
+   "Traerle mala suerte",
+   "Arruinarle la comida",
+   "Contarle un chisme"
   ]
  },
  {
-  "p": "¿Qué bebida japonesa se hace de arroz?",
+  "p": "En el anime, ¿qué le dicen a alguien cuando le gritan «baka»?",
   "o": [
-   "Sake",
-   "Matcha",
-   "Ramune"
+   "Tonto",
+   "Lindo",
+   "Amigo"
   ]
  },
  {
@@ -818,35 +818,35 @@
   ]
  },
  {
-  "p": "En internet, ¿qué es un «troll»?",
+  "p": "¿De qué videojuego viene el meme «Press F to pay respects»?",
   "o": [
-   "Alguien que molesta a propósito",
-   "Un hacker",
-   "Un bot de spam"
+   "Call of Duty: Advanced Warfare",
+   "Battlefield 4",
+   "Halo 3"
   ]
  },
  {
-  "p": "¿Qué significa que alguien «se haga pato»?",
+  "p": "¿Qué significa que algo «dé el gatazo»?",
   "o": [
-   "Que finge que no sabe",
-   "Que se asusta",
-   "Que se va sin pagar"
+   "Que parece mejor de lo que es",
+   "Que se robó sin que lo notaran",
+   "Que llegó de sorpresa"
   ]
  },
  {
-  "p": "¿De qué videojuego viene el meme «Ah shit, here we go again»?",
+  "p": "En «Toy Story 2», ¿quién le dice a Buzz «Yo soy tu padre»?",
   "o": [
-   "GTA San Andreas",
-   "Halo",
-   "Call of Duty"
+   "Zurg",
+   "Pete el Minero",
+   "Al"
   ]
  },
  {
-  "p": "¿Quién dice «¡Lo sospeché desde un principio!»?",
+  "p": "En «El Chavo del 8», ¿quién dice «¡Cállate, cállate, que me desesperas!»?",
   "o": [
-   "El Chapulín Colorado",
-   "El Chavo",
-   "Don Ramón"
+   "Quico",
+   "La Chilindrina",
+   "Ñoño"
   ]
  },
  {
@@ -858,11 +858,11 @@
   ]
  },
  {
-  "p": "¿Qué carne de borrego se cocina en un hoyo envuelta en pencas de maguey?",
+  "p": "¿Qué carne lleva la birria tradicional de Jalisco?",
   "o": [
-   "Barbacoa",
-   "Birria",
-   "Cochinita"
+   "Chivo",
+   "Res",
+   "Cerdo"
   ]
  },
  {

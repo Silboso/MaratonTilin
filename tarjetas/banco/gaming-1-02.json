@@ -10,20 +10,20 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué saga de carreras de Xbox compite con Gran Turismo?",
+  "p": "¿En qué Need for Speed de 2008 eras un policía encubierto?",
   "o": [
-   "Forza",
-   "Burnout",
-   "Need for Speed"
+   "Undercover",
+   "ProStreet",
+   "Carbon"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué futbolista salió en la portada de FIFA 18?",
+  "p": "¿Qué futbolista alemán salió en la portada de FIFA 17?",
   "o": [
-   "Cristiano Ronaldo",
-   "Lionel Messi",
-   "Eden Hazard"
+   "Marco Reus",
+   "Thomas Müller",
+   "Mesut Özil"
   ]
  },
  {
@@ -60,19 +60,19 @@
   ]
  },
  {
-  "p": "¿Qué héroe de Overwatch es un ninja cyborg?",
+  "p": "¿Qué héroe sueco de Overwatch construye torretas?",
   "o": [
-   "Genji",
-   "Hanzo",
-   "Kiriko"
+   "Torbjörn",
+   "Brigitte",
+   "Bastion"
   ]
  },
  {
-  "p": "¿Qué heroína rusa de Overwatch levanta pesas?",
+  "p": "¿Qué heroína india de Overwatch crea teletransportadores?",
   "o": [
-   "Zarya",
-   "Mei",
-   "Sombra"
+   "Symmetra",
+   "Kiriko",
+   "Moira"
   ]
  },
  {
@@ -84,11 +84,11 @@
   ]
  },
  {
-  "p": "¿Contra qué alianza religiosa de alienígenas pelea el Jefe Maestro en Halo?",
+  "p": "En Halo, ¿cómo se llama el jeep con ametralladora de la UNSC?",
   "o": [
-   "El Covenant",
-   "El Flood",
-   "Los Prometeos"
+   "Warthog",
+   "Mongoose",
+   "Scorpion"
   ]
  },
  {
@@ -108,11 +108,11 @@
   ]
  },
  {
-  "p": "¿Qué villana de Disney dirige a los villanos en el primer Kingdom Hearts?",
+  "p": "En Kingdom Hearts, ¿a qué ciudad llegan los que perdieron su mundo?",
   "o": [
-   "Maléfica",
-   "Úrsula",
-   "Cruella de Vil"
+   "Ciudad de Paso",
+   "Ciudad Crepúsculo",
+   "Bastión Hueco"
   ]
  },
  {
@@ -124,11 +124,11 @@
   ]
  },
  {
-  "p": "¿En qué saga sale Leon S. Kennedy?",
+  "p": "¿Quién protagoniza Resident Evil 2 junto a Leon S. Kennedy?",
   "o": [
-   "Resident Evil",
-   "Silent Hill",
-   "Dead Space"
+   "Claire Redfield",
+   "Jill Valentine",
+   "Ada Wong"
   ]
  },
  {
@@ -148,19 +148,19 @@
   ]
  },
  {
-  "p": "En Among Us, ¿qué pasa cuando reportas un cuerpo?",
+  "p": "En Among Us, ¿cómo se llama la nave del mapa original?",
   "o": [
-   "Se llama a una reunión",
-   "Se revela quién es el impostor",
-   "El cuerpo desaparece"
+   "The Skeld",
+   "Mira HQ",
+   "Polus"
   ]
  },
  {
-  "p": "¿Quién es el emperador villano de Mortal Kombat?",
+  "p": "¿Qué hechicero de Mortal Kombat se transforma en otros peleadores?",
   "o": [
-   "Shao Kahn",
    "Shang Tsung",
-   "Goro"
+   "Quan Chi",
+   "Shinnok"
   ]
  },
  {
@@ -172,11 +172,11 @@
   ]
  },
  {
-  "p": "En Plants vs Zombies, ¿qué planta explota como bomba?",
+  "p": "En Plants vs Zombies, ¿quién te vende plantas y trae una olla en la cabeza?",
   "o": [
-   "La petacereza",
-   "El girasol",
-   "La nuez"
+   "Dave el Loco",
+   "Dr. Zomboss",
+   "El Jardinero Zen"
   ]
  },
  {

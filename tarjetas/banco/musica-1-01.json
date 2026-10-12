@@ -10,29 +10,29 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué cantante hizo el medio tiempo del Super Bowl 2021 metido en un laberinto de espejos?",
+  "p": "En el medio tiempo de The Weeknd en el Super Bowl 2021, ¿cómo salieron sus bailarines?",
   "o": [
-   "The Weeknd",
-   "Drake",
-   "Bruno Mars"
+   "Con la cara vendada",
+   "Con máscaras de conejo",
+   "Vestidos de astronautas"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué rapero hizo el medio tiempo del Super Bowl 2025 y cantó «Not Like Us»?",
+  "p": "¿Qué cantante salió con Kendrick Lamar a cantar «Luther» en el Super Bowl 2025?",
   "o": [
-   "Kendrick Lamar",
-   "Drake",
-   "Travis Scott"
+   "SZA",
+   "Rihanna",
+   "Doja Cat"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué canción grabó Shakira para el Mundial de Brasil 2014?",
+  "p": "¿Con qué grupo sudafricano grabó Shakira el «Waka Waka» del Mundial 2010?",
   "o": [
-   "«La La La»",
-   "«Waka Waka»",
-   "«Loca»"
+   "Freshlyground",
+   "Ladysmith Black Mambazo",
+   "Soweto Gospel Choir"
   ]
  },
  {
@@ -55,11 +55,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué cantante de reguetón luchó en WrestleMania 37?",
+  "p": "¿Con qué luchador hizo pareja Bad Bunny en WrestleMania 37?",
   "o": [
-   "Bad Bunny",
-   "Daddy Yankee",
-   "Anuel AA"
+   "Damian Priest",
+   "Rey Mysterio",
+   "Seth Rollins"
   ]
  },
  {
@@ -82,74 +82,74 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué cantante hizo el medio tiempo del Super Bowl 2007 bajo la lluvia con «Purple Rain»?",
+  "p": "¿Qué cantante hizo el medio tiempo del Super Bowl 2012 con M.I.A. y Nicki Minaj?",
   "o": [
-   "Prince",
-   "Bruce Springsteen",
-   "Madonna"
-  ]
- },
- {
-  "deporte": true,
-  "p": "¿Qué cantante hizo el histórico medio tiempo del Super Bowl de 1993?",
-  "o": [
-   "Michael Jackson",
    "Madonna",
-   "Prince"
+   "Lady Gaga",
+   "Britney Spears"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué cantante reunió a Destiny's Child en el medio tiempo del Super Bowl 2013?",
+  "p": "¿Con qué canción cerró Michael Jackson su medio tiempo del Super Bowl de 1993?",
   "o": [
-   "Beyoncé",
-   "Kelly Rowland",
+   "«Heal the World»",
+   "«Thriller»",
+   "«Man in the Mirror»"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué pasó en el Super Bowl 2013 poco después del medio tiempo de Beyoncé?",
+  "o": [
+   "Se fue la luz del estadio",
+   "Cayó una tormenta",
+   "Un fan invadió la cancha"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué cantante hizo el medio tiempo del Super Bowl 2015, el del tiburón que bailaba mal?",
+  "o": [
+   "Katy Perry",
+   "Taylor Swift",
    "Rihanna"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué banda encabezó el medio tiempo del Super Bowl 50 con Beyoncé y Bruno Mars?",
+  "p": "¿Con qué cantante interpretó Usher «My Boo» en el Super Bowl 2024?",
   "o": [
-   "Coldplay",
-   "Maroon 5",
-   "U2"
+   "Alicia Keys",
+   "Beyoncé",
+   "Mariah Carey"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué cantante hizo el medio tiempo del Super Bowl 2024 en patines?",
+  "p": "¿Qué cantante de R&B cantó «Family Affair» en el medio tiempo del Super Bowl 2022?",
   "o": [
-   "Usher",
-   "Chris Brown",
-   "Justin Timberlake"
+   "Mary J. Blige",
+   "Alicia Keys",
+   "Lauryn Hill"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué rapero se arrodilló en el medio tiempo del Super Bowl 2022?",
+  "p": "En «Rocky IV», ¿qué canción canta James Brown antes de la pelea de Apollo contra Drago?",
   "o": [
-   "Eminem",
-   "Snoop Dogg",
-   "Dr. Dre"
+   "«Living in America»",
+   "«I Got You (I Feel Good)»",
+   "«Sex Machine»"
   ]
  },
  {
   "deporte": true,
-  "p": "¿Qué banda canta «Eye of the Tiger»?",
+  "p": "En la clausura de París 2024, ¿quién cantó «Birds of a Feather» desde Long Beach?",
   "o": [
-   "Survivor",
-   "Queen",
-   "Journey"
-  ]
- },
- {
-  "deporte": true,
-  "p": "¿Quién cantó desde la Torre Eiffel en la inauguración de París 2024?",
-  "o": [
-   "Céline Dion",
-   "Adele",
-   "Shakira"
+   "Billie Eilish",
+   "Olivia Rodrigo",
+   "Taylor Swift"
   ]
  },
  {
@@ -186,11 +186,11 @@
   ]
  },
  {
-  "p": "¿Quién canta «crossing field», opening de Sword Art Online?",
+  "p": "¿Quién canta «IGNITE», opening de Sword Art Online II?",
   "o": [
-   "LiSA",
    "Eir Aoi",
-   "YOASOBI"
+   "LiSA",
+   "Aimer"
   ]
  },
  {
@@ -202,19 +202,19 @@
   ]
  },
  {
-  "p": "¿Quién canta «Kaikai Kitan», opening de Jujutsu Kaisen?",
+  "p": "¿Quién canta «Ao no Sumika», opening del arco del pasado de Gojo en Jujutsu Kaisen?",
   "o": [
-   "Eve",
+   "Tatsuya Kitani",
    "King Gnu",
-   "Kenshi Yonezu"
+   "Eve"
   ]
  },
  {
-  "p": "¿Quién canta «Peace Sign», opening de My Hero Academia?",
+  "p": "¿Qué banda canta «The Day», primer opening de My Hero Academia?",
   "o": [
-   "Kenshi Yonezu",
-   "King Gnu",
-   "Eve"
+   "Porno Graffitti",
+   "FLOW",
+   "UVERworld"
   ]
  },
  {
@@ -226,19 +226,19 @@
   ]
  },
  {
-  "p": "¿Cómo se llama el primer opening japonés de Sailor Moon?",
+  "p": "¿Qué grupo canta «Moon Pride», opening de «Sailor Moon Crystal»?",
   "o": [
-   "«Moonlight Densetsu»",
-   "«Tuxedo Mirage»",
-   "«Pegasus Fantasy»"
+   "Momoiro Clover Z",
+   "AKB48",
+   "Perfume"
   ]
  },
  {
-  "p": "¿De qué anime es el opening «Tank!»?",
+  "p": "¿Qué banda toca «Tank!», opening de Cowboy Bebop?",
   "o": [
-   "Cowboy Bebop",
-   "Samurai Champloo",
-   "Trigun"
+   "The Seatbelts",
+   "The Pillows",
+   "Nujabes"
   ]
  },
  {
@@ -322,11 +322,11 @@
   ]
  },
  {
-  "p": "¿Quién es el vocalista de Coldplay?",
+  "p": "¿Con qué grupo de K-pop canta Coldplay «My Universe»?",
   "o": [
-   "Chris Martin",
-   "Adam Levine",
-   "Brandon Flowers"
+   "BTS",
+   "Blackpink",
+   "Stray Kids"
   ]
  },
  {
@@ -346,11 +346,11 @@
   ]
  },
  {
-  "p": "¿A quién le dicen «el Príncipe de las Tinieblas»?",
+  "p": "¿Qué animal le arrancó Ozzy Osbourne la cabeza de una mordida en un concierto de 1982?",
   "o": [
-   "Ozzy Osbourne",
-   "Marilyn Manson",
-   "Alice Cooper"
+   "Un murciélago",
+   "Una rata",
+   "Una serpiente"
   ]
  },
  {
@@ -362,11 +362,11 @@
   ]
  },
  {
-  "p": "¿Qué banda toca con máscaras y overoles?",
+  "p": "¿De qué estado de Estados Unidos es Slipknot?",
   "o": [
-   "Slipknot",
-   "Korn",
-   "Ghost"
+   "Iowa",
+   "Ohio",
+   "Texas"
   ]
  },
  {
@@ -402,23 +402,23 @@
   ]
  },
  {
-  "p": "¿Qué banda canta «Creep»?",
+  "p": "¿Quién es el vocalista de Radiohead?",
   "o": [
-   "Radiohead",
-   "Oasis",
-   "Coldplay"
+   "Thom Yorke",
+   "Damon Albarn",
+   "Liam Gallagher"
   ]
  },
  {
-  "p": "¿Qué banda canta «All the Small Things»?",
+  "p": "¿Qué integrante de Blink-182 dejó la banda y se puso a investigar ovnis?",
   "o": [
-   "Blink-182",
-   "Sum 41",
-   "Simple Plan"
+   "Tom DeLonge",
+   "Mark Hoppus",
+   "Travis Barker"
   ]
  },
  {
-  "p": "¿Qué banda canta «Africa»?",
+  "p": "¿Qué banda canta «Hold the Line»?",
   "o": [
    "Toto",
    "Journey",
@@ -442,83 +442,83 @@
   ]
  },
  {
-  "p": "¿Qué rapero canta «In da Club»?",
+  "p": "¿Qué rapero produjo «In da Club», de 50 Cent?",
   "o": [
-   "50 Cent",
-   "Eminem",
-   "Snoop Dogg"
+   "Dr. Dre",
+   "Timbaland",
+   "Kanye West"
   ]
  },
  {
-  "p": "¿Qué rapero canta «Stronger»?",
+  "p": "¿A qué cantante le quitó el micrófono Kanye West en los VMA de 2009?",
   "o": [
-   "Kanye West",
-   "Jay-Z",
-   "Lil Wayne"
+   "Taylor Swift",
+   "Beyoncé",
+   "Katy Perry"
   ]
  },
  {
-  "p": "¿Qué DJ francés canta «Titanium» con Sia?",
+  "p": "¿Qué cantante canta «When Love Takes Over» con David Guetta?",
   "o": [
-   "David Guetta",
-   "DJ Snake",
-   "Martin Solveig"
+   "Kelly Rowland",
+   "Rihanna",
+   "Nicki Minaj"
   ]
  },
  {
-  "p": "¿Qué grupo noruego canta «What Does the Fox Say?»?",
+  "p": "¿Qué canción viral de 2011 cantaba Rebecca Black?",
   "o": [
-   "Ylvis",
-   "a-ha",
-   "Kygo"
+   "«Friday»",
+   "«Chocolate Rain»",
+   "«Trololo»"
   ]
  },
  {
-  "p": "¿Qué actor canta «You're Welcome» como Maui en «Moana»?",
+  "p": "¿Quién compuso las canciones de «Moana» (2016)?",
   "o": [
-   "Dwayne Johnson",
-   "Jason Momoa",
-   "Vin Diesel"
+   "Lin-Manuel Miranda",
+   "Alan Menken",
+   "Robert Lopez"
   ]
  },
  {
-  "p": "¿Quién canta «My Heart Will Go On», de Titanic?",
+  "p": "¿De qué película de Disney es el tema que cantan Céline Dion y Peabo Bryson?",
   "o": [
-   "Céline Dion",
-   "Whitney Houston",
-   "Mariah Carey"
+   "«La Bella y la Bestia»",
+   "«Aladdín»",
+   "«Pocahontas»"
   ]
  },
  {
-  "p": "¿Qué grupo canta «Bye Bye Bye»?",
+  "p": "¿Qué integrante de NSYNC protagoniza el meme «It's gonna be May»?",
   "o": [
-   "NSYNC",
-   "Backstreet Boys",
-   "Westlife"
+   "Justin Timberlake",
+   "JC Chasez",
+   "Lance Bass"
   ]
  },
  {
-  "p": "¿Quién canta «Stitches» y «Treat You Better»?",
+  "p": "¿Con qué cantante canta Shawn Mendes «Señorita»?",
   "o": [
-   "Shawn Mendes",
-   "Charlie Puth",
-   "Ed Sheeran"
+   "Camila Cabello",
+   "Selena Gomez",
+   "Dua Lipa"
   ]
  },
  {
-  "p": "¿Qué banda canta «Stairway to Heaven»?",
+  "p": "¿Qué guitarrista de AC/DC toca vestido de colegial?",
   "o": [
-   "Led Zeppelin",
-   "Pink Floyd",
-   "The Who"
+   "Angus Young",
+   "Malcolm Young",
+   "Brian Johnson"
   ]
  },
  {
-  "p": "¿Quién era el vocalista de Soda Stereo?",
+  "p": "¿Con qué frase se despidió Cerati en el último concierto de Soda Stereo en 1997?",
   "o": [
-   "Gustavo Cerati",
-   "Charly García",
-   "Fito Páez"
+   "«Gracias totales»",
+   "«Hasta siempre»",
+   "«Nos vemos pronto»"
   ]
  },
  {
@@ -546,11 +546,11 @@
   ]
  },
  {
-  "p": "¿Qué grupo canta «Me cuesta tanto olvidarte»?",
+  "p": "¿Quién era la vocalista de Mecano?",
   "o": [
-   "Mecano",
-   "La Oreja de Van Gogh",
-   "Hombres G"
+   "Ana Torroja",
+   "Amaia Montero",
+   "Leire Martínez"
   ]
  },
  {
@@ -578,11 +578,11 @@
   ]
  },
  {
-  "p": "¿Quién canta «Corazón partío»?",
+  "p": "¿Con qué cantante hizo Alejandro Sanz «La tortura»?",
   "o": [
-   "Alejandro Sanz",
-   "David Bisbal",
-   "Bunbury"
+   "Shakira",
+   "Alicia Keys",
+   "Laura Pausini"
   ]
  },
  {
@@ -602,11 +602,11 @@
   ]
  },
  {
-  "p": "¿Quién canta «Piel morena»?",
+  "p": "¿En qué grupo cantaba Thalía antes de ser solista?",
   "o": [
-   "Thalía",
-   "Paulina Rubio",
-   "Lucero"
+   "Timbiriche",
+   "Flans",
+   "Pandora"
   ]
  },
  {
@@ -634,19 +634,19 @@
   ]
  },
  {
-  "p": "¿Quién canta «Como la flor»?",
+  "p": "¿Qué actriz interpretó a Selena en la película de 1997?",
   "o": [
-   "Selena",
-   "Thalía",
-   "Gloria Trevi"
+   "Jennifer Lopez",
+   "Salma Hayek",
+   "Eva Longoria"
   ]
  },
  {
-  "p": "¿Quién canta «Vivir mi vida»?",
+  "p": "¿Quién canta «Valió la pena»?",
   "o": [
    "Marc Anthony",
    "Romeo Santos",
-   "Prince Royce"
+   "Gilberto Santa Rosa"
   ]
  },
  {
@@ -674,11 +674,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llaman las fans de BTS?",
+  "p": "¿Cuál fue la primera canción de BTS en llegar al número 1 del Billboard Hot 100?",
   "o": [
-   "ARMY",
-   "Blinks",
-   "Swifties"
+   "«Dynamite»",
+   "«Butter»",
+   "«Boy with Luv»"
   ]
  },
  {
@@ -714,51 +714,51 @@
   ]
  },
  {
-  "p": "¿Quién canta «Someone You Loved»?",
+  "p": "¿De qué país es Lewis Capaldi?",
   "o": [
-   "Lewis Capaldi",
-   "Sam Smith",
-   "Ed Sheeran"
+   "Escocia",
+   "Irlanda",
+   "Gales"
   ]
  },
  {
-  "p": "¿Qué cantante de reguetón canta «Hawái»?",
+  "p": "¿Con qué cantante hizo Maluma el remix de «Hawái»?",
   "o": [
-   "Maluma",
-   "J Balvin",
-   "Ozuna"
+   "The Weeknd",
+   "Justin Bieber",
+   "Drake"
   ]
  },
  {
-  "p": "¿Qué cantante de reguetón canta «Bichota»?",
+  "p": "¿Con quién canta Karol G «TQG»?",
   "o": [
-   "Karol G",
+   "Shakira",
    "Becky G",
    "Anitta"
   ]
  },
  {
-  "p": "¿Qué cantante canta «Felices los 4»?",
+  "p": "¿Con qué cantante canta Daddy Yankee «Con calma»?",
   "o": [
-   "Maluma",
-   "Sebastián Yatra",
-   "Manuel Turizo"
+   "Snow",
+   "Sean Paul",
+   "Pitbull"
   ]
  },
  {
-  "p": "¿Quién canta «Me porto bonito» con Chencho Corleone?",
+  "p": "¿En qué disco de Bad Bunny viene «Tití me preguntó»?",
   "o": [
-   "Bad Bunny",
-   "Rauw Alejandro",
-   "Myke Towers"
+   "Un Verano Sin Ti",
+   "YHLQMDLG",
+   "El Último Tour del Mundo"
   ]
  },
  {
-  "p": "¿Qué cantante es conocida como «la Diva de la Banda»?",
+  "p": "¿Con qué grupo canta Bad Bunny «un x100to»?",
   "o": [
-   "Jenni Rivera",
-   "Paquita la del Barrio",
-   "Ana Bárbara"
+   "Grupo Frontera",
+   "Grupo Firme",
+   "Calibre 50"
   ]
  },
  {
@@ -778,19 +778,19 @@
   ]
  },
  {
-  "p": "¿Qué integrante de Blackpink canta «APT.» con Bruno Mars?",
+  "p": "¿Qué integrante de Blackpink canta «Flower» (2023) como solista?",
   "o": [
-   "Rosé",
-   "Lisa",
-   "Jennie"
+   "Jisoo",
+   "Jennie",
+   "Rosé"
   ]
  },
  {
-  "p": "¿A quién le dicen «la Reina del Pop»?",
+  "p": "¿Cómo se llama el alter ego de Beyoncé?",
   "o": [
-   "Madonna",
-   "Britney Spears",
-   "Lady Gaga"
+   "Sasha Fierce",
+   "Roman Zolanski",
+   "Ziggy Stardust"
   ]
  },
  {
@@ -802,10 +802,10 @@
   ]
  },
  {
-  "p": "¿Quién canta «Propuesta indecente»?",
+  "p": "¿Quién canta «Darte un beso»?",
   "o": [
-   "Romeo Santos",
    "Prince Royce",
+   "Romeo Santos",
    "Juan Luis Guerra"
   ]
  },
@@ -826,51 +826,51 @@
   ]
  },
  {
-  "p": "¿Quién canta «Flowers» (2023)?",
+  "p": "¿Qué canción de Bruno Mars le contesta «Flowers», de Miley Cyrus?",
   "o": [
-   "Miley Cyrus",
-   "Selena Gomez",
-   "Demi Lovato"
+   "«When I Was Your Man»",
+   "«Grenade»",
+   "«Just the Way You Are»"
   ]
  },
  {
-  "p": "¿Quién canta «Heat Waves»?",
+  "p": "¿De qué país es la banda Glass Animals?",
   "o": [
-   "Glass Animals",
-   "Imagine Dragons",
-   "The Neighbourhood"
+   "Inglaterra",
+   "Australia",
+   "Canadá"
   ]
  },
  {
-  "p": "¿Quién canta «Sunflower», de «Spider-Verse», con Swae Lee?",
+  "p": "¿Qué rapero canta con Post Malone «Rockstar» (2017)?",
   "o": [
-   "Post Malone",
+   "21 Savage",
    "Travis Scott",
-   "Khalid"
+   "Lil Uzi Vert"
   ]
  },
  {
-  "p": "¿Quién canta «Hey Ya!»?",
+  "p": "¿Qué integrante de OutKast canta «Hey Ya!»?",
   "o": [
-   "OutKast",
-   "Black Eyed Peas",
-   "Gnarls Barkley"
+   "André 3000",
+   "Big Boi",
+   "CeeLo Green"
   ]
  },
  {
-  "p": "¿Quién canta «Shallow» con Bradley Cooper?",
+  "p": "¿Con qué cantante hizo Lady Gaga la canción «Telephone»?",
   "o": [
-   "Lady Gaga",
-   "Adele",
-   "Katy Perry"
+   "Beyoncé",
+   "Rihanna",
+   "Nicki Minaj"
   ]
  },
  {
-  "p": "¿Quién canta «Complicated» y «Sk8er Boi»?",
+  "p": "¿Cómo se llama el primer disco de Avril Lavigne?",
   "o": [
-   "Avril Lavigne",
-   "Hilary Duff",
-   "Kelly Clarkson"
+   "Let Go",
+   "Under My Skin",
+   "The Best Damn Thing"
   ]
  },
  {

@@ -1,0 +1,590 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Quién narra los partidos de Quidditch en Hogwarts en los primeros libros?",
+  "o": [
+   "Lee Jordan",
+   "Seamus Finnigan",
+   "Dean Thomas"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Con qué marcador gana Irlanda la final del Mundial de Quidditch a Bulgaria?",
+  "o": [
+   "170 a 160",
+   "160 a 150",
+   "310 a 170"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué nombre adoptó en 2022 el Quidditch que se juega en la vida real?",
+  "o": [
+   "Quadball",
+   "Muggleball",
+   "Broomsport"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llamaba el balón de México 86, el primero totalmente sintético?",
+  "o": [
+   "Azteca",
+   "Tango España",
+   "Etrusco Unico"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué balón de Mundial tenía solo 14 paneles, en Alemania 2006?",
+  "o": [
+   "Teamgeist",
+   "Fevernova",
+   "Europass"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué significa «Al Rihla», el nombre del balón de Qatar 2022?",
+  "o": [
+   "El viaje",
+   "La estrella",
+   "El desierto"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cuántos paneles tiene Trionda, el balón del Mundial 2026?",
+  "o": [
+   "4",
+   "6",
+   "8"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué Mundial se usó por primera vez la tecnología de línea de gol?",
+  "o": [
+   "Brasil 2014",
+   "Sudáfrica 2010",
+   "Rusia 2018"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cuántas medallas de oro olímpicas ganó Michael Phelps en total?",
+  "o": [
+   "23",
+   "28",
+   "18"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué marcó el tablero cuando Nadia Comăneci sacó el primer 10 perfecto?",
+  "o": [
+   "1.00",
+   "0.10",
+   "9.99"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué traje de natación de Speedo se prohibió en 2010 por romper tantos récords?",
+  "o": [
+   "LZR Racer",
+   "Aquablade",
+   "Endurance+"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué ciudad corrió Kipchoge un maratón en menos de dos horas, en 2019?",
+  "o": [
+   "Viena",
+   "Berlín",
+   "Londres"
+  ]
+ },
+ {
+  "p": "¿Cuál es el segundo nombre de Hermione Granger?",
+  "o": [
+   "Jean",
+   "Rose",
+   "Anne"
+  ]
+ },
+ {
+  "p": "¿Qué número de cámara de Gringotts guardaba la piedra filosofal?",
+  "o": [
+   "713",
+   "687",
+   "711"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba la elfa doméstica de Hepzibah Smith?",
+  "o": [
+   "Hokey",
+   "Winky",
+   "Dobby"
+  ]
+ },
+ {
+  "p": "¿Qué forma tiene el patronus de Ron Weasley?",
+  "o": [
+   "Un terrier",
+   "Una liebre",
+   "Un caballo"
+  ]
+ },
+ {
+  "p": "¿Cuál es la primera contraseña de la sala común de Gryffindor que oye Harry?",
+  "o": [
+   "«Caput Draconis»",
+   "«Fortuna Major»",
+   "«Mimbulus mimbletonia»"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el cobrador del autobús noctámbulo?",
+  "o": [
+   "Stan Shunpike",
+   "Ernie Prang",
+   "Mundungus Fletcher"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la lechuza diminuta que Sirius le regala a Ron?",
+  "o": [
+   "Pigwidgeon",
+   "Errol",
+   "Hermes"
+  ]
+ },
+ {
+  "p": "¿Quién da Artes Oscuras en Hogwarts en el séptimo libro?",
+  "o": [
+   "Amycus Carrow",
+   "Alecto Carrow",
+   "Yaxley"
+  ]
+ },
+ {
+  "p": "¿Qué joya busca Thorin dentro de la Montaña Solitaria?",
+  "o": [
+   "La Piedra del Arca",
+   "El Silmaril",
+   "La Estrella de Elendil"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la espada de Gandalf?",
+  "o": [
+   "Glamdring",
+   "Orcrist",
+   "Narsil"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el poni que compran en Bree y que cuida Sam?",
+  "o": [
+   "Bill",
+   "Brego",
+   "Hasufel"
+  ]
+ },
+ {
+  "p": "¿Qué hobbit hiere al Rey Brujo para que Éowyn pueda matarlo?",
+  "o": [
+   "Merry",
+   "Pippin",
+   "Sam"
+  ]
+ },
+ {
+  "p": "¿Qué nombre le dan los elfos a Gandalf?",
+  "o": [
+   "Mithrandir",
+   "Elessar",
+   "Estel"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el papá de Thorin Escudo de Roble?",
+  "o": [
+   "Thráin",
+   "Thrór",
+   "Dáin"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el cambiapieles que se convierte en oso en «El Hobbit»?",
+  "o": [
+   "Beorn",
+   "Bardo",
+   "Radagast"
+  ]
+ },
+ {
+  "p": "¿Qué le pregunta Bilbo a Gollum para ganar el juego de acertijos?",
+  "o": [
+   "«¿Qué tengo en el bolsillo?»",
+   "«¿Qué tengo en la mano?»",
+   "«¿Dónde está mi espada?»"
+  ]
+ },
+ {
+  "p": "¿Con qué arma mata Bardo a Smaug?",
+  "o": [
+   "La Flecha Negra",
+   "La Lanza de Durin",
+   "Un arpón enano"
+  ]
+ },
+ {
+  "p": "En «Star Wars», ¿sobre qué planeta se construyó la primera Estrella de la Muerte?",
+  "o": [
+   "Geonosis",
+   "Scarif",
+   "Jedha"
+  ]
+ },
+ {
+  "p": "En «Star Wars: The Clone Wars», ¿qué designación tiene el comandante Cody?",
+  "o": [
+   "CC-2224",
+   "CT-7567",
+   "CC-1010"
+  ]
+ },
+ {
+  "p": "En «God of War Ragnarök», ¿cómo se llama la gigante amiga de Atreus?",
+  "o": [
+   "Angrboda",
+   "Freya",
+   "Sif"
+  ]
+ },
+ {
+  "p": "En «Percy Jackson», ¿qué número es la cabaña de Poseidón en el campamento?",
+  "o": [
+   "3",
+   "1",
+   "6"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el medio hermano cíclope de Percy Jackson?",
+  "o": [
+   "Tyson",
+   "Polifemo",
+   "Ethan"
+  ]
+ },
+ {
+  "p": "En «Percy Jackson», ¿qué dios dirige el Campamento Mestizo como castigo?",
+  "o": [
+   "Dionisio",
+   "Hefesto",
+   "Apolo"
+  ]
+ },
+ {
+  "p": "En «Fate/Zero», ¿de qué clase es el servant Gilgamesh?",
+  "o": [
+   "Archer",
+   "Caster",
+   "Rider"
+  ]
+ },
+ {
+  "p": "¿Qué técnica de Itachi lleva el nombre del dios japonés de la luna?",
+  "o": [
+   "Tsukuyomi",
+   "Izanagi",
+   "Kamui"
+  ]
+ },
+ {
+  "p": "¿Qué tres civilizaciones traía el «Age of Mythology» original?",
+  "o": [
+   "Griegos, egipcios y nórdicos",
+   "Griegos, romanos y nórdicos",
+   "Griegos, egipcios y aztecas"
+  ]
+ },
+ {
+  "p": "¿Quién fue el último astronauta en caminar sobre la Luna, en 1972?",
+  "o": [
+   "Eugene Cernan",
+   "John Young",
+   "Alan Bean"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba el módulo lunar del Apolo 11?",
+  "o": [
+   "Eagle",
+   "Columbia",
+   "Intrepid"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la misión de la NASA que chocó a propósito contra un asteroide?",
+  "o": [
+   "DART",
+   "OSIRIS-REx",
+   "Lucy"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el helicóptero de la NASA que voló en Marte?",
+  "o": [
+   "Ingenuity",
+   "Dragonfly",
+   "Curiosity"
+  ]
+ },
+ {
+  "p": "¿Qué planeta tiene más lunas conocidas?",
+  "o": [
+   "Saturno",
+   "Júpiter",
+   "Urano"
+  ]
+ },
+ {
+  "p": "¿Qué sonda de la NASA pasó junto a Plutón en 2015?",
+  "o": [
+   "New Horizons",
+   "Voyager 2",
+   "Juno"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba la nave en la que Yuri Gagarin orbitó la Tierra?",
+  "o": [
+   "Vostok 1",
+   "Soyuz 1",
+   "Sputnik 2"
+  ]
+ },
+ {
+  "p": "¿En qué año explotó el transbordador Challenger?",
+  "o": [
+   "1986",
+   "2003",
+   "1981"
+  ]
+ },
+ {
+  "p": "¿En qué galaxia estaba el agujero negro de la primera foto, de 2019?",
+  "o": [
+   "M87",
+   "Andrómeda",
+   "La Vía Láctea"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba la app de check-ins que se convirtió en Instagram?",
+  "o": [
+   "Burbn",
+   "Instamatic",
+   "Picster"
+  ]
+ },
+ {
+  "p": "¿Qué robot humanoide presentó Tesla en 2022?",
+  "o": [
+   "Optimus",
+   "Atlas",
+   "Figure 01"
+  ]
+ },
+ {
+  "p": "¿Qué cofundador de Apple vendió su parte en 1976 por 800 dólares?",
+  "o": [
+   "Ronald Wayne",
+   "Mike Markkula",
+   "John Sculley"
+  ]
+ },
+ {
+  "p": "¿Qué empresa fundó Steve Jobs después de que lo corrieran de Apple?",
+  "o": [
+   "NeXT",
+   "General Magic",
+   "Palm"
+  ]
+ },
+ {
+  "p": "¿Qué decía el primer SMS de la historia, enviado en 1992?",
+  "o": [
+   "«Merry Christmas»",
+   "«Hello World»",
+   "«Can you hear me?»"
+  ]
+ },
+ {
+  "p": "¿Qué computadora de IBM ganó el concurso «Jeopardy!» en 2011?",
+  "o": [
+   "Watson",
+   "Deep Blue",
+   "Blue Gene"
+  ]
+ },
+ {
+  "p": "¿En qué mes y año se lanzó ChatGPT al público?",
+  "o": [
+   "Noviembre de 2022",
+   "Marzo de 2023",
+   "Junio de 2021"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba el chatbot de Microsoft que se volvió racista en Twitter en 2016?",
+  "o": [
+   "Tay",
+   "Zo",
+   "Cortana"
+  ]
+ },
+ {
+  "p": "¿Qué nombre tenía Amazon cuando Jeff Bezos la fundó?",
+  "o": [
+   "Cadabra",
+   "Bookstack",
+   "Zappos"
+  ]
+ },
+ {
+  "p": "¿Qué sitio para comparar fotos hizo Zuckerberg antes de Facebook?",
+  "o": [
+   "Facemash",
+   "Hot or Not",
+   "FaceBlitz"
+  ]
+ },
+ {
+  "p": "¿Qué empresa de Elon Musk se fusionó y terminó siendo PayPal?",
+  "o": [
+   "X.com",
+   "Zip2",
+   "SolarCity"
+  ]
+ },
+ {
+  "p": "¿Qué alcanzó a llegar en el primer mensaje de ARPANET, en 1969?",
+  "o": [
+   "«LO»",
+   "«HI»",
+   "«OK»"
+  ]
+ },
+ {
+  "p": "¿Quién fundó Nvidia y la dirige desde 1993?",
+  "o": [
+   "Jensen Huang",
+   "Lisa Su",
+   "Morris Chang"
+  ]
+ },
+ {
+  "p": "En «Yu-Gi-Oh!», ¿cuántos puntos de ataque tiene el Mago Oscuro?",
+  "o": [
+   "2500",
+   "2400",
+   "3000"
+  ]
+ },
+ {
+  "p": "¿Quién es el autor del manga de «Yu-Gi-Oh!»?",
+  "o": [
+   "Kazuki Takahashi",
+   "Yoshihiro Togashi",
+   "Masami Kurumada"
+  ]
+ },
+ {
+  "p": "¿Quién dibujó el Charizard del primer set de Pokémon TCG?",
+  "o": [
+   "Mitsuhiro Arita",
+   "Ken Sugimori",
+   "Atsuko Nishida"
+  ]
+ },
+ {
+  "p": "¿Qué carta de Pokémon TCG compró Logan Paul por más de 5 millones de dólares?",
+  "o": [
+   "Pikachu Ilustrador",
+   "Charizard 1.ª edición",
+   "Mewtwo de Trofeo"
+  ]
+ },
+ {
+  "p": "En Pokémon TCG, ¿cuántos Pokémon puedes tener en tu banca normalmente?",
+  "o": [
+   "5",
+   "6",
+   "4"
+  ]
+ },
+ {
+  "p": "¿Qué carta de Magic, de la primera edición, es la más cara y codiciada?",
+  "o": [
+   "Black Lotus",
+   "Shivan Dragon",
+   "Lightning Bolt"
+  ]
+ },
+ {
+  "p": "¿Quién creó Magic: The Gathering?",
+  "o": [
+   "Richard Garfield",
+   "Gary Gygax",
+   "Peter Adkison"
+  ]
+ },
+ {
+  "p": "En Magic, ¿cuántas cartas lleva un mazo del formato Commander?",
+  "o": [
+   "100",
+   "60",
+   "80"
+  ]
+ },
+ {
+  "p": "¿A qué se dedicaba Merle Robbins, el creador de UNO?",
+  "o": [
+   "Era peluquero",
+   "Era cartero",
+   "Era maestro"
+  ]
+ },
+ {
+  "p": "¿Qué ficha clásica del Monopoly fue reemplazada por un gato en 2013?",
+  "o": [
+   "La plancha",
+   "El dedal",
+   "La carretilla"
+  ]
+ },
+ {
+  "p": "En el Monopoly clásico, ¿cuánto pagas para salir de la cárcel?",
+  "o": [
+   "$50",
+   "$100",
+   "$200"
+  ]
+ },
+ {
+  "p": "En la Lotería, ¿qué carta se canta como «la cobija de los pobres»?",
+  "o": [
+   "El Sol",
+   "La Luna",
+   "La Estrella"
+  ]
+ }
+]

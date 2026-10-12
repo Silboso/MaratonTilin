@@ -1,10 +1,10 @@
 [
  {
-  "p": "¿Qué clásico del jazz suena en el ending de «Evangelion»?",
+  "p": "¿Quién canta «Beautiful World», tema de «Evangelion 1.0»?",
   "o": [
-   "«Fly Me to the Moon»",
-   "«Moon River»",
-   "«Blue Moon»"
+   "Utada Hikaru",
+   "Ayumi Hamasaki",
+   "Yoko Takahashi"
   ]
  },
  {
@@ -25,11 +25,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Cómo se llama la canción del Mundial 2014 de Pitbull, J.Lo y Claudia Leitte?",
+  "p": "¿Quién compuso «Gonna Fly Now», el tema de «Rocky»?",
   "o": [
-   "We Are One (Ole Ola)",
-   "La La La (Brazil 2014)",
-   "Dar um Jeito"
+   "Bill Conti",
+   "John Williams",
+   "Vangelis"
   ]
  },
  {
@@ -66,11 +66,11 @@
   ]
  },
  {
-  "p": "¿Quién canta «Butter-Fly», el opening de Digimon Adventure en japonés?",
+  "p": "¿Cómo se llama el opening japonés de Digimon Frontier?",
   "o": [
-   "Kouji Wada",
-   "Ayumi Miyazaki",
-   "Hironobu Kageyama"
+   "«FIRE!!»",
+   "«The Biggest Dreamer»",
+   "«Target ~Akai Shōgeki~»"
   ]
  },
  {

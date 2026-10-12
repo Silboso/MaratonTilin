@@ -57,11 +57,11 @@
   ]
  },
  {
-  "p": "En «Kill Bill», ¿quién forja la espada de la Novia?",
+  "p": "En «Kill Bill Vol. 2», ¿quién le sacó un ojo a Elle Driver?",
   "o": [
-   "Hattori Hanzo",
    "Pai Mei",
-   "Johnny Mo"
+   "Bill",
+   "Budd"
   ]
  },
  {
@@ -81,11 +81,11 @@
   ]
  },
  {
-  "p": "En «Wall-E», ¿qué musical ve Wall-E una y otra vez?",
+  "p": "En «Wall-E», ¿cómo se llama el robot timón que manda en la nave?",
   "o": [
-   "«Hello, Dolly!»",
-   "«Cantando bajo la lluvia»",
-   "«La novicia rebelde»"
+   "AUTO",
+   "M-O",
+   "BURN-E"
   ]
  },
  {
@@ -145,19 +145,19 @@
   ]
  },
  {
-  "p": "En «Jurassic Park», ¿cómo se llama la isla del parque?",
+  "p": "En «Jurassic Park», ¿cómo se llama el cazador experto en raptores?",
   "o": [
-   "Isla Nublar",
-   "Isla Sorna",
-   "Isla Calavera"
+   "Robert Muldoon",
+   "Ray Arnold",
+   "Donald Gennaro"
   ]
  },
  {
-  "p": "En «Scott Pilgrim», ¿cómo se llama la banda de Scott?",
+  "p": "En «Scott Pilgrim», ¿quién es el primer ex malvado al que pelea Scott?",
   "o": [
-   "Sex Bob-Omb",
-   "Crash and the Boys",
-   "The Clash at Demonhead"
+   "Matthew Patel",
+   "Lucas Lee",
+   "Todd Ingram"
   ]
  },
  {

@@ -16,19 +16,19 @@
   ]
  },
  {
-  "p": "En «Friends», ¿qué exnovia de Chandler es famosa por su «Oh… my… God!»?",
+  "p": "En «Friends», ¿quién dice «¡No saben que sabemos que saben que sabemos!»?",
   "o": [
-   "Janice",
-   "Kathy",
-   "Aurora"
+   "Phoebe",
+   "Rachel",
+   "Monica"
   ]
  },
  {
-  "p": "En «Futurama», ¿quién llega siempre diciendo «Good news, everyone!»?",
+  "p": "En «Futurama», ¿quién grita «¡Cállate y toma mi dinero!»?",
   "o": [
-   "El Profesor Farnsworth",
-   "El Dr. Zoidberg",
-   "Hermes Conrad"
+   "Fry",
+   "Bender",
+   "Hermes"
   ]
  },
  {
@@ -57,18 +57,18 @@
   ]
  },
  {
-  "p": "¿Quién conducía «Mujer, casos de la vida real»?",
+  "p": "¿De qué televisora es el programa «Lo que callamos las mujeres»?",
   "o": [
-   "Silvia Pinal",
-   "Verónica Castro",
-   "Lucía Méndez"
+   "TV Azteca",
+   "Televisa",
+   "Imagen TV"
   ]
  },
  {
-  "p": "En «Jurassic Park», ¿quién advierte que la vida siempre se abre camino?",
+  "p": "En «Jurassic Park», ¿quién bloquea el sistema con un «No dijiste la palabra mágica»?",
   "o": [
-   "Ian Malcolm",
-   "Alan Grant",
+   "Dennis Nedry",
+   "Ray Arnold",
    "John Hammond"
   ]
  }

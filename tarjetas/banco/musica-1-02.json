@@ -1,10 +1,10 @@
 [
  {
   "deporte": true,
-  "p": "¿Qué banda canta «Jump», que suena en muchos estadios?",
+  "p": "¿Qué banda canta «Thunderstruck», que suena en estadios de la NFL y la NBA?",
   "o": [
-   "Van Halen",
-   "Bon Jovi",
+   "AC/DC",
+   "Metallica",
    "Def Leppard"
   ]
  },
@@ -28,11 +28,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué cantante hizo el medio tiempo del Super Bowl 2017 saltando desde el techo?",
+  "p": "¿Qué cantante hizo el medio tiempo del Super Bowl 2023 estando embarazada?",
   "o": [
-   "Lady Gaga",
-   "Katy Perry",
-   "Madonna"
+   "Rihanna",
+   "Beyoncé",
+   "Cardi B"
   ]
  },
  {
@@ -92,11 +92,11 @@
   ]
  },
  {
-  "p": "¿Quiénes cantan «Closer» con Halsey?",
+  "p": "¿Con qué banda cantan The Chainsmokers «Something Just Like This»?",
   "o": [
-   "The Chainsmokers",
-   "Clean Bandit",
-   "Major Lazer"
+   "Coldplay",
+   "Imagine Dragons",
+   "OneRepublic"
   ]
  },
  {
@@ -108,11 +108,11 @@
   ]
  },
  {
-  "p": "¿Quién canta «Ojalá que llueva café»?",
+  "p": "¿Quién canta «La bicicleta» con Shakira?",
   "o": [
-   "Juan Luis Guerra",
    "Carlos Vives",
-   "Marc Anthony"
+   "Maluma",
+   "Juanes"
   ]
  },
  {
@@ -132,11 +132,11 @@
   ]
  },
  {
-  "p": "¿Qué cantante grabó la «Session #53» con Bizarrap?",
+  "p": "¿Qué cantante mexicano grabó la «Session #55» con Bizarrap?",
   "o": [
-   "Shakira",
-   "Nathy Peluso",
-   "Nicki Nicole"
+   "Peso Pluma",
+   "Christian Nodal",
+   "Santa Fe Klan"
   ]
  },
  {
@@ -148,9 +148,9 @@
   ]
  },
  {
-  "p": "¿Quién canta «KICK BACK», opening de Chainsaw Man?",
+  "p": "¿Quién canta «SPECIALZ», opening de Jujutsu Kaisen?",
   "o": [
-   "Kenshi Yonezu",
+   "King Gnu",
    "Eve",
    "Vaundy"
   ]
@@ -188,11 +188,11 @@
   ]
  },
  {
-  "p": "¿De qué saga es la canción «Gerudo Valley»?",
+  "p": "¿De qué saga es la canción «One-Winged Angel»?",
   "o": [
-   "The Legend of Zelda",
    "Final Fantasy",
-   "Kingdom Hearts"
+   "Kingdom Hearts",
+   "The Legend of Zelda"
   ]
  }
 ]

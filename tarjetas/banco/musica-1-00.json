@@ -1,35 +1,35 @@
 [
  {
-  "p": "¿Quién canta «Gurenge», el primer opening de Demon Slayer?",
+  "p": "¿Quién canta «Homura», el tema de la película «El tren infinito» de Demon Slayer?",
   "o": [
    "LiSA",
    "Aimer",
-   "YOASOBI"
-  ]
- },
- {
-  "p": "¿Quién canta «Idol», opening de «Oshi no Ko»?",
-  "o": [
-   "YOASOBI",
-   "ONE OK ROCK",
    "Ado"
   ]
  },
  {
-  "deporte": true,
-  "p": "¿Quién canta «Seven Nation Army», el riff que se corea en los estadios?",
+  "p": "En «Oshi no Ko», ¿a qué personaje está dedicada la canción «Idol»?",
   "o": [
-   "The White Stripes",
-   "The Black Keys",
-   "Arctic Monkeys"
+   "Ai Hoshino",
+   "Ruby Hoshino",
+   "Kana Arima"
   ]
  },
  {
-  "p": "¿Quién canta «Enemy», la canción de Arcane?",
+  "deporte": true,
+  "p": "¿Qué himno canta la afición del Liverpool antes de cada partido?",
   "o": [
-   "Imagine Dragons",
-   "K/DA",
-   "Twenty One Pilots"
+   "«You'll Never Walk Alone»",
+   "«Sweet Caroline»",
+   "«Glory Glory»"
+  ]
+ },
+ {
+  "p": "¿Qué rapero canta con Imagine Dragons en «Enemy», de Arcane?",
+  "o": [
+   "JID",
+   "Logic",
+   "Kendrick Lamar"
   ]
  },
  {
@@ -41,27 +41,27 @@
   ]
  },
  {
-  "p": "¿Qué banda canta «Feel Good Inc.»?",
+  "p": "¿Cómo se llama el vocalista animado de Gorillaz?",
   "o": [
-   "Gorillaz",
-   "Blur",
-   "The Prodigy"
+   "2-D",
+   "Murdoc",
+   "Russel"
   ]
  },
  {
-  "p": "¿Quién canta «Stay with Me» (2014)?",
+  "p": "¿Qué tema de James Bond canta Sam Smith?",
   "o": [
-   "Sam Smith",
-   "Lewis Capaldi",
-   "James Arthur"
+   "«Writing's on the Wall»",
+   "«Skyfall»",
+   "«No Time to Die»"
   ]
  },
  {
-  "p": "¿Qué banda canta «Mr. Brightside»?",
+  "p": "¿De qué ciudad es la banda The Killers?",
   "o": [
-   "The Killers",
-   "Arctic Monkeys",
-   "The Strokes"
+   "Las Vegas",
+   "Los Ángeles",
+   "Seattle"
   ]
  },
  {

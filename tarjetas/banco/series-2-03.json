@@ -1,20 +1,20 @@
 [
  {
   "deporte": true,
-  "p": "En «Ted Lasso», ¿qué grita siempre Dani Rojas?",
+  "p": "En «Ted Lasso», ¿qué estrella del fútbol ficha el Richmond en la 3.ª temporada?",
   "o": [
-   "«¡El fútbol es vida!»",
-   "«¡Gol, gol, gol!»",
-   "«¡Vamos, Richmond!»"
+   "Zava",
+   "Jan Maas",
+   "Colin Hughes"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Cobra Kai», ¿qué sensei millonario regresa en la cuarta temporada?",
+  "p": "En «Cobra Kai», ¿quién fue el sensei de John Kreese en Corea?",
   "o": [
-   "Terry Silver",
-   "Chozen",
-   "Mike Barnes"
+   "Kim Sun-Yung",
+   "Chozen Toguchi",
+   "Kang Min-Seok"
   ]
  },
  {
@@ -36,19 +36,19 @@
   ]
  },
  {
-  "p": "En «Stranger Things», ¿cómo se llama el club de Dungeons & Dragons de Eddie?",
+  "p": "En «Stranger Things» 4, ¿con quién vive Eddie Munson en su casa rodante?",
   "o": [
-   "Hellfire Club",
-   "Party Club",
-   "Upside Club"
+   "Con su tío Wayne",
+   "Con su papá",
+   "Con su abuela"
   ]
  },
  {
-  "p": "¿En qué año pasa la primera temporada de «Stranger Things»?",
+  "p": "¿En qué año pasa la cuarta temporada de «Stranger Things»?",
   "o": [
-   "1983",
+   "1986",
    "1985",
-   "1979"
+   "1987"
   ]
  },
  {
@@ -76,11 +76,11 @@
   ]
  },
  {
-  "p": "En «Game of Thrones», ¿a quién le dicen «el Perro»?",
+  "p": "En «Game of Thrones», ¿cómo se quemó la cara Sandor Clegane?",
   "o": [
-   "Sandor Clegane",
-   "Gregor Clegane",
-   "Bronn"
+   "Se la quemó su hermano",
+   "Lo quemó un dragón",
+   "En la batalla del Aguasnegras"
   ]
  },
  {
@@ -92,11 +92,11 @@
   ]
  },
  {
-  "p": "En «The Office», ¿cómo se llama el gato de Angela que Dwight congela?",
+  "p": "En «The Office», ¿con qué senador se casa Angela?",
   "o": [
-   "Sprinkles",
-   "Bandit",
-   "Garbage"
+   "Robert Lipton",
+   "Robert California",
+   "Robert Dunder"
   ]
  },
  {
@@ -108,11 +108,11 @@
   ]
  },
  {
-  "p": "En «Friends», ¿qué número tiene el departamento de Monica?",
+  "p": "En «Friends», ¿de quién era antes el departamento de Monica?",
   "o": [
-   "20",
-   "19",
-   "4"
+   "De su abuela",
+   "De Ross",
+   "De Phoebe"
   ]
  },
  {

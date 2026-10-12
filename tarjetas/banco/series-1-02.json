@@ -19,20 +19,20 @@
  },
  {
   "deporte": true,
-  "p": "En «Gambito de dama», ¿en qué ciudad es el gran torneo final?",
+  "p": "En «Gambito de dama», ¿quién le enseña ajedrez a Beth en el orfanato?",
   "o": [
-   "Moscú",
-   "París",
-   "Nueva York"
+   "El señor Shaibel",
+   "Benny Watts",
+   "Harry Beltik"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Ted Lasso», ¿de qué país es el delantero Dani Rojas?",
+  "p": "En «Ted Lasso», ¿a qué división desciende el Richmond en la 1.ª temporada?",
   "o": [
-   "México",
-   "Argentina",
-   "España"
+   "A la Championship",
+   "A la League One",
+   "A la National League"
   ]
  },
  {
@@ -44,19 +44,19 @@
   ]
  },
  {
-  "p": "En «Johnny Test», ¿cómo se llaman las hermanas genio de Johnny?",
+  "p": "En «Johnny Test», ¿de quién están enamoradas Susan y Mary?",
   "o": [
-   "Susan y Mary",
-   "Sarah y Nazz",
-   "Bubbles y Blossom"
+   "De Gil",
+   "De Bling-Bling Boy",
+   "Del señor Black"
   ]
  },
  {
-  "p": "En «Phineas y Ferb», ¿qué dice Phineas al empezar el día?",
+  "p": "En «Phineas y Ferb», ¿de quién está enamorada Candace?",
   "o": [
-   "«Ya sé lo que vamos a hacer hoy»",
-   "«¡Al infinito y más allá!»",
-   "«¿Qué están haciendo?»"
+   "De Jeremy",
+   "De Buford",
+   "De Django"
   ]
  },
  {
@@ -84,11 +84,11 @@
   ]
  },
  {
-  "p": "En «Bob Esponja», ¿qué licencia nunca logra sacar Bob?",
+  "p": "En «Bob Esponja», ¿qué animal es la señora Puff?",
   "o": [
-   "La de manejar",
-   "La de cocinero",
-   "La de pesca"
+   "Un pez globo",
+   "Una ballena",
+   "Un pulpo"
   ]
  },
  {
@@ -108,27 +108,27 @@
   ]
  },
  {
-  "p": "En «Steven Universe», ¿qué tiene Steven en el ombligo?",
+  "p": "En «Steven Universe», ¿cómo se llama el papá de Steven?",
   "o": [
-   "Una gema",
-   "Un tatuaje",
-   "Un botón"
+   "Greg",
+   "Andy",
+   "Lars"
   ]
  },
  {
-  "p": "¿De qué reality show salió la cantante Yuridia?",
+  "p": "¿Quién conducía «La Academia» en sus primeras generaciones?",
   "o": [
-   "La Academia",
-   "Big Brother",
-   "Operación Triunfo"
+   "Alan Tacher",
+   "Rafael Araneda",
+   "Adal Ramones"
   ]
  },
  {
-  "p": "¿De qué serie es precuela «Better Call Saul»?",
+  "p": "En «Better Call Saul», ¿en qué trabaja Mike al inicio de la serie?",
   "o": [
-   "«Breaking Bad»",
-   "«Narcos»",
-   "«Dexter»"
+   "Cobrador de estacionamiento",
+   "Chofer de taxi",
+   "Cantinero"
   ]
  },
  {
@@ -156,11 +156,11 @@
   ]
  },
  {
-  "p": "En «The Big Bang Theory», ¿de qué país es Raj?",
+  "p": "En «The Big Bang Theory», ¿qué grado académico tiene Howard?",
   "o": [
-   "India",
-   "Pakistán",
-   "Inglaterra"
+   "Maestría",
+   "Doctorado",
+   "Licenciatura"
   ]
  },
  {

@@ -1,0 +1,590 @@
+[
+ {
+  "deporte": true,
+  "p": "¿En qué escudería debutó Checo Pérez en la F1, en 2011?",
+  "o": [
+   "Sauber",
+   "Force India",
+   "Toro Rosso"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Con qué escudería corrió Checo Pérez la temporada 2013?",
+  "o": [
+   "McLaren",
+   "Williams",
+   "Lotus"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué Gran Premio logró Checo Pérez su primer podio en F1?",
+  "o": [
+   "Malasia 2012",
+   "Australia 2012",
+   "Baréin 2014"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué lugar quedó Checo Pérez en el campeonato de pilotos de 2023?",
+  "o": [
+   "2.º",
+   "3.º",
+   "4.º"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Con qué escudería nueva regresó Checo Pérez a la F1 en 2026?",
+  "o": [
+   "Cadillac",
+   "Audi",
+   "Andretti"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué lugar terminó Checo el GP de México de 2021 y el de 2022?",
+  "o": [
+   "3.º",
+   "2.º",
+   "4.º"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué mexicano ganó dos Grandes Premios de F1, en 1967 y 1970?",
+  "o": [
+   "Pedro Rodríguez",
+   "Ricardo Rodríguez",
+   "Moisés Solana"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En la F1, ¿qué tipo de llanta lleva la franja verde en el costado?",
+  "o": [
+   "La intermedia",
+   "La de lluvia extrema",
+   "La dura"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En ajedrez, ¿cómo se llama el mate rápido con dama y alfil sobre f7?",
+  "o": [
+   "Mate del pastor",
+   "Mate del loco",
+   "Mate de Légal"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué estadounidense le ganó el título mundial de ajedrez a Spassky en 1972?",
+  "o": [
+   "Bobby Fischer",
+   "Paul Morphy",
+   "Hikaru Nakamura"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En ajedrez, ¿qué apertura empieza con 1.e4 c5?",
+  "o": [
+   "Defensa siciliana",
+   "Defensa francesa",
+   "Defensa Caro-Kann"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué joven indio se coronó campeón mundial de ajedrez en 2024?",
+  "o": [
+   "Gukesh Dommaraju",
+   "R. Praggnanandhaa",
+   "Viswanathan Anand"
+  ]
+ },
+ {
+  "p": "¿Qué grupo secuestra a Tony Stark en Afganistán en «Iron Man» (2008)?",
+  "o": [
+   "Los Diez Anillos",
+   "A.I.M.",
+   "La Mano"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el villano ruso de «Iron Man 2»?",
+  "o": [
+   "Ivan Vanko",
+   "Justin Hammer",
+   "Aldrich Killian"
+  ]
+ },
+ {
+  "p": "En «Iron Man 3», ¿cómo se llama el actor que finge ser el Mandarín?",
+  "o": [
+   "Trevor Slattery",
+   "Aldrich Killian",
+   "Eric Savin"
+  ]
+ },
+ {
+  "p": "¿Cuántas palabras tiene el código que activa al Soldado del Invierno?",
+  "o": [
+   "10",
+   "7",
+   "12"
+  ]
+ },
+ {
+  "p": "¿Qué científico crea el suero en «Capitán América: El primer vengador»?",
+  "o": [
+   "Abraham Erskine",
+   "Arnim Zola",
+   "Howard Stark"
+  ]
+ },
+ {
+  "p": "¿En qué país es la pelea del aeropuerto de «Capitán América: Civil War»?",
+  "o": [
+   "Alemania",
+   "Austria",
+   "Rusia"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la nave de Star-Lord en la primera «Guardianes de la Galaxia»?",
+  "o": [
+   "La Milano",
+   "La Benatar",
+   "La Santuario"
+  ]
+ },
+ {
+  "p": "¿Qué canción baila Star-Lord al inicio de la primera «Guardianes de la Galaxia»?",
+  "o": [
+   "«Come and Get Your Love»",
+   "«Hooked on a Feeling»",
+   "«Mr. Blue Sky»"
+  ]
+ },
+ {
+  "p": "¿Qué tipo de ser es Ego, el papá de Star-Lord?",
+  "o": [
+   "Un Celestial",
+   "Un Eterno",
+   "Un Kree"
+  ]
+ },
+ {
+  "p": "¿Cuántos futuros posibles vio Doctor Strange en «Infinity War»?",
+  "o": [
+   "14,000,605",
+   "14,000,000",
+   "1,400,605"
+  ]
+ },
+ {
+  "p": "En «Infinity War», ¿en qué ciudad atacan los hijos de Thanos a Wanda y Visión?",
+  "o": [
+   "Edimburgo",
+   "Glasgow",
+   "Dublín"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el enano que forja la nueva arma de Thor en «Infinity War»?",
+  "o": [
+   "Eitri",
+   "Brokk",
+   "Sindri"
+  ]
+ },
+ {
+  "p": "¿En qué estado de EE. UU. cae Thor desterrado en «Thor» (2011)?",
+  "o": [
+   "Nuevo México",
+   "Arizona",
+   "Nevada"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el gladiador de roca que se hace amigo de Thor en «Ragnarok»?",
+  "o": [
+   "Korg",
+   "Miek",
+   "Kraglin"
+  ]
+ },
+ {
+  "p": "En «Thor: Ragnarok», ¿qué número de cazadora usaba Valquiria en Sakaar?",
+  "o": [
+   "142",
+   "66",
+   "451"
+  ]
+ },
+ {
+  "p": "¿Qué demonio de fuego destruye Asgard al final de «Thor: Ragnarok»?",
+  "o": [
+   "Surtur",
+   "Malekith",
+   "Laufey"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la tribu de las montañas que lidera M'Baku en Wakanda?",
+  "o": [
+   "Los Jabari",
+   "Los Dora Milaje",
+   "Los Talokanil"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el reino submarino de Namor en «Wakanda por siempre»?",
+  "o": [
+   "Talokan",
+   "Xibalbá",
+   "Aztlán"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre real del Buitre en «Spider-Man: De regreso a casa»?",
+  "o": [
+   "Adrian Toomes",
+   "Quentin Beck",
+   "Herman Schultz"
+  ]
+ },
+ {
+  "p": "¿Cómo se llaman los lentes con IA que Tony le hereda a Peter Parker?",
+  "o": [
+   "E.D.I.T.H.",
+   "K.A.R.E.N.",
+   "F.R.I.D.A.Y."
+  ]
+ },
+ {
+  "p": "En las películas del Spider-Verso, ¿de qué Tierra venía la araña que picó a Miles?",
+  "o": [
+   "Tierra-42",
+   "Tierra-65",
+   "Tierra-616"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre de nacimiento de Wolverine?",
+  "o": [
+   "James Howlett",
+   "Victor Creed",
+   "Scott Summers"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre real de Ajax, el villano de «Deadpool» (2016)?",
+  "o": [
+   "Francis Freeman",
+   "Wade Wilson",
+   "Nathan Summers"
+  ]
+ },
+ {
+  "p": "¿En qué cómic apareció Spider-Man por primera vez?",
+  "o": [
+   "«Amazing Fantasy» #15",
+   "«The Amazing Spider-Man» #1",
+   "«Tales of Suspense» #39"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la aldea mística escondida de «Shang-Chi»?",
+  "o": [
+   "Ta Lo",
+   "K'un-Lun",
+   "Kamar-Taj"
+  ]
+ },
+ {
+  "p": "En los cómics, ¿quién mata a los papás de Bruce Wayne?",
+  "o": [
+   "Joe Chill",
+   "Tony Zucco",
+   "Carmine Falcone"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre real del Acertijo en los cómics?",
+  "o": [
+   "Edward Nygma",
+   "Oswald Cobblepot",
+   "Jonathan Crane"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre real de Hiedra Venenosa?",
+  "o": [
+   "Pamela Isley",
+   "Harleen Quinzel",
+   "Selina Kyle"
+  ]
+ },
+ {
+  "p": "¿A qué Robin mata el Guasón a golpes en los cómics de 1988?",
+  "o": [
+   "Jason Todd",
+   "Dick Grayson",
+   "Tim Drake"
+  ]
+ },
+ {
+  "p": "¿Qué identidad adopta Dick Grayson cuando deja de ser Robin?",
+  "o": [
+   "Nightwing",
+   "Red Hood",
+   "Red Robin"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el hijo de Batman y Talia al Ghul?",
+  "o": [
+   "Damian Wayne",
+   "Terry McGinnis",
+   "Tim Drake"
+  ]
+ },
+ {
+  "p": "En «Batman inicia», ¿con qué nombre se presenta Ra's al Ghul ante Bruce?",
+  "o": [
+   "Henri Ducard",
+   "Carmine Falcone",
+   "Jonathan Crane"
+  ]
+ },
+ {
+  "p": "¿En qué cómic el Guasón deja paralítica a Barbara Gordon?",
+  "o": [
+   "«La broma asesina»",
+   "«Batman: Año uno»",
+   "«Una muerte en la familia»"
+  ]
+ },
+ {
+  "p": "¿Quién escribió y dibujó «El regreso del Caballero de la Noche»?",
+  "o": [
+   "Frank Miller",
+   "Alan Moore",
+   "Jeph Loeb"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la ciudad kryptoniana que Brainiac encogió en una botella?",
+  "o": [
+   "Kandor",
+   "Argo",
+   "Kryptonópolis"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el jefe de Clark Kent en el Planeta Diario?",
+  "o": [
+   "Perry White",
+   "Jimmy Olsen",
+   "Morgan Edge"
+  ]
+ },
+ {
+  "p": "En los cómics clásicos, ¿qué kryptonita le quita sus poderes a Superman para siempre?",
+  "o": [
+   "La dorada",
+   "La roja",
+   "La azul"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la mamá biológica de Superman?",
+  "o": [
+   "Lara",
+   "Alura",
+   "Martha"
+  ]
+ },
+ {
+  "p": "¿Quién fue el primer Flash, el de la Edad de Oro?",
+  "o": [
+   "Jay Garrick",
+   "Wally West",
+   "Bart Allen"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la mamá de la Mujer Maravilla?",
+  "o": [
+   "Hipólita",
+   "Antíope",
+   "Menalipe"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el medio hermano de Aquaman que quiere atacar la superficie?",
+  "o": [
+   "Orm",
+   "Nereus",
+   "Vulko"
+  ]
+ },
+ {
+  "p": "¿De qué reino submarino es originaria Mera en «Aquaman» (2018)?",
+  "o": [
+   "Xebel",
+   "Brine",
+   "La Fosa"
+  ]
+ },
+ {
+  "p": "¿En qué planeta tienen su base los Linternas Verdes?",
+  "o": [
+   "Oa",
+   "Korugar",
+   "Apokolips"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre real de Chico Bestia?",
+  "o": [
+   "Garfield Logan",
+   "Victor Stone",
+   "Wally West"
+  ]
+ },
+ {
+  "p": "¿De qué planeta es Starfire, de los Jóvenes Titanes?",
+  "o": [
+   "Tamaran",
+   "Thanagar",
+   "Krypton"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el protagonista de «Blue Beetle» (2023)?",
+  "o": [
+   "Jaime Reyes",
+   "Ted Kord",
+   "Dan Garrett"
+  ]
+ },
+ {
+  "p": "¿Cuál era el número de stormtrooper de Finn?",
+  "o": [
+   "FN-2187",
+   "TK-421",
+   "CT-7567"
+  ]
+ },
+ {
+  "p": "¿En qué planeta tropical es la batalla final de «Rogue One»?",
+  "o": [
+   "Scarif",
+   "Jedha",
+   "Eadu"
+  ]
+ },
+ {
+  "p": "¿Qué científico diseñó la Estrella de la Muerte en «Rogue One»?",
+  "o": [
+   "Galen Erso",
+   "Orson Krennic",
+   "Saw Gerrera"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre de pila del emperador Palpatine?",
+  "o": [
+   "Sheev",
+   "Orson",
+   "Cassian"
+  ]
+ },
+ {
+  "p": "¿Quién fue el maestro Sith de Palpatine?",
+  "o": [
+   "Darth Plagueis",
+   "Darth Bane",
+   "Darth Tyranus"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la capitana stormtrooper de armadura plateada?",
+  "o": [
+   "Phasma",
+   "Pryde",
+   "Hux"
+  ]
+ },
+ {
+  "p": "¿En qué planeta está el castillo de Maz Kanata?",
+  "o": [
+   "Takodana",
+   "Jakku",
+   "D'Qar"
+  ]
+ },
+ {
+  "p": "¿En qué planeta de sal roja es la batalla final de «Los últimos Jedi»?",
+  "o": [
+   "Crait",
+   "Hoth",
+   "Exegol"
+  ]
+ },
+ {
+  "p": "¿Quién le corta el brazo a Anakin en «El ataque de los clones»?",
+  "o": [
+   "El Conde Dooku",
+   "Jango Fett",
+   "Obi-Wan Kenobi"
+  ]
+ },
+ {
+  "p": "¿Quién le corta la cabeza a Jango Fett en Geonosis?",
+  "o": [
+   "Mace Windu",
+   "Yoda",
+   "Obi-Wan Kenobi"
+  ]
+ },
+ {
+  "p": "¿Cuántas formas de comunicación domina C-3PO?",
+  "o": [
+   "Más de 6 millones",
+   "Más de 600,000",
+   "Más de 60 millones"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el ewok que encuentra a Leia en Endor?",
+  "o": [
+   "Wicket",
+   "Teebo",
+   "Chirpa"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el cazarrecompensas al que Han mata en la cantina de Mos Eisley?",
+  "o": [
+   "Greedo",
+   "Bossk",
+   "Dengar"
+  ]
+ },
+ {
+  "p": "¿En qué planeta mata Obi-Wan al General Grievous?",
+  "o": [
+   "Utapau",
+   "Mustafar",
+   "Kashyyyk"
+  ]
+ }
+]

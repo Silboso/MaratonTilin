@@ -28,11 +28,11 @@
  },
  {
   "deporte": true,
-  "p": "En «Rocky», ¿qué golpea Rocky como costal en el trabajo de Paulie?",
+  "p": "En «Million Dollar Baby», ¿qué apodo en gaélico le pone Frankie a Maggie?",
   "o": [
-   "Reses congeladas",
-   "Llantas de camión",
-   "Costales de harina"
+   "Mo Cuishle",
+   "Sláinte",
+   "A Chara"
   ]
  },
  {
@@ -60,11 +60,11 @@
   ]
  },
  {
-  "p": "En «Viernes 13» (1980), ¿quién es el asesino del campamento?",
+  "p": "En el primer «Viernes 13», ¿quién es la única sobreviviente?",
   "o": [
-   "La mamá de Jason",
-   "Jason Voorhees",
-   "El cocinero del campamento"
+   "Alice",
+   "Ginny",
+   "Chris"
   ]
  },
  {
@@ -124,11 +124,11 @@
   ]
  },
  {
-  "p": "En «Piratas del Caribe», ¿hacia dónde apunta la brújula de Jack Sparrow?",
+  "p": "En «Piratas del Caribe», ¿qué diosa del mar es en realidad Tia Dalma?",
   "o": [
-   "A lo que más deseas",
-   "Al norte verdadero",
-   "Al tesoro más cercano"
+   "Calipso",
+   "Anfitrite",
+   "Tetis"
   ]
  },
  {
@@ -148,11 +148,11 @@
   ]
  },
  {
-  "p": "¿Cuál es el apellido de Tanjiro en «Demon Slayer»?",
+  "p": "En «Demon Slayer», ¿qué herrero forja las espadas de Tanjiro?",
   "o": [
-   "Kamado",
-   "Agatsuma",
-   "Hashibira"
+   "Hotaru Haganezuka",
+   "Kozo Kanamori",
+   "Tecchin Tecchikawahara"
   ]
  },
  {
@@ -164,19 +164,19 @@
   ]
  },
  {
-  "p": "En «Kill Bill», ¿cuál es el nombre clave de la Novia?",
+  "p": "En «Kill Bill Vol. 2», ¿con qué técnica mata la Novia a Bill?",
   "o": [
-   "Mamba Negra",
-   "Boca de Algodón",
-   "Cabeza de Cobre"
+   "Los cinco puntos del corazón",
+   "La grulla blanca",
+   "La garra del tigre"
   ]
  },
  {
-  "p": "En «Jurassic Park», ¿qué personaje dice «La vida se abre camino»?",
+  "p": "En «Jurassic Park», ¿en qué esconde Nedry los embriones robados?",
   "o": [
-   "Ian Malcolm",
-   "Alan Grant",
-   "John Hammond"
+   "En una lata de espuma",
+   "En un termo de café",
+   "En una lonchera"
   ]
  },
  {

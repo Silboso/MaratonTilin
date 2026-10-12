@@ -33,11 +33,11 @@
   ]
  },
  {
-  "p": "¿En qué película de terror el villano dice «¿Quieres jugar un juego?»?",
+  "p": "En «Destino final 2», ¿qué provoca la carambola en la carretera?",
   "o": [
-   "Saw",
-   "Scream",
-   "El Conjuro"
+   "Troncos que caen de un tráiler",
+   "Un camión de gasolina",
+   "Un auto en sentido contrario"
   ]
  },
  {
@@ -49,29 +49,29 @@
   ]
  },
  {
-  "p": "En «Fullmetal Alchemist», ¿qué perdió Alphonse Elric?",
+  "p": "En «Fullmetal Alchemist», ¿qué rango militar tiene Roy Mustang?",
   "o": [
-   "Todo su cuerpo",
-   "Un brazo y una pierna",
-   "Sus recuerdos"
+   "Coronel",
+   "General",
+   "Capitán"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Kuroko no Basket», ¿qué hace especial a Tetsuya Kuroko?",
+  "p": "En «Kuroko no Basket», ¿qué número usa Kuroko en Seirin?",
   "o": [
-   "Casi nadie lo nota en la cancha",
-   "Encesta desde media cancha",
-   "Salta más alto que nadie"
+   "11",
+   "10",
+   "7"
   ]
  },
  {
   "deporte": true,
-  "p": "En «Rápidos y Furiosos 5», ¿en qué país roban la bóveda?",
+  "p": "En «Rápidos y Furiosos 5», ¿qué auto robado del tren trae el chip?",
   "o": [
-   "Brasil",
-   "México",
-   "Colombia"
+   "Ford GT40",
+   "Corvette Grand Sport",
+   "De Tomaso Pantera"
   ]
  },
  {
@@ -83,11 +83,11 @@
   ]
  },
  {
-  "p": "En «Re:Zero», ¿qué le pasa a Subaru cada vez que muere?",
+  "p": "En «Re:Zero», ¿qué nombre falso le da Emilia a Subaru al conocerlo?",
   "o": [
-   "Regresa a un punto anterior",
-   "Despierta en otro mundo",
-   "Pierde un recuerdo"
+   "Satella",
+   "Priscilla",
+   "Crusch"
   ]
  },
  {
@@ -99,11 +99,11 @@
   ]
  },
  {
-  "p": "En «Intensa-Mente», ¿cómo se llama el amigo imaginario de Riley?",
+  "p": "En «Intensa-Mente», ¿qué verdura odia Riley desde bebé?",
   "o": [
-   "Bing Bong",
-   "Ding Dong",
-   "Pim Pom"
+   "El brócoli",
+   "La espinaca",
+   "La coliflor"
   ]
  }
 ]

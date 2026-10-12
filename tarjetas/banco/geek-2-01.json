@@ -10,11 +10,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Qué escoba le regala Sirius a Harry?",
+  "p": "¿Quién es la capitana de Gryffindor en Quidditch tras irse Oliver Wood?",
   "o": [
-   "Saeta de Fuego",
-   "Nimbus 2001",
-   "Barredora 11"
+   "Angelina Johnson",
+   "Katie Bell",
+   "Alicia Spinnet"
   ]
  },
  {
@@ -73,11 +73,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Cómo se llamaba el balón del Mundial 2010, famoso por raro?",
+  "p": "¿Qué marca de relojes es la cronometradora oficial de los Juegos Olímpicos?",
   "o": [
-   "Jabulani",
-   "Brazuca",
-   "Teamgeist"
+   "Omega",
+   "Rolex",
+   "TAG Heuer"
   ]
  },
  {
@@ -127,11 +127,11 @@
  },
  {
   "deporte": true,
-  "p": "¿Con qué escudería ganó Checo Pérez su primera carrera de F1, en 2020?",
+  "p": "¿Qué piloto reemplazó a Checo Pérez en Red Bull para 2025?",
   "o": [
-   "Racing Point",
-   "Red Bull",
-   "Force India"
+   "Liam Lawson",
+   "Yuki Tsunoda",
+   "Isack Hadjar"
   ]
  },
  {
@@ -154,43 +154,43 @@
  },
  {
   "deporte": true,
-  "p": "¿En qué año ganó Checo Pérez el Gran Premio de Mónaco?",
+  "p": "¿Qué piloto ganó el Gran Premio de la Ciudad de México en 2024?",
   "o": [
-   "2022",
-   "2021",
-   "2023"
+   "Carlos Sainz",
+   "Lando Norris",
+   "Charles Leclerc"
   ]
  },
  {
-  "p": "¿Qué Gema del Infinito estaba dentro del Teseracto?",
+  "p": "¿Dentro de qué objeto estaba la Gema de la Mente?",
   "o": [
-   "La del Espacio",
-   "La de la Mente",
-   "La del Poder"
+   "El cetro de Loki",
+   "El Orbe",
+   "El guantelete"
   ]
  },
  {
-  "p": "¿En qué planeta consigue Thanos la Gema del Alma?",
+  "p": "¿Quién custodia la Gema del Alma en Vormir?",
   "o": [
-   "Vormir",
-   "Xandar",
-   "Titán"
+   "Cráneo Rojo",
+   "Heimdall",
+   "El Coleccionista"
   ]
  },
  {
-  "p": "¿A quién sacrifica Thanos para conseguir la Gema del Alma?",
+  "p": "En Titán, ¿quién golpea a Thanos y arruina el plan para quitarle el guantelete?",
   "o": [
-   "A Gamora",
-   "A Nebula",
-   "A Loki"
+   "Star-Lord",
+   "Drax",
+   "Mantis"
   ]
  },
  {
-  "p": "¿Quién se sacrifica en Vormir en «Avengers: Endgame»?",
+  "p": "En «Endgame», ¿quién trae de vuelta a la Tierra a Tony y Nebula desde el espacio?",
   "o": [
-   "Black Widow",
-   "Ojo de Halcón",
-   "Visión"
+   "Capitana Marvel",
+   "Thor",
+   "Rocket"
   ]
  },
  {
@@ -202,35 +202,35 @@
   ]
  },
  {
-  "p": "¿Qué actor interpretó a Bane en «El caballero de la noche asciende»?",
+  "p": "¿Qué actor interpretó al Acertijo en «The Batman» (2022)?",
   "o": [
-   "Tom Hardy",
-   "Cillian Murphy",
-   "Aaron Eckhart"
+   "Paul Dano",
+   "Colin Farrell",
+   "Barry Keoghan"
   ]
  },
  {
-  "p": "¿Qué organización estaba infiltrada dentro de S.H.I.E.L.D. en «Capitán América 2»?",
+  "p": "¿Quién es el líder de HYDRA dentro de S.H.I.E.L.D. en «Capitán América 2»?",
   "o": [
-   "HYDRA",
-   "A.I.M.",
-   "La Mano"
+   "Alexander Pierce",
+   "Arnim Zola",
+   "Brock Rumlow"
   ]
  },
  {
-  "p": "¿Cómo se llama el villano de la primera «Black Panther»?",
+  "p": "¿Cuál era el nombre wakandiano de nacimiento de Killmonger?",
   "o": [
-   "Killmonger",
-   "Klaue",
-   "M'Baku"
+   "N'Jadaka",
+   "N'Jobu",
+   "T'Chaka"
   ]
  },
  {
-  "p": "¿Quién es el Soldado del Invierno?",
+  "p": "En «Capitán América: Civil War», ¿en qué ciudad se escondía Bucky?",
   "o": [
-   "Bucky Barnes",
-   "Sam Wilson",
-   "John Walker"
+   "Bucarest",
+   "Viena",
+   "Budapest"
   ]
  },
  {
@@ -250,11 +250,11 @@
   ]
  },
  {
-  "p": "En «Joker» (2019), ¿cuál es el nombre del Guasón?",
+  "p": "¿Qué actor interpreta al conductor Murray Franklin en «Joker» (2019)?",
   "o": [
-   "Arthur Fleck",
-   "Jack Napier",
-   "Jerome Valeska"
+   "Robert De Niro",
+   "Al Pacino",
+   "Joe Pesci"
   ]
  },
  {
@@ -274,11 +274,11 @@
   ]
  },
  {
-  "p": "¿Qué villano le rompió la espalda a Batman?",
+  "p": "¿Qué villano de Batman se llama Waylon Jones?",
   "o": [
-   "Bane",
-   "El Guasón",
-   "Ra's al Ghul"
+   "Killer Croc",
+   "Cara de Barro",
+   "El Sombrerero Loco"
   ]
  },
  {
@@ -290,11 +290,11 @@
   ]
  },
  {
-  "p": "¿Qué superhéroe de DC es Arthur Curry?",
+  "p": "¿Qué superhéroe de DC es J'onn J'onzz?",
   "o": [
-   "Aquaman",
-   "Flash",
-   "Cyborg"
+   "El Detective Marciano",
+   "Firestorm",
+   "El Átomo"
   ]
  },
  {
@@ -314,75 +314,75 @@
   ]
  },
  {
-  "p": "¿Qué cazarrecompensas de armadura verde se lleva a Han Solo congelado?",
+  "p": "¿En qué planeta nació Boba Fett?",
   "o": [
-   "Boba Fett",
-   "Jango Fett",
-   "Din Djarin"
+   "Kamino",
+   "Kashyyyk",
+   "Mandalore"
   ]
  },
  {
-  "p": "¿Qué número de episodio es «Una nueva esperanza»?",
+  "p": "¿En qué año se estrenó la primera película de Star Wars?",
   "o": [
-   "IV",
-   "I",
-   "VI"
+   "1977",
+   "1980",
+   "1975"
   ]
  },
  {
-  "p": "¿Qué cristal le da poder a los sables de luz?",
+  "p": "¿De qué color es el sable de luz de Luke en «El regreso del Jedi»?",
   "o": [
-   "Kyber",
-   "Beskar",
-   "Coaxium"
+   "Verde",
+   "Azul",
+   "Morado"
   ]
  },
  {
-  "p": "¿En qué planeta de hielo se esconde la base rebelde en «El Imperio contraataca»?",
+  "p": "¿Qué animales montan los rebeldes en la nieve de Hoth?",
   "o": [
-   "Hoth",
-   "Dagobah",
-   "Bespin"
+   "Tauntauns",
+   "Banthas",
+   "Dewbacks"
   ]
  },
  {
-  "p": "¿Qué planeta destruye la Estrella de la Muerte en «Una nueva esperanza»?",
+  "p": "¿Qué gobernador imperial comanda la Estrella de la Muerte en el Episodio IV?",
   "o": [
-   "Alderaan",
-   "Tatooine",
-   "Naboo"
+   "Tarkin",
+   "Krennic",
+   "Thrawn"
   ]
  },
  {
-  "p": "¿Quién mata a Han Solo en «El despertar de la Fuerza»?",
+  "p": "¿Qué arma de la Primera Orden destruye la República en «El despertar de la Fuerza»?",
   "o": [
-   "Kylo Ren",
-   "Snoke",
-   "El General Hux"
+   "La Base Starkiller",
+   "La Estrella de la Muerte II",
+   "El Supremacía"
   ]
  },
  {
-  "p": "¿Cuáles son las tres Reliquias de la Muerte?",
+  "p": "¿Cuál de los tres hermanos Peverell recibió la capa invisible?",
   "o": [
-   "Varita, piedra y capa",
-   "Copa, diadema y relicario",
-   "Espada, anillo y diario"
+   "Ignotus",
+   "Antioch",
+   "Cadmus"
   ]
  },
  {
-  "p": "¿Qué Horrocrux destruye Harry en «La cámara secreta»?",
+  "p": "¿Quién destruye el relicario de Slytherin con la espada de Gryffindor?",
   "o": [
-   "El diario de Tom Riddle",
-   "El anillo de Gaunt",
-   "La copa de Hufflepuff"
+   "Ron Weasley",
+   "Harry Potter",
+   "Hermione Granger"
   ]
  },
  {
-  "p": "¿En qué animal se convierte el patronus de Harry?",
+  "p": "¿Qué forma tiene el patronus de Severus Snape?",
   "o": [
-   "Un ciervo",
-   "Una nutria",
-   "Un fénix"
+   "Una cierva",
+   "Un cuervo",
+   "Un lobo"
   ]
  },
  {
@@ -402,19 +402,19 @@
   ]
  },
  {
-  "p": "¿Qué criatura es Buckbeak?",
+  "p": "¿Qué criaturas invisibles jalan los carruajes de Hogwarts?",
   "o": [
-   "Un hipogrifo",
-   "Un thestral",
-   "Un grifo"
+   "Thestrals",
+   "Hipogrifos",
+   "Centauros"
   ]
  },
  {
-  "p": "¿Qué mortífago se hizo pasar por Ojoloco Moody con poción multijugos?",
+  "p": "¿Qué planta come Harry para respirar bajo el agua en la segunda prueba?",
   "o": [
-   "Barty Crouch Jr.",
-   "Quirinus Quirrell",
-   "Gilderoy Lockhart"
+   "Branquialgas",
+   "Mandrágora",
+   "Lazo del diablo"
   ]
  },
  {
@@ -450,11 +450,11 @@
   ]
  },
  {
-  "p": "¿Cómo se llamaba Gollum antes de corromperse con el Anillo?",
+  "p": "¿Cómo se llama la araña gigante que pica a Frodo?",
   "o": [
-   "Sméagol",
-   "Déagol",
-   "Gríma"
+   "Ella-Laraña",
+   "Ungoliant",
+   "Aragog"
   ]
  },
  {
@@ -530,11 +530,11 @@
   ]
  },
  {
-  "p": "En el Monopoly clásico, ¿cuánto cobras al pasar por la Salida?",
+  "p": "En UNO, ¿cuántos puntos necesitas para ganar la partida completa?",
   "o": [
-   "$200",
-   "$100",
-   "$500"
+   "500",
+   "1,000",
+   "300"
   ]
  },
  {
@@ -554,43 +554,43 @@
   ]
  },
  {
-  "p": "¿Qué significan las siglas HTTP?",
+  "p": "¿Qué significa la «G» en las redes móviles 4G y 5G?",
   "o": [
-   "HyperText Transfer Protocol",
-   "High Tech Transfer Program",
-   "HyperText Tool Protocol"
+   "Generación",
+   "Gigahertz",
+   "Global"
   ]
  },
  {
-  "p": "¿Qué significan las siglas URL?",
+  "p": "¿Qué país es dueño del dominio «.tv», que vende a sitios de video?",
   "o": [
-   "Uniform Resource Locator",
-   "Universal Read Link",
-   "User Resource Line"
+   "Tuvalu",
+   "Tonga",
+   "Tailandia"
   ]
  },
  {
-  "p": "¿Qué significan las siglas SSD?",
+  "p": "¿Cuánto cabía en un DVD normal de una sola capa?",
   "o": [
-   "Solid State Drive",
-   "Super Speed Disk",
-   "System Storage Device"
+   "4.7 GB",
+   "700 MB",
+   "25 GB"
   ]
  },
  {
-  "p": "¿Qué significan las siglas LED?",
+  "p": "¿Qué significan las siglas de las pantallas LCD?",
   "o": [
-   "Light Emitting Diode",
-   "Low Energy Device",
-   "Light Electric Display"
+   "Liquid Crystal Display",
+   "Light Color Diode",
+   "Low Contrast Display"
   ]
  },
  {
-  "p": "¿En qué año se fundó Google?",
+  "p": "¿Qué número inspiró el nombre de Google?",
   "o": [
-   "1998",
-   "2001",
-   "1994"
+   "Un 1 seguido de 100 ceros",
+   "Un 1 seguido de 1,000 ceros",
+   "Un 1 seguido de 10 ceros"
   ]
  },
  {
@@ -602,27 +602,27 @@
   ]
  },
  {
-  "p": "¿Qué matemático descifró la máquina Enigma en la Segunda Guerra Mundial?",
+  "p": "¿Cómo se llamó en México la película de 2014 sobre Alan Turing?",
   "o": [
-   "Alan Turing",
-   "John von Neumann",
-   "Charles Babbage"
+   "«El código Enigma»",
+   "«Una mente brillante»",
+   "«La teoría del todo»"
   ]
  },
  {
-  "p": "¿Cuántos bits tiene un byte?",
+  "p": "¿Qué unidad de almacenamiento sigue después del terabyte?",
   "o": [
-   "8",
-   "16",
-   "4"
+   "Petabyte",
+   "Exabyte",
+   "Zettabyte"
   ]
  },
  {
-  "p": "¿En qué año compró Elon Musk Twitter?",
+  "p": "¿Cuánto pagó Elon Musk por Twitter, en dólares?",
   "o": [
-   "2022",
-   "2020",
-   "2024"
+   "44 mil millones",
+   "4 mil millones",
+   "100 mil millones"
   ]
  },
  {
@@ -666,11 +666,11 @@
   ]
  },
  {
-  "p": "¿Cuántas lunas tiene Marte?",
+  "p": "¿Cómo se llaman las dos lunas de Marte?",
   "o": [
-   "2",
-   "1",
-   "4"
+   "Fobos y Deimos",
+   "Ío y Europa",
+   "Titán y Rea"
   ]
  },
  {
@@ -682,11 +682,11 @@
   ]
  },
  {
-  "p": "¿Quién descubrió con su telescopio cuatro lunas de Júpiter en 1610?",
+  "p": "¿Qué astrónomo demostró en los años 20 que el universo se expande?",
   "o": [
-   "Galileo Galilei",
-   "Nicolás Copérnico",
-   "Johannes Kepler"
+   "Edwin Hubble",
+   "Carl Sagan",
+   "Stephen Hawking"
   ]
  },
  {
@@ -706,27 +706,27 @@
   ]
  },
  {
-  "p": "¿Con qué galaxia vecina chocará la Vía Láctea en unos miles de millones de años?",
+  "p": "¿Cuál es la estrella más cercana al Sol?",
   "o": [
-   "Andrómeda",
-   "Triángulo",
-   "Sombrero"
+   "Próxima Centauri",
+   "Sirio",
+   "Betelgeuse"
   ]
  },
  {
-  "p": "¿A qué velocidad aproximada viaja la luz?",
+  "p": "¿Cuánto tarda la luz del Sol en llegar a la Tierra?",
   "o": [
-   "300,000 km por segundo",
-   "30,000 km por segundo",
-   "3 millones de km por segundo"
+   "Unos 8 minutos",
+   "Unos 8 segundos",
+   "Unas 8 horas"
   ]
  },
  {
-  "p": "¿Qué telescopio espacial se lanzó en 2021 como sucesor del Hubble?",
+  "p": "¿En qué año se lanzó el telescopio espacial Hubble?",
   "o": [
-   "James Webb",
-   "Kepler",
-   "Spitzer"
+   "1990",
+   "1985",
+   "2000"
   ]
  },
  {
@@ -754,19 +754,19 @@
   ]
  },
  {
-  "p": "¿Qué dios japonés de las tormentas da nombre a una técnica del Sharingan en «Naruto»?",
+  "p": "¿Qué bestia mítica nombra la técnica de rayo con la que Sasuke ataca a Itachi?",
   "o": [
-   "Susanoo",
-   "Raijin",
-   "Izanagi"
+   "Kirin",
+   "Raijū",
+   "Nue"
   ]
  },
  {
-  "p": "¿Qué diosa japonesa del sol da nombre a las llamas negras de Itachi?",
+  "p": "¿Cómo se llama la espada que sella del Susanoo de Itachi?",
   "o": [
-   "Amaterasu",
-   "Tsukuyomi",
-   "Izanami"
+   "Espada de Totsuka",
+   "Kusanagi",
+   "Samehada"
   ]
  },
  {
@@ -778,27 +778,27 @@
   ]
  },
  {
-  "p": "En «Percy Jackson», ¿qué criatura es Grover, el mejor amigo de Percy?",
+  "p": "¿Cómo se llama la espada de Percy Jackson?",
   "o": [
-   "Un sátiro",
-   "Un centauro",
-   "Un cíclope"
+   "Contracorriente",
+   "Tempestad",
+   "Maremoto"
   ]
  },
  {
-  "p": "¿Qué héroe griego le cortó la cabeza a Medusa?",
+  "p": "En «God of War» (2018), ¿qué buscan hacer Kratos y Atreus con las cenizas de Faye?",
   "o": [
-   "Perseo",
-   "Hércules",
-   "Aquiles"
+   "Llevarlas al pico más alto",
+   "Enterrarlas en Midgard",
+   "Echarlas al mar"
   ]
  },
  {
-  "p": "¿Qué criatura japonesa del agua, con un plato en la cabeza, sale en muchos animes?",
+  "p": "En «Naruto», ¿qué animal de leyenda japonesa es Shukaku, el bijū de Gaara?",
   "o": [
-   "Kappa",
-   "Tengu",
-   "Oni"
+   "Un tanuki",
+   "Un zorro",
+   "Un gato"
   ]
  },
  {
@@ -826,25 +826,25 @@
   ]
  },
  {
-  "p": "¿Qué animal es Tux, la mascota de Linux?",
+  "p": "¿Quién creó el sistema operativo Linux?",
   "o": [
-   "Un pingüino",
-   "Un zorro",
-   "Un elefante"
+   "Linus Torvalds",
+   "Richard Stallman",
+   "Steve Wozniak"
   ]
  },
  {
-  "p": "¿Qué significa «IP» en «dirección IP»?",
+  "p": "¿Qué significan las siglas del formato de imagen PNG?",
   "o": [
-   "Internet Protocol",
-   "Internal Program",
-   "Identity Page"
+   "Portable Network Graphics",
+   "Picture Network Group",
+   "Pixel Native Graphics"
   ]
  },
  {
-  "p": "¿Cuál es el elemento más abundante del universo?",
+  "p": "¿Cuál es el segundo elemento más abundante del universo?",
   "o": [
-   "Hidrógeno",
+   "Helio",
    "Oxígeno",
    "Carbono"
   ]
@@ -858,27 +858,27 @@
   ]
  },
  {
-  "p": "¿Cómo se llamaba la perrita que fue el primer animal en orbitar la Tierra?",
+  "p": "¿Cómo se llamaba el primer satélite artificial, lanzado en 1957?",
   "o": [
-   "Laika",
-   "Belka",
-   "Lassie"
+   "Sputnik 1",
+   "Vostok 1",
+   "Explorer 1"
   ]
  },
  {
-  "p": "¿Quién fue el segundo hombre en pisar la Luna?",
+  "p": "¿Qué astronauta del Apolo 11 se quedó en órbita sin pisar la Luna?",
   "o": [
-   "Buzz Aldrin",
    "Michael Collins",
-   "John Glenn"
+   "John Glenn",
+   "Jim Lovell"
   ]
  },
  {
-  "p": "¿Cómo se llama la reina de Wakanda, mamá de T'Challa?",
+  "p": "¿A qué personaje interpreta Lupita Nyong'o en «Black Panther»?",
   "o": [
-   "Ramonda",
+   "Nakia",
    "Okoye",
-   "Nakia"
+   "Shuri"
   ]
  },
  {
@@ -890,19 +890,19 @@
   ]
  },
  {
-  "p": "¿Qué personaje de Star Wars dice el famoso «Hello there»?",
+  "p": "¿Qué nombre usa Obi-Wan mientras vive escondido en Tatooine?",
   "o": [
-   "Obi-Wan Kenobi",
-   "Han Solo",
-   "Qui-Gon Jinn"
+   "Ben",
+   "Owen",
+   "Cliegg"
   ]
  },
  {
-  "p": "¿Cómo se llama la serpiente de Voldemort?",
+  "p": "¿A quién mata Nagini en «Las Reliquias de la Muerte»?",
   "o": [
-   "Nagini",
-   "Basilisco",
-   "Aragog"
+   "A Severus Snape",
+   "A Remus Lupin",
+   "A Ojoloco Moody"
   ]
  }
 ]

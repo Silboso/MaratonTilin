@@ -1,0 +1,590 @@
+[
+ {
+  "deporte": true,
+  "p": "¿En qué Mario Kart apareció por primera vez el caparazón azul?",
+  "o": [
+   "Mario Kart 64",
+   "Super Mario Kart",
+   "Mario Kart: Double Dash!!"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Inazuma Eleven», ¿cuál es la supertécnica de tiro de Axel Blaze?",
+  "o": [
+   "Tornado de Fuego",
+   "Mano Celestial",
+   "Ventisca Eterna"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué juego debutó Waluigi?",
+  "o": [
+   "Mario Tennis (N64)",
+   "Mario Party 3",
+   "Mario Golf (N64)"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "Además de básquet, vóleibol y hockey, ¿qué deporte trae «Mario Sports Mix»?",
+  "o": [
+   "Quemados",
+   "Béisbol",
+   "Tenis"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué Juegos Olímpicos se basó el primer «Mario & Sonic»?",
+  "o": [
+   "Pekín 2008",
+   "Londres 2012",
+   "Atenas 2004"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Wii Sports», ¿cuántos puntos de habilidad necesitas para llegar a «Pro»?",
+  "o": [
+   "1,000",
+   "500",
+   "2,000"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Punch-Out!!», ¿de qué país es Bald Bull?",
+  "o": [
+   "Turquía",
+   "Rusia",
+   "España"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué canción de Blur sonaba en «FIFA: Road to World Cup 98»?",
+  "o": [
+   "«Song 2»",
+   "«Parklife»",
+   "«Girls & Boys»"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quién es el protagonista del modo historia «El Camino» de FIFA 17?",
+  "o": [
+   "Alex Hunter",
+   "Danny Williams",
+   "Kim Hunter"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cuál fue el primer Tony Hawk que te dejó bajarte de la patineta y caminar?",
+  "o": [
+   "Tony Hawk's Underground",
+   "Tony Hawk's Pro Skater 4",
+   "Tony Hawk's American Wasteland"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En Rocket League, ¿cuánto turbo te da cada pad chico de la cancha?",
+  "o": [
+   "12",
+   "25",
+   "33"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Inazuma Eleven», ¿quién es el capitán de la Royal Academy?",
+  "o": [
+   "Jude Sharp",
+   "David Samford",
+   "Axel Blaze"
+  ]
+ },
+ {
+  "p": "En Pokémon Rojo y Azul, ¿qué Pokémon te vende un señor por 500 en la Ruta 4?",
+  "o": [
+   "Magikarp",
+   "Psyduck",
+   "Slowpoke"
+  ]
+ },
+ {
+  "p": "En el Mt. Moon de Rojo y Azul, ¿qué fósil puedes escoger además del Fósil Domo?",
+  "o": [
+   "Fósil Hélix",
+   "Ámbar Viejo",
+   "Fósil Raíz"
+  ]
+ },
+ {
+  "p": "En Oro y Plata, ¿qué Pokémon bloquea la Ruta 36 y despierta al regarlo?",
+  "o": [
+   "Sudowoodo",
+   "Snorlax",
+   "Tangela"
+  ]
+ },
+ {
+  "p": "¿Quién es el campeón de la Liga Pokémon en Rubí y Zafiro?",
+  "o": [
+   "Máximo (Steven)",
+   "Plubio (Wallace)",
+   "Norman"
+  ]
+ },
+ {
+  "p": "En Diamante y Perla, ¿qué Pokémon legendario vive en el Lago Agudeza?",
+  "o": [
+   "Uxie",
+   "Mesprit",
+   "Azelf"
+  ]
+ },
+ {
+  "p": "¿Cuántos Pokémon nuevos trajeron Pokémon Negro y Blanco?",
+  "o": [
+   "156",
+   "151",
+   "107"
+  ]
+ },
+ {
+  "p": "¿Qué Pokémon tiene solo 1 PS y solo le hacen daño los ataques súper efectivos?",
+  "o": [
+   "Shedinja",
+   "Spiritomb",
+   "Duskull"
+  ]
+ },
+ {
+  "p": "¿Qué Pokémon evoluciona en Milotic si le subes la Belleza?",
+  "o": [
+   "Feebas",
+   "Luvdisc",
+   "Magikarp"
+  ]
+ },
+ {
+  "p": "En la 1.ª generación, por un error, ¿qué tipo no le hacía nada al tipo Psíquico?",
+  "o": [
+   "Fantasma",
+   "Bicho",
+   "Veneno"
+  ]
+ },
+ {
+  "p": "En Pokémon Rojo y Azul, ¿qué MO te da el capitán del S.S. Anne?",
+  "o": [
+   "Corte",
+   "Fuerza",
+   "Surf"
+  ]
+ },
+ {
+  "p": "¿El fantasma de qué Pokémon te cierra el paso en la Torre Pokémon de Pueblo Lavanda?",
+  "o": [
+   "Marowak",
+   "Gengar",
+   "Haunter"
+  ]
+ },
+ {
+  "p": "¿Qué líder de gimnasio de Johto tiene el temido Miltank?",
+  "o": [
+   "Blanca (Whitney)",
+   "Yasmina (Jasmine)",
+   "Débora (Clair)"
+  ]
+ },
+ {
+  "p": "En «Ocarina of Time», ¿de qué templo es sabio Darunia?",
+  "o": [
+   "Del Fuego",
+   "Del Bosque",
+   "Del Espíritu"
+  ]
+ },
+ {
+  "p": "En «Ocarina of Time», ¿cómo se llama el dueño del Rancho Lon Lon?",
+  "o": [
+   "Talon",
+   "Ingo",
+   "Mido"
+  ]
+ },
+ {
+  "p": "¿Cuántas máscaras hay en total en «Majora's Mask»?",
+  "o": [
+   "24",
+   "20",
+   "30"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el mundo paralelo donde pasa «Majora's Mask»?",
+  "o": [
+   "Termina",
+   "Holodrum",
+   "Labrynna"
+  ]
+ },
+ {
+  "p": "En «Twilight Princess», ¿quién usurpa el trono de los Twili?",
+  "o": [
+   "Zant",
+   "Ghirahim",
+   "Vaati"
+  ]
+ },
+ {
+  "p": "En «Skyward Sword», ¿cómo se llama el espíritu que vive en la espada?",
+  "o": [
+   "Fi",
+   "Ezlo",
+   "Navi"
+  ]
+ },
+ {
+  "p": "En «Breath of the Wild», ¿qué Campeón piloteaba a la Bestia Divina Vah Medoh?",
+  "o": [
+   "Revali",
+   "Daruk",
+   "Mipha"
+  ]
+ },
+ {
+  "p": "¿Cuántas semillas kolog hay en «Breath of the Wild»?",
+  "o": [
+   "900",
+   "1,000",
+   "800"
+  ]
+ },
+ {
+  "p": "En «Tears of the Kingdom», ¿cómo se llama el primer rey de Hyrule?",
+  "o": [
+   "Rauru",
+   "Rhoam",
+   "Harkinian"
+  ]
+ },
+ {
+  "p": "En «Ocarina of Time», ¿en qué templo peleas contra Bongo Bongo?",
+  "o": [
+   "De las Sombras",
+   "Del Espíritu",
+   "Del Agua"
+  ]
+ },
+ {
+  "p": "En «A Link to the Past», ¿cómo se llama el mundo alterno de Ganon?",
+  "o": [
+   "Mundo Oscuro",
+   "Lorule",
+   "Reino del Crepúsculo"
+  ]
+ },
+ {
+  "p": "En «Wind Waker», ¿cómo se llama el bote que habla y lleva a Link por el mar?",
+  "o": [
+   "Mascarón Rojo",
+   "S.S. Linebeck",
+   "Mascarón Azul"
+  ]
+ },
+ {
+  "p": "En «Super Mario Sunshine», ¿quién inventó a F.L.U.D.D.?",
+  "o": [
+   "El profesor E. Gadd",
+   "Toadsworth",
+   "Kamek"
+  ]
+ },
+ {
+  "p": "¿Quién es el villano de «Super Mario Bros. 2», el del mundo de los sueños?",
+  "o": [
+   "Wart",
+   "Tatanga",
+   "Rey Boo"
+  ]
+ },
+ {
+  "p": "¿En qué juego debutó Wario?",
+  "o": [
+   "Super Mario Land 2",
+   "WarioWare, Inc.",
+   "Wario Land"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el jefe final de «Super Mario RPG»?",
+  "o": [
+   "Smithy",
+   "Fawful",
+   "Cackletta"
+  ]
+ },
+ {
+  "p": "En «Super Mario Odyssey», ¿de qué ciudad es alcaldesa Pauline?",
+  "o": [
+   "Nueva Donk",
+   "Isla Delfino",
+   "Ciudad Toad"
+  ]
+ },
+ {
+  "p": "¿Cuántas salidas tiene «Super Mario World» en total?",
+  "o": [
+   "96",
+   "120",
+   "72"
+  ]
+ },
+ {
+  "p": "En el primer «Super Mario Bros.», ¿a qué nivel llegas atravesando la pared del 1-2?",
+  "o": [
+   "Mundo -1",
+   "Mundo 0",
+   "Mundo 9"
+  ]
+ },
+ {
+  "p": "En «Super Mario 64», ¿cómo se llama el conejo amarillo que trae estrellas?",
+  "o": [
+   "MIPS",
+   "Klepto",
+   "Ukiki"
+  ]
+ },
+ {
+  "p": "Con 120 estrellas en «Super Mario 64», ¿quién te espera en el techo del castillo?",
+  "o": [
+   "Yoshi",
+   "Luigi",
+   "Toad"
+  ]
+ },
+ {
+  "p": "¿En qué juego debutó el traje de gato de Mario?",
+  "o": [
+   "Super Mario 3D World",
+   "Super Mario 3D Land",
+   "Super Mario Odyssey"
+  ]
+ },
+ {
+  "p": "En «Super Mario Bros. Wonder», ¿en qué se convierte Bowser?",
+  "o": [
+   "En un castillo flotante",
+   "En un dragón gigante",
+   "En una flor gigante"
+  ]
+ },
+ {
+  "p": "En «Super Mario 64», ¿cuántas monedas rojas hay en cada nivel?",
+  "o": [
+   "8",
+   "5",
+   "10"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿con qué se carga el ancla de reaparición?",
+  "o": [
+   "Piedra luminosa",
+   "Redstone",
+   "Obsidiana llorona"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿cuántas estanterías necesitas para encantar a nivel 30?",
+  "o": [
+   "15",
+   "12",
+   "20"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿qué objeto va al centro de la receta del faro?",
+  "o": [
+   "La estrella del Nether",
+   "El ojo de Ender",
+   "El corazón del mar"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿dónde se consigue el corazón del mar?",
+  "o": [
+   "En tesoros enterrados",
+   "Matando al guardián anciano",
+   "Pescando con suerte"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿qué criatura puede soltar un tridente?",
+  "o": [
+   "El ahogado",
+   "El guardián",
+   "El ajolote"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿cuántos bloques de hierro lleva un gólem de hierro?",
+  "o": [
+   "4",
+   "3",
+   "5"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿en qué estructura del Nether se encuentra el disco «Pigstep»?",
+  "o": [
+   "En los bastiones",
+   "En las fortalezas",
+   "En los portales en ruinas"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿en qué bloque mejoras tu equipo de diamante a netherita?",
+  "o": [
+   "La mesa de herrería",
+   "El yunque",
+   "La mesa de encantamientos"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿cuántos lingotes de oro lleva un lingote de netherita?",
+  "o": [
+   "4",
+   "8",
+   "1"
+  ]
+ },
+ {
+  "p": "¿Qué criatura ganó la votación de mobs de Minecraft en 2021?",
+  "o": [
+   "El allay",
+   "El glare",
+   "El gólem de cobre"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿qué enemigo suelta el tótem de la inmortalidad?",
+  "o": [
+   "El evocador",
+   "El vindicador",
+   "El devastador"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba Minecraft en su primerísima versión de 2009?",
+  "o": [
+   "Cave Game",
+   "Infiniminer",
+   "Order of the Stone"
+  ]
+ },
+ {
+  "p": "¿Con cuántos peleadores disponibles empiezas «Smash Ultimate»?",
+  "o": [
+   "8",
+   "12",
+   "16"
+  ]
+ },
+ {
+  "p": "¿En qué Smash debutó Crazy Hand?",
+  "o": [
+   "Melee",
+   "Smash 64",
+   "Brawl"
+  ]
+ },
+ {
+  "p": "¿Cómo se llaman los dos Ice Climbers?",
+  "o": [
+   "Popo y Nana",
+   "Nana y Momo",
+   "Pipo y Popi"
+  ]
+ },
+ {
+  "p": "¿Qué peleador salió en Smash antes que en su propio juego?",
+  "o": [
+   "Roy",
+   "Marth",
+   "Lucina"
+  ]
+ },
+ {
+  "p": "¿Quién cerró el primer Fighters Pass de «Smash Ultimate»?",
+  "o": [
+   "Byleth",
+   "Terry",
+   "Joker"
+  ]
+ },
+ {
+  "p": "¿De qué juego viene Min Min, de «Smash Ultimate»?",
+  "o": [
+   "ARMS",
+   "Splatoon",
+   "Punch-Out!!"
+  ]
+ },
+ {
+  "p": "¿Qué personaje ganó la votación de fans para entrar a Smash 4?",
+  "o": [
+   "Bayonetta",
+   "Cloud",
+   "Corrin"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la técnica de Melee de deslizarse con un esquive aéreo al piso?",
+  "o": [
+   "Wavedash",
+   "L-cancel",
+   "Dash dance"
+  ]
+ },
+ {
+  "p": "En Smash 64, ¿a quién desbloqueas rompiendo los blancos con los 8 iniciales?",
+  "o": [
+   "Luigi",
+   "Ness",
+   "Captain Falcon"
+  ]
+ },
+ {
+  "p": "¿Qué peleador eco de «Smash Ultimate» viene de Castlevania, como Simon?",
+  "o": [
+   "Richter",
+   "Alucard",
+   "Trevor"
+  ]
+ },
+ {
+  "p": "En «Smash Brawl», ¿qué Pokémon usa el Entrenador Pokémon?",
+  "o": [
+   "Squirtle, Ivysaur y Charizard",
+   "Wartortle, Ivysaur y Charizard",
+   "Squirtle, Ivysaur y Charmeleon"
+  ]
+ },
+ {
+  "p": "¿En qué Smash debutaron las peleas de 8 jugadores?",
+  "o": [
+   "Smash para Wii U",
+   "Smash Ultimate",
+   "Smash Brawl"
+  ]
+ }
+]

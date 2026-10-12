@@ -17,13 +17,16 @@ const datos = JSON.parse(readFileSync(entrada, "utf8"));
 // Un archivo de muestra puede traer solo preguntas sin categorías; se usan las de preguntas.json.
 if (!datos.categorias) datos.categorias = JSON.parse(readFileSync(join(dir, "preguntas.json"), "utf8")).categorias;
 // Si el archivo no trae preguntas, se leen del banco: banco/<categoría>-<nivel>-<parte>.json.
+// Una parte «t2», «t3»… es una tanda agregada después: sus tarjetas van al final, sin
+// cambiar las hojas que ya se habían impreso.
 if (!datos.preguntas) {
   datos.preguntas = readdirSync(join(dir, "banco"))
     .filter((f) => f.endsWith(".json"))
     .sort()
     .flatMap((f) => {
-      const [cat, nivel] = f.split("-");
-      return JSON.parse(readFileSync(join(dir, "banco", f), "utf8")).map((q) => ({ cat, nivel: Number(nivel), ...q }));
+      const [cat, nivel, parte] = f.split("-");
+      const tanda = Number(/^t(\d+)/.exec(parte)?.[1] ?? 1);
+      return JSON.parse(readFileSync(join(dir, "banco", f), "utf8")).map((q) => ({ cat, nivel: Number(nivel), tanda, ...q }));
     });
 }
 // «soloFrente»: una sola cara por tarjeta (1 pregunta por categoría en vez de 2).
@@ -140,32 +143,35 @@ function espejo(lista, vacia = '<div class="tarjeta vacia"></div>') {
 // que llevan menos, para que no se junten.
 function armarTarjetas() {
   const porNivel = [[], [], []];
+  const tandas = [...new Set(datos.preguntas.map((q) => q.tanda ?? 1))].sort((a, b) => a - b);
   for (const nivel of [1, 2, 3]) {
-    // Se revuelven con semilla fija para que cada tarjeta mezcle temas distintos.
-    const rnd = azar(nivel * 104729 + 17);
-    const porCat = datos.categorias.map((c) =>
-      revolver(datos.preguntas.filter((q) => q.cat === c.id && q.nivel === nivel).map((q) => q), rnd).map((x) => x.texto)
-    );
-    const total = Math.min(...porCat.map((qs) => Math.floor(qs.length / CARAS)));
-    const caras = Array.from({ length: total * CARAS }, () => []);
-    const deportes = caras.map(() => 0);
-    porCat.forEach((qs, c) => {
-      const usadas = qs.slice(0, total * CARAS);
-      const conDeporte = usadas.filter((q) => q.deporte);
-      const sinDeporte = usadas.filter((q) => !q.deporte);
-      const orden = caras
-        .map((_, i) => i)
-        .sort((a, b) => deportes[a] - deportes[b] || a - b);
-      orden.forEach((i, k) => {
-        const q = k < conDeporte.length ? conDeporte[k] : sinDeporte[k - conDeporte.length];
-        caras[i][c] = q;
-        if (q.deporte) deportes[i]++;
+    for (const tanda of tandas) {
+      // Se revuelven con semilla fija para que cada tarjeta mezcle temas distintos.
+      const rnd = azar(nivel * 104729 + 17 + (tanda - 1) * 7907);
+      const porCat = datos.categorias.map((c) =>
+        revolver(datos.preguntas.filter((q) => q.cat === c.id && q.nivel === nivel && (q.tanda ?? 1) === tanda), rnd).map((x) => x.texto)
+      );
+      const total = Math.min(...porCat.map((qs) => Math.floor(qs.length / CARAS)));
+      const caras = Array.from({ length: total * CARAS }, () => []);
+      const deportes = caras.map(() => 0);
+      porCat.forEach((qs, c) => {
+        const usadas = qs.slice(0, total * CARAS);
+        const conDeporte = usadas.filter((q) => q.deporte);
+        const sinDeporte = usadas.filter((q) => !q.deporte);
+        const orden = caras
+          .map((_, i) => i)
+          .sort((a, b) => deportes[a] - deportes[b] || a - b);
+        orden.forEach((i, k) => {
+          const q = k < conDeporte.length ? conDeporte[k] : sinDeporte[k - conDeporte.length];
+          caras[i][c] = q;
+          if (q.deporte) deportes[i]++;
+        });
+        const sobran = qs.length - usadas.length;
+        if (sobran) console.log(`Aviso: ${sobran} pregunta(s) de ${datos.categorias[c].id} nivel ${nivel} (tanda ${tanda}) no caben en una tarjeta completa.`);
       });
-      const sobran = qs.length - usadas.length;
-      if (sobran) console.log(`Aviso: ${sobran} pregunta(s) de ${datos.categorias[c].id} nivel ${nivel} no caben en una tarjeta completa.`);
-    });
-    for (let t = 0; t < total; t++) {
-      porNivel[nivel - 1].push({ nivel, a: caras[t * CARAS], b: CARAS === 2 ? caras[t * 2 + 1] : null });
+      for (let t = 0; t < total; t++) {
+        porNivel[nivel - 1].push({ nivel, a: caras[t * CARAS], b: CARAS === 2 ? caras[t * 2 + 1] : null });
+      }
     }
   }
   // Cada hoja lleva 3 tarjetas de cada nivel, para que todas las hojas queden parejas.

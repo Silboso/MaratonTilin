@@ -185,6 +185,8 @@ Mezcla de subtemas, sin preguntas sobre el grupo mismo.
 Las preguntas viven en `banco/<categoría>-<nivel>-<parte>.json`; por ejemplo, `banco/anime-2-01.json` son preguntas de Anime y Películas ★★.
 Cada pregunta lleva `p` (la pregunta) y `o` (tres opciones, con la correcta primero). Si es de deportes, también lleva `"deporte": true`.
 
+Para agregar hojas sin cambiar las que ya se imprimieron, las preguntas nuevas van en una **tanda** aparte: `banco/<categoría>-<nivel>-t2.json` (luego `t3`, etc.). El generador arma cada tanda por separado y pone sus tarjetas al final, así que las hojas anteriores quedan idénticas. Cada tanda necesita, por cada hoja nueva, 6 preguntas por categoría y nivel, una de ellas de deportes.
+
 - **Revisar:** `python3 tarjetas/revisar.py [hojas]` dice cuántas faltan por categoría y nivel, y avisa de preguntas repetidas, opciones duplicadas o textos demasiado largos para la tarjeta.
 - **Generar:** `node tarjetas/generar.mjs` arma las hojas. Revuelve las preguntas para mezclar temas y pone 3 tarjetas de cada nivel por hoja y una pregunta de deportes por cara.
 - **Word:** después de generar, `node tarjetas/word.mjs` crea `tarjetas-bn.docx` y `tarjetas-color.docx` con el mismo acomodo: tablas editables de 3 × 3 tarjetas por página, con el reverso en espejo.

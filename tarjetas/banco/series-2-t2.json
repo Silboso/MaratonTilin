@@ -1,0 +1,296 @@
+[
+{
+"deporte": true,
+"p": "En «The Last Dance», ¿qué jugador se escapa a Las Vegas a media temporada?",
+"o": [
+"Dennis Rodman",
+"Scottie Pippen",
+"Steve Kerr"
+]
+},
+{
+"deporte": true,
+"p": "¿Qué piloto se negó a salir en la 4.ª temporada de «Drive to Survive»?",
+"o": [
+"Max Verstappen",
+"Lewis Hamilton",
+"Charles Leclerc"
+]
+},
+{
+"deporte": true,
+"p": "En «Friends», ¿en qué quiere ser campeón Pete, el novio millonario de Monica?",
+"o": [
+"En peleas de UFC",
+"En box profesional",
+"En lucha libre"
+]
+},
+{
+"deporte": true,
+"p": "En «Homero bailarín», ¿en qué ciudad lo contratan para animar en el estadio?",
+"o": [
+"Capital City",
+"Shelbyville",
+"Ogdenville"
+]
+},
+{
+"deporte": true,
+"p": "¿Qué actor interpreta a Julio César Chávez en la serie «El César» (2017)?",
+"o": [
+"Armando Hernández",
+"Tenoch Huerta",
+"Diego Boneta"
+]
+},
+{
+"deporte": true,
+"p": "¿Cómo se llama el spin-off de «Club de Cuervos» estrenado en 2018?",
+"o": [
+"«La balada de Hugo Sánchez»",
+"«Los Cuervos de Toledo»",
+"«El Potro de Nuevo Toledo»"
+]
+},
+{
+"p": "En «Stranger Things» 3, ¿cómo se llama el centro comercial de Hawkins?",
+"o": [
+"Starcourt",
+"Hawkins Plaza",
+"Sunset Mall"
+]
+},
+{
+"p": "En «Stranger Things» 3, ¿en qué heladería trabajan Steve y Robin?",
+"o": [
+"Scoops Ahoy",
+"Dairy Queen",
+"Ice Cream Island"
+]
+},
+{
+"p": "¿Qué canción de Kate Bush salva a Max de Vecna en «Stranger Things» 4?",
+"o": [
+"«Running Up That Hill»",
+"«Wuthering Heights»",
+"«Babooshka»"
+]
+},
+{
+"p": "En «Breaking Bad», ¿qué nombre pide Walter Jr. que le digan?",
+"o": [
+"Flynn",
+"Jake",
+"Elliott"
+]
+},
+{
+"p": "Al final de la 2.ª temporada de «Breaking Bad», ¿qué cae sobre Albuquerque?",
+"o": [
+"Restos de dos aviones",
+"Un helicóptero",
+"Un satélite ruso"
+]
+},
+{
+"p": "En «Better Call Saul», ¿dónde trabaja Jimmy cuando se esconde como «Gene»?",
+"o": [
+"En un Cinnabon",
+"En un Starbucks",
+"En un Dunkin'"
+]
+},
+{
+"p": "En «Game of Thrones», ¿quién confiesa haber envenenado a Joffrey?",
+"o": [
+"Olenna Tyrell",
+"Margaery Tyrell",
+"Cersei Lannister"
+]
+},
+{
+"p": "En «The Office», ¿cómo se llaman los premios que entrega Michael cada año?",
+"o": [
+"Los Dundies",
+"Los Mifflies",
+"Los Scotties"
+]
+},
+{
+"p": "En «Friends», ¿qué novia de Chandler es famosa por su «Oh. My. God.»?",
+"o": [
+"Janice",
+"Kathy",
+"Joanna"
+]
+},
+{
+"p": "En «The Big Bang Theory», ¿qué canción le cantan a Sheldon cuando está enfermo?",
+"o": [
+"«Soft Kitty»",
+"«Twinkle Twinkle»",
+"«Hush Little Baby»"
+]
+},
+{
+"p": "En «Los Simpson», ¿cómo se llama la mamá de Homero?",
+"o": [
+"Mona",
+"Jacqueline",
+"Agnes"
+]
+},
+{
+"p": "En «Los Simpson», ¿cuál es el apellido de Milhouse?",
+"o": [
+"Van Houten",
+"Muntz",
+"Prince"
+]
+},
+{
+"p": "En «Futurama», ¿qué expresidente gobierna la Tierra como cabeza en frasco?",
+"o": [
+"Richard Nixon",
+"Ronald Reagan",
+"John F. Kennedy"
+]
+},
+{
+"p": "En «El increíble mundo de Gumball», ¿en qué ciudad vive la familia?",
+"o": [
+"Elmore",
+"Springfield",
+"Royal Woods"
+]
+},
+{
+"p": "¿A qué playa se van de vacaciones los vecinos de «El Chavo del 8»?",
+"o": [
+"Acapulco",
+"Veracruz",
+"Cancún"
+]
+},
+{
+"p": "¿Qué personaje de Chespirito dice «¡Lo sospeché desde un principio!»?",
+"o": [
+"El Chapulín Colorado",
+"El Doctor Chapatín",
+"El Chómpiras"
+]
+},
+{
+"p": "¿Qué actriz es la voz latina más conocida de Bart Simpson?",
+"o": [
+"Marina Huerta",
+"Patricia Acevedo",
+"Gaby Willer"
+]
+},
+{
+"p": "¿Quién ganó la segunda generación de «La Academia», en 2003?",
+"o": [
+"Érika Alcocer",
+"Yuridia",
+"Toñita"
+]
+},
+{
+"p": "En «Phineas y Ferb», ¿cómo se llama el becario del Mayor Monograma?",
+"o": [
+"Carl",
+"Norm",
+"Jeremy"
+]
+},
+{
+"p": "¿Qué fantasma pirata aterroriza a los personajes de «Bob Esponja»?",
+"o": [
+"El Holandés Volador",
+"Barba Roja",
+"El Capitán Garfio"
+]
+},
+{
+"p": "En «Los Padrinos Mágicos», ¿cómo se llama el amigo genio de Timmy?",
+"o": [
+"A.J.",
+"Chester",
+"Elmer"
+]
+},
+{
+"p": "En «¡Oye, Arnold!», ¿cómo se llama el mejor amigo de Arnold?",
+"o": [
+"Gerald",
+"Harold",
+"Stinky"
+]
+},
+{
+"p": "En «Hannah Montana», ¿cómo se llama el hermano mayor de Miley?",
+"o": [
+"Jackson",
+"Oliver",
+"Rico"
+]
+},
+{
+"p": "En «Rick and Morty», ¿qué significa en realidad «Wubba Lubba Dub Dub»?",
+"o": [
+"Que sufre mucho",
+"Que está de fiesta",
+"Que quiere irse"
+]
+},
+{
+"p": "En «The Boys», ¿qué supe mata por accidente a la novia de Hughie?",
+"o": [
+"A-Train",
+"Homelander",
+"The Deep"
+]
+},
+{
+"p": "En «Invincible», ¿de qué planeta es Omni-Man?",
+"o": [
+"Viltrum",
+"Thraxa",
+"Unopa"
+]
+},
+{
+"p": "En «Merlina», ¿qué clase de monstruo resulta ser Tyler?",
+"o": [
+"Un Hyde",
+"Un hombre lobo",
+"Un vampiro"
+]
+},
+{
+"p": "¿Quién resulta ser Lady Whistledown en «Bridgerton»?",
+"o": [
+"Penelope Featherington",
+"Eloise Bridgerton",
+"Marina Thompson"
+]
+},
+{
+"p": "En «You», ¿dónde trabaja Joe Goldberg en la 1.ª temporada?",
+"o": [
+"En una librería",
+"En una cafetería",
+"En una biblioteca"
+]
+},
+{
+"p": "En «El Juego del Calamar», ¿a qué juega el reclutador con Gi-hun en el metro?",
+"o": [
+"Ddakji",
+"Canicas",
+"Piedra, papel o tijera"
+]
+}
+]

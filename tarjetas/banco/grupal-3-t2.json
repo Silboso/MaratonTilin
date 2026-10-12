@@ -1,0 +1,296 @@
+[
+{
+"deporte": true,
+"p": "¿Quién fundó en 1933 la empresa que hoy es el CMLL?",
+"o": [
+"Salvador Lutteroth",
+"Antonio Peña",
+"Paco Alonso"
+]
+},
+{
+"deporte": true,
+"p": "¿Qué piloto ha ganado más veces el GP de la Ciudad de México?",
+"o": [
+"Max Verstappen",
+"Lewis Hamilton",
+"Nico Rosberg"
+]
+},
+{
+"deporte": true,
+"p": "¿Quién fue el primer mexicano en jugar en la NBA?",
+"o": [
+"Horacio Llamas",
+"Eduardo Nájera",
+"Gustavo Ayón"
+]
+},
+{
+"deporte": true,
+"p": "¿Qué equipo ganó invicto la Serie del Caribe 2016 para México?",
+"o": [
+"Venados de Mazatlán",
+"Tomateros de Culiacán",
+"Naranjeros de Hermosillo"
+]
+},
+{
+"deporte": true,
+"p": "¿Qué técnico hizo bicampeón al Toluca en 2025?",
+"o": [
+"Antonio Mohamed",
+"Renato Paiva",
+"Ricardo Ferretti"
+]
+},
+{
+"deporte": true,
+"p": "¿En qué round noqueó Canelo a Sergey Kovalev en 2019?",
+"o": [
+"En el 11",
+"En el 9",
+"En el 12"
+]
+},
+{
+"p": "En «Naruto», ¿quién dijo primero que abandonar a tus amigos es peor que ser escoria?",
+"o": [
+"Obito",
+"Kakashi",
+"Minato"
+]
+},
+{
+"p": "En «Breaking Bad», ¿quién le advierte a Walter «No más medias tintas»?",
+"o": [
+"Mike",
+"Gus",
+"Saul"
+]
+},
+{
+"p": "En «Game of Thrones», ¿quién le da a Arya una moneda y le dice «Valar morghulis»?",
+"o": [
+"Jaqen H'ghar",
+"Syrio Forel",
+"El Perro"
+]
+},
+{
+"p": "En «Volver al futuro», ¿quién toca la cabeza de George: «¿Hola? ¿Hay alguien ahí?»?",
+"o": [
+"Biff",
+"Match",
+"El señor Strickland"
+]
+},
+{
+"p": "En «Matrix», ¿quién le dice a Neo «No hay cuchara»?",
+"o": [
+"Un niño en casa del Oráculo",
+"El Oráculo",
+"Morfeo"
+]
+},
+{
+"p": "En «Resident Evil 4», ¿quién pregunta «¿A dónde van todos? ¿Al bingo?»?",
+"o": [
+"Leon",
+"Luis",
+"Ashley"
+]
+},
+{
+"p": "¿Quién cierra «Halo 2» diciendo «Sir, finishing this fight»?",
+"o": [
+"El Jefe Maestro",
+"El Inquisidor",
+"El Sargento Johnson"
+]
+},
+{
+"p": "En «Dragon Ball Z», ¿quién dice «Soy la esperanza del universo»?",
+"o": [
+"Goku",
+"Vegeta",
+"Gohan"
+]
+},
+{
+"p": "En «Shrek», ¿quién suplica que no le quiten sus «botones de gomita»?",
+"o": [
+"Jengi",
+"Pinocho",
+"Los tres cerditos"
+]
+},
+{
+"p": "¿Cómo se llamaba el gato real que inspiró al Nyan Cat?",
+"o": [
+"Marty",
+"Tom",
+"Félix"
+]
+},
+{
+"p": "¿En qué año se subió el video «Charlie bit my finger»?",
+"o": [
+"2007",
+"2005",
+"2009"
+]
+},
+{
+"p": "¿Cómo se llama el niño del meme «Success Kid»?",
+"o": [
+"Sammy",
+"Brian",
+"Kyle"
+]
+},
+{
+"p": "¿En qué programa se dibujó la Trollface original, en 2008?",
+"o": [
+"MS Paint",
+"Photoshop",
+"GIMP"
+]
+},
+{
+"p": "¿Qué red social de Google de 2004 fue furor en Brasil?",
+"o": [
+"Orkut",
+"Google+",
+"Google Buzz"
+]
+},
+{
+"p": "¿Cómo se llamaba en la vida real el perrito de los memes de Cheems?",
+"o": [
+"Balltze",
+"Kabosu",
+"Hachi"
+]
+},
+{
+"p": "¿Cuántos caracteres cabían en un SMS de los celulares de antes?",
+"o": [
+"160",
+"140",
+"120"
+]
+},
+{
+"p": "Por ley, ¿cuántos días de vacaciones te tocan entre tu 6.º y 10.º año?",
+"o": [
+"22",
+"20",
+"24"
+]
+},
+{
+"p": "Con la Ley 97, ¿cuántas semanas cotizadas pide el IMSS para pensionarte en 2026?",
+"o": [
+"875",
+"850",
+"1000"
+]
+},
+{
+"p": "¿Hasta cuántas UMA de tu prima vacacional están exentas de ISR?",
+"o": [
+"15",
+"30",
+"90"
+]
+},
+{
+"p": "¿Hasta qué nivel escolar son deducibles las colegiaturas en tu declaración?",
+"o": [
+"Bachillerato",
+"Licenciatura",
+"Secundaria"
+]
+},
+{
+"p": "¿Cuánto puede ganar al año como máximo una persona física en el RESICO?",
+"o": [
+"3.5 millones de pesos",
+"2 millones de pesos",
+"5 millones de pesos"
+]
+},
+{
+"p": "Por ley, ¿cuántos años debes guardar tus facturas y tu contabilidad?",
+"o": [
+"5",
+"3",
+"10"
+]
+},
+{
+"p": "Si eres freelance, ¿hasta qué día del mes siguiente pagas tus impuestos al SAT?",
+"o": [
+"El 17",
+"El 15",
+"El 20"
+]
+},
+{
+"p": "¿Qué significa que «ya nos cayó el chahuistle»?",
+"o": [
+"Que llegó una desgracia",
+"Que llegó la quincena",
+"Que llegó visita sin avisar"
+]
+},
+{
+"p": "¿Cómo está alguien que está «como agua para chocolate»?",
+"o": [
+"Furioso",
+"Muy triste",
+"Muy nervioso"
+]
+},
+{
+"p": "¿Qué significa «hacerse guaje»?",
+"o": [
+"Hacerse el tonto",
+"Ponerse borracho",
+"Hacerse el valiente"
+]
+},
+{
+"p": "¿Qué es un «itacate»?",
+"o": [
+"Comida que te llevas",
+"Un tamal de elote",
+"Un jarro de barro"
+]
+},
+{
+"p": "¿Cuánto almacenamiento tenía el primer iPod, de 2001?",
+"o": [
+"5 GB",
+"1 GB",
+"10 GB"
+]
+},
+{
+"p": "¿Qué empresa japonesa creó los Beyblades?",
+"o": [
+"Takara",
+"Bandai",
+"Konami"
+]
+},
+{
+"p": "¿Qué tiene adentro del cuello la botella del refresco japonés Ramune?",
+"o": [
+"Una canica",
+"Una perla de tapioca",
+"Un caramelo"
+]
+}
+]

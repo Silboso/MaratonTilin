@@ -1,0 +1,296 @@
+[
+ {
+  "deporte": true,
+  "p": "En «Rush» (2013), ¿en qué circuito se accidenta el piloto austriaco?",
+  "o": [
+   "Nürburgring",
+   "Monza",
+   "Fuji"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué boxeador real se inspiró Stallone para crear «Rocky»?",
+  "o": [
+   "Chuck Wepner",
+   "Jake LaMotta",
+   "Joe Louis"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «El juego de la fortuna», ¿de cuántos juegos es la racha récord del equipo?",
+  "o": [
+   "20",
+   "15",
+   "25"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Space Jam» (1996), ¿qué estrella de los Knicks pierde su talento?",
+  "o": [
+   "Patrick Ewing",
+   "John Starks",
+   "Charles Oakley"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué luchador y sacerdote real se inspiró «Nacho Libre»?",
+  "o": [
+   "Fray Tormenta",
+   "Blue Demon",
+   "Mil Máscaras"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Rudo y Cursi», ¿qué canción graba Tato como cantante?",
+  "o": [
+   "«Quiero que me quieras»",
+   "«Amor de lejitos»",
+   "«Te traigo en el corazón»"
+  ]
+ },
+ {
+  "p": "En DBZ, ¿cómo muere Chaoz en la pelea contra los Saiyajin?",
+  "o": [
+   "Se autodestruye sobre Nappa",
+   "Lo aplasta Nappa",
+   "Lo mata un Saibaiman"
+  ]
+ },
+ {
+  "p": "En DBZ, ¿qué técnica repite Ten Shin Han para frenar a Cell?",
+  "o": [
+   "Kikoho",
+   "Taiyoken",
+   "Dodonpa"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿cuántas Puertas Internas abre Might Guy contra Madara?",
+  "o": [
+   "Ocho",
+   "Siete",
+   "Seis"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿qué compañera de equipo muere con el Chidori de Kakashi?",
+  "o": [
+   "Rin Nohara",
+   "Hanare",
+   "Shizune"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿cómo se llama la hija de Asuma?",
+  "o": [
+   "Mirai",
+   "Himawari",
+   "Chocho"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿qué Pokémon sale en el episodio de las convulsiones?",
+  "o": [
+   "Porygon",
+   "Magnemite",
+   "Electrode"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿qué Pokémon ayuda en la casa de la mamá de Ash?",
+  "o": [
+   "Mr. Mime",
+   "Chansey",
+   "Jigglypuff"
+  ]
+ },
+ {
+  "p": "En «Digimon», ¿qué villano nace en internet y lanza misiles nucleares?",
+  "o": [
+   "Diaboromon",
+   "Myotismon",
+   "Devimon"
+  ]
+ },
+ {
+  "p": "En «Jujutsu Kaisen», ¿cuántos dedos de Sukuna existen?",
+  "o": [
+   "20",
+   "10",
+   "15"
+  ]
+ },
+ {
+  "p": "En «Jujutsu Kaisen», ¿cómo se llama la técnica de Aoi Todo?",
+  "o": [
+   "Boogie Woogie",
+   "Manipulación de Sangre",
+   "Proyección"
+  ]
+ },
+ {
+  "p": "En «Demon Slayer», ¿qué número de Luna Superior es Doma?",
+  "o": [
+   "Dos",
+   "Uno",
+   "Tres"
+  ]
+ },
+ {
+  "p": "En «Demon Slayer», ¿qué Pilar es el más joven, con solo 14 años?",
+  "o": [
+   "Muichiro Tokito",
+   "Obanai Iguro",
+   "Shinobu Kocho"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿qué shinigami murió salvando a Misa antes de la historia?",
+  "o": [
+   "Gelus",
+   "Sidoh",
+   "Ryuk"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿cada cuántos días obliga a escribir un nombre la regla falsa?",
+  "o": [
+   "13",
+   "7",
+   "30"
+  ]
+ },
+ {
+  "p": "En «Code Geass», ¿cómo se llama el gato de la Academia Ashford?",
+  "o": [
+   "Arthur",
+   "Lancelot",
+   "Merlín"
+  ]
+ },
+ {
+  "p": "En «Code Geass R2», ¿cómo se llama el Knightmare de Lelouch?",
+  "o": [
+   "Shinkiro",
+   "Mordred",
+   "Tristan"
+  ]
+ },
+ {
+  "p": "En «Hunter x Hunter», ¿cuántos miembros tiene la Brigada Fantasma?",
+  "o": [
+   "13",
+   "12",
+   "10"
+  ]
+ },
+ {
+  "p": "En «Hunter x Hunter», ¿quién crio a Gon en la Isla Ballena?",
+  "o": [
+   "Mito",
+   "Palm",
+   "Menchi"
+  ]
+ },
+ {
+  "p": "En «One Punch Man», ¿qué héroe ocupa el lugar 1 de la Clase S?",
+  "o": [
+   "Blast",
+   "Bang",
+   "Atomic Samurai"
+  ]
+ },
+ {
+  "p": "En «Sword Art Online», ¿cuántos jugadores quedaron atrapados al iniciar el juego?",
+  "o": [
+   "10,000",
+   "5,000",
+   "1,000"
+  ]
+ },
+ {
+  "p": "En «Volver al futuro», ¿con qué nombre llama Lorraine a Marty en 1955?",
+  "o": [
+   "Calvin Klein",
+   "Levi Strauss",
+   "Tommy Hilfiger"
+  ]
+ },
+ {
+  "p": "En «Matrix», ¿en qué empresa de software trabaja Thomas Anderson?",
+  "o": [
+   "Metacortex",
+   "Cyberdyne",
+   "Tyrell"
+  ]
+ },
+ {
+  "p": "En «Los Juegos del Hambre», ¿qué edición de los Juegos ganó Haymitch?",
+  "o": [
+   "Los 50",
+   "Los 25",
+   "Los 74"
+  ]
+ },
+ {
+  "p": "En «Destino final», ¿qué número tiene el vuelo que explota?",
+  "o": [
+   "180",
+   "815",
+   "93"
+  ]
+ },
+ {
+  "p": "En «El Conjuro», ¿en qué estado de EUA está la casa de los Perron?",
+  "o": [
+   "Rhode Island",
+   "Connecticut",
+   "Nueva York"
+  ]
+ },
+ {
+  "p": "En «El laberinto del fauno», ¿qué se come Ofelia en la mesa prohibida?",
+  "o": [
+   "Dos uvas",
+   "Una manzana",
+   "Un higo"
+  ]
+ },
+ {
+  "p": "En «Up», ¿qué insignia le falta a Russell para ser Explorador Mayor?",
+  "o": [
+   "La de ayudar a los ancianos",
+   "La de primeros auxilios",
+   "La de acampar"
+  ]
+ },
+ {
+  "p": "En «Mean Girls», ¿qué le da Cady a Regina para hacerla subir de peso?",
+  "o": [
+   "Unas barras nutritivas",
+   "Unas malteadas de proteína",
+   "Unos pastelitos de chocolate"
+  ]
+ },
+ {
+  "p": "En «Amores perros», ¿qué le pasa a Valeria después del choque?",
+  "o": [
+   "Le amputan una pierna",
+   "Queda ciega",
+   "Pierde la memoria"
+  ]
+ },
+ {
+  "p": "En «Mob Psycho 100», ¿cuál es el nombre real de Mob?",
+  "o": [
+   "Shigeo Kageyama",
+   "Ritsu Kageyama",
+   "Shou Suzuki"
+  ]
+ }
+]

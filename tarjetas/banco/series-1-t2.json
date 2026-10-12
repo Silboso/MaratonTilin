@@ -1,0 +1,296 @@
+[
+{
+"deporte": true,
+"p": "¿Qué equipo de la NBA protagoniza el documental «The Last Dance»?",
+"o": [
+"Chicago Bulls",
+"Los Angeles Lakers",
+"Boston Celtics"
+]
+},
+{
+"deporte": true,
+"p": "¿Contra quién peleó Mike Tyson en 2024 en una función transmitida por Netflix?",
+"o": [
+"Jake Paul",
+"Logan Paul",
+"KSI"
+]
+},
+{
+"deporte": true,
+"p": "En «Glee», ¿qué canción baila Kurt en la cancha antes de patear el balón?",
+"o": [
+"«Single Ladies»",
+"«Bad Romance»",
+"«Toxic»"
+]
+},
+{
+"deporte": true,
+"p": "En «Ted Lasso», ¿qué palabra dice el letrero que Ted pega en el vestidor?",
+"o": [
+"BELIEVE",
+"TOGETHER",
+"WIN"
+]
+},
+{
+"deporte": true,
+"p": "¿Qué jefe de Haas se volvió famoso gracias a «Drive to Survive»?",
+"o": [
+"Guenther Steiner",
+"Toto Wolff",
+"Christian Horner"
+]
+},
+{
+"deporte": true,
+"p": "En «Cobra Kai», ¿cómo se llama el dojo de Daniel LaRusso?",
+"o": [
+"Miyagi-Do",
+"Eagle Fang",
+"Iron Dragons"
+]
+},
+{
+"p": "En «Hora de Aventura», ¿qué instrumento toca Marceline?",
+"o": [
+"Un bajo en forma de hacha",
+"Una guitarra acústica",
+"Un violín embrujado"
+]
+},
+{
+"p": "En «Las Chicas Superpoderosas», ¿qué ingrediente cae por accidente en la mezcla?",
+"o": [
+"La Sustancia X",
+"El Químico Z",
+"El Compuesto V"
+]
+},
+{
+"p": "En «Flapjack», ¿qué animal cuida a Flapjack como si fuera su mamá?",
+"o": [
+"Una ballena",
+"Una tortuga",
+"Una gaviota"
+]
+},
+{
+"p": "En «Chowder», ¿cómo se llama el chef que es maestro de Chowder?",
+"o": [
+"Mung Daal",
+"Shnitzel",
+"Gazpacho"
+]
+},
+{
+"p": "En «Steven Universe», ¿en qué parte del cuerpo tiene Steven su gema?",
+"o": [
+"En el ombligo",
+"En la frente",
+"En la mano"
+]
+},
+{
+"p": "En «Danny Phantom», ¿cómo obtiene Danny sus poderes?",
+"o": [
+"Con el portal de sus papás",
+"Con un meteorito",
+"Con un collar maldito"
+]
+},
+{
+"p": "En «Backyardigans», ¿qué animal es Tyrone?",
+"o": [
+"Un alce",
+"Un canguro",
+"Un castor"
+]
+},
+{
+"p": "En «Drake & Josh», ¿qué instrumento toca Drake?",
+"o": [
+"La guitarra",
+"La batería",
+"El teclado"
+]
+},
+{
+"p": "En «Los Hechiceros de Waverly Place», ¿qué negocio tiene la familia Russo?",
+"o": [
+"Una tienda de sándwiches",
+"Una pizzería",
+"Una cafetería"
+]
+},
+{
+"p": "En «La leyenda de Korra», ¿qué animal es Naga?",
+"o": [
+"Una perra-oso polar",
+"Un bisonte volador",
+"Un lémur alado"
+]
+},
+{
+"p": "En «Los Simpson», ¿cómo se llama la maestra de Bart?",
+"o": [
+"Edna Krabappel",
+"Elizabeth Hoover",
+"Agnes Skinner"
+]
+},
+{
+"p": "En «Rick and Morty», ¿en qué se convierte Rick para no ir a terapia familiar?",
+"o": [
+"En un pepinillo",
+"En una cucaracha",
+"En un pez"
+]
+},
+{
+"p": "En «The Office», ¿qué cultiva Dwight en su granja?",
+"o": [
+"Betabeles",
+"Calabazas",
+"Papas"
+]
+},
+{
+"p": "En «The Big Bang Theory», ¿cuántas veces toca Sheldon la puerta de Penny?",
+"o": [
+"Tres",
+"Dos",
+"Cuatro"
+]
+},
+{
+"p": "En «Game of Thrones», ¿quién le dice a Jon «No sabes nada, Jon Snow»?",
+"o": [
+"Ygritte",
+"Arya",
+"Melisandre"
+]
+},
+{
+"p": "En «El Chavo del 8», ¿qué le ofrece Doña Florinda al Profesor Jirafales?",
+"o": [
+"Una tacita de café",
+"Un vaso de agua de jamaica",
+"Una torta de jamón"
+]
+},
+{
+"p": "¿En qué televisora nació «La Academia» en 2002?",
+"o": [
+"TV Azteca",
+"Televisa",
+"Imagen TV"
+]
+},
+{
+"p": "En «Modern Family», ¿de qué país es Gloria?",
+"o": [
+"Colombia",
+"Venezuela",
+"Puerto Rico"
+]
+},
+{
+"p": "En «Brooklyn Nine-Nine», ¿qué competencia hacen cada Halloween?",
+"o": [
+"Un atraco",
+"Un concurso de disfraces",
+"Una casa del terror"
+]
+},
+{
+"p": "En «Two and a Half Men», ¿de qué vive Charlie Harper?",
+"o": [
+"De componer jingles",
+"De dar clases de piano",
+"De escribir novelas"
+]
+},
+{
+"p": "En «Supernatural», ¿cómo se llama el ángel aliado de los Winchester?",
+"o": [
+"Castiel",
+"Crowley",
+"Gabriel"
+]
+},
+{
+"p": "En el capítulo «Caída en picada» de «Black Mirror», ¿qué se califica con estrellas?",
+"o": [
+"A las personas",
+"A los restaurantes",
+"A las películas"
+]
+},
+{
+"p": "En «Sex Education», ¿qué negocio pone Otis en la escuela?",
+"o": [
+"Terapia sexual",
+"Venta de tareas",
+"Fiestas clandestinas"
+]
+},
+{
+"p": "En «Una familia de diez», ¿cómo se llama el papá?",
+"o": [
+"Plácido",
+"Ludovico",
+"Aniceto"
+]
+},
+{
+"p": "En «Como dice el dicho», ¿dónde empiezan casi todas las historias?",
+"o": [
+"En una cafetería",
+"En una cantina",
+"En una peluquería"
+]
+},
+{
+"p": "En «¿Quién mató a Sara?», ¿quién busca vengar a Sara?",
+"o": [
+"Su hermano Álex",
+"Su novio Rodolfo",
+"Su papá César"
+]
+},
+{
+"p": "¿Qué actriz interpreta a Paulina de la Mora en «La casa de las flores»?",
+"o": [
+"Cecilia Suárez",
+"Verónica Castro",
+"Aislinn Derbez"
+]
+},
+{
+"p": "En «El Juego del Calamar», ¿qué número de jugador es Gi-hun?",
+"o": [
+"456",
+"218",
+"067"
+]
+},
+{
+"p": "En «Bojack Horseman», ¿cómo se llamaba la sitcom que hizo famoso a Bojack?",
+"o": [
+"«Horsin' Around»",
+"«Full House»",
+"«Horse Sense»"
+]
+},
+{
+"p": "En «How I Met Your Mother», ¿qué objeto azul se roba Ted de un restaurante?",
+"o": [
+"Un corno francés",
+"Una trompeta",
+"Un saxofón"
+]
+}
+]

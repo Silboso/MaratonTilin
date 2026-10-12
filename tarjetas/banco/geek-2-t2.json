@@ -1,0 +1,296 @@
+[
+ {
+  "deporte": true,
+  "p": "Hasta 2025, ¿qué pieza abría el DRS en un auto de F1?",
+  "o": [
+   "El alerón trasero",
+   "El alerón delantero",
+   "El difusor"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué superhéroe de DC interpretó Shaquille O'Neal en una película de 1997?",
+  "o": [
+   "Steel",
+   "Cyborg",
+   "Rayo Negro"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué luchador hace de Bonesaw en el «Spider-Man» de 2002?",
+  "o": [
+   "Randy Savage",
+   "Hulk Hogan",
+   "Kevin Nash"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué disciplina de baile debutó en los Juegos Olímpicos de París 2024?",
+  "o": [
+   "El breaking",
+   "El baile de salón",
+   "La gimnasia aeróbica"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué balón del Mundial 2010 criticaron los porteros por moverse raro?",
+  "o": [
+   "Jabulani",
+   "Teamgeist",
+   "Brazuca"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué club ganó la Champions League de la temporada 2024-25?",
+  "o": [
+   "PSG",
+   "Inter de Milán",
+   "Arsenal"
+  ]
+ },
+ {
+  "p": "¿Quién muere salvando a Clint Barton en «Era de Ultrón»?",
+  "o": [
+   "Quicksilver",
+   "Visión",
+   "War Machine"
+  ]
+ },
+ {
+  "p": "En «Endgame», ¿en qué año se encuentra Tony con su papá Howard?",
+  "o": [
+   "1970",
+   "1964",
+   "1985"
+  ]
+ },
+ {
+  "p": "¿A qué entidad atrapa Doctor Strange en un bucle de tiempo para negociar?",
+  "o": [
+   "Dormammu",
+   "Shuma-Gorath",
+   "Mefisto"
+  ]
+ },
+ {
+  "p": "¿Qué raza alienígena invade Nueva York en «Los Vengadores» (2012)?",
+  "o": [
+   "Los chitauri",
+   "Los skrulls",
+   "Los kree"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre real del Espantapájaros, villano de Batman?",
+  "o": [
+   "Jonathan Crane",
+   "Victor Fries",
+   "Harvey Dent"
+  ]
+ },
+ {
+  "p": "¿Qué superhéroe de DC es Arthur Curry?",
+  "o": [
+   "Aquaman",
+   "Flecha Verde",
+   "Shazam"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el manicomio de Ciudad Gótica?",
+  "o": [
+   "Asilo Arkham",
+   "Blackgate",
+   "Belle Reve"
+  ]
+ },
+ {
+  "p": "¿Qué actor fue el Guasón en el «Batman» de 1989?",
+  "o": [
+   "Jack Nicholson",
+   "Mark Hamill",
+   "Cesar Romero"
+  ]
+ },
+ {
+  "p": "¿Qué Jedi es el maestro de Ahsoka Tano?",
+  "o": [
+   "Anakin Skywalker",
+   "Obi-Wan Kenobi",
+   "Plo Koon"
+  ]
+ },
+ {
+  "p": "¿En qué planeta se esconde Luke en «Los últimos Jedi»?",
+  "o": [
+   "Ahch-To",
+   "Dagobah",
+   "Lothal"
+  ]
+ },
+ {
+  "p": "¿Qué cristal le da poder a los sables de luz?",
+  "o": [
+   "Kyber",
+   "Kaiburr",
+   "Coaxium"
+  ]
+ },
+ {
+  "p": "¿A qué edad muere Yoda en «El regreso del Jedi»?",
+  "o": [
+   "900 años",
+   "800 años",
+   "1,000 años"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el droide imperial reprogramado de «Rogue One»?",
+  "o": [
+   "K-2SO",
+   "BB-9E",
+   "IG-11"
+  ]
+ },
+ {
+  "p": "¿De qué es el núcleo de la varita de Harry Potter?",
+  "o": [
+   "Pluma de fénix",
+   "Pelo de unicornio",
+   "Fibra de corazón de dragón"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la mamá de Draco Malfoy?",
+  "o": [
+   "Narcisa",
+   "Bellatrix",
+   "Andrómeda"
+  ]
+ },
+ {
+  "p": "¿En qué se convierte el boggart de Ron Weasley?",
+  "o": [
+   "En una araña gigante",
+   "En una serpiente",
+   "En un dementor"
+  ]
+ },
+ {
+  "p": "¿Qué lengua habla Harry para abrir la Cámara de los Secretos?",
+  "o": [
+   "Pársel",
+   "Sirenio",
+   "Gobbledegook"
+  ]
+ },
+ {
+  "p": "¿Quién es el «Príncipe Mestizo» en Harry Potter?",
+  "o": [
+   "Severus Snape",
+   "Tom Riddle",
+   "Sirius Black"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el papá de Legolas?",
+  "o": [
+   "Thranduil",
+   "Elrond",
+   "Celeborn"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la torre negra de Isengard?",
+  "o": [
+   "Orthanc",
+   "Barad-dûr",
+   "Cirith Ungol"
+  ]
+ },
+ {
+  "p": "¿De qué metal es la cota de malla que Bilbo le regala a Frodo?",
+  "o": [
+   "Mithril",
+   "Adamante",
+   "Plata élfica"
+  ]
+ },
+ {
+  "p": "En UNO, ¿cuántas cartas se reparten a cada jugador al empezar?",
+  "o": [
+   "7",
+   "5",
+   "10"
+  ]
+ },
+ {
+  "p": "En el Monopoly clásico, ¿cuánto cobras al pasar por la Salida?",
+  "o": [
+   "$200",
+   "$100",
+   "$500"
+  ]
+ },
+ {
+  "p": "En Pokémon TCG, ¿cuántas cartas de energía puedes unir por turno?",
+  "o": [
+   "1",
+   "2",
+   "3"
+  ]
+ },
+ {
+  "p": "¿Qué titán es el gran villano de la primera saga de «Percy Jackson»?",
+  "o": [
+   "Cronos",
+   "Prometeo",
+   "Hiperión"
+  ]
+ },
+ {
+  "p": "¿Qué diosa japonesa del sol da nombre a las llamas negras de Itachi?",
+  "o": [
+   "Amaterasu",
+   "Izanami",
+   "Inari"
+  ]
+ },
+ {
+  "p": "¿En qué transbordador viajó Rodolfo Neri Vela al espacio en 1985?",
+  "o": [
+   "Atlantis",
+   "Challenger",
+   "Columbia"
+  ]
+ },
+ {
+  "p": "¿Qué telescopio espacial lanzó la NASA en 2021 para relevar al Hubble?",
+  "o": [
+   "James Webb",
+   "Kepler",
+   "Spitzer"
+  ]
+ },
+ {
+  "p": "¿Por cuánto compró Facebook WhatsApp en 2014, en dólares?",
+  "o": [
+   "Unos 19 mil millones",
+   "Unos 1,000 millones",
+   "Unos 5 mil millones"
+  ]
+ },
+ {
+  "p": "¿Qué significa la «G» en las siglas GPU?",
+  "o": [
+   "Graphics",
+   "General",
+   "Gaming"
+  ]
+ }
+]

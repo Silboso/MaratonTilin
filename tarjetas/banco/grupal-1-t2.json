@@ -1,0 +1,296 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Qué arena del CMLL es conocida como «la Catedral de la Lucha Libre»?",
+  "o": [
+   "Arena México",
+   "Arena Coliseo",
+   "Arena Naucalpan"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué frase hizo famosa el anunciador de box Michael Buffer?",
+  "o": [
+   "«Let's get ready to rumble!»",
+   "«It's time!»",
+   "«Fight night!»"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué equipo de la Liga MX es conocido como «la Máquina»?",
+  "o": [
+   "Cruz Azul",
+   "Pumas",
+   "Toluca"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿A qué futbolista mexicano le dicen «el Chucky»?",
+  "o": [
+   "Hirving Lozano",
+   "Raúl Jiménez",
+   "Edson Álvarez"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quién encabezó el show de medio tiempo del Super Bowl de 2026?",
+  "o": [
+   "Bad Bunny",
+   "Shakira",
+   "Kendrick Lamar"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿A qué boxeador le dicen «el Gran Campeón Mexicano»?",
+  "o": [
+   "Julio César Chávez",
+   "Juan Manuel Márquez",
+   "Érik Morales"
+  ]
+ },
+ {
+  "p": "En «Buscando a Nemo», ¿quién repite «Sigue nadando, sigue nadando»?",
+  "o": [
+   "Dory",
+   "Marlin",
+   "Crush"
+  ]
+ },
+ {
+  "p": "En «Harry Potter», ¿quién corrige a Ron: «Es Leviósa, no Leviosá»?",
+  "o": [
+   "Hermione",
+   "Harry",
+   "Neville"
+  ]
+ },
+ {
+  "p": "¿Qué villano pregunta «¿Por qué tan serio?»?",
+  "o": [
+   "El Guasón",
+   "Bane",
+   "Dos Caras"
+  ]
+ },
+ {
+  "p": "¿Qué héroe dice «¡Ya todo está bien! ¿Por qué? ¡Porque yo estoy aquí!»?",
+  "o": [
+   "All Might",
+   "Endeavor",
+   "Deku"
+  ]
+ },
+ {
+  "p": "En «Star Wars», ¿quién dice «Hazlo, o no lo hagas, pero no lo intentes»?",
+  "o": [
+   "Yoda",
+   "Obi-Wan Kenobi",
+   "Qui-Gon Jinn"
+  ]
+ },
+ {
+  "p": "¿Quién dice «¡Tenía que ser el Chavo del 8!» cada vez que llega a la vecindad?",
+  "o": [
+   "El Señor Barriga",
+   "Don Ramón",
+   "Doña Florinda"
+  ]
+ },
+ {
+  "p": "¿Quién dice «¡Gracias, Mario! Pero nuestra princesa está en otro castillo»?",
+  "o": [
+   "Toad",
+   "Luigi",
+   "Yoshi"
+  ]
+ },
+ {
+  "p": "En «Ratatouille», ¿de quién es el lema «Cualquiera puede cocinar»?",
+  "o": [
+   "Gusteau",
+   "Remy",
+   "Anton Ego"
+  ]
+ },
+ {
+  "p": "En «Toy Story», ¿quién dice «¡Hay una serpiente en mi bota!»?",
+  "o": [
+   "Woody",
+   "Jessie",
+   "Buzz Lightyear"
+  ]
+ },
+ {
+  "p": "En el meme de Drake, ¿qué hace en el cuadro de lo que rechaza?",
+  "o": [
+   "Voltea y alza la mano",
+   "Se cruza de brazos",
+   "Se tapa los oídos"
+  ]
+ },
+ {
+  "p": "¿Cómo sale Pikachu en su meme más famoso?",
+  "o": [
+   "Con la boca abierta",
+   "Llorando a mares",
+   "Con lentes oscuros"
+  ]
+ },
+ {
+  "p": "Según los memes mexicanos, ¿qué conductor de TV era inmortal?",
+  "o": [
+   "Chabelo",
+   "Raúl Velasco",
+   "Jorge Ortiz de Pinedo"
+  ]
+ },
+ {
+  "p": "¿Cómo se escribe el texto del meme de Bob Esponja burlón?",
+  "o": [
+   "Alternando mayúsculas",
+   "Todo en mayúsculas",
+   "Con letras al revés"
+  ]
+ },
+ {
+  "p": "¿Qué palabra mal escrita sale en el meme del señor calvo frente a una gráfica?",
+  "o": [
+   "«Stonks»",
+   "«Moneyz»",
+   "«Profitz»"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la carita de sonrisa malvada de los rage comics?",
+  "o": [
+   "Trollface",
+   "Forever Alone",
+   "Me Gusta"
+  ]
+ },
+ {
+  "p": "¿Qué animal salta obstáculos en Chrome cuando te quedas sin internet?",
+  "o": [
+   "Un dinosaurio",
+   "Un camello",
+   "Un canguro"
+  ]
+ },
+ {
+  "p": "En MSN Messenger, ¿qué era tu «nick»?",
+  "o": [
+   "El nombre que veían todos",
+   "Tu contraseña",
+   "Tu foto de perfil"
+  ]
+ },
+ {
+  "p": "En tu tarjeta de crédito, ¿qué es la «fecha de corte»?",
+  "o": [
+   "El cierre de tu periodo",
+   "El último día para pagar",
+   "El vencimiento del plástico"
+  ]
+ },
+ {
+  "p": "¿Qué pagas con el predial?",
+  "o": [
+   "Impuesto de casa o terreno",
+   "El servicio de agua",
+   "La recolección de basura"
+  ]
+ },
+ {
+  "p": "Al comprar un auto a crédito, ¿qué es el «enganche»?",
+  "o": [
+   "El pago inicial",
+   "La comisión por apertura",
+   "El seguro obligatorio"
+  ]
+ },
+ {
+  "p": "Al rentar un depa, ¿para qué sirve el «depósito en garantía»?",
+  "o": [
+   "Cubrir daños o adeudos",
+   "Pagar la primera renta",
+   "Pagarle al agente"
+  ]
+ },
+ {
+  "p": "¿Qué significa el «ISR» que te descuentan de la nómina?",
+  "o": [
+   "Impuesto Sobre la Renta",
+   "Ingreso Sujeto a Retención",
+   "Impuesto de Seguro y Retiro"
+  ]
+ },
+ {
+  "p": "Si trabajas en una empresa privada, ¿qué instituto te da crédito para casa?",
+  "o": [
+   "El Infonavit",
+   "El Fovissste",
+   "El IMSS"
+  ]
+ },
+ {
+  "p": "¿Qué impuesto pagas cada año al municipio por tener casa propia?",
+  "o": [
+   "El predial",
+   "La tenencia",
+   "El ISR"
+  ]
+ },
+ {
+  "p": "¿Qué vendedor anuncia su paso por la calle con un silbido de vapor?",
+  "o": [
+   "El camotero",
+   "El tamalero",
+   "El elotero"
+  ]
+ },
+ {
+  "p": "En la grabación del fierro viejo, ¿qué es lo primero que se compra?",
+  "o": [
+   "Colchones",
+   "Refrigeradores",
+   "Lavadoras"
+  ]
+ },
+ {
+  "p": "¿Qué marca te retaba con «¿A que no puedes comer solo una?»?",
+  "o": [
+   "Sabritas",
+   "Barcel",
+   "Totis"
+  ]
+ },
+ {
+  "p": "¿Qué marca de pluma de cuerpo transparente era la clásica de la escuela?",
+  "o": [
+   "BIC",
+   "Paper Mate",
+   "Pilot"
+  ]
+ },
+ {
+  "p": "¿Qué celular de Nokia tenía fama de ser indestructible?",
+  "o": [
+   "Nokia 3310",
+   "Nokia N95",
+   "Nokia Lumia 920"
+  ]
+ },
+ {
+  "p": "¿Cómo se les dice en japonés a los palillos para comer?",
+  "o": [
+   "Hashi",
+   "Gyoza",
+   "Tatami"
+  ]
+ }
+]

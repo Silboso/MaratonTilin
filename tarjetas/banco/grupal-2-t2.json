@@ -1,0 +1,296 @@
+[
+{
+"deporte": true,
+"p": "¿Qué luchador del CMLL es conocido como «el Ídolo de los Niños»?",
+"o": [
+"Atlantis",
+"Místico",
+"Blue Demon Jr."
+]
+},
+{
+"deporte": true,
+"p": "¿A qué boxeador mexicano le decían «el Finito», retirado invicto?",
+"o": [
+"Ricardo López",
+"Humberto González",
+"Jorge Arce"
+]
+},
+{
+"deporte": true,
+"p": "¿Con qué equipo ganó dos Super Bowls el pateador mexicano Raúl Allegre?",
+"o": [
+"Gigantes de Nueva York",
+"Potros de Indianápolis",
+"Jets de Nueva York"
+]
+},
+{
+"deporte": true,
+"p": "¿A qué estadio de la Liga MX le dicen «el Volcán»?",
+"o": [
+"El Universitario de la UANL",
+"El Estadio BBVA",
+"El Estadio Jalisco"
+]
+},
+{
+"deporte": true,
+"p": "¿A qué narrador de fútbol le dicen «el Perro»?",
+"o": [
+"Enrique Bermúdez",
+"Christian Martinoli",
+"Luis García"
+]
+},
+{
+"deporte": true,
+"p": "¿De qué ciudad son los Tomateros de la Liga Mexicana del Pacífico?",
+"o": [
+"Culiacán",
+"Hermosillo",
+"Mazatlán"
+]
+},
+{
+"p": "En «Breaking Bad», ¿quién grita «¡Sí, ciencia, perra!»?",
+"o": [
+"Jesse",
+"Walter",
+"Badger"
+]
+},
+{
+"p": "En «The Office», ¿quién dice «¡El robo de identidad no es broma, Jim!»?",
+"o": [
+"Dwight",
+"Andy",
+"Angela"
+]
+},
+{
+"p": "En «Friends», ¿quién grita «¡Pivot!» mientras suben un sillón por la escalera?",
+"o": [
+"Ross",
+"Chandler",
+"Joey"
+]
+},
+{
+"p": "En «Dragon Ball Z», ¿quién se presenta como «el Gran Saiyaman»?",
+"o": [
+"Gohan",
+"Goten",
+"Trunks"
+]
+},
+{
+"p": "En «Death Note», ¿quién dice «Los humanos son muy interesantes»?",
+"o": [
+"Ryuk",
+"Rem",
+"L"
+]
+},
+{
+"p": "En el primer «Zelda», ¿quién te dice «Es peligroso ir solo, toma esto»?",
+"o": [
+"Un anciano en una cueva",
+"La princesa Zelda",
+"Un hada"
+]
+},
+{
+"p": "En «Skyrim», ¿quiénes eran aventureros hasta recibir un flechazo en la rodilla?",
+"o": [
+"Los guardias",
+"Los herreros",
+"Los mercaderes"
+]
+},
+{
+"p": "¿Qué personaje de «Undertale» te advierte «You're gonna have a bad time»?",
+"o": [
+"Sans",
+"Papyrus",
+"Flowey"
+]
+},
+{
+"p": "En «Los Increíbles», ¿quién le grita a su esposa «¿Dónde está mi supertraje?»?",
+"o": [
+"Frozono",
+"Mr. Increíble",
+"Síndrome"
+]
+},
+{
+"p": "¿Qué sitio tenía como lema «Inteligencia colectiva»?",
+"o": [
+"Taringa!",
+"Yahoo! Respuestas",
+"Wikipedia"
+]
+},
+{
+"p": "¿Por qué se hizo viral «Lady Profeco» en 2013?",
+"o": [
+"Mandó clausurar un restaurante",
+"Insultó a unos policías",
+"Se coló en un concierto"
+]
+},
+{
+"p": "En el meme del novio distraído, ¿de qué color viste la chica que él voltea a ver?",
+"o": [
+"Rojo",
+"Azul",
+"Amarillo"
+]
+},
+{
+"p": "En el meme «Disaster Girl», ¿qué se incendia detrás de la niña?",
+"o": [
+"Una casa",
+"Un coche",
+"Una escuela"
+]
+},
+{
+"p": "¿Qué animal era la mascota del reproductor Winamp?",
+"o": [
+"Una llama",
+"Un zorro",
+"Un pingüino"
+]
+},
+{
+"p": "¿De qué color era el logo de LimeWire?",
+"o": [
+"Verde",
+"Naranja",
+"Azul"
+]
+},
+{
+"p": "¿Qué enfermedad buscaba apoyar el reto del balde de agua helada?",
+"o": [
+"La ELA",
+"El cáncer de mama",
+"La diabetes"
+]
+},
+{
+"p": "¿Qué juego de navegador consistía en darle clic a una galleta gigante?",
+"o": [
+"Cookie Clicker",
+"Candy Box",
+"AdVenture Capitalist"
+]
+},
+{
+"p": "Por ley, ¿de cuánto es como mínimo la prima vacacional?",
+"o": [
+"25% del salario",
+"15% del salario",
+"50% del salario"
+]
+},
+{
+"p": "¿Cuántos dígitos tiene tu Número de Seguridad Social del IMSS?",
+"o": [
+"11",
+"10",
+"13"
+]
+},
+{
+"p": "En las transferencias SPEI, ¿qué significa la «I»?",
+"o": [
+"Interbancarios",
+"Inmediatos",
+"Internacionales"
+]
+},
+{
+"p": "Por ley, ¿cómo se pagan tus primeras 9 horas extra de la semana?",
+"o": [
+"Al doble",
+"Al triple",
+"Como hora normal"
+]
+},
+{
+"p": "En el CFDI de tus facturas, ¿qué significa la «D»?",
+"o": [
+"Digital",
+"Deducible",
+"De Ingresos"
+]
+},
+{
+"p": "Con holograma 1, ¿cuántos sábados al mes no circula tu auto en la CDMX?",
+"o": [
+"Dos",
+"Uno",
+"Todos"
+]
+},
+{
+"p": "Por ley, ¿cuántas horas dura como máximo la jornada diurna de trabajo?",
+"o": [
+"8",
+"9",
+"10"
+]
+},
+{
+"p": "¿Qué se le unta a la tlayuda oaxaqueña antes de los frijoles?",
+"o": [
+"Asiento",
+"Mantequilla",
+"Mayonesa"
+]
+},
+{
+"p": "¿Qué significa «hacer panchos»?",
+"o": [
+"Hacer un escándalo",
+"Hacer bromas pesadas",
+"Hacer trampa"
+]
+},
+{
+"p": "¿Qué significa «tirarle la onda» a alguien?",
+"o": [
+"Coquetearle",
+"Ignorarlo",
+"Burlarse de él"
+]
+},
+{
+"p": "En «Beyblade», ¿cómo se llama la bestia bit del beyblade de Kai?",
+"o": [
+"Dranzer",
+"Driger",
+"Draciel"
+]
+},
+{
+"p": "¿Qué forma de cuaderno es la más grande en la papelería?",
+"o": [
+"Profesional",
+"Francesa",
+"Italiana"
+]
+},
+{
+"p": "¿Qué pastelito japonés tiene forma de pez y va relleno de frijol dulce?",
+"o": [
+"Taiyaki",
+"Dango",
+"Dorayaki"
+]
+}
+]

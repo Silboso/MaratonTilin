@@ -1,0 +1,296 @@
+[
+{
+"deporte": true,
+"p": "En «The Last Dance», ¿qué culpa Jordan de su famoso «Flu Game» en Utah?",
+"o": [
+"Una pizza",
+"Unas hamburguesas",
+"Un sushi"
+]
+},
+{
+"deporte": true,
+"p": "¿Qué dos escuderías no quisieron salir en la 1.ª temporada de «Drive to Survive»?",
+"o": [
+"Mercedes y Ferrari",
+"Red Bull y McLaren",
+"Ferrari y Red Bull"
+]
+},
+{
+"deporte": true,
+"p": "En «Homero al bate», ¿a qué pelotero corre Burns por no rasurarse las patillas?",
+"o": [
+"Don Mattingly",
+"Wade Boggs",
+"Steve Sax"
+]
+},
+{
+"deporte": true,
+"p": "En «Los Simpson», ¿qué Juegos Olímpicos arruinan la promoción de Krusty Burger?",
+"o": [
+"Los Ángeles 1984",
+"Moscú 1980",
+"Seúl 1988"
+]
+},
+{
+"deporte": true,
+"p": "¿Para qué cadena nació Ted Lasso, en unos comerciales de 2013?",
+"o": [
+"NBC Sports",
+"ESPN",
+"Fox Sports"
+]
+},
+{
+"deporte": true,
+"p": "¿Cómo se llama la serie documental de Netflix sobre el circuito de tenis?",
+"o": [
+"«Break Point»",
+"«Match Point»",
+"«Grand Slam»"
+]
+},
+{
+"p": "En «Stranger Things» 3, ¿qué dato le pide Suzie a Dustin para darle el código?",
+"o": [
+"La constante de Planck",
+"El valor de pi",
+"La velocidad de la luz"
+]
+},
+{
+"p": "En «Stranger Things» 4, ¿cómo se llama el club de Dungeons & Dragons de Eddie?",
+"o": [
+"Hellfire Club",
+"Hawkins Dungeon",
+"Club Demogorgon"
+]
+},
+{
+"p": "En «Stranger Things» 4, ¿en qué pizzería trabaja Argyle?",
+"o": [
+"Surfer Boy Pizza",
+"Pizza Palace",
+"Big Wave Pizza"
+]
+},
+{
+"p": "En «Stranger Things» 2, ¿de qué nombre viene «Dart», la mascota de Dustin?",
+"o": [
+"D'Artagnan",
+"Darth Vader",
+"Dartmouth"
+]
+},
+{
+"p": "En «Breaking Bad», ¿qué negocio usa de fachada Ed, el que da nuevas identidades?",
+"o": [
+"Reparación de aspiradoras",
+"Una tintorería",
+"Venta de seguros"
+]
+},
+{
+"p": "En «Breaking Bad», ¿cómo se llamaba el socio de Gus asesinado por el cártel?",
+"o": [
+"Max",
+"Gonzo",
+"Tyrus"
+]
+},
+{
+"p": "En «Better Call Saul», ¿qué significan las siglas del bufete HHM?",
+"o": [
+"Hamlin, Hamlin & McGill",
+"Hamlin, Hughes & McGill",
+"Howard, Hamlin & McGill"
+]
+},
+{
+"p": "En «Better Call Saul», ¿qué hace Nacho para provocarle el derrame a Héctor?",
+"o": [
+"Le cambia sus pastillas",
+"Le envenena el café",
+"Le quita el oxígeno"
+]
+},
+{
+"p": "En «Better Call Saul», ¿qué padecimiento dice tener Chuck McGill?",
+"o": [
+"Alergia a la electricidad",
+"Alergia al sol",
+"Fobia a los gérmenes"
+]
+},
+{
+"p": "En «Game of Thrones», ¿la muerte de qué Mano del Rey desata la historia?",
+"o": [
+"Jon Arryn",
+"Ned Stark",
+"Tywin Lannister"
+]
+},
+{
+"p": "En «Game of Thrones», ¿qué le sirve Arya a Walder Frey antes de matarlo?",
+"o": [
+"Un pastel hecho con sus hijos",
+"Vino envenenado",
+"Sopa de rata"
+]
+},
+{
+"p": "En «Game of Thrones», ¿cómo se llama el castillo de la Casa Frey?",
+"o": [
+"Los Gemelos",
+"Aguasdulces",
+"Harrenhal"
+]
+},
+{
+"p": "En «The Office», ¿qué les prometió Michael a los niños de «Scott's Tots»?",
+"o": [
+"Pagarles la universidad",
+"Un viaje a Disney",
+"Una computadora"
+]
+},
+{
+"p": "En «The Office», ¿cómo se llama la empresa que funda Michael tras renunciar?",
+"o": [
+"Michael Scott Paper Company",
+"Scott & Halpert Paper",
+"Prestige Direct Paper"
+]
+},
+{
+"p": "En «Friends», ¿cuántas hermanas tiene Joey?",
+"o": [
+"7",
+"5",
+"4"
+]
+},
+{
+"p": "En «Friends», ¿en cuántas categorías tiene Monica divididas sus toallas?",
+"o": [
+"11",
+"7",
+"15"
+]
+},
+{
+"p": "En «Friends», ¿cómo se llama la gemela de Phoebe?",
+"o": [
+"Ursula",
+"Regina",
+"Leslie"
+]
+},
+{
+"p": "En «The Big Bang Theory», ¿qué dos opciones le agrega Sheldon a piedra, papel o tijera?",
+"o": [
+"Lagarto y Spock",
+"Pistola y Yoda",
+"Fuego y agua"
+]
+},
+{
+"p": "En «The Big Bang Theory», ¿cómo se llama el dueño de la tienda de cómics?",
+"o": [
+"Stuart",
+"Bert",
+"Barry"
+]
+},
+{
+"p": "En «The Big Bang Theory», ¿cómo se llama el hermano mayor de Sheldon?",
+"o": [
+"Georgie",
+"Billy",
+"Junior"
+]
+},
+{
+"p": "¿Cómo se llama el dispositivo de Ben en «Ben 10: Supremacía Alienígena»?",
+"o": [
+"Ultimatrix",
+"Megatrix",
+"Biomnitrix"
+]
+},
+{
+"p": "En «El increíble mundo de Gumball», ¿qué compañero de clase es una papa?",
+"o": [
+"Idaho",
+"Clayton",
+"Juke"
+]
+},
+{
+"p": "En «Los Simpson», ¿cuál es el nombre real de Krusty?",
+"o": [
+"Herschel Krustofski",
+"Krusty Kowalski",
+"Rory Krustman"
+]
+},
+{
+"p": "¿En qué número de la avenida Siempre Viva viven los Simpson?",
+"o": [
+"742",
+"724",
+"472"
+]
+},
+{
+"p": "En «Futurama», ¿en qué ciudad fue construido Bender?",
+"o": [
+"Tijuana",
+"Monterrey",
+"Ciudad Juárez"
+]
+},
+{
+"p": "En «Futurama», ¿quién resulta ser el abuelo de Fry?",
+"o": [
+"El propio Fry",
+"El Profesor Farnsworth",
+"Su hermano Yancy"
+]
+},
+{
+"p": "Según Chespirito, ¿por qué se llama «El Chavo del 8»?",
+"o": [
+"Vive en el departamento 8",
+"Llegó a los 8 años",
+"Es su número de la suerte"
+]
+},
+{
+"p": "¿Qué actriz interpretaba a la Popis en «El Chavo del 8»?",
+"o": [
+"Florinda Meza",
+"María Antonieta de las Nieves",
+"Angelines Fernández"
+]
+},
+{
+"p": "¿De qué nombre viene el apodo «Chespirito»?",
+"o": [
+"Shakespeare",
+"Chespi, su perro",
+"Espíritu"
+]
+},
+{
+"p": "¿Qué personaje de «Mulán» (1998) dobló Eugenio Derbez en latino?",
+"o": [
+"Mushu",
+"Yao",
+"El Emperador"
+]
+}
+]

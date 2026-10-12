@@ -1,0 +1,296 @@
+[
+ {
+  "deporte": true,
+  "p": "En «Kuroko no Basket», ¿qué número usa Taiga Kagami en Seirin?",
+  "o": [
+   "10",
+   "4",
+   "7"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué temporada de F1 se disputa en la película «Rush» (2013)?",
+  "o": [
+   "1976",
+   "1977",
+   "1975"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «El juego de la fortuna» (Moneyball), ¿qué actor es el analista Peter Brand?",
+  "o": [
+   "Jonah Hill",
+   "Seth Rogen",
+   "Philip Seymour Hoffman"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Un sueño posible», ¿en qué universidad juega americano Michael Oher?",
+  "o": [
+   "Ole Miss (Misisipi)",
+   "Tennessee",
+   "LSU"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Hajime no Ippo», ¿qué golpe característico usa Ryo Mashiba?",
+  "o": [
+   "El flicker",
+   "El Dempsey Roll",
+   "El Gazelle Punch"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En «Blue Lock», ¿quién es el hermano menor de Sae?",
+  "o": [
+   "Rin Itoshi",
+   "Shoei Barou",
+   "Seishiro Nagi"
+  ]
+ },
+ {
+  "p": "En «Dragon Ball», ¿qué le pide Oolong a Shenlong?",
+  "o": [
+   "Unos calzones de chica",
+   "Ser inmortal",
+   "Una montaña de dinero"
+  ]
+ },
+ {
+  "p": "En DBZ, ¿qué miembro de las Fuerzas Especiales Ginyu puede detener el tiempo?",
+  "o": [
+   "Guldo",
+   "Recoome",
+   "Jeice"
+  ]
+ },
+ {
+  "p": "En «Dragon Ball», ¿quién cultiva las semillas del ermitaño?",
+  "o": [
+   "El Maestro Karin",
+   "Kami-sama",
+   "Mr. Popo"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿qué elemento controla Haku con su kekkei genkai?",
+  "o": [
+   "El hielo",
+   "La lava",
+   "La madera"
+  ]
+ },
+ {
+  "p": "En «Naruto», ¿quién es la sensei del equipo de Hinata?",
+  "o": [
+   "Kurenai Yuhi",
+   "Anko Mitarashi",
+   "Shizune"
+  ]
+ },
+ {
+  "p": "En «Pokémon», ¿qué rechaza Pikachu para no evolucionar?",
+  "o": [
+   "Una Piedra Trueno",
+   "Una Piedra Lunar",
+   "Un Caramelo Raro"
+  ]
+ },
+ {
+  "p": "En «Digimon Adventure», ¿cómo se llama el anciano que guía a los niños elegidos?",
+  "o": [
+   "Gennai",
+   "Piximon",
+   "Centarumon"
+  ]
+ },
+ {
+  "p": "En «Jujutsu Kaisen», ¿qué excompañero de Gojo se vuelve villano?",
+  "o": [
+   "Suguru Geto",
+   "Mahito",
+   "Toji Fushiguro"
+  ]
+ },
+ {
+  "p": "En «Demon Slayer», ¿quién es la Pilar del Amor?",
+  "o": [
+   "Mitsuri Kanroji",
+   "Shinobu Kocho",
+   "Kanao Tsuyuri"
+  ]
+ },
+ {
+  "p": "En «Demon Slayer», ¿con qué mata Shinobu a los demonios?",
+  "o": [
+   "Con veneno de glicina",
+   "Cortándoles la cabeza",
+   "Con luz del sol"
+  ]
+ },
+ {
+  "p": "En «Death Note», ¿qué fiscal se vuelve el nuevo Kira con el cuaderno?",
+  "o": [
+   "Teru Mikami",
+   "Kiyomi Takada",
+   "Touta Matsuda"
+  ]
+ },
+ {
+  "p": "En «Code Geass», ¿cómo se llama el grupo armado que dirige Lelouch?",
+  "o": [
+   "Los Caballeros Negros",
+   "La Mesa Redonda",
+   "El Frente de Liberación"
+  ]
+ },
+ {
+  "p": "En «Hunter x Hunter», ¿qué tipo de Nen tiene Killua?",
+  "o": [
+   "Transmutación",
+   "Intensificación",
+   "Emisión"
+  ]
+ },
+ {
+  "p": "En «Sword Art Online», ¿cómo se llama el juego de hadas donde está atrapada Asuna?",
+  "o": [
+   "ALfheim Online",
+   "Gun Gale Online",
+   "Underworld"
+  ]
+ },
+ {
+  "p": "En «Evangelion», ¿cómo se llama el pingüino que vive con Misato?",
+  "o": [
+   "Pen Pen",
+   "Kuro",
+   "Taro"
+  ]
+ },
+ {
+  "p": "En «Steins;Gate», ¿qué refresco ama Okabe?",
+  "o": [
+   "Dr Pepper",
+   "Coca-Cola",
+   "Ramune"
+  ]
+ },
+ {
+  "p": "En «Fullmetal Alchemist», ¿qué homúnculo se transforma en quien quiera?",
+  "o": [
+   "Envidia",
+   "Lujuria",
+   "Avaricia"
+  ]
+ },
+ {
+  "p": "En «Tokyo Ghoul», ¿qué resta repite Kaneki mientras lo torturan?",
+  "o": [
+   "1000 menos 7",
+   "100 menos 3",
+   "500 menos 9"
+  ]
+ },
+ {
+  "p": "En «Chainsaw Man», ¿con qué demonio tiene contrato Aki al inicio?",
+  "o": [
+   "El Zorro",
+   "El Murciélago",
+   "La Sanguijuela"
+  ]
+ },
+ {
+  "p": "En «My Hero Academia», ¿qué héroe es el maestro titular de la clase 1-A?",
+  "o": [
+   "Shota Aizawa",
+   "Present Mic",
+   "Midnight"
+  ]
+ },
+ {
+  "p": "En «Attack on Titan», ¿qué se roba y se come Sasha en plena formación?",
+  "o": [
+   "Una papa",
+   "Un pan",
+   "Carne seca"
+  ]
+ },
+ {
+  "p": "En «Ratatouille», ¿quién resulta ser el hijo y heredero de Gusteau?",
+  "o": [
+   "Linguini",
+   "Skinner",
+   "Emile"
+  ]
+ },
+ {
+  "p": "En «Terminator 2», ¿qué modelo es el villano de metal líquido?",
+  "o": [
+   "T-1000",
+   "T-800",
+   "T-X"
+  ]
+ },
+ {
+  "p": "En «Jurassic Park», ¿quién muere devorado en el baño portátil?",
+  "o": [
+   "Donald Gennaro",
+   "Ray Arnold",
+   "Dennis Nedry"
+  ]
+ },
+ {
+  "p": "En «El Conjuro», ¿cómo se apellida la familia que vive en la casa embrujada?",
+  "o": [
+   "Perron",
+   "Hodgson",
+   "Lutz"
+  ]
+ },
+ {
+  "p": "En «Roma», de Cuarón, ¿cómo se llama la protagonista?",
+  "o": [
+   "Cleo",
+   "Adela",
+   "Sofía"
+  ]
+ },
+ {
+  "p": "En «Y tu mamá también», ¿cómo se llaman los dos amigos que viajan con Luisa?",
+  "o": [
+   "Tenoch y Julio",
+   "Octavio y Ramiro",
+   "Beto y Tato"
+  ]
+ },
+ {
+  "p": "En «El laberinto del fauno», ¿qué criatura tiene los ojos en las manos?",
+  "o": [
+   "El Hombre Pálido",
+   "El Fauno",
+   "El Sapo gigante"
+  ]
+ },
+ {
+  "p": "En «Kill Bill», ¿qué nombre clave tenía la Novia en el escuadrón?",
+  "o": [
+   "Mamba Negra",
+   "Cobra Real",
+   "Cascabel"
+  ]
+ },
+ {
+  "p": "En «Scott Pilgrim», ¿cómo se llama la banda en la que toca Scott?",
+  "o": [
+   "Sex Bob-omb",
+   "Crash and the Boys",
+   "The Clash at Demonhead"
+  ]
+ }
+]

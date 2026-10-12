@@ -1,0 +1,296 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Al salir de qué pelea en Las Vegas balearon a Tupac en 1996?",
+  "o": [
+   "Tyson vs. Seldon",
+   "Tyson vs. Holyfield",
+   "Tyson vs. McNeeley"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué piloto de F1 canta con el alias XNDA en «Pipe», de Christina Aguilera?",
+  "o": [
+   "Lewis Hamilton",
+   "Max Verstappen",
+   "Daniel Ricciardo"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Con la música de qué saga empezó el desfile de atletas de Tokio 2020?",
+  "o": [
+   "Dragon Quest",
+   "Final Fantasy",
+   "Kingdom Hearts"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué compositor hizo las entradas de Stone Cold, The Rock y Undertaker?",
+  "o": [
+   "Jim Johnston",
+   "Mikael Le Bihan",
+   "Dale Oliver"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué rapero jugó en la Basketball Africa League con los Patriots de Ruanda?",
+  "o": [
+   "J. Cole",
+   "Drake",
+   "Lil Wayne"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué cantante abrió la final de la Champions de 2018 en Kiev?",
+  "o": [
+   "Dua Lipa",
+   "Rita Ora",
+   "Ellie Goulding"
+  ]
+ },
+ {
+  "p": "¿Cómo se apoda el bajista de Linkin Park, Dave Farrell?",
+  "o": [
+   "Phoenix",
+   "Flea",
+   "Fieldy"
+  ]
+ },
+ {
+  "p": "¿Quién es el baterista de Linkin Park desde 2024?",
+  "o": [
+   "Colin Brittain",
+   "Rob Bourdon",
+   "Josh Freese"
+  ]
+ },
+ {
+  "p": "¿Qué integrante de Queen tiene un doctorado en astrofísica?",
+  "o": [
+   "Brian May",
+   "Roger Taylor",
+   "John Deacon"
+  ]
+ },
+ {
+  "p": "¿Quién toca el solo de guitarra de «Beat It», de Michael Jackson?",
+  "o": [
+   "Eddie Van Halen",
+   "Slash",
+   "Steve Vai"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba el chimpancé de Michael Jackson?",
+  "o": [
+   "Bubbles",
+   "Cheeta",
+   "Bobo"
+  ]
+ },
+ {
+  "p": "¿Qué canción de The Beatles se estrenó en la transmisión mundial «Our World» de 1967?",
+  "o": [
+   "«All You Need Is Love»",
+   "«Hey Jude»",
+   "«Strawberry Fields Forever»"
+  ]
+ },
+ {
+  "p": "¿Qué Beatle compuso y canta «Octopus's Garden»?",
+  "o": [
+   "Ringo Starr",
+   "George Harrison",
+   "Paul McCartney"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el primer opening de Naruto Shippuden?",
+  "o": [
+   "«Hero's Come Back!!»",
+   "«Blue Bird»",
+   "«Distance»"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el segundo ending de Death Note, de Maximum the Hormone?",
+  "o": [
+   "«Zetsubou Billy»",
+   "«Alumina»",
+   "«Koi no Mega Lover»"
+  ]
+ },
+ {
+  "p": "¿Qué grupo canta «Kaidoku Funō», segundo opening de Code Geass?",
+  "o": [
+   "Jinn",
+   "FLOW",
+   "ALI PROJECT"
+  ]
+ },
+ {
+  "p": "¿A qué campeón le da voz Baekhyun en HEARTSTEEL, de LoL?",
+  "o": [
+   "Ezreal",
+   "Kayn",
+   "Sett"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el himno de Worlds 2020 de LoL, con Jeremy McKinnon?",
+  "o": [
+   "«Take Over»",
+   "«Burn It All Down»",
+   "«Phoenix»"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿qué disco se saca cepillando grava en las ruinas de los senderos?",
+  "o": [
+   "«Relic»",
+   "«Otherside»",
+   "«Pigstep»"
+  ]
+ },
+ {
+  "p": "En Majora's Mask, ¿qué instrumento toca Link transformado en Zora?",
+  "o": [
+   "Una guitarra",
+   "Unos tambores",
+   "Unas gaitas"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el primer disco de Arctic Monkeys?",
+  "o": [
+   "Whatever People Say I Am...",
+   "Favourite Worst Nightmare",
+   "Humbug"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el bebé que sale en la portada de «Nevermind», de Nirvana?",
+  "o": [
+   "Spencer Elden",
+   "Kirk Weddle",
+   "Dave Grohl"
+  ]
+ },
+ {
+  "p": "¿En qué disco de Metallica viene «One»?",
+  "o": [
+   "...And Justice for All",
+   "Master of Puppets",
+   "Ride the Lightning"
+  ]
+ },
+ {
+  "p": "¿Cómo le decían al baterista de Avenged Sevenfold que murió en 2009?",
+  "o": [
+   "The Rev",
+   "Synyster Gates",
+   "Zacky Vengeance"
+  ]
+ },
+ {
+  "p": "¿Cuál fue el último disco de estudio de Soda Stereo?",
+  "o": [
+   "Sueño Stereo",
+   "Dynamo",
+   "Canción Animal"
+  ]
+ },
+ {
+  "p": "¿Cómo se llaman los hermanos compositores de Mecano?",
+  "o": [
+   "Nacho y José María Cano",
+   "Pau y Marc Donés",
+   "Iván y Raúl Rodríguez"
+  ]
+ },
+ {
+  "p": "¿Con qué banda sacó Natalia Lafourcade el disco «Casa» (2005)?",
+  "o": [
+   "La Forquetina",
+   "Los Daniels",
+   "Ely Guerra y Banda"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre real de Peso Pluma?",
+  "o": [
+   "Hassan Kabande Laija",
+   "Hassan Laija Ortiz",
+   "Emilio Hassan Soto"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el disco debut de BTS, de 2013?",
+  "o": [
+   "2 Cool 4 Skool",
+   "O!RUL8,2?",
+   "Skool Luv Affair"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la unidad de productores de Stray Kids?",
+  "o": [
+   "3RACHA",
+   "Danceracha",
+   "Vocalracha"
+  ]
+ },
+ {
+  "p": "¿Cómo se llamaba El Tri en sus inicios?",
+  "o": [
+   "Three Souls in My Mind",
+   "Los Dug Dug's",
+   "Peace and Love"
+  ]
+ },
+ {
+  "p": "¿De qué Final Fantasy es la canción «To Zanarkand»?",
+  "o": [
+   "Final Fantasy X",
+   "Final Fantasy VII",
+   "Final Fantasy IX"
+  ]
+ },
+ {
+  "p": "¿Con qué rapero grabó Hayley Williams «Airplanes» (2010)?",
+  "o": [
+   "B.o.B",
+   "Lupe Fiasco",
+   "Eminem"
+  ]
+ },
+ {
+  "p": "¿Con qué canción abre «A Night at the Opera», de Queen?",
+  "o": [
+   "«Death on Two Legs»",
+   "«Bohemian Rhapsody»",
+   "«I'm in Love with My Car»"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el primer disco de Daft Punk (1997)?",
+  "o": [
+   "Homework",
+   "Discovery",
+   "Human After All"
+  ]
+ },
+ {
+  "p": "¿En qué disco de Daddy Yankee viene «Gasolina»?",
+  "o": [
+   "Barrio Fino",
+   "El Cartel",
+   "Talento de Barrio"
+  ]
+ }
+]

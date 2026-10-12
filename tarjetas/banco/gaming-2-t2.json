@@ -1,0 +1,296 @@
+[
+ {
+  "deporte": true,
+  "p": "¿Qué empresa compró a la AAA de lucha libre en 2025?",
+  "o": [
+   "WWE",
+   "AEW",
+   "CMLL"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿En qué Gran Premio ganó Checo Pérez su primera carrera de F1?",
+  "o": [
+   "GP de Sakhir",
+   "GP de Mónaco",
+   "GP de Singapur"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Quién fue el MVP de las Finales de la NBA 2025?",
+  "o": [
+   "Shai Gilgeous-Alexander",
+   "Jalen Williams",
+   "Tyrese Haliburton"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué futbolista salió en la portada de PES 2009, 2010 y 2011?",
+  "o": [
+   "Lionel Messi",
+   "Cristiano Ronaldo",
+   "Neymar"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "En la final del Clásico Mundial 2023, ¿a quién ponchó Ohtani para ganar?",
+  "o": [
+   "Mike Trout",
+   "Mookie Betts",
+   "Aaron Judge"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué boxeador mexicano ganó medalla de plata en París 2024?",
+  "o": [
+   "Marco Verde",
+   "Misael Rodríguez",
+   "Óscar Valdez"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la definitiva de Lux en LoL?",
+  "o": [
+   "Chispa final",
+   "Singularidad brillante",
+   "Barrera prismática"
+  ]
+ },
+ {
+  "p": "¿Qué campeón de LoL es el esposo de Senna?",
+  "o": [
+   "Lucian",
+   "Thresh",
+   "Viego"
+  ]
+ },
+ {
+  "p": "¿Qué campeona de LoL monta un jabalí de guerra?",
+  "o": [
+   "Sejuani",
+   "Ashe",
+   "Lissandra"
+  ]
+ },
+ {
+  "p": "En Arcane, ¿quién cría a Jinx después de que se separa de Vi?",
+  "o": [
+   "Silco",
+   "Vander",
+   "Sevika"
+  ]
+ },
+ {
+  "p": "¿Cuál es el nombre real de Reaper en Overwatch?",
+  "o": [
+   "Gabriel Reyes",
+   "Jack Morrison",
+   "Jesse McCree"
+  ]
+ },
+ {
+  "p": "¿Qué heroína de Overwatch es hija de Ana?",
+  "o": [
+   "Pharah",
+   "Echo",
+   "Brigitte"
+  ]
+ },
+ {
+  "p": "¿En qué Smash debutó Meta Knight?",
+  "o": [
+   "Brawl",
+   "Melee",
+   "Smash 4"
+  ]
+ },
+ {
+  "p": "¿De qué saga viene el peleador «Héroe» de Smash Ultimate?",
+  "o": [
+   "Dragon Quest",
+   "Final Fantasy",
+   "Kingdom Hearts"
+  ]
+ },
+ {
+  "p": "En Clash Royale, ¿cuánto elixir cuesta el Mago Eléctrico?",
+  "o": [
+   "4",
+   "5",
+   "3"
+  ]
+ },
+ {
+  "p": "En «Elden Ring», ¿cómo se llama la doncella que te acompaña desde el inicio?",
+  "o": [
+   "Melina",
+   "Ranni",
+   "Rennala"
+  ]
+ },
+ {
+  "p": "¿En qué evoluciona Scyther con un Revestimiento Metálico?",
+  "o": [
+   "Scizor",
+   "Kleavor",
+   "Pinsir"
+  ]
+ },
+ {
+  "p": "¿Qué líder de gimnasio de Kanto usa Pokémon de tipo Veneno?",
+  "o": [
+   "Koga",
+   "Sabrina",
+   "Erika"
+  ]
+ },
+ {
+  "p": "En «Twilight Princess», ¿cómo se llama la aldea natal de Link?",
+  "o": [
+   "Aldea Ordon",
+   "Kakariko",
+   "Hatelia"
+  ]
+ },
+ {
+  "p": "En «Ocarina of Time», ¿qué le regala Saria a Link al salir del bosque?",
+  "o": [
+   "La Ocarina de las Hadas",
+   "La Ocarina del Tiempo",
+   "La Espada Kokiri"
+  ]
+ },
+ {
+  "p": "En «Super Mario Galaxy», ¿cómo se llaman las estrellitas que cuida Estela?",
+  "o": [
+   "Destellos",
+   "Fulgores",
+   "Astrines"
+  ]
+ },
+ {
+  "p": "En Minecraft, ¿cuántos cráneos de esqueleto wither se usan para invocar al Wither?",
+  "o": [
+   "3",
+   "4",
+   "1"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el Incorpóreo de Sora en Kingdom Hearts?",
+  "o": [
+   "Roxas",
+   "Ventus",
+   "Vanitas"
+  ]
+ },
+ {
+  "p": "En «The Last of Us Part II», ¿en qué ciudad pasa la mayor parte del juego?",
+  "o": [
+   "Seattle",
+   "Jackson",
+   "Santa Bárbara"
+  ]
+ },
+ {
+  "p": "En el primer Resident Evil, ¿qué capitán de S.T.A.R.S. traiciona al equipo?",
+  "o": [
+   "Albert Wesker",
+   "Barry Burton",
+   "Brad Vickers"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el marine de puro que acompaña al Jefe Maestro en Halo?",
+  "o": [
+   "Sargento Johnson",
+   "Capitán Keyes",
+   "Sargento Forge"
+  ]
+ },
+ {
+  "p": "¿Qué esfera robótica ayuda a Chell a escapar al inicio de «Portal 2»?",
+  "o": [
+   "Wheatley",
+   "Atlas",
+   "P-Body"
+  ]
+ },
+ {
+  "p": "En «Dark Souls», ¿cómo se llama el caballero de armadura con forma de cebolla?",
+  "o": [
+   "Siegmeyer de Catarina",
+   "Solaire de Astora",
+   "Oscar de Astora"
+  ]
+ },
+ {
+  "p": "¿Qué ninja de Mortal Kombat se viste de verde?",
+  "o": [
+   "Reptile",
+   "Smoke",
+   "Ermac"
+  ]
+ },
+ {
+  "p": "En Team Fortress 2, ¿qué clase es escocesa y tuerta?",
+  "o": [
+   "El Demoman",
+   "El Sniper",
+   "El Soldier"
+  ]
+ },
+ {
+  "p": "En Left 4 Dead, ¿qué infectado especial te atrapa con su lengua?",
+  "o": [
+   "El Smoker",
+   "El Hunter",
+   "El Jockey"
+  ]
+ },
+ {
+  "p": "En «Persona 5», ¿quién es la hacker de los Ladrones Fantasma?",
+  "o": [
+   "Futaba",
+   "Makoto",
+   "Haru"
+  ]
+ },
+ {
+  "p": "¿En qué juego debutó Shadow the Hedgehog?",
+  "o": [
+   "Sonic Adventure 2",
+   "Sonic Heroes",
+   "Sonic Adventure"
+  ]
+ },
+ {
+  "p": "En World of Warcraft, ¿qué príncipe se convierte en el Rey Exánime?",
+  "o": [
+   "Arthas",
+   "Thrall",
+   "Illidan"
+  ]
+ },
+ {
+  "p": "¿Qué casa lidera Edelgard en «Fire Emblem: Three Houses»?",
+  "o": [
+   "Águilas Negras",
+   "Leones Azules",
+   "Ciervos Dorados"
+  ]
+ },
+ {
+  "p": "En «Ocarina of Time», ¿cómo se llama el pez guardián de los Zora?",
+  "o": [
+   "Lord Jabu-Jabu",
+   "Barinade",
+   "Morpha"
+  ]
+ }
+]

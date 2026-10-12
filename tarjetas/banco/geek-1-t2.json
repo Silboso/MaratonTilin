@@ -1,0 +1,296 @@
+[
+ {
+  "deporte": true,
+  "p": "En el tenis, ¿qué sistema de cámaras revisa si la pelota botó fuera?",
+  "o": [
+   "El ojo de halcón",
+   "El VAR",
+   "El ojo de águila"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Con qué equipo ganó Michael Jordan sus seis títulos de la NBA?",
+  "o": [
+   "Chicago Bulls",
+   "Los Angeles Lakers",
+   "Boston Celtics"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Cómo se llama el trofeo que recibe el campeón del Super Bowl?",
+  "o": [
+   "Trofeo Vince Lombardi",
+   "Trofeo Larry O'Brien",
+   "Copa Stanley"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué marca fabrica los balones oficiales de los Mundiales de fútbol?",
+  "o": [
+   "Adidas",
+   "Nike",
+   "Puma"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué luchador de la WWE es famoso por decir «You can't see me»?",
+  "o": [
+   "John Cena",
+   "The Rock",
+   "Randy Orton"
+  ]
+ },
+ {
+  "deporte": true,
+  "p": "¿Qué piloto igualó los siete títulos de F1 de Michael Schumacher?",
+  "o": [
+   "Lewis Hamilton",
+   "Sebastian Vettel",
+   "Fernando Alonso"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama la hija de Ant-Man en el UCM?",
+  "o": [
+   "Cassie",
+   "Hope",
+   "Maggie"
+  ]
+ },
+ {
+  "p": "En «Endgame», ¿cuántos años pasan después del chasquido?",
+  "o": [
+   "5",
+   "3",
+   "10"
+  ]
+ },
+ {
+  "p": "¿Quién grita por fin «¡Vengadores, unidos!» en «Endgame»?",
+  "o": [
+   "El Capitán América",
+   "Iron Man",
+   "Thor"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el gran portaaviones volador de S.H.I.E.L.D.?",
+  "o": [
+   "Helicarrier",
+   "Quinjet",
+   "Milano"
+  ]
+ },
+ {
+  "p": "¿Qué actor interpreta al Doctor Strange en el UCM?",
+  "o": [
+   "Benedict Cumberbatch",
+   "Tom Hiddleston",
+   "Paul Bettany"
+  ]
+ },
+ {
+  "p": "¿Qué superhéroe de DC es Barry Allen?",
+  "o": [
+   "Flash",
+   "Linterna Verde",
+   "El Átomo"
+  ]
+ },
+ {
+  "p": "¿Qué villano de Batman decide todo lanzando una moneda?",
+  "o": [
+   "Dos Caras",
+   "El Pingüino",
+   "El Acertijo"
+  ]
+ },
+ {
+  "p": "¿Qué actor es Batman en «The Batman» (2022)?",
+  "o": [
+   "Robert Pattinson",
+   "Ben Affleck",
+   "Christian Bale"
+  ]
+ },
+ {
+  "p": "¿Qué heroína de DC es Kara Zor-El, la prima de Superman?",
+  "o": [
+   "Supergirl",
+   "Power Girl",
+   "Batichica"
+  ]
+ },
+ {
+  "p": "¿Qué mano le corta Darth Vader a Luke en Ciudad Nube?",
+  "o": [
+   "La derecha",
+   "La izquierda",
+   "Las dos"
+  ]
+ },
+ {
+  "p": "¿Qué orden hace que los clones ataquen a los Jedi?",
+  "o": [
+   "La Orden 66",
+   "La Orden 99",
+   "La Orden 67"
+  ]
+ },
+ {
+  "p": "¿Qué cazarrecompensas le entrega a Jabba a Han Solo congelado?",
+  "o": [
+   "Boba Fett",
+   "Bossk",
+   "Greedo"
+  ]
+ },
+ {
+  "p": "¿Qué planeta destruye la Estrella de la Muerte en «Una nueva esperanza»?",
+  "o": [
+   "Alderaan",
+   "Dantooine",
+   "Yavin 4"
+  ]
+ },
+ {
+  "p": "¿En qué casa estuvo a punto de quedar Harry Potter?",
+  "o": [
+   "Slytherin",
+   "Ravenclaw",
+   "Hufflepuff"
+  ]
+ },
+ {
+  "p": "¿Cómo se llama el fantasma de la casa Gryffindor?",
+  "o": [
+   "Nick Casi Decapitado",
+   "El Fraile Gordo",
+   "El Barón Sanguinario"
+  ]
+ },
+ {
+  "p": "¿Qué forma tiene el patronus de Harry Potter?",
+  "o": [
+   "Un ciervo",
+   "Un lobo",
+   "Un fénix"
+  ]
+ },
+ {
+  "p": "En Harry Potter, ¿qué criatura es Buckbeak?",
+  "o": [
+   "Un hipogrifo",
+   "Un thestral",
+   "Un grifo"
+  ]
+ },
+ {
+  "p": "¿Cuál era el nombre de Gollum antes de tener el Anillo?",
+  "o": [
+   "Sméagol",
+   "Déagol",
+   "Gríma"
+  ]
+ },
+ {
+  "p": "¿Cuántos integrantes tiene la Comunidad del Anillo?",
+  "o": [
+   "9",
+   "7",
+   "12"
+  ]
+ },
+ {
+  "p": "¿En qué ciudad élfica se forma la Comunidad del Anillo?",
+  "o": [
+   "Rivendel",
+   "Lothlórien",
+   "Bree"
+  ]
+ },
+ {
+  "p": "En «Yu-Gi-Oh!», ¿cómo se llama el mejor amigo rubio de Yugi?",
+  "o": [
+   "Joey Wheeler",
+   "Tristán Taylor",
+   "Duke Devlin"
+  ]
+ },
+ {
+  "p": "En la Lotería, ¿qué carta se canta «el que le cantó a San Pedro»?",
+  "o": [
+   "El Gallo",
+   "El Pájaro",
+   "El Cotorro"
+  ]
+ },
+ {
+  "p": "¿Cuántos colores distintos tiene el tapete del Twister?",
+  "o": [
+   "4",
+   "5",
+   "6"
+  ]
+ },
+ {
+  "p": "En «God of War», ¿cómo se llaman las cuchillas con cadenas de Kratos?",
+  "o": [
+   "Espadas del Caos",
+   "Garras de Hades",
+   "Hojas del Exilio"
+  ]
+ },
+ {
+  "p": "En el videojuego «Hades», ¿cómo se llama el perro de tres cabezas?",
+  "o": [
+   "Cerbero",
+   "Fluffy",
+   "Ortro"
+  ]
+ },
+ {
+  "p": "¿Cuál es el planeta más caliente del sistema solar?",
+  "o": [
+   "Venus",
+   "Mercurio",
+   "Marte"
+  ]
+ },
+ {
+  "p": "¿Qué elemento químico tiene el símbolo «K»?",
+  "o": [
+   "Potasio",
+   "Kriptón",
+   "Calcio"
+  ]
+ },
+ {
+  "p": "¿Qué marca creó el Walkman?",
+  "o": [
+   "Sony",
+   "Panasonic",
+   "Philips"
+  ]
+ },
+ {
+  "p": "¿Qué celular de Samsung se abre como un libro?",
+  "o": [
+   "Galaxy Z Fold",
+   "Galaxy Z Flip",
+   "Galaxy Note"
+  ]
+ },
+ {
+  "p": "¿Qué red social de Google cerró para el público en 2019?",
+  "o": [
+   "Google+",
+   "Orkut",
+   "Google Buzz"
+  ]
+ }
+]

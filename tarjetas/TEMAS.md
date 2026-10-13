@@ -190,4 +190,6 @@ Para agregar hojas sin cambiar las que ya se imprimieron, las preguntas nuevas v
 - **Revisar:** `python3 tarjetas/revisar.py [hojas]` dice cuántas faltan por categoría y nivel, y avisa de preguntas repetidas, opciones duplicadas o textos demasiado largos para la tarjeta.
 - **Generar:** `node tarjetas/generar.mjs` arma las hojas. Revuelve las preguntas para mezclar temas y pone 3 tarjetas de cada nivel por hoja y una pregunta de deportes por cara.
 - **Word:** después de generar, `node tarjetas/word.mjs` crea `tarjetas-bn.docx` y `tarjetas-color.docx` con el mismo acomodo: tablas editables de 3 × 3 tarjetas por página, con el reverso en espejo.
+
+**Imprimir a doble cara:** imprime el PDF volteando por el borde largo y con la escala en «Tamaño real» o 100 % (nunca «Ajustar a la página», porque recorre la vuelta). Si aun así la vuelta sale recorrida, imprime `calibrar.pdf` (se genera con `node tarjetas/calibrar.mjs`) a doble cara, ponla contra la luz y anota en qué número de cada regla cae la línea del frente. Esos números van en `tarjetas/impresion.json` como `{"reverso_mm": [X, Y]}` y, al volver a generar, el reverso se recorre para compensar. La vuelta no lleva líneas de corte: se corta por las del frente.
 - **Cuántas hacen falta:** cada hoja necesita 18 preguntas por categoría (6 por nivel), y de cada 6, una de deportes.

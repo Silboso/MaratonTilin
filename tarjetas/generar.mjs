@@ -33,6 +33,15 @@ if (!datos.preguntas) {
 const CARAS = datos.soloFrente ? 1 : 2;
 const categorias = Object.fromEntries(datos.categorias.map((c) => [c.id, c]));
 
+// Ajuste de impresión a doble cara: muchas impresoras imprimen la vuelta recorrida
+// unos milímetros. impresion.json (opcional) trae {"reverso_mm": [x, y]}: cuánto mover
+// el reverso a la derecha (x) y hacia abajo (y), visto desde ese lado. Se mide con
+// la hoja de calibrar.pdf (node tarjetas/calibrar.mjs).
+let [REV_X, REV_Y] = [0, 0];
+try {
+  [REV_X, REV_Y] = JSON.parse(readFileSync(join(dir, "impresion.json"), "utf8")).reverso_mm.map(Number);
+} catch {}
+
 const POR_HOJA = 9;
 const COLUMNAS = 3;
 
@@ -193,7 +202,7 @@ for (let i = 0; i < tarjetas.length; i += POR_HOJA) {
   if (CARAS === 2) {
     const reversos = espejo(grupo.map((t, j) => datosCara(t.b, i + j + 1, "B", t.nivel)), null);
     paginas.push(reversos);
-    hojas.push(`<section class="hoja">${reversos.map((d) => (d ? cara(d) : '<div class="tarjeta vacia"></div>')).join("")}</section>`);
+    hojas.push(`<section class="hoja reverso">${reversos.map((d) => (d ? cara(d) : '<div class="tarjeta vacia"></div>')).join("")}</section>`);
   }
 }
 writeFileSync(join(dir, `${nombre}-datos.json`), JSON.stringify({ categorias: datos.categorias, paginas }));
@@ -232,6 +241,10 @@ const html = (version) => `<!doctype html>
     overflow: hidden;
   }
   .tarjeta.vacia { border-color: transparent; }
+  /* La vuelta va sin líneas de corte (se corta por las del frente) y se puede recorrer
+     con impresion.json para compensar a la impresora. */
+  .hoja.reverso { transform: translate(${REV_X}mm, ${REV_Y}mm); }
+  .hoja.reverso .tarjeta { border-color: transparent; }
   header {
     display: flex;
     justify-content: space-between;
